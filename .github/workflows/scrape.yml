@@ -6,10 +6,8 @@ name: Scrape & Deploy
 
 on:
   schedule:
-    # 8AM Beirut (5:00 UTC) — both scrapers
-    - cron: '0 5 * * *'
-    # 8PM Beirut (17:00 UTC) — both scrapers
-    - cron: '0 17 * * *'
+    # Every 4 hours
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 permissions:
