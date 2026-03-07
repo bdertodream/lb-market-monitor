@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-07T22:13:20.363320",
-  "total_tracked": 1675,
+  "generated_at": "2026-03-07T22:22:13.101352",
+  "total_tracked": 1676,
   "total_drops": 36,
-  "total_new": 2,
+  "total_new": 3,
   "avg_drop_pct": 5.8,
   "biggest_drop_usd": 5000,
   "drops": [
@@ -1020,6 +1020,27 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116813889",
+      "title": "Mercedes-Benz S-Class 2018",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-s-class-2018-ID116813889.html",
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 171000,
+      "transmission": "Automatic",
+      "location": "Rawche, Beirut",
+      "original_price": 40000,
+      "current_price": 40000,
+      "first_seen": "2026-03-07",
+      "price_history": [
+        {
+          "price": 40000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
     {
       "id": "116691789",
       "title": "Jeep Wrangler JK Unlimited 2015",
