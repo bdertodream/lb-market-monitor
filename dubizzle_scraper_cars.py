@@ -1,16 +1,16 @@
 """
-OLX Lebanon Number Plates Scraper
-===================================
-Scrapes number plate listings from OLX Lebanon.
+Dubizzle UAE Car Scraper
+=========================
+Scrapes car listings from Dubizzle UAE.
 Tracks price history and detects price drops.
 
 Usage:
     pip install requests
-    python olx_scraper_plates.py
+    python dubizzle_scraper_cars.py
 
 Output:
-  - listings_db_plates.json  → full database of all plate listings + price history
-  - drops_feed_plates.json   → current active price drops (for the dashboard)
+  - listings_db_uae_cars.json       → full database of all car listings + price history
+  - drops_feed_uae_cars.json        → current active price drops (for the dashboard)
 """
 
 import requests
@@ -21,13 +21,13 @@ import random
 from datetime import datetime
 
 WAR_START = "2026-03-01"
-BASE_URL = "https://www.olx.com.lb"
+BASE_URL = "https://www.dubizzle.com.ae"
 CATEGORY_URLS = [
-    "/vehicles/number-plates/",
+    "/motors/used-cars/",
 ]
 MAX_PAGES_PER_CATEGORY = 25
-DB_FILE = "listings_db_plates.json"
-DROPS_FILE = "drops_feed_plates.json"
+DB_FILE = "listings_db_uae_cars.json"
+DROPS_FILE = "drops_feed_uae_cars.json"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -65,67 +65,121 @@ def fetch_page(url):
         return None
 
 def extract_hits(html):
+    """Extract listing data from Dubizzle page using multiple patterns."""
+    # Pattern 1: window.state (OLX/Dubizzle shared platform)
     marker = "window.state = "
     idx = html.find(marker)
-    if idx == -1:
-        return [], 0
-    start = html.index("{", idx)
-    decoder = json.JSONDecoder()
-    try:
-        state, _ = decoder.raw_decode(html, start)
-    except json.JSONDecodeError as e:
-        print(f"  ✗ JSON decode error: {e}")
-        return [], 0
-    algolia = state.get("algolia", {})
-    content = algolia.get("content")
-    if not content:
-        return [], 0
-    return content.get("hits", []), content.get("nbPages", 0)
+    if idx != -1:
+        start = html.index("{", idx)
+        decoder = json.JSONDecoder()
+        try:
+            state, _ = decoder.raw_decode(html, start)
+            algolia = state.get("algolia", {})
+            content = algolia.get("content")
+            if content:
+                return content.get("hits", []), content.get("nbPages", 0)
+        except (json.JSONDecodeError, ValueError):
+            pass
+
+    # Pattern 2: __NEXT_DATA__
+    marker2 = '__NEXT_DATA__" type="application/json">'
+    idx2 = html.find(marker2)
+    if idx2 != -1:
+        start2 = idx2 + len(marker2)
+        end2 = html.find("</script>", start2)
+        if end2 != -1:
+            try:
+                next_data = json.loads(html[start2:end2])
+                props = next_data.get("props", {}).get("pageProps", {})
+                search = props.get("searchResult", props.get("listings", {}))
+                if isinstance(search, dict):
+                    hits = search.get("hits", search.get("results", search.get("listings", [])))
+                    pages = search.get("nbPages", search.get("totalPages", 0))
+                    return hits, pages
+            except (json.JSONDecodeError, ValueError):
+                pass
+
+    # Pattern 3: __PRELOADED_STATE__
+    marker3 = "window.__PRELOADED_STATE__ = "
+    idx3 = html.find(marker3)
+    if idx3 != -1:
+        start3 = html.index("{", idx3)
+        decoder = json.JSONDecoder()
+        try:
+            state, _ = decoder.raw_decode(html, start3)
+            listings = state.get("listings", state.get("search", {}))
+            if isinstance(listings, dict):
+                hits = listings.get("items", listings.get("hits", []))
+                pages = listings.get("totalPages", listings.get("nbPages", 0))
+                return hits, pages
+        except (json.JSONDecodeError, ValueError):
+            pass
+
+    return [], 0
 
 def get_formatted_field(hit, attribute):
     for f in hit.get("formattedExtraFields", []):
         if f.get("attribute") == attribute:
             return f.get("formattedValue", "")
-    return ""
+    return hit.get(attribute, "")
+
+def get_extra_field(hit, key, default=None):
+    extra = hit.get("extraFields") or {}
+    val = extra.get(key)
+    if val is not None:
+        return val
+    return hit.get(key, default)
 
 def parse_hit(hit):
-    extra = hit.get("extraFields") or {}
-    price = extra.get("price")
-    if not price or price < 10:
+    price = get_extra_field(hit, "price")
+    if not price or price < 2000:
         return None
 
-    ext_id = hit.get("externalID", "")
+    ext_id = str(hit.get("externalID", hit.get("id", "")))
     slug = hit.get("slug", "")
     title = hit.get("title", "Unknown")
 
-    # Plate-specific fields
-    plate_code = get_formatted_field(hit, "plate_code") or ""
-    plate_type = get_formatted_field(hit, "plate_type") or "Standard"
+    make = get_formatted_field(hit, "make") or "Unknown"
+    model = get_formatted_field(hit, "model") or ""
+    body_type = get_formatted_field(hit, "body_type") or "Other"
+    transmission = get_formatted_field(hit, "transmission") or ""
+    year = get_extra_field(hit, "year")
+    mileage = get_extra_field(hit, "mileage")
 
     locations = hit.get("location", [])
     loc_parts = []
     district = ""
-    for loc in locations:
-        level = loc.get("level", -1)
-        name = loc.get("name", "")
-        if level == 1:
-            district = name
-            loc_parts.append(name)
-        elif level == 2:
-            loc_parts.insert(0, name)
-    location_str = ", ".join(loc_parts) if loc_parts else "Lebanon"
+    if isinstance(locations, list):
+        for loc in locations:
+            level = loc.get("level", -1)
+            name = loc.get("name", "")
+            if level == 1:
+                district = name
+                loc_parts.append(name)
+            elif level == 2:
+                loc_parts.insert(0, name)
+    elif isinstance(locations, str):
+        loc_parts = [locations]
+        district = locations
+    location_str = ", ".join(loc_parts) if loc_parts else "UAE"
 
     url = f"{BASE_URL}/ad/{slug}-ID{ext_id}.html" if slug else ""
+    if not url and ext_id:
+        url = f"{BASE_URL}/ad/ID{ext_id}.html"
 
     return {
         "id": ext_id,
         "title": title,
         "url": url,
-        "plate_code": plate_code,
-        "plate_type": plate_type,
+        "make": make,
+        "model": model,
+        "body_type": body_type,
+        "year": year,
+        "mileage": mileage,
+        "transmission": transmission,
         "location": location_str,
         "district": district,
-        "price_usd": price,
+        "price_usd": price,  # Actually AED
     }
 
 def scrape_category(cat_path):
@@ -199,8 +253,12 @@ def update_database(db, new_listings):
                 "id": lid,
                 "title": listing["title"],
                 "url": listing["url"],
-                "plate_code": listing.get("plate_code", ""),
-                "plate_type": listing.get("plate_type", "Standard"),
+                "make": listing["make"],
+                "model": listing["model"],
+                "body_type": listing["body_type"],
+                "year": listing.get("year"),
+                "mileage": listing.get("mileage"),
+                "transmission": listing.get("transmission"),
                 "location": listing["location"],
                 "district": listing.get("district", ""),
                 "original_price": listing["price_usd"],
@@ -226,8 +284,12 @@ def generate_drops_feed(db):
                 "id": listing["id"],
                 "title": listing["title"],
                 "url": listing["url"],
-                "plate_code": listing.get("plate_code", ""),
-                "plate_type": listing.get("plate_type", "Standard"),
+                "make": listing["make"],
+                "model": listing["model"],
+                "body_type": listing["body_type"],
+                "year": listing.get("year"),
+                "mileage": listing.get("mileage"),
+                "transmission": listing.get("transmission"),
                 "location": listing["location"],
                 "original_price": listing["original_price"],
                 "current_price": listing["current_price"],
@@ -242,8 +304,12 @@ def generate_drops_feed(db):
                 "id": listing["id"],
                 "title": listing["title"],
                 "url": listing["url"],
-                "plate_code": listing.get("plate_code", ""),
-                "plate_type": listing.get("plate_type", "Standard"),
+                "make": listing["make"],
+                "model": listing["model"],
+                "body_type": listing["body_type"],
+                "year": listing.get("year"),
+                "mileage": listing.get("mileage"),
+                "transmission": listing.get("transmission"),
                 "location": listing["location"],
                 "original_price": listing["original_price"],
                 "current_price": listing["current_price"],
@@ -266,7 +332,7 @@ def generate_drops_feed(db):
 
 def main():
     print("=" * 60)
-    print("  OLX Lebanon Number Plates Scraper")
+    print("  Dubizzle UAE Car Scraper")
     print(f"  {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 60)
 

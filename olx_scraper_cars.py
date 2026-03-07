@@ -216,8 +216,8 @@ def update_database(db, new_listings):
                 "district": listing.get("district", ""),
                 "original_price": listing["price_usd"],
                 "current_price": listing["price_usd"],
-                "price_history": [{"price": listing["price_usd"], "date": WAR_START}],
-                "first_seen": WAR_START,
+                "price_history": [{"price": listing["price_usd"], "date": today}],
+                "first_seen": today,
                 "last_seen": today,
                 "last_updated": today,
                 "drop_usd": 0,
@@ -230,6 +230,7 @@ def update_database(db, new_listings):
 
 def generate_drops_feed(db):
     drops = []
+    new_listings = []
     for lid, listing in db.items():
         if listing["drop_usd"] > 0:
             drops.append({
@@ -251,15 +252,35 @@ def generate_drops_feed(db):
                 "first_seen": listing["first_seen"],
                 "price_history": listing["price_history"],
             })
+        if listing.get("first_seen", WAR_START) > WAR_START:
+            new_listings.append({
+                "id": listing["id"],
+                "title": listing["title"],
+                "url": listing["url"],
+                "make": listing["make"],
+                "model": listing["model"],
+                "body_type": listing["body_type"],
+                "year": listing.get("year"),
+                "mileage": listing.get("mileage"),
+                "transmission": listing.get("transmission"),
+                "location": listing["location"],
+                "original_price": listing["original_price"],
+                "current_price": listing["current_price"],
+                "first_seen": listing["first_seen"],
+                "price_history": listing["price_history"],
+            })
     drops.sort(key=lambda x: x["drop_pct"], reverse=True)
+    new_listings.sort(key=lambda x: x["first_seen"], reverse=True)
 
     return {
         "generated_at": datetime.now().isoformat(),
         "total_tracked": len(db),
         "total_drops": len(drops),
+        "total_new": len(new_listings),
         "avg_drop_pct": round(sum(d["drop_pct"] for d in drops) / len(drops), 1) if drops else 0,
         "biggest_drop_usd": max((d["drop_usd"] for d in drops), default=0),
         "drops": drops,
+        "new_listings": new_listings,
     }
 
 def main():
