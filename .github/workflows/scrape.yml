@@ -40,9 +40,9 @@ jobs:
         run: |
           git config user.name "OLX Scraper Bot"
           git config user.email "bot@lb-market.monitor"
-          git pull --rebase origin main
           git add listings_db.json drops_feed.json listings_db_cars.json drops_feed_cars.json
           git diff --staged --quiet || git commit -m "📊 Scrape $(date +%Y-%m-%d\ %H:%M)"
+          git pull --rebase origin main
           git push
 
   deploy:
