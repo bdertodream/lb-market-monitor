@@ -1,5 +1,5 @@
 # .github/workflows/scrape.yml
-# LB Market Monitor — Lebanon Price Tracker (Real Estate + Cars + Plates)
+# LB Market Monitor - Lebanon + UAE Price Tracker
 # Runs scrapers and deploys the dashboard to GitHub Pages
 
 name: Scrape & Deploy
@@ -28,23 +28,31 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests beautifulsoup4 lxml
 
-      - name: Run real estate scraper
+      # --- Lebanon OLX Scrapers ---
+      - name: Run LB real estate scraper
         run: python olx_scraper.py
 
-      - name: Run car scraper
+      - name: Run LB car scraper
         run: python olx_scraper_cars.py
 
-      - name: Run plates scraper
+      - name: Run LB plates scraper
         run: python olx_scraper_plates.py
+
+      # --- UAE Dubizzle Scrapers ---
+      - name: Run UAE property scraper
+        run: python dubizzle_scraper.py
+
+      - name: Run UAE car scraper
+        run: python dubizzle_scraper_cars.py
 
       - name: Commit and push updated data
         run: |
-          git config user.name "OLX Scraper Bot"
-          git config user.email "bot@lb-market.monitor"
-          git add listings_db.json drops_feed.json listings_db_cars.json drops_feed_cars.json listings_db_plates.json drops_feed_plates.json
-          git diff --staged --quiet || git commit -m "📊 Scrape $(date +%Y-%m-%d\ %H:%M)"
+          git config user.name "Market Scraper Bot"
+          git config user.email "bot@noreply.github.com"
+          git add listings_db.json drops_feed.json listings_db_cars.json drops_feed_cars.json listings_db_plates.json drops_feed_plates.json listings_db_uae.json drops_feed_uae.json listings_db_uae_cars.json drops_feed_uae_cars.json
+          git diff --staged --quiet || git commit -m "Scrape $(date +%Y-%m-%d\ %H:%M)"
           git pull --rebase -X theirs origin main || (git checkout --theirs . && git add -A && git rebase --continue)
           git push
 
@@ -70,6 +78,8 @@ jobs:
           [ -f drops_feed.json ] && cp drops_feed.json _site/ || true
           [ -f drops_feed_cars.json ] && cp drops_feed_cars.json _site/ || true
           [ -f drops_feed_plates.json ] && cp drops_feed_plates.json _site/ || true
+          [ -f drops_feed_uae.json ] && cp drops_feed_uae.json _site/ || true
+          [ -f drops_feed_uae_cars.json ] && cp drops_feed_uae_cars.json _site/ || true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
