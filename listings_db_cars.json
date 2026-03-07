@@ -32744,19 +32744,23 @@
     "location": "Badaro, Beirut",
     "district": "Beirut",
     "original_price": 15500,
-    "current_price": 15500,
+    "current_price": 14900,
     "price_history": [
       {
         "price": 15500,
         "date": "2026-03-01"
+      },
+      {
+        "price": 14900,
+        "date": "2026-03-07"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-07",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "last_updated": "2026-03-07",
+    "drop_usd": 600,
+    "drop_pct": 3.9,
+    "last_drop_date": "2026-03-07"
   },
   "116801045": {
     "id": "116801045",
@@ -44028,6 +44032,384 @@
     "price_history": [
       {
         "price": 55000,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116813701": {
+    "id": "116813701",
+    "title": "BMW 3-Series 2007",
+    "url": "https://www.olx.com.lb/ad/bmw-3-series-2007-ID116813701.html",
+    "make": "BMW",
+    "model": "3-Series",
+    "body_type": "Sports / Coupe",
+    "year": 2007,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Beiteddine, Chouf",
+    "district": "Chouf",
+    "original_price": 6800,
+    "current_price": 6800,
+    "price_history": [
+      {
+        "price": 6800,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116813699": {
+    "id": "116813699",
+    "title": "جيب شيروكى 2018",
+    "url": "https://www.olx.com.lb/ad/جيب-شيروكى-2018-ID116813699.html",
+    "make": "Jeep",
+    "model": "Cherokee",
+    "body_type": "Estate",
+    "year": 2018,
+    "mileage": 117000,
+    "transmission": "Steptronic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 20000,
+    "current_price": 20000,
+    "price_history": [
+      {
+        "price": 20000,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116813693": {
+    "id": "116813693",
+    "title": "هيونداي إلينترا 2012",
+    "url": "https://www.olx.com.lb/ad/هيونداي-إلينترا-2012-ID116813693.html",
+    "make": "Hyundai",
+    "model": "Elantra",
+    "body_type": "Sedan",
+    "year": 2012,
+    "mileage": 10000,
+    "transmission": "Automatic",
+    "location": "Hermel, Hermel",
+    "district": "Hermel",
+    "original_price": 6500,
+    "current_price": 6500,
+    "price_history": [
+      {
+        "price": 6500,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116813688": {
+    "id": "116813688",
+    "title": "JAGUAR F-PACE S V6 380HP LUXURY EDITION 2017 MINT CONDITION",
+    "url": "https://www.olx.com.lb/ad/jaguar-f-pace-s-v6-380hp-luxury-edition-2017-mint-condition-ID116813688.html",
+    "make": "Jaguar",
+    "model": "F-Pace",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 71000,
+    "transmission": "Steptronic",
+    "location": "Baouchriye, Metn",
+    "district": "Metn",
+    "original_price": 26500,
+    "current_price": 26500,
+    "price_history": [
+      {
+        "price": 26500,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116774074": {
+    "id": "116774074",
+    "title": "نيسان روغ 2018",
+    "url": "https://www.olx.com.lb/ad/نيسان-روغ-2018-ID116774074.html",
+    "make": "Nissan",
+    "model": "Rogue",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 240000,
+    "transmission": "Automatic",
+    "location": "Zaytoun, Tripoli",
+    "district": "Tripoli",
+    "original_price": 13500,
+    "current_price": 13500,
+    "price_history": [
+      {
+        "price": 13500,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116813683": {
+    "id": "116813683",
+    "title": "Nissan Sunny 2019",
+    "url": "https://www.olx.com.lb/ad/nissan-sunny-2019-ID116813683.html",
+    "make": "Nissan",
+    "model": "Sunny",
+    "body_type": "Sedan",
+    "year": 2019,
+    "mileage": 96700,
+    "transmission": "Automatic",
+    "location": "Deir El Qamar, Chouf",
+    "district": "Chouf",
+    "original_price": 8800,
+    "current_price": 8800,
+    "price_history": [
+      {
+        "price": 8800,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116760889": {
+    "id": "116760889",
+    "title": "Toyota Echo 2003 1.5 Litre",
+    "url": "https://www.olx.com.lb/ad/toyota-echo-2003-15-litre-ID116760889.html",
+    "make": "Toyota",
+    "model": "Echo",
+    "body_type": "Sedan",
+    "year": 2003,
+    "mileage": 150000,
+    "transmission": "Automatic",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 6000,
+    "current_price": 6000,
+    "price_history": [
+      {
+        "price": 6000,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116813679": {
+    "id": "116813679",
+    "title": "Land Rover Evoque 2017",
+    "url": "https://www.olx.com.lb/ad/land-rover-evoque-2017-ID116813679.html",
+    "make": "Land Rover",
+    "model": "Evoque",
+    "body_type": "Convertible",
+    "year": 2017,
+    "mileage": 70000,
+    "transmission": "Automatic",
+    "location": "Kaslik, Keserouan",
+    "district": "Keserouan",
+    "original_price": 35000,
+    "current_price": 35000,
+    "price_history": [
+      {
+        "price": 35000,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116483462": {
+    "id": "116483462",
+    "title": "Land Rover Evoque 2020",
+    "url": "https://www.olx.com.lb/ad/land-rover-evoque-2020-ID116483462.html",
+    "make": "Land Rover",
+    "model": "Evoque",
+    "body_type": "Other",
+    "year": 2020,
+    "mileage": 120000,
+    "transmission": "Steptronic",
+    "location": "Dora, Metn",
+    "district": "Metn",
+    "original_price": 41500,
+    "current_price": 41500,
+    "price_history": [
+      {
+        "price": 41500,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116813677": {
+    "id": "116813677",
+    "title": "Land Rover Evoque 2020",
+    "url": "https://www.olx.com.lb/ad/land-rover-evoque-2020-ID116813677.html",
+    "make": "Land Rover",
+    "model": "Evoque",
+    "body_type": "SUV",
+    "year": 2020,
+    "mileage": 78000,
+    "transmission": "Automatic",
+    "location": "Kaslik, Keserouan",
+    "district": "Keserouan",
+    "original_price": 37000,
+    "current_price": 37000,
+    "price_history": [
+      {
+        "price": 37000,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116793870": {
+    "id": "116793870",
+    "title": "Jeep Cherokee 2014",
+    "url": "https://www.olx.com.lb/ad/jeep-cherokee-2014-ID116793870.html",
+    "make": "Jeep",
+    "model": "Cherokee",
+    "body_type": "SUV",
+    "year": 2014,
+    "mileage": 125000,
+    "transmission": "Automatic",
+    "location": "Majdalaya, Zgharta",
+    "district": "Zgharta",
+    "original_price": 14700,
+    "current_price": 14700,
+    "price_history": [
+      {
+        "price": 14700,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116787589": {
+    "id": "116787589",
+    "title": "Mercedes-Benz E300 FULL OPTION AMG PACKAGE",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-e300-full-option-amg-package-ID116787589.html",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "body_type": "Sedan",
+    "year": 2017,
+    "mileage": 39000,
+    "transmission": "Automatic",
+    "location": "Dahr el Ain, Koura",
+    "district": "Koura",
+    "original_price": 28900,
+    "current_price": 28900,
+    "price_history": [
+      {
+        "price": 28900,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116813671": {
+    "id": "116813671",
+    "title": "Hyundai Tucson 2019, super clean, full option, 4WD, makfoul, michi 60.",
+    "url": "https://www.olx.com.lb/ad/hyundai-tucson-2019-super-clean-full-option-4wd-makfoul-michi-60-ID116813671.html",
+    "make": "Hyundai",
+    "model": "Tucson",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Deir Al Zahrani, Nabatieh",
+    "district": "Nabatieh",
+    "original_price": 16200,
+    "current_price": 16200,
+    "price_history": [
+      {
+        "price": 16200,
+        "date": "2026-03-01"
+      }
+    ],
+    "first_seen": "2026-03-01",
+    "last_seen": "2026-03-07",
+    "last_updated": "2026-03-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116813670": {
+    "id": "116813670",
+    "title": "شيفروليه أفيو 2005",
+    "url": "https://www.olx.com.lb/ad/شيفروليه-أفيو-2005-ID116813670.html",
+    "make": "Chevrolet",
+    "model": "Aveo",
+    "body_type": "Hatchback",
+    "year": 2005,
+    "mileage": 3555,
+    "transmission": "Automatic",
+    "location": "Joun, Chouf",
+    "district": "Chouf",
+    "original_price": 2800,
+    "current_price": 2800,
+    "price_history": [
+      {
+        "price": 2800,
         "date": "2026-03-01"
       }
     ],

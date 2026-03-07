@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-07T16:41:49.761737",
-  "total_tracked": 1625,
-  "total_drops": 33,
-  "avg_drop_pct": 6.0,
+  "generated_at": "2026-03-07T17:21:47.125200",
+  "total_tracked": 1639,
+  "total_drops": 34,
+  "avg_drop_pct": 5.9,
   "biggest_drop_usd": 5000,
   "drops": [
     {
@@ -593,6 +593,34 @@
         },
         {
           "price": 24000,
+          "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116808090",
+      "title": "Very rare KETTANEH source & service 1-Owner 50,000Km A6 2015 35TFSI",
+      "url": "https://www.olx.com.lb/ad/very-rare-kettaneh-source-service-1-owner-50000km-a6-2015-35tfsi-ID116808090.html",
+      "make": "Audi",
+      "model": "A6",
+      "body_type": "Sedan",
+      "year": 2015,
+      "mileage": 50000,
+      "transmission": "Automatic",
+      "location": "Badaro, Beirut",
+      "original_price": 15500,
+      "current_price": 14900,
+      "drop_usd": 600,
+      "drop_pct": 3.9,
+      "last_drop_date": "2026-03-07",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 15500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 14900,
           "date": "2026-03-07"
         }
       ]
