@@ -478,7 +478,9 @@ tbody tr{animation:rowIn .3s ease both}
         <span id="sort-buttons"><button class="sbtn on" data-sort="pct" onclick="setSort('pct')">% Drop</button>
         <button class="sbtn" data-sort="usd" onclick="setSort('usd')">$ Drop</button>
         <button class="sbtn" data-sort="date" onclick="setSort('date')">Recent</button>
-        <button class="sbtn" data-sort="price" onclick="setSort('price')">Price</button></span>
+        <button class="sbtn" data-sort="price" onclick="setSort('price')">Price ↓</button>
+        <button class="sbtn" data-sort="price_asc" onclick="setSort('price_asc')">Price ↑</button>
+        <button class="sbtn" data-sort="sqm" onclick="setSort('sqm')">$/sqm</button></span>
       </div>
     </div>
   </div>
@@ -538,6 +540,9 @@ function daysSinceWar(){const now=new Date();const t=new Date(now.getFullYear(),
 function fmtUSD(n){if(!n)return '--';return '$'+n.toLocaleString('en-US')}
 function fmtAED(n){if(!n)return '--';return 'AED '+n.toLocaleString('en-US')}
 function fmtKM(n){if(!n)return '--';return n>=1000?(n/1000).toFixed(0)+'K':n+''}
+const AED_TO_USD=3.6725;
+function fmtAedUsd(n){if(!n)return'';const u=Math.round(n/AED_TO_USD);return'AED '+n.toLocaleString('en-US')+' (~'+String.fromCharCode(36)+u.toLocaleString('en-US')+')'}
+function priceSqm(d){if(!d.current_price||!d.sqm)return 0;return Math.round(d.current_price/d.sqm)}
 function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
 
 let activeCountry='lb';
@@ -577,7 +582,7 @@ function getData(){
 }
 
 function fmtPrice(n){
-  if(activeCountry==='uae') return fmtAED(n);
+  if(activeCountry==='uae') return fmtAedUsd(n);
   return fmtUSD(n);
 }
 
@@ -725,7 +730,7 @@ function buildHeaders(){
   if(isNew){
     // New Listings view — no drop columns
     if(activeTab==='re'||activeTab==='uae-re'){
-      thead.innerHTML=`<tr><th>Property</th><th>Type</th><th class="hide-m">Area</th><th>Listed Price</th><th class="hide-m">Listed</th><th></th></tr>`;
+      thead.innerHTML=`<tr><th>Property</th><th>Type</th><th class="hide-m">Area</th><th>Listed Price</th><th class="hide-m">$/sqm</th><th class="hide-m">Listed</th><th></th></tr>`;
     }else if(activeTab==='cars'||activeTab==='uae-cars'){
       thead.innerHTML=`<tr><th>Car</th><th>Type</th><th class="hide-m">Year</th><th class="hide-m">KM</th><th>Listed Price</th><th class="hide-m">Listed</th><th></th></tr>`;
     }else{
@@ -736,7 +741,7 @@ function buildHeaders(){
     const priceLbl='Price Now';
     const baseLbl='Mar 1 Price';
     if(activeTab==='re'||activeTab==='uae-re'){
-      thead.innerHTML=`<tr><th>Property</th><th>Type</th><th class="hide-m">Area</th><th>${priceLbl}</th><th>${baseLbl}</th><th>Drop %</th><th>${dropCur}</th><th class="hide-m">Detected</th><th></th></tr>`;
+      thead.innerHTML=`<tr><th>Property</th><th>Type</th><th class="hide-m">Area</th><th>${priceLbl}</th><th>${baseLbl}</th><th>Drop %</th><th>${dropCur}</th><th class="hide-m">$/sqm</th><th class="hide-m">Detected</th><th></th></tr>`;
     }else if(activeTab==='cars'||activeTab==='uae-cars'){
       thead.innerHTML=`<tr><th>Car</th><th>Type</th><th class="hide-m">Year</th><th class="hide-m">KM</th><th>${priceLbl}</th><th>${baseLbl}</th><th>Drop %</th><th>${dropCur}</th><th class="hide-m">Detected</th><th></th></tr>`;
     }else{
@@ -816,7 +821,7 @@ function render(){
     pct:(a,b)=>(b.drop_pct||0)-(a.drop_pct||0),
     usd:(a,b)=>(b.drop_usd||0)-(a.drop_usd||0),
     date:(a,b)=>(b.posted_date||b.first_seen||b.last_drop_date||'').localeCompare(a.posted_date||a.first_seen||a.last_drop_date||''),
-    price:(a,b)=>(b.current_price||0)-(a.current_price||0)
+    price:(a,b)=>(b.current_price||0)-(a.current_price||0),price_asc:(a,b)=>(a.current_price||0)-(b.current_price||0),sqm:(a,b)=>priceSqm(b)-priceSqm(a)
   };
   items.sort(sorters[sortBy]||sorters.date);
 if(viewMode!==_prevView){currentPage=0;_prevView=viewMode;}
@@ -852,6 +857,8 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
           <td><span class="tbadge t-${reTypeClass(d.type)}">${d.type||'Other'}</span></td>
           <td class="hide-m" style="font-size:12px;color:var(--tx2)">${esc((d.location||'').split(',')[0])}</td>
           <td><div class="p-now">${fmt(d.current_price)}</div></td>
+        <td class="hide-m" style="font-size:12px;color:var(--tx2)">${priceSqm(d)?priceSqm(d).toLocaleString()+' $/sqm':"--"}</td>
+        <td class="hide-m" style="font-size:12px;color:var(--tx2)">${priceSqm(d)?priceSqm(d).toLocaleString()+' $/sqm':"--"}</td>
           <td class="hide-m"><span class="new-badge">NEW</span> <span class="date">${isToday?'<span style="color:var(--grn)">today</span>':listDate||'--'}</span></td>
           <td><a class="link-btn" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
         </tr>`}).join('');
