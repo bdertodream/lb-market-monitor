@@ -711,7 +711,7 @@ function renderStats(){
   const d=getData();
   const biggest=Math.max(...d.drops.map(x=>x.drop_usd),0);
   document.getElementById('st-total').textContent=d.total_tracked.toLocaleString();
-  document.getElementById('st-drops').textContent=viewMode==='new'?(d.total_new||0):d.total_drops;
+  document.getElementById('st-drops').textContent=viewMode==='new'?(activeCountry==='lb'?(d.new_listings||[]).filter(x=>x.first_seen>WAR_START).length:(d.total_new||0)):d.total_drops;
   document.getElementById('st-avg').textContent=viewMode==='new'?'--':d.avg_drop_pct+'%';
   document.getElementById('st-max').textContent=viewMode==='new'?'--':fmtPrice(biggest);
   document.getElementById('st-days').textContent=daysSinceWar()+' days';
@@ -817,6 +817,7 @@ function render(){
   const d=getData();
   const isNew=viewMode==='new';
   let items=isNew?[...(d.new_listings||[])]:[...d.drops];
+  if(isNew&&activeCountry==='lb')items=items.filter(x=>x.first_seen>WAR_START);
   let typeField;
   if(activeTab==='re'||activeTab==='uae-re')typeField='type';
   else if(activeTab==='cars'||activeTab==='uae-cars')typeField='body_type';
