@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-08T13:41:52.039488",
-  "total_tracked": 1767,
+  "generated_at": "2026-03-08T14:10:35.227416",
+  "total_tracked": 1768,
   "total_drops": 42,
-  "total_new": 1767,
+  "total_new": 1768,
   "avg_drop_pct": 9.4,
   "biggest_drop_usd": 425700,
   "drops": [
@@ -3248,6 +3248,28 @@
       "price_history": [
         {
           "price": 12000,
+          "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116372891",
+      "title": "Cash (+231880215636) for more details",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2017-ID116372891.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 144000,
+      "transmission": "Steptronic",
+      "location": "Borj El Chmali, Tyre",
+      "original_price": 18000,
+      "current_price": 18000,
+      "first_seen": "2026-03-08",
+      "posted_date": "2026-03-08",
+      "price_history": [
+        {
+          "price": 18000,
           "date": "2026-03-08"
         }
       ]
@@ -10736,7 +10758,7 @@
       "original_price": 18500,
       "current_price": 18500,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 18500,
