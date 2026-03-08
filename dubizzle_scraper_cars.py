@@ -1,100 +1,76 @@
 #!/usr/bin/env python3
 """
 Dubizzle Dubai Car Scraper
-Scrapes used and new car listings from dubai.dubizzle.com
+Uses Algolia API directly to bypass bot protection.
 """
 
 import json
 import os
-import re
 import time
 import urllib.request
 import urllib.error
+import urllib.parse
 from datetime import datetime, timezone
 
-BASE_URL = "https://dubai.dubizzle.com"
-CATEGORY_URLS = [
-    "/motors/used-cars/",
-    "/motors/new-cars/",
+# Algolia config (public search-only key from dubizzle frontend)
+ALGOLIA_APP_ID = "WD0PTZ13ZS"
+ALGOLIA_API_KEY = "cef139620248f1bc328a00fddc7107a6"
+ALGOLIA_URL = f"https://{ALGOLIA_APP_ID}-dsn.algolia.net/1/indexes/*/queries"
+
+# Category configs: (filter, index_name, label)
+CATEGORIES = [
+    (
+        '("category_v2.slug_paths":"motors/used-cars") AND ("site.id":"2")',
+        "motors.com",
+        "Used Cars",
+    ),
+    (
+        '("category_v2.slug_paths":"motors/new-cars") AND ("site.id":"2")',
+        "motors.com",
+        "New Cars",
+    ),
 ]
+
 MAX_PAGES = 5
+HITS_PER_PAGE = 35
 DB_FILE = "listings_db_uae_cars.json"
 FEED_FILE = "drops_feed_uae_cars.json"
 WAR_START = "2026-03-01"
 DROP_THRESHOLD = 0.05
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.9,ar;q=0.8",
-}
+BASE_URL = "https://dubai.dubizzle.com"
 
 
-def fetch_page(url):
-    """Fetch a page with retries."""
+def algolia_search(index_name, filters, page=0):
+    """Query Algolia search API directly."""
+    body = json.dumps({
+        "requests": [
+            {
+                "indexName": index_name,
+                "params": f"filters={urllib.parse.quote(filters)}&hitsPerPage={HITS_PER_PAGE}&page={page}",
+            }
+        ]
+    }).encode("utf-8")
+
+    headers = {
+        "x-algolia-api-key": ALGOLIA_API_KEY,
+        "x-algolia-application-id": ALGOLIA_APP_ID,
+        "Content-Type": "application/json",
+    }
+
     for attempt in range(3):
         try:
-            req = urllib.request.Request(url, headers=HEADERS)
+            req = urllib.request.Request(ALGOLIA_URL, data=body, headers=headers)
             with urllib.request.urlopen(req, timeout=30) as resp:
-                return resp.read().decode("utf-8", errors="replace")
+                data = json.loads(resp.read().decode("utf-8"))
+                result = data.get("results", [{}])[0]
+                hits = result.get("hits", [])
+                total_pages = result.get("nbPages", 0)
+                return hits, total_pages
         except Exception as e:
             print(f"  Attempt {attempt+1} failed: {e}")
             if attempt < 2:
                 time.sleep(2)
-    return None
-
-
-def extract_hits(html):
-    """Extract listing hits from __NEXT_DATA__ Redux SSR actions."""
-    marker = '<script id="__NEXT_DATA__" type="application/json">'
-    idx = html.find(marker)
-    if idx != -1:
-        start = idx + len(marker)
-        end = html.find("</script>", start)
-        if end != -1:
-            try:
-                next_data = json.loads(html[start:end])
-                actions = (
-                    next_data.get("props", {})
-                    .get("pageProps", {})
-                    .get("reduxWrapperActionsGIPP", [])
-                )
-                for action in actions:
-                    if action.get("type") == "listings/fetchListingDataForQuery/fulfilled":
-                        payload = action.get("payload", {})
-                        hits = payload.get("hits", [])
-                        pagination = payload.get("pagination", {})
-                        total_pages = pagination.get("totalPages", 0)
-                        return hits, total_pages
-            except (json.JSONDecodeError, ValueError) as e:
-                print(f"  JSON parse error: {e}")
-    # Fallback: try window.state
-    pattern = r'window\.state\s*=\s*(\{.*?\});\s*</script>'
-    m = re.search(pattern, html, re.DOTALL)
-    if m:
-        try:
-            state = json.loads(m.group(1))
-            results = state.get("searchResult", state.get("listings", {}))
-            hits = results.get("hits", results.get("listings", []))
-            total_pages = results.get("totalPages", results.get("nbPages", 0))
-            return hits, total_pages
-        except (json.JSONDecodeError, ValueError):
-            pass
     return [], 0
-
-
-def get_info_field(hit, field_id):
-    """Extract a field value from car_info or motor_info lists."""
-    for info_list_key in ["car_info", "motor_info", "details"]:
-        info_list = hit.get(info_list_key, [])
-        if isinstance(info_list, list):
-            for item in info_list:
-                if isinstance(item, dict) and item.get("id") == field_id:
-                    val = item.get("value", {})
-                    if isinstance(val, dict):
-                        return val.get("en", val.get("label", str(val)))
-                    return str(val)
-    return ""
 
 
 def parse_hit(hit):
@@ -102,6 +78,7 @@ def parse_hit(hit):
     try:
         name = hit.get("name", {})
         title = name.get("en", name) if isinstance(name, dict) else str(name)
+
         price = hit.get("price")
         if price is None:
             return None
@@ -112,40 +89,55 @@ def parse_hit(hit):
         if price <= 0:
             return None
 
-        # Location
-        city = hit.get("city", {})
-        city_name = city.get("name", {}).get("en", "Dubai") if isinstance(city, dict) else "Dubai"
-        neighborhoods = hit.get("neighborhoods", {})
-        area_names = neighborhoods.get("name", {}).get("en", []) if isinstance(neighborhoods, dict) else []
-        area = area_names[0] if isinstance(area_names, list) and area_names else ""
+        # Car-specific details
+        details = hit.get("details", {})
+        year = ""
+        kilometers = ""
+        body_type = ""
+        fuel_type = ""
+        if isinstance(details, dict):
+            for k, v in details.items():
+                vv = v.get("en", v) if isinstance(v, dict) else str(v)
+                if isinstance(vv, list):
+                    vv = vv[0] if vv else ""
+                kl = k.lower()
+                if "year" in kl:
+                    year = str(vv)
+                elif "kilometer" in kl:
+                    kilometers = str(vv)
+                elif "body" in kl:
+                    body_type = str(vv)
+                elif "fuel" in kl:
+                    fuel_type = str(vv)
 
-        # URL
+        # Category / make / model
+        cats = hit.get("category", {})
+        cat_names = cats.get("en", []) if isinstance(cats, dict) else []
+        if isinstance(cat_names, list) and len(cat_names) >= 3:
+            make = cat_names[1]
+            model = cat_names[2]
+        elif isinstance(cat_names, list) and len(cat_names) >= 2:
+            make = cat_names[1]
+            model = ""
+        else:
+            make = ""
+            model = ""
+
+        neighbourhood = hit.get("neighbourhood", {})
+        area = neighbourhood.get("en", "") if isinstance(neighbourhood, dict) else str(neighbourhood)
+
         abs_url = hit.get("absolute_url", {})
         url = abs_url.get("en", "") if isinstance(abs_url, dict) else str(abs_url)
         if url and not url.startswith("http"):
             url = BASE_URL + url
 
-        # Category
-        cats = hit.get("categories", {})
-        cat_names = cats.get("name", {}).get("en", []) if isinstance(cats, dict) else []
-        category = cat_names[0] if isinstance(cat_names, list) and cat_names else "Car"
-
-        # Date
         added = hit.get("added")
         if added and isinstance(added, (int, float)) and added > 1000000000:
             date_str = datetime.fromtimestamp(added, tz=timezone.utc).strftime("%Y-%m-%d")
         else:
             date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-        # Car-specific fields
-        year = get_info_field(hit, "year") or hit.get("year", "")
-        make = get_info_field(hit, "make") or hit.get("make", "")
-        model = get_info_field(hit, "model") or hit.get("model", "")
-        mileage = get_info_field(hit, "kilometers") or get_info_field(hit, "mileage") or hit.get("mileage", "")
-        body_type = get_info_field(hit, "body_type") or ""
-        transmission = get_info_field(hit, "transmission") or ""
-
-        listing_id = str(hit.get("id", hit.get("external_id", "")))
+        listing_id = str(hit.get("id", hit.get("objectID", "")))
         if not listing_id:
             listing_id = url.split("/")[-2] if url else str(hash(title))
 
@@ -153,15 +145,13 @@ def parse_hit(hit):
             "id": listing_id,
             "title": title,
             "price": price,
-            "year": str(year),
-            "make": str(make),
-            "model": str(model),
-            "mileage": str(mileage),
-            "body_type": str(body_type),
-            "transmission": str(transmission),
+            "make": make,
+            "model": model,
+            "year": year,
+            "kilometers": kilometers,
+            "body_type": body_type,
+            "fuel_type": fuel_type,
             "area": area,
-            "city": city_name,
-            "category": category,
             "url": url,
             "date": date_str,
         }
@@ -171,139 +161,112 @@ def parse_hit(hit):
 
 
 def scrape_all():
-    """Scrape all car category pages."""
+    """Scrape all car categories via Algolia."""
     all_listings = []
-    for cat_url in CATEGORY_URLS:
-        print(f"\nScraping category: {cat_url}")
-        page = 0
-        while page < MAX_PAGES:
-            url = f"{BASE_URL}{cat_url}" if page == 0 else f"{BASE_URL}{cat_url}?page={page}"
-            print(f"  Page {page}: {url}")
-            html = fetch_page(url)
-            if not html:
-                print(f"  Failed to fetch page {page}")
-                break
-            hits, total_pages = extract_hits(html)
-            print(f"  Found {len(hits)} hits, totalPages={total_pages}")
+    for filters, index_name, label in CATEGORIES:
+        print(f"\nScraping {label}...")
+        for page in range(MAX_PAGES):
+            hits, total_pages = algolia_search(index_name, filters, page)
             if not hits:
+                print(f"  Page {page}: no hits, stopping")
                 break
+            print(f"  Page {page}: {len(hits)} hits (of {total_pages} pages)")
             for hit in hits:
-                listing = parse_hit(hit)
-                if listing:
-                    all_listings.append(listing)
-            page += 1
-            if page >= total_pages:
+                parsed = parse_hit(hit)
+                if parsed:
+                    parsed["category"] = label
+                    all_listings.append(parsed)
+            if page + 1 >= total_pages:
                 break
-            time.sleep(1)
-    print(f"\nTotal car listings scraped: {len(all_listings)}")
+            time.sleep(0.5)
     return all_listings
 
 
+# ── Database helpers ──────────────────────────────────────────────
 def load_db():
     if os.path.exists(DB_FILE):
-        try:
-            with open(DB_FILE, "r") as f:
-                return json.load(f)
-        except (json.JSONDecodeError, ValueError):
-            pass
+        with open(DB_FILE) as f:
+            return json.load(f)
     return {}
-
 
 def save_db(db):
     with open(DB_FILE, "w") as f:
         json.dump(db, f, indent=2)
 
-
 def load_feed():
     if os.path.exists(FEED_FILE):
-        try:
-            with open(FEED_FILE, "r") as f:
-                return json.load(f)
-        except (json.JSONDecodeError, ValueError):
-            pass
-    return {"meta": {"war_start": WAR_START, "threshold": DROP_THRESHOLD}, "tracked": 0, "drops": []}
-
+        with open(FEED_FILE) as f:
+            return json.load(f)
+    return []
 
 def save_feed(feed):
     with open(FEED_FILE, "w") as f:
         json.dump(feed, f, indent=2)
 
 
+# ── Main ──────────────────────────────────────────────────────────
 def main():
-    print("=" * 60)
-    print("Dubizzle Dubai Car Scraper")
-    print("=" * 60)
+    print("=== Dubizzle Dubai Car Scraper (Algolia API) ===")
     listings = scrape_all()
-    if not listings:
-        print("No listings found. Exiting.")
-        return
+    print(f"\nTotal parsed: {len(listings)}")
 
     db = load_db()
     feed = load_feed()
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     new_count = 0
     drop_count = 0
 
-    for listing in listings:
-        lid = listing["id"]
-        price = listing["price"]
-
+    for item in listings:
+        lid = item["id"]
         if lid in db:
-            prev = db[lid]
-            prev_price = prev.get("price", price)
-            if price < prev_price:
-                drop_pct = (prev_price - price) / prev_price
-                if drop_pct >= DROP_THRESHOLD:
-                    drop_entry = {
-                        "id": lid,
-                        "title": listing["title"],
-                        "old_price": prev_price,
-                        "new_price": price,
-                        "drop_pct": round(drop_pct * 100, 1),
-                        "url": listing["url"],
-                        "area": listing["area"],
-                        "category": listing["category"],
-                        "year": listing.get("year", ""),
-                        "make": listing.get("make", ""),
-                        "model": listing.get("model", ""),
-                        "date": today,
-                        "first_seen": prev.get("first_seen", today),
-                    }
-                    feed["drops"].append(drop_entry)
+            old_price = db[lid]["price"]
+            if item["price"] < old_price:
+                pct = (old_price - item["price"]) / old_price
+                db[lid]["prices"].append({"price": item["price"], "date": now})
+                db[lid]["price"] = item["price"]
+                db[lid]["title"] = item["title"]
+                db[lid]["url"] = item["url"]
+                if pct >= DROP_THRESHOLD:
                     drop_count += 1
-            db[lid]["price"] = price
-            db[lid]["last_seen"] = today
-            db[lid]["title"] = listing["title"]
+                    feed.append({
+                        "id": lid,
+                        "title": item["title"],
+                        "old_price": old_price,
+                        "new_price": item["price"],
+                        "drop_pct": round(pct * 100, 1),
+                        "url": item["url"],
+                        "category": item.get("category", ""),
+                        "make": item.get("make", ""),
+                        "model": item.get("model", ""),
+                        "year": item.get("year", ""),
+                        "date": now,
+                    })
+            elif item["price"] > old_price:
+                db[lid]["prices"].append({"price": item["price"], "date": now})
+                db[lid]["price"] = item["price"]
         else:
-            db[lid] = {
-                "title": listing["title"],
-                "price": price,
-                "year": listing.get("year", ""),
-                "make": listing.get("make", ""),
-                "model": listing.get("model", ""),
-                "area": listing["area"],
-                "city": listing["city"],
-                "category": listing["category"],
-                "url": listing["url"],
-                "first_seen": today,
-                "last_seen": today,
-            }
             new_count += 1
-
-    feed["tracked"] = len(db)
-    feed["last_updated"] = today
-
-    # Keep only last 500 drops
-    feed["drops"] = feed["drops"][-500:]
+            db[lid] = {
+                "id": lid,
+                "title": item["title"],
+                "price": item["price"],
+                "make": item.get("make", ""),
+                "model": item.get("model", ""),
+                "year": item.get("year", ""),
+                "kilometers": item.get("kilometers", ""),
+                "body_type": item.get("body_type", ""),
+                "fuel_type": item.get("fuel_type", ""),
+                "area": item.get("area", ""),
+                "category": item.get("category", ""),
+                "url": item["url"],
+                "first_seen": now,
+                "prices": [{"price": item["price"], "date": now}],
+                "date": item.get("date", ""),
+            }
 
     save_db(db)
     save_feed(feed)
-
-    print(f"\nResults:")
-    print(f"  New listings: {new_count}")
-    print(f"  Price drops: {drop_count}")
-    print(f"  Total tracked: {len(db)}")
-
+    print(f"New: {new_count} | Drops: {drop_count} | DB size: {len(db)}")
 
 if __name__ == "__main__":
     main()
