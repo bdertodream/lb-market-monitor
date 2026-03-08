@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-08T13:37:27.403886",
-  "total_tracked": 1765,
+  "generated_at": "2026-03-08T13:41:52.039488",
+  "total_tracked": 1767,
   "total_drops": 42,
-  "total_new": 1765,
+  "total_new": 1767,
   "avg_drop_pct": 9.4,
   "biggest_drop_usd": 425700,
   "drops": [
@@ -3138,6 +3138,50 @@
       "price_history": [
         {
           "price": 15900,
+          "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116814236",
+      "title": "Ford Focus 2007",
+      "url": "https://www.olx.com.lb/ad/ford-focus-2007-ID116814236.html",
+      "make": "Ford",
+      "model": "Focus",
+      "body_type": "Sedan",
+      "year": 2007,
+      "mileage": 266000,
+      "transmission": "Automatic",
+      "location": "Zalka, Metn",
+      "original_price": 3700,
+      "current_price": 3700,
+      "first_seen": "2026-03-08",
+      "posted_date": "2026-03-08",
+      "price_history": [
+        {
+          "price": 3700,
+          "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116814235",
+      "title": "Range Rover Sport HSE 2018 Full Options",
+      "url": "https://www.olx.com.lb/ad/range-rover-sport-hse-2018-full-options-ID116814235.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 80000,
+      "transmission": "Steptronic",
+      "location": "Zalka, Metn",
+      "original_price": 39500,
+      "current_price": 39500,
+      "first_seen": "2026-03-08",
+      "posted_date": "2026-03-08",
+      "price_history": [
+        {
+          "price": 39500,
           "date": "2026-03-08"
         }
       ]
