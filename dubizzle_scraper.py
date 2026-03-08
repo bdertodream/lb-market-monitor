@@ -1,7 +1,7 @@
 """
-Dubizzle UAE Property Scraper
-==============================
-Scrapes property listings from Dubizzle UAE.
+Dubizzle Dubai Property Scraper
+================================
+Scrapes property listings from Dubizzle Dubai.
 Tracks price history and detects price drops.
 
 Usage:
@@ -9,8 +9,8 @@ Usage:
     python dubizzle_scraper.py
 
 Output:
-  - listings_db_uae.json       → full database of all property listings + price history
-  - drops_feed_uae.json        → current active price drops (for the dashboard)
+    - listings_db_uae.json → full database of all property listings + price history
+    - drops_feed_uae.json → current active price drops (for the dashboard)
 """
 
 import requests
@@ -21,16 +21,15 @@ import random
 from datetime import datetime
 
 WAR_START = "2026-03-01"
-BASE_URL = "https://www.dubizzle.com"
+BASE_URL = "https://dubai.dubizzle.com"
+
 CATEGORY_URLS = [
-    "/properties/apartments-duplex/for-sale/",
-    "/properties/villa-house/for-sale/",
-    "/properties/penthouse/for-sale/",
-    "/properties/townhouse/for-sale/",
-    "/properties/land/for-sale/",
-    "/properties/commercial/for-sale/",
-    "/properties/office-space/for-sale/",
+    "/en/property-for-sale/residential/",
+    "/en/property-for-sale/commercial/",
+    "/en/property-for-sale/land/",
+    "/en/property-for-sale/multiple-units/",
 ]
+
 MAX_PAGES_PER_CATEGORY = 25
 DB_FILE = "listings_db_uae.json"
 DROPS_FILE = "drops_feed_uae.json"
@@ -46,19 +45,23 @@ HEADERS = {
 MIN_DELAY = 2
 MAX_DELAY = 4
 
+
 def load_db():
     if os.path.exists(DB_FILE):
         with open(DB_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
     return {}
 
+
 def save_db(db):
     with open(DB_FILE, "w", encoding="utf-8") as f:
         json.dump(db, f, ensure_ascii=False, indent=2)
 
+
 def save_drops(drops):
     with open(DROPS_FILE, "w", encoding="utf-8") as f:
         json.dump(drops, f, ensure_ascii=False, indent=2)
+
 
 def fetch_page(url):
     time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
@@ -67,22 +70,45 @@ def fetch_page(url):
         resp.raise_for_status()
         return resp.text
     except requests.RequestException as e:
-        print(f"  ✗ Failed to fetch {url}: {e}")
+        print(f"  \u2717 Failed to fetch {url}: {e}")
         return None
 
-def extract_hits(html):
-    """Extract listing data from Dubizzle page.
-    Dubizzle uses a similar window.__remixContext or window.state pattern.
-    Try multiple extraction patterns."""
 
-    # Pattern 1: window.state (same as OLX - shared platform)
-    marker = "window.state = "
+def extract_hits(html):
+    """Extract listing data from Dubizzle Dubai page.
+    Dubizzle uses Next.js with Redux SSR actions in __NEXT_DATA__."""
+
+    marker = '<script id="__NEXT_DATA__" type="application/json">'
     idx = html.find(marker)
     if idx != -1:
-        start = html.index("{", idx)
+        start = idx + len(marker)
+        end = html.find("</script>", start)
+        if end != -1:
+            try:
+                next_data = json.loads(html[start:end])
+                actions = (
+                    next_data.get("props", {})
+                    .get("pageProps", {})
+                    .get("reduxWrapperActionsGIPP", [])
+                )
+                for action in actions:
+                    if action.get("type") == "listings/fetchListingDataForQuery/fulfilled":
+                        payload = action.get("payload", {})
+                        hits = payload.get("hits", [])
+                        pagination = payload.get("pagination", {})
+                        total_pages = pagination.get("totalPages", 0)
+                        return hits, total_pages
+            except (json.JSONDecodeError, ValueError) as e:
+                print(f"  \u2717 JSON parse error: {e}")
+
+    # Fallback: try window.state pattern (legacy)
+    marker2 = "window.state = "
+    idx2 = html.find(marker2)
+    if idx2 != -1:
+        start2 = html.index("{", idx2)
         decoder = json.JSONDecoder()
         try:
-            state, _ = decoder.raw_decode(html, start)
+            state, _ = decoder.raw_decode(html, start2)
             algolia = state.get("algolia", {})
             content = algolia.get("content")
             if content:
@@ -90,128 +116,48 @@ def extract_hits(html):
         except (json.JSONDecodeError, ValueError):
             pass
 
-    # Pattern 2: __NEXT_DATA__ (Next.js pattern)
-    marker2 = '__NEXT_DATA__" type="application/json">'
-    idx2 = html.find(marker2)
-    if idx2 != -1:
-        start2 = idx2 + len(marker2)
-        end2 = html.find("</script>", start2)
-        if end2 != -1:
-            try:
-                next_data = json.loads(html[start2:end2])
-                props = next_data.get("props", {}).get("pageProps", {})
-                search = props.get("searchResult", props.get("listings", {}))
-                if isinstance(search, dict):
-                    hits = search.get("hits", search.get("results", search.get("listings", [])))
-                    pages = search.get("nbPages", search.get("totalPages", 0))
-                    return hits, pages
-            except (json.JSONDecodeError, ValueError):
-                pass
-
-    # Pattern 3: Look for JSON-LD structured data
-    marker3 = "window.__PRELOADED_STATE__ = "
-    idx3 = html.find(marker3)
-    if idx3 != -1:
-        start3 = html.index("{", idx3)
-        decoder = json.JSONDecoder()
-        try:
-            state, _ = decoder.raw_decode(html, start3)
-            listings = state.get("listings", state.get("search", {}))
-            if isinstance(listings, dict):
-                hits = listings.get("items", listings.get("hits", []))
-                pages = listings.get("totalPages", listings.get("nbPages", 0))
-                return hits, pages
-        except (json.JSONDecodeError, ValueError):
-            pass
-
     return [], 0
 
-def get_formatted_field(hit, attribute):
-    """Try multiple patterns to get field value."""
-    # Pattern 1: formattedExtraFields (OLX-style)
-    for f in hit.get("formattedExtraFields", []):
-        if f.get("attribute") == attribute:
-            return f.get("formattedValue", "")
-    # Pattern 2: Direct field
-    return hit.get(attribute, "")
-
-def get_extra_field(hit, key, default=None):
-    """Get field from extraFields or direct."""
-    extra = hit.get("extraFields") or {}
-    val = extra.get(key)
-    if val is not None:
-        return val
-    return hit.get(key, default)
-
-def parse_date(date_str):
-    """Parse ISO format dates (with T and Z), returns YYYY-MM-DD or None."""
-    if not date_str:
-        return None
-    try:
-        # Handle ISO format with Z (2026-03-05T10:30:45Z)
-        if isinstance(date_str, str):
-            if date_str.endswith('Z'):
-                date_str = date_str[:-1]
-            # Parse ISO format
-            dt = datetime.fromisoformat(date_str)
-            return dt.strftime("%Y-%m-%d")
-    except (ValueError, AttributeError, TypeError):
-        pass
-    return None
 
 def parse_hit(hit):
-    price = get_extra_field(hit, "price")
+    price = hit.get("price")
     if not price or price < 10000:
         return None
 
-    ext_id = str(hit.get("externalID", hit.get("id", "")))
-    slug = hit.get("slug", "")
-    title = hit.get("title", "Unknown")
+    ext_id = str(hit.get("id", hit.get("external_id", "")))
 
-    # Extract posted_date from various possible fields
-    posted_date = hit.get("createdAt") or hit.get("created_at") or hit.get("publishedAt")
-    posted_date_str = parse_date(posted_date)
+    # Name is multilingual dict
+    name = hit.get("name", {})
+    title = name.get("en", name.get("ar", "Unknown")) if isinstance(name, dict) else str(name)
 
-    prop_type = get_formatted_field(hit, "category") or get_formatted_field(hit, "type") or ""
-    if not prop_type:
-        # Infer from title or category
-        title_lower = title.lower()
-        if "commercial" in title_lower or "office" in title_lower or "shop" in title_lower or "retail" in title_lower or "warehouse" in title_lower:
-            prop_type = "Commercial"
-        elif "villa" in title_lower or "house" in title_lower:
-            prop_type = "Villa"
-        elif "penthouse" in title_lower:
-            prop_type = "Penthouse"
-        elif "townhouse" in title_lower:
-            prop_type = "Townhouse"
-        elif "land" in title_lower or "plot" in title_lower:
-            prop_type = "Land"
-        else:
-            prop_type = "Apartment"
+    # URL
+    abs_url = hit.get("absolute_url", {})
+    url = abs_url.get("en", "") if isinstance(abs_url, dict) else str(abs_url)
 
-    sqm = get_extra_field(hit, "area") or get_extra_field(hit, "size")
-    bedrooms = get_extra_field(hit, "rooms") or get_extra_field(hit, "bedrooms")
+    # Posted date from unix timestamp
+    added = hit.get("added")
+    posted_date_str = None
+    if added and isinstance(added, (int, float)):
+        try:
+            posted_date_str = datetime.fromtimestamp(added).strftime("%Y-%m-%d")
+        except (OSError, ValueError):
+            pass
 
-    locations = hit.get("location", [])
-    loc_parts = []
-    district = ""
-    if isinstance(locations, list):
-        for loc in locations:
-            level = loc.get("level", -1)
-            name = loc.get("name", "")
-            if level == 1:
-                district = name
-                loc_parts.append(name)
-            elif level == 2:
-                loc_parts.insert(0, name)
-    elif isinstance(locations, str):
-        loc_parts = [locations]
-        district = locations
-    location_str = ", ".join(loc_parts) if loc_parts else "UAE"
+    # Property type from categories
+    categories = hit.get("categories", {})
+    cat_names = categories.get("name", {}).get("en", []) if isinstance(categories, dict) else []
+    prop_type = cat_names[0] if cat_names else "Property"
 
-    url = f"{BASE_URL}/ad/{slug}-ID{ext_id}.html" if slug else ""
-    if not url and ext_id:
-        url = f"{BASE_URL}/ad/ID{ext_id}.html"
+    sqm = hit.get("size")
+    bedrooms = hit.get("bedrooms")
+
+    # Location
+    city = hit.get("city", {})
+    city_name = city.get("name", {}).get("en", "Dubai") if isinstance(city, dict) else "Dubai"
+    neighborhoods = hit.get("neighborhoods", {})
+    nbh_names = neighborhoods.get("name", {}).get("en", []) if isinstance(neighborhoods, dict) else []
+    district = nbh_names[0] if nbh_names else ""
+    location_str = f"{district}, {city_name}" if district else city_name
 
     return {
         "id": ext_id,
@@ -222,9 +168,10 @@ def parse_hit(hit):
         "bedrooms": bedrooms,
         "location": location_str,
         "district": district,
-        "price_usd": price,  # Actually AED but we use same field name for consistency
+        "price_usd": price,  # Actually AED but same field name for consistency
         "posted_date": posted_date_str,
     }
+
 
 def scrape_category(cat_path):
     listings = []
@@ -236,11 +183,11 @@ def scrape_category(cat_path):
 
     hits, nb_pages = extract_hits(html)
     if not hits:
-        print("  → No hits found on page 1, stopping.")
+        print("  \u2192 No hits found on page 1, stopping.")
         return listings
 
     max_page = min(nb_pages, MAX_PAGES_PER_CATEGORY)
-    print(f"  → Page 1: {len(hits)} hits, {nb_pages} total pages (scraping up to {max_page})")
+    print(f"  \u2192 Page 1: {len(hits)} hits, {nb_pages} total pages (scraping up to {max_page})")
 
     for hit in hits:
         parsed = parse_hit(hit)
@@ -253,17 +200,20 @@ def scrape_category(cat_path):
         html = fetch_page(page_url)
         if not html:
             break
+
         hits, _ = extract_hits(html)
         if not hits:
-            print(f"  → No hits on page {page}, stopping.")
+            print(f"  \u2192 No hits on page {page}, stopping.")
             break
+
         for hit in hits:
             parsed = parse_hit(hit)
             if parsed:
                 listings.append(parsed)
-        print(f"  → {len(listings)} valid listings so far")
+        print(f"  \u2192 {len(listings)} valid listings so far")
 
     return listings
+
 
 def update_database(db, new_listings):
     today = datetime.now().strftime("%Y-%m-%d")
@@ -284,7 +234,10 @@ def update_database(db, new_listings):
                 if new_price < old_price:
                     existing["drop_usd"] = existing["original_price"] - new_price
                     existing["drop_pct"] = round(
-                        (existing["original_price"] - new_price) / existing["original_price"] * 100, 1
+                        (existing["original_price"] - new_price)
+                        / existing["original_price"]
+                        * 100,
+                        1,
                     )
                     existing["last_drop_date"] = today
                     drops += 1
@@ -292,7 +245,6 @@ def update_database(db, new_listings):
             existing["title"] = listing["title"]
             existing["url"] = listing["url"]
             existing["last_seen"] = today
-            # Backfill posted_date if not present
             if "posted_date" not in existing:
                 existing["posted_date"] = listing.get("posted_date") or existing["first_seen"]
         else:
@@ -300,7 +252,7 @@ def update_database(db, new_listings):
                 "id": lid,
                 "title": listing["title"],
                 "url": listing["url"],
-                "type": listing.get("type", "Apartment"),
+                "type": listing.get("type", "Property"),
                 "sqm": listing.get("sqm"),
                 "bedrooms": listing.get("bedrooms"),
                 "location": listing["location"],
@@ -320,16 +272,18 @@ def update_database(db, new_listings):
 
     return new_count, updated, drops
 
+
 def generate_drops_feed(db):
     drops = []
     new_listings = []
+
     for lid, listing in db.items():
         if listing["drop_usd"] > 0:
             drops.append({
                 "id": listing["id"],
                 "title": listing["title"],
                 "url": listing["url"],
-                "type": listing.get("type", "Apartment"),
+                "type": listing.get("type", "Property"),
                 "sqm": listing.get("sqm"),
                 "bedrooms": listing.get("bedrooms"),
                 "location": listing["location"],
@@ -342,13 +296,14 @@ def generate_drops_feed(db):
                 "posted_date": listing.get("posted_date"),
                 "price_history": listing["price_history"],
             })
+
         post_date = listing.get("posted_date") or listing.get("first_seen", WAR_START)
         if post_date >= WAR_START:
             new_listings.append({
                 "id": listing["id"],
                 "title": listing["title"],
                 "url": listing["url"],
-                "type": listing.get("type", "Apartment"),
+                "type": listing.get("type", "Property"),
                 "sqm": listing.get("sqm"),
                 "bedrooms": listing.get("bedrooms"),
                 "location": listing["location"],
@@ -358,6 +313,7 @@ def generate_drops_feed(db):
                 "posted_date": listing.get("posted_date"),
                 "price_history": listing["price_history"],
             })
+
     drops.sort(key=lambda x: x["drop_pct"], reverse=True)
     new_listings.sort(key=lambda x: x["posted_date"] or x["first_seen"], reverse=True)
 
@@ -372,43 +328,45 @@ def generate_drops_feed(db):
         "new_listings": new_listings,
     }
 
+
 def main():
     print("=" * 60)
-    print("  Dubizzle UAE Property Scraper")
+    print("  Dubizzle Dubai Property Scraper")
     print(f"  {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 60)
 
     db = load_db()
-    print(f"\n📦 Loaded database: {len(db)} existing listings\n")
+    print(f"\n\U0001f4e6 Loaded database: {len(db)} existing listings\n")
 
     all_listings = []
     for cat_url in CATEGORY_URLS:
-        print(f"\n🔍 Scraping: {cat_url}")
+        print(f"\n\U0001f50d Scraping: {cat_url}")
         listings = scrape_category(cat_url)
         all_listings.extend(listings)
-        print(f"  ✓ Got {len(listings)} listings from this category")
+        print(f"  \u2713 Got {len(listings)} listings from this category")
 
-    print(f"\n📊 Total scraped: {len(all_listings)} listings")
+    print(f"\n\U0001f4ca Total scraped: {len(all_listings)} listings")
+
     seen = set()
     unique = []
     for item in all_listings:
         if item["id"] not in seen:
             seen.add(item["id"])
             unique.append(item)
-    print(f"📊 Unique listings: {len(unique)}")
+    print(f"\U0001f4ca Unique listings: {len(unique)}")
 
     new_count, updated, drops = update_database(db, unique)
-    print(f"\n✅ Results:")
-    print(f"  New listings: {new_count}")
-    print(f"  Price changes: {updated}")
-    print(f"  Price drops: {drops}")
+    print(f"\n\u2705 Results:")
+    print(f"   New listings: {new_count}")
+    print(f"   Price changes: {updated}")
+    print(f"   Price drops: {drops}")
 
     save_db(db)
-    print(f"\n💾 Saved database: {len(db)} total listings → {DB_FILE}")
+    print(f"\n\U0001f4be Saved database: {len(db)} total listings \u2192 {DB_FILE}")
 
     feed = generate_drops_feed(db)
     save_drops(feed)
-    print(f"📡 Generated drops feed: {feed['total_drops']} drops → {DROPS_FILE}")
+    print(f"\U0001f4e1 Generated drops feed: {feed['total_drops']} drops \u2192 {DROPS_FILE}")
 
     today = datetime.now()
     stale = 0
@@ -418,12 +376,13 @@ def main():
             listing["stale"] = True
             stale += 1
     if stale:
-        print(f"⚠️ {stale} listings not seen in 7+ days (possibly sold/removed)")
+        print(f"\u26a0\ufe0f  {stale} listings not seen in 7+ days (possibly sold/removed)")
         save_db(db)
 
     print(f"\n{'=' * 60}")
     print("  Done! Dashboard data ready.")
     print(f"{'=' * 60}\n")
+
 
 if __name__ == "__main__":
     main()
