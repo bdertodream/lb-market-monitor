@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-08T18:29:29.844669",
-  "total_tracked": 209,
+  "generated_at": "2026-03-08T19:25:27.595029",
+  "total_tracked": 210,
   "total_drops": 1,
-  "total_new": 209,
+  "total_new": 210,
   "avg_drop_pct": 2.9,
   "biggest_drop_usd": 100,
   "drops": [
@@ -87,6 +87,24 @@
       "price_history": [
         {
           "price": 5000,
+          "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116772999",
+      "title": "special plate numbers",
+      "url": "https://www.olx.com.lb/ad/ارقام-مميزة-ID116772999.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Adlieh, Beirut",
+      "original_price": 22,
+      "current_price": 22,
+      "first_seen": "2026-03-08",
+      "posted_date": "2026-03-08",
+      "price_history": [
+        {
+          "price": 22,
           "date": "2026-03-08"
         }
       ]
@@ -3727,7 +3745,7 @@
       "original_price": 6000,
       "current_price": 6000,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 6000,
