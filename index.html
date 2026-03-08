@@ -302,6 +302,309 @@ tbody tr{animation:rowIn .3s ease both}
           <line x1="295" y1="120" x2="328" y2="120" stroke="currentColor" stroke-width=".5" opacity=".1"/>
           <line x1="295" y1="150" x2="328" y2="150" stroke="currentColor" stroke-width=".5" opacity=".1"/>
           <line x1="295" y1="180" x2="328" y2="180" stroke="currentColor" stroke-width=".5" opacity=".1"/>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>War Market Monitor — Price Drop Tracker</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+
+/* ── Theme Variables ─────────────────────────────── */
+:root{--blur:24px;--glass:rgba(255,255,255,.04);--glass-border:rgba(255,255,255,.08);--glass-hover:rgba(255,255,255,.08);--radius:20px}
+[data-theme="dark"]{
+  --bg:#030306;--bg2:#08080e;
+  --tx:#e8e8f0;--tx2:#9898ac;--tx3:#5c5c70;
+  --accent:#ff4d6a;--accent-bg:rgba(255,77,106,.1);--accent-br:rgba(255,77,106,.2);
+  --grn:#34d399;--grn-bg:rgba(52,211,153,.1);
+  --amb:#fbbf24;--amb-bg:rgba(251,191,36,.1);--amb-br:rgba(251,191,36,.2);
+  --blu:#60a5fa;--blu-bg:rgba(96,165,250,.1);--blu-br:rgba(96,165,250,.2);
+  --pur:#a78bfa;--pur-bg:rgba(167,139,250,.1);
+  --cyn:#2dd4bf;--cyn-bg:rgba(45,212,191,.1);
+  --pnk:#f472b6;--pnk-bg:rgba(244,114,182,.1);
+  --org:#fb923c;--org-bg:rgba(251,146,60,.1);
+  --liquid1:rgba(255,77,106,.07);--liquid2:rgba(96,165,250,.05);--liquid3:rgba(167,139,250,.06);
+  --surface:rgba(255,255,255,.03);--surface-border:rgba(255,255,255,.06);
+}
+[data-theme="light"]{
+  --bg:#f2f0f5;--bg2:#eae8ef;
+  --tx:#1a1a2e;--tx2:#5a5a72;--tx3:#8888a0;
+  --accent:#e03358;--accent-bg:rgba(224,51,88,.08);--accent-br:rgba(224,51,88,.15);
+  --grn:#059669;--grn-bg:rgba(5,150,105,.08);
+  --amb:#d97706;--amb-bg:rgba(217,119,6,.08);--amb-br:rgba(217,119,6,.15);
+  --blu:#2563eb;--blu-bg:rgba(37,99,235,.08);--blu-br:rgba(37,99,235,.15);
+  --pur:#7c3aed;--pur-bg:rgba(124,58,237,.08);
+  --cyn:#0d9488;--cyn-bg:rgba(13,148,136,.08);
+  --pnk:#db2777;--pnk-bg:rgba(219,39,119,.08);
+  --org:#ea580c;--org-bg:rgba(234,88,12,.08);
+  --glass:rgba(255,255,255,.6);--glass-border:rgba(255,255,255,.7);--glass-hover:rgba(255,255,255,.75);
+  --liquid1:rgba(255,77,106,.06);--liquid2:rgba(96,165,250,.05);--liquid3:rgba(167,139,250,.05);
+  --surface:rgba(255,255,255,.5);--surface-border:rgba(255,255,255,.6);
+}
+
+body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--tx);min-height:100vh;-webkit-font-smoothing:antialiased;overflow-x:hidden;transition:background .4s,color .4s}
+
+/* ── Liquid Background ──────────────────────────── */
+.liquid-bg{position:fixed;inset:0;overflow:hidden;pointer-events:none;z-index:0}
+.liquid-orb{position:absolute;border-radius:50%;filter:blur(100px);opacity:.8;transition:all 1.5s cubic-bezier(.4,0,.2,1)}
+.orb-1{width:700px;height:700px;background:var(--liquid1);top:-250px;left:-200px;animation:morph 18s ease-in-out infinite}
+.orb-2{width:550px;height:550px;background:var(--liquid2);bottom:-200px;right:-150px;animation:morph 22s ease-in-out infinite reverse}
+.orb-3{width:450px;height:450px;background:var(--liquid3);top:30%;left:45%;animation:morph 20s ease-in-out infinite 3s}
+@keyframes morph{0%,100%{border-radius:40% 60% 70% 30%/40% 50% 60% 50%;transform:translate(0,0) rotate(0deg)}25%{border-radius:70% 30% 50% 50%/30% 30% 70% 70%;transform:translate(20px,-30px) rotate(5deg)}50%{border-radius:50% 60% 30% 60%/60% 40% 70% 40%;transform:translate(-10px,20px) rotate(-3deg)}75%{border-radius:60% 40% 60% 40%/50% 60% 30% 60%;transform:translate(15px,10px) rotate(2deg)}}
+
+/* ── Floating Illustration ──────────────────────── */
+.hero-illust{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:100%;max-width:1360px;height:380px;pointer-events:none;z-index:0;overflow:visible}
+.illust-layer{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;opacity:0;transform:scale(.92) translateY(10px);transition:opacity .7s cubic-bezier(.4,0,.2,1),transform .7s cubic-bezier(.4,0,.2,1);pointer-events:none}
+.illust-layer.active{opacity:1;transform:scale(1) translateY(0)}
+.illust-layer svg{width:auto;height:280px;filter:drop-shadow(0 0 60px rgba(255,77,106,.15));animation:float 8s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+
+.wrap{max-width:1360px;margin:0 auto;padding:0 24px;position:relative;z-index:2}
+
+/* ── Country Toggle ──────────────────────────────── */
+.country-toggle{display:flex;gap:0;padding:3px;background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);border-radius:12px;width:fit-content;cursor:pointer;position:relative}
+.country-opt{padding:8px 16px;font:600 11px/1 'JetBrains Mono',monospace;color:var(--tx3);border:0;background:0;border-radius:9px;cursor:pointer;transition:all .3s;letter-spacing:.3px;display:flex;align-items:center;gap:6px;white-space:nowrap}
+.country-opt:hover{color:var(--tx2)}
+.country-opt.on{background:var(--accent-bg);color:var(--accent);border:1px solid var(--accent-br);box-shadow:0 0 20px rgba(255,77,106,.08)}
+.country-opt .flag{font-size:14px;line-height:1}
+
+/* ── Header ──────────────────────────────────────── */
+.header-zone{position:relative;padding:32px 0 0;min-height:180px}
+header{position:relative;z-index:3;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px}
+.logo{font-family:'JetBrains Mono',monospace;font-size:20px;font-weight:700;display:flex;align-items:center;gap:10px}
+.logo-icon{width:28px;height:28px;display:flex;align-items:center;justify-content:center}
+.logo-icon svg{width:24px;height:24px}
+.logo .lbl{background:linear-gradient(135deg,var(--accent),#ff8fa3);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.tagline{font-size:11px;color:var(--tx3);margin-top:4px;font-weight:500;letter-spacing:.2px}
+.h-right{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.badge{font:600 9px/1 'JetBrains Mono',monospace;padding:5px 12px;border-radius:20px;letter-spacing:.5px;text-transform:uppercase}
+.badge-src{color:var(--tx3);background:var(--glass);border:1px solid var(--glass-border);backdrop-filter:blur(var(--blur))}
+.badge-live{color:var(--accent);background:var(--accent-bg);border:1px solid var(--accent-br);display:flex;align-items:center;gap:6px}
+.pulse{width:6px;height:6px;background:var(--accent);border-radius:50%;animation:blink 2s ease-in-out infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
+.theme-btn{width:34px;height:34px;border-radius:10px;border:1px solid var(--glass-border);background:var(--glass);backdrop-filter:blur(var(--blur));cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .25s;color:var(--tx2)}
+.theme-btn:hover{background:var(--glass-hover);color:var(--tx)}
+.theme-btn svg{width:16px;height:16px}
+
+/* ── Tabs ─────────────────────────────────────────── */
+.tabs{display:flex;gap:2px;padding:3px;background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);border-radius:14px;margin:24px 0 20px;width:fit-content;position:relative;z-index:3}
+.tab{padding:10px 20px;font:600 12px/1 'JetBrains Mono',monospace;color:var(--tx3);background:0;border:0;border-radius:11px;cursor:pointer;transition:all .25s;letter-spacing:.3px;display:flex;align-items:center;gap:7px}
+.tab svg{width:14px;height:14px;opacity:.7;transition:opacity .2s}
+.tab:hover{color:var(--tx2)}
+.tab:hover svg{opacity:1}
+.tab.on{background:var(--accent-bg);color:var(--accent);border:1px solid var(--accent-br)}
+.tab.on svg{opacity:1}
+
+/* ── Stats ────────────────────────────────────────── */
+.stats{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-bottom:20px}
+.stat{background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);border-radius:var(--radius);padding:20px;display:flex;flex-direction:column;gap:8px;transition:all .25s;position:relative;overflow:hidden}
+.stat::before{content:'';position:absolute;inset:0;background:linear-gradient(135deg,rgba(255,255,255,.03),transparent);pointer-events:none;border-radius:var(--radius)}
+.stat:hover{background:var(--glass-hover);transform:translateY(-1px)}
+.stat-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;margin-bottom:2px}
+.stat-icon svg{width:16px;height:16px}
+.stat-l{font:600 9px/1 'JetBrains Mono',monospace;color:var(--tx3);text-transform:uppercase;letter-spacing:1px}
+.stat-v{font:800 26px/1 'JetBrains Mono',monospace}
+.stat-v.r{color:var(--accent)}.stat-v.g{color:var(--grn)}.stat-v.a{color:var(--amb)}.stat-v.b{color:var(--blu)}
+
+/* ── View Toggle (Drops / New Listings) ──────────── */
+.view-toggle{display:flex;gap:0;padding:3px;background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);border-radius:10px;width:fit-content;margin-bottom:16px}
+.view-opt{padding:8px 16px;font:600 11px/1 'JetBrains Mono',monospace;color:var(--tx3);border:0;background:0;border-radius:8px;cursor:pointer;transition:all .25s;letter-spacing:.3px;display:flex;align-items:center;gap:6px}
+.view-opt:hover{color:var(--tx2)}
+.view-opt.on{background:var(--accent-bg);color:var(--accent);border:1px solid var(--accent-br)}
+.view-opt svg{width:13px;height:13px;opacity:.7}
+.view-opt.on svg{opacity:1}
+.new-badge{display:inline-block;padding:2px 6px;border-radius:4px;font:700 9px/1 'JetBrains Mono',monospace;background:var(--grn-bg);color:var(--grn);text-transform:uppercase;letter-spacing:.5px}
+
+/* ── Toolbar ──────────────────────────────────────── */
+.toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px;flex-wrap:wrap}
+.filters{display:flex;gap:4px;flex-wrap:wrap}
+.fbtn{background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);color:var(--tx3);padding:7px 14px;border-radius:8px;font:500 11px/1 'Inter',sans-serif;cursor:pointer;transition:all .2s}
+.fbtn:hover{background:var(--glass-hover);color:var(--tx2)}
+.fbtn.on{background:var(--tx);color:var(--bg);border-color:var(--tx)}
+.right-tools{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.sort-l{font:500 9px/1 'JetBrains Mono',monospace;color:var(--tx3);text-transform:uppercase;letter-spacing:.5px}
+.sbtn{background:0;border:1px solid var(--surface-border);color:var(--tx3);padding:5px 10px;border-radius:6px;font:500 11px/1 'JetBrains Mono',monospace;cursor:pointer;transition:all .15s}
+.sbtn:hover{color:var(--tx2);border-color:var(--glass-hover)}
+.sbtn.on{color:var(--accent);border-color:var(--accent);background:var(--accent-bg)}
+.area-sel{background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);color:var(--tx2);padding:7px 10px;border-radius:8px;font:500 11px/1 'Inter',sans-serif;cursor:pointer;outline:0}
+.area-sel option{background:var(--bg)}
+
+/* ── Table ────────────────────────────────────────── */
+.table-wrap{background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);border-radius:var(--radius);overflow:hidden;margin-bottom:20px}
+table{width:100%;border-collapse:collapse}
+thead th{padding:12px 14px;font:600 9px/1 'JetBrains Mono',monospace;text-transform:uppercase;letter-spacing:.8px;color:var(--tx3);text-align:left;border-bottom:1px solid var(--surface-border);background:transparent}
+tbody tr{border-bottom:1px solid rgba(255,255,255,.03);transition:background .15s;cursor:pointer}
+tbody tr:hover{background:var(--glass-hover)}
+tbody tr:last-child{border-bottom:0}
+td{padding:12px 14px;font-size:13px;vertical-align:middle}
+.prop-name{font-weight:600;color:var(--tx);margin-bottom:2px;max-width:280px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.prop-loc{font-size:11px;color:var(--tx2)}
+.tbadge{display:inline-block;padding:3px 8px;border-radius:6px;font:600 10px/1 'JetBrains Mono',monospace;text-transform:uppercase;letter-spacing:.3px}
+.t-apt{background:var(--blu-bg);color:var(--blu)}.t-villa{background:var(--pur-bg);color:var(--pur)}
+.t-pent{background:var(--amb-bg);color:var(--amb)}.t-dup{background:var(--cyn-bg);color:var(--cyn)}
+.t-land{background:var(--grn-bg);color:var(--grn)}.t-chal{background:var(--pnk-bg);color:var(--pnk)}
+.t-building{background:var(--org-bg);color:var(--org)}.t-commercial{background:var(--amb-bg);color:var(--amb)}
+.t-sedan{background:var(--blu-bg);color:var(--blu)}.t-suv{background:var(--pur-bg);color:var(--pur)}
+.t-hatch{background:var(--cyn-bg);color:var(--cyn)}.t-truck{background:var(--amb-bg);color:var(--amb)}
+.t-coupe{background:var(--pnk-bg);color:var(--pnk)}.t-van{background:var(--org-bg);color:var(--org)}
+.t-convert{background:var(--grn-bg);color:var(--grn)}.t-other{background:var(--glass);color:var(--tx3)}
+.p-now{font:600 14px/1 'JetBrains Mono',monospace}
+.p-was{font:400 11px/1 'JetBrains Mono',monospace;color:var(--tx3);text-decoration:line-through}
+.drop{display:inline-flex;align-items:center;gap:3px;padding:3px 8px;border-radius:6px;font:600 12px/1 'JetBrains Mono',monospace}
+.drop-r{background:var(--accent-bg);color:var(--accent)}.drop-a{background:var(--amb-bg);color:var(--amb)}
+.drop-amt{font:500 12px/1 'JetBrains Mono',monospace;color:var(--accent)}
+.date{font:400 11px/1 'JetBrains Mono',monospace;color:var(--tx3)}
+.link-btn{background:var(--surface);border:1px solid var(--surface-border);color:var(--tx3);width:28px;height:28px;border-radius:8px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .15s;text-decoration:none}
+.link-btn:hover{background:var(--glass-hover);color:var(--tx)}
+.link-btn svg{width:12px;height:12px}
+
+/* ── Empty / Loading ─────────────────────────────── */
+.empty{text-align:center;padding:80px 20px;color:var(--tx3)}
+.empty-icon{margin-bottom:14px;opacity:.3}
+.empty-icon svg{width:52px;height:52px}
+.empty h3{font-size:16px;color:var(--tx2);margin-bottom:6px}
+.empty p{font-size:13px;max-width:380px;margin:0 auto;line-height:1.6}
+.loading{text-align:center;padding:60px 20px;color:var(--tx3);font:500 14px/1 'JetBrains Mono',monospace}
+
+/* ── Footer ──────────────────────────────────────── */
+footer{padding:20px 0 40px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px}
+footer span{font:400 11px/1 'JetBrains Mono',monospace;color:var(--tx3)}
+footer .cedar{display:inline-flex;align-items:center;gap:4px}
+footer .cedar svg{width:12px;height:12px;opacity:.5}
+
+/* ── Scrollbar ───────────────────────────────────── */
+::-webkit-scrollbar{width:5px;height:5px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--surface-border);border-radius:3px}
+
+/* ── Responsive ──────────────────────────────────── */
+@media(max-width:1024px){.stats{grid-template-columns:repeat(3,1fr)}.hero-illust{height:280px}.illust-layer svg{height:200px}}
+@media(max-width:768px){.stats{grid-template-columns:repeat(2,1fr)}.toolbar{flex-direction:column;align-items:flex-start}.h-right{width:100%;justify-content:flex-end}.hero-illust{height:220px}.illust-layer svg{height:160px}}
+@media(max-width:640px){.stats{grid-template-columns:1fr 1fr}header{flex-direction:column;align-items:flex-start}td,th{padding:8px 6px;font-size:11px}.prop-name{max-width:140px}.hide-m{display:none}.tabs{width:100%}.tab{flex:1;text-align:center;padding:8px 8px;font-size:10px}.hero-illust{height:160px;top:60%}.illust-layer svg{height:120px}.stat-v{font-size:20px}.country-toggle{width:100%}.country-opt{flex:1;justify-content:center}}
+
+tbody tr{animation:rowIn .3s ease both}
+@keyframes rowIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+</style>
+</head>
+<body>
+
+<!-- Liquid background -->
+<div class="liquid-bg">
+  <div class="liquid-orb orb-1"></div>
+  <div class="liquid-orb orb-2"></div>
+  <div class="liquid-orb orb-3"></div>
+</div>
+
+<div class="wrap">
+  <div class="header-zone">
+    <!-- Floating illustrations behind header -->
+    <div class="hero-illust">
+      <!-- LB: Villa illustration (Real Estate) -->
+      <div class="illust-layer active" id="illust-lb-re">
+        <svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg" opacity=".18">
+          <path d="M60 180 L200 80 L340 180" stroke="currentColor" stroke-width="2" fill="none" opacity=".5"/>
+          <rect x="80" y="180" width="240" height="100" rx="4" stroke="currentColor" stroke-width="1.5" fill="none" opacity=".3"/>
+          <path d="M110 280 L110 220 Q110 195 135 195 Q160 195 160 220 L160 280" stroke="currentColor" stroke-width="1.5" fill="none" opacity=".4"/>
+          <path d="M175 280 L175 210 Q175 180 200 180 Q225 180 225 210 L225 280" stroke="currentColor" stroke-width="1.5" fill="none" opacity=".4"/>
+          <path d="M240 280 L240 220 Q240 195 265 195 Q290 195 290 220 L290 280" stroke="currentColor" stroke-width="1.5" fill="none" opacity=".4"/>
+          <path d="M50 182 L200 72 L350 182" stroke="currentColor" stroke-width="2.5" fill="none" opacity=".3"/>
+          <line x1="90" y1="180" x2="310" y2="180" stroke="currentColor" stroke-width="1" opacity=".2"/>
+          <line x1="100" y1="175" x2="100" y2="180" stroke="currentColor" stroke-width="1" opacity=".2"/>
+          <line x1="120" y1="175" x2="120" y2="180" stroke="currentColor" stroke-width="1" opacity=".2"/>
+          <line x1="140" y1="175" x2="140" y2="180" stroke="currentColor" stroke-width="1" opacity=".2"/>
+          <line x1="160" y1="175" x2="160" y2="180" stroke="currentColor" stroke-width="1" opacity=".2"/>
+          <line x1="180" y1="175" x2="180" y2="180" stroke="currentColor" stroke-width="1" opacity=".2"/>
+          <line x1="200" y1="175" x2="200" y2="180" stroke="currentColor" stroke-width="1" opacity=".2"/>
+          <line x1="220" y1="175" x2="220" y2="180" stroke="currentColor" stroke-width="1" opacity=".2"/>
+          <line x1="240" y1="175" x2="240" y2="180" stroke="currentColor" stroke-width="1" opacity=".2"/>
+          <line x1="260" y1="175" x2="260" y2="180" stroke="currentColor" stroke-width="1" opacity=".2"/>
+          <line x1="280" y1="175" x2="280" y2="180" stroke="currentColor" stroke-width="1" opacity=".2"/>
+          <line x1="300" y1="175" x2="300" y2="180" stroke="currentColor" stroke-width="1" opacity=".2"/>
+          <line x1="365" y1="280" x2="365" y2="200" stroke="currentColor" stroke-width="1.5" opacity=".25"/>
+          <path d="M345 220 L365 170 L385 220Z" fill="currentColor" opacity=".08"/>
+          <path d="M350 245 L365 195 L380 245Z" fill="currentColor" opacity=".06"/>
+          <path d="M355 270 L365 225 L375 270Z" fill="currentColor" opacity=".05"/>
+          <line x1="30" y1="280" x2="390" y2="280" stroke="currentColor" stroke-width="1" opacity=".15"/>
+        </svg>
+      </div>
+
+      <!-- LB: Car illustration -->
+      <div class="illust-layer" id="illust-lb-cars">
+        <svg viewBox="0 0 480 280" fill="none" xmlns="http://www.w3.org/2000/svg" opacity=".18">
+          <rect x="90" y="110" width="300" height="110" rx="8" stroke="currentColor" stroke-width="2" fill="none" opacity=".3"/>
+          <path d="M110 110 L120 70 L360 70 L370 110" stroke="currentColor" stroke-width="2" fill="none" opacity=".3"/>
+          <line x1="120" y1="70" x2="360" y2="70" stroke="currentColor" stroke-width="2.5" opacity=".25"/>
+          <path d="M140 110 L155 75 L220 75 L220 110" stroke="currentColor" stroke-width="1.5" fill="none" opacity=".25"/>
+          <path d="M300 110 L300 75 L350 75 L355 110" stroke="currentColor" stroke-width="1.5" fill="none" opacity=".25"/>
+          <rect x="225" y="78" width="70" height="30" rx="2" stroke="currentColor" stroke-width="1" fill="none" opacity=".2"/>
+          <line x1="220" y1="75" x2="220" y2="220" stroke="currentColor" stroke-width="1" opacity=".15"/>
+          <line x1="295" y1="75" x2="295" y2="220" stroke="currentColor" stroke-width="1" opacity=".15"/>
+          <rect x="375" y="130" width="18" height="14" rx="3" stroke="currentColor" stroke-width="1.5" fill="currentColor" fill-opacity=".08" opacity=".4"/>
+          <rect x="87" y="130" width="18" height="14" rx="3" stroke="currentColor" stroke-width="1.5" fill="currentColor" fill-opacity=".08" opacity=".4"/>
+          <rect x="370" y="155" width="22" height="40" rx="2" stroke="currentColor" stroke-width="1" fill="none" opacity=".2"/>
+          <line x1="376" y1="160" x2="376" y2="190" stroke="currentColor" stroke-width="1" opacity=".1"/>
+          <line x1="382" y1="160" x2="382" y2="190" stroke="currentColor" stroke-width="1" opacity=".1"/>
+          <line x1="388" y1="160" x2="388" y2="190" stroke="currentColor" stroke-width="1" opacity=".1"/>
+          <circle cx="155" cy="225" r="30" stroke="currentColor" stroke-width="2" fill="none" opacity=".3"/>
+          <circle cx="155" cy="225" r="18" stroke="currentColor" stroke-width="1" fill="none" opacity=".15"/>
+          <circle cx="155" cy="225" r="5" fill="currentColor" opacity=".1"/>
+          <circle cx="335" cy="225" r="30" stroke="currentColor" stroke-width="2" fill="none" opacity=".3"/>
+          <circle cx="335" cy="225" r="18" stroke="currentColor" stroke-width="1" fill="none" opacity=".15"/>
+          <circle cx="335" cy="225" r="5" fill="currentColor" opacity=".1"/>
+          <ellipse cx="240" cy="260" rx="170" ry="6" fill="currentColor" opacity=".05"/>
+          <circle cx="88" cy="170" r="20" stroke="currentColor" stroke-width="1.5" fill="none" opacity=".2"/>
+          <circle cx="88" cy="170" r="12" stroke="currentColor" stroke-width="1" fill="none" opacity=".1"/>
+        </svg>
+      </div>
+
+      <!-- LB: License Plate illustration -->
+      <div class="illust-layer" id="illust-lb-plates">
+        <svg viewBox="0 0 440 260" fill="none" xmlns="http://www.w3.org/2000/svg" opacity=".18">
+          <rect x="60" y="50" width="320" height="160" rx="12" stroke="currentColor" stroke-width="2.5" fill="none" opacity=".35"/>
+          <rect x="70" y="58" width="300" height="144" rx="8" stroke="currentColor" stroke-width="1" fill="none" opacity=".15"/>
+          <rect x="70" y="58" width="300" height="30" rx="8" fill="currentColor" opacity=".06"/>
+          <path d="M210 75 L220 55 L230 75Z" fill="currentColor" opacity=".12"/>
+          <path d="M213 82 L220 62 L227 82Z" fill="currentColor" opacity=".1"/>
+          <line x1="220" y1="82" x2="220" y2="90" stroke="currentColor" stroke-width="1.5" opacity=".12"/>
+          <text x="220" y="108" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="10" fill="currentColor" opacity=".2" letter-spacing="4">LEBANON</text>
+          <text x="220" y="155" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="42" font-weight="700" fill="currentColor" opacity=".12" letter-spacing="6">123456</text>
+          <text x="220" y="192" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9" fill="currentColor" opacity=".15" letter-spacing="3">REPUBLIC OF LEBANON</text>
+          <circle cx="90" cy="130" r="4" stroke="currentColor" stroke-width="1" fill="none" opacity=".15"/>
+          <circle cx="350" cy="130" r="4" stroke="currentColor" stroke-width="1" fill="none" opacity=".15"/>
+        </svg>
+      </div>
+
+      <!-- UAE: Modern Skyscraper illustration (Property) -->
+      <div class="illust-layer" id="illust-uae-re">
+        <svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg" opacity=".18">
+          <!-- Burj-style supertall tower -->
+          <path d="M200 15 L185 100 L175 280" stroke="currentColor" stroke-width="2" fill="none" opacity=".4"/>
+          <path d="M200 15 L215 100 L225 280" stroke="currentColor" stroke-width="2" fill="none" opacity=".4"/>
+          <line x1="185" y1="60" x2="215" y2="60" stroke="currentColor" stroke-width="1" opacity=".15"/>
+          <line x1="183" y1="90" x2="217" y2="90" stroke="currentColor" stroke-width="1" opacity=".15"/>
+          <line x1="181" y1="120" x2="219" y2="120" stroke="currentColor" stroke-width="1" opacity=".15"/>
+          <line x1="179" y1="150" x2="221" y2="150" stroke="currentColor" stroke-width="1" opacity=".15"/>
+          <line x1="178" y1="180" x2="222" y2="180" stroke="currentColor" stroke-width="1" opacity=".15"/>
+          <line x1="177" y1="210" x2="223" y2="210" stroke="currentColor" stroke-width="1" opacity=".15"/>
+          <line x1="176" y1="240" x2="224" y2="240" stroke="currentColor" stroke-width="1" opacity=".15"/>
+          <!-- Spire -->
+          <line x1="200" y1="15" x2="200" y2="0" stroke="currentColor" stroke-width="1.5" opacity=".3"/>
+          <!-- Secondary tower left -->
+          <rect x="100" y="100" width="40" height="180" rx="3" stroke="currentColor" stroke-width="1.5" fill="none" opacity=".25"/>
+          <line x1="105" y1="120" x2="135" y2="120" stroke="currentColor" stroke-width=".5" opacity=".1"/>
+          <line x1="105" y1="140" x2="135" y2="140" stroke="currentColor" stroke-width=".5" opacity=".1"/>
+          <line x1="105" y1="160" x2="135" y2="160" stroke="currentColor" stroke-width=".5" opacity=".1"/>
+          <line x1="105" y1="180" x2="135" y2="180" stroke="currentColor" stroke-width=".5" opacity=".1"/>
+          <line x1="105" y1="200" x2="135" y2="200" stroke="currentColor" stroke-width=".5" opacity=".1"/>
+          <line x1="105" y1="220" x2="135" y2="220" stroke="currentColor" stroke-width=".5" opacity=".1"/>
+          <line x1="105" y1="240" x2="135" y2="240" stroke="currentColor" stroke-width=".5" opacity=".1"/>
+          <line x1="105" y1="260" x2="135" y2="260" stroke="currentColor" stroke-width=".5" opacity=".1"/>
+          <!-- Secondary tower right (sail-shaped) -->
+          <path d="M290 80 L290 280 L330 280 L330 120 Q310 80 290 80Z" stroke="currentColor" stroke-width="1.5" fill="none" opacity=".25"/>
+          <line x1="295" y1="120" x2="328" y2="120" stroke="currentColor" stroke-width=".5" opacity=".1"/>
+          <line x1="295" y1="150" x2="328" y2="150" stroke="currentColor" stroke-width=".5" opacity=".1"/>
+          <line x1="295" y1="180" x2="328" y2="180" stroke="currentColor" stroke-width=".5" opacity=".1"/>
           <line x1="295" y1="210" x2="328" y2="210" stroke="currentColor" stroke-width=".5" opacity=".1"/>
           <line x1="295" y1="240" x2="328" y2="240" stroke="currentColor" stroke-width=".5" opacity=".1"/>
           <!-- Ground line -->
@@ -552,7 +855,9 @@ let lbPlatesData={...emptyData,drops:[]};
 let uaeReData={...emptyData,drops:[]};
 let uaeCarsData={...emptyData,drops:[]};
 
-let viewMode='drops'; // 'drops' or 'new'
+let viewMode='drops';
+let currentPage=0;
+const PAGE_SIZE=100; // 'drops' or 'new'
 let sortBy='pct',typeFilter='all',areaFilter='all',extraFilter='all';
 
 function reTypeClass(t){return{Apartment:'apt',Villa:'villa',Penthouse:'pent',Duplex:'dup',Land:'land',Chalet:'chal',Building:'building',Commercial:'commercial'}[t]||'apt'}
@@ -694,6 +999,19 @@ function updateIllustrations(){
 }
 
 function refresh(){
+  // Pagination
+  const pagDiv=document.getElementById('pagination');
+  if(pagDiv){
+    if(totalPages<=1){pagDiv.innerHTML='';pagDiv.style.display='none';}
+    else{
+      pagDiv.style.display='flex';
+      let ph='<span style="color:var(--muted)">Page '+(currentPage+1)+' of '+totalPages+' ('+totalItems+' listings)</span><div style="display:flex;gap:6px">';
+      if(currentPage>0)ph+='<button onclick="currentPage=0;render()" style="padding:4px 10px;border-radius:6px;border:1px solid var(--border);background:var(--card);color:var(--fg);cursor:pointer">&laquo;</button><button onclick="currentPage--;render()" style="padding:4px 10px;border-radius:6px;border:1px solid var(--border);background:var(--card);color:var(--fg);cursor:pointer">&lsaquo; Prev</button>';
+      if(currentPage<totalPages-1)ph+='<button onclick="currentPage++;render()" style="padding:4px 10px;border-radius:6px;border:1px solid var(--border);background:var(--card);color:var(--fg);cursor:pointer">Next &rsaquo;</button><button onclick="currentPage=totalPages-1;render()" style="padding:4px 10px;border-radius:6px;border:1px solid var(--border);background:var(--card);color:var(--fg);cursor:pointer">&raquo;</button>';
+      ph+='</div>';
+      pagDiv.innerHTML=ph;
+    }
+  }
   renderStats();buildHeaders();buildFilters();buildExtraFilter();buildAreaFilter();render();
 }
 
@@ -815,6 +1133,11 @@ function render(){
     price:(a,b)=>(b.current_price||0)-(a.current_price||0)
   };
   items.sort(sorters[sortBy]||sorters.date);
+  const totalItems=items.length;
+  const totalPages=Math.ceil(totalItems/PAGE_SIZE);
+  if(currentPage>=totalPages)currentPage=Math.max(0,totalPages-1);
+  const pageStart=currentPage*PAGE_SIZE;
+  items=items.slice(pageStart,pageStart+PAGE_SIZE);
 
   const tbody=document.getElementById('tbody'),empty=document.getElementById('empty');
   if(!items.length){
