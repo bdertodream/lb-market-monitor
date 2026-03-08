@@ -2517,11 +2517,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-08",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116795955": {
     "id": "116795955",
@@ -14082,11 +14083,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-08",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116709378": {
     "id": "116709378",
@@ -41116,19 +41118,23 @@
     "location": "Ghazir, Keserouan",
     "district": "Keserouan",
     "original_price": 29000,
-    "current_price": 29000,
+    "current_price": 28500,
     "price_history": [
       {
         "price": 29000,
         "date": "2026-03-01"
+      },
+      {
+        "price": 28500,
+        "date": "2026-03-08"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-08",
-    "last_updated": "2026-03-07",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_updated": "2026-03-08",
+    "drop_usd": 500,
+    "drop_pct": 1.7,
+    "last_drop_date": "2026-03-08",
     "posted_date": "2026-03-01"
   },
   "116770001": {
@@ -47486,6 +47492,286 @@
     "price_history": [
       {
         "price": 600,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814033": {
+    "id": "116814033",
+    "title": "Jaguar X-Type 2006",
+    "url": "https://www.olx.com.lb/ad/jaguar-x-type-2006-ID116814033.html",
+    "make": "Jaguar",
+    "model": "X-Type",
+    "body_type": "Sedan",
+    "year": 2006,
+    "mileage": 132000,
+    "transmission": "Automatic",
+    "location": "Baouchriye, Metn",
+    "district": "Metn",
+    "original_price": 3900,
+    "current_price": 3900,
+    "price_history": [
+      {
+        "price": 3900,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814032": {
+    "id": "116814032",
+    "title": "Velar R-DYNAMIC CLEAN CARFAX  77000 MILE",
+    "url": "https://www.olx.com.lb/ad/land-rover-velar-2018-ID116814032.html",
+    "make": "Land Rover",
+    "model": "Velar",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 77000,
+    "transmission": "Automatic",
+    "location": "Sad El Baouchriyeh, Metn",
+    "district": "Metn",
+    "original_price": 39900,
+    "current_price": 39900,
+    "price_history": [
+      {
+        "price": 39900,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116711431": {
+    "id": "116711431",
+    "title": "Porsche Macan S - 2018 MY -  Full Carbon Fiber Interior - 360 Cameras",
+    "url": "https://www.olx.com.lb/ad/porsche-macan-s-2018-my-full-carbon-fiber-interior-360-cameras-ID116711431.html",
+    "make": "Porsche",
+    "model": "Macan",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 82000,
+    "transmission": "Automatic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 34500,
+    "current_price": 34500,
+    "price_history": [
+      {
+        "price": 34500,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814026": {
+    "id": "116814026",
+    "title": "ميتسوبيشي مونتيرو 2002",
+    "url": "https://www.olx.com.lb/ad/ميتسوبيشي-مونتيرو-2002-ID116814026.html",
+    "make": "Mitsubishi",
+    "model": "Montero",
+    "body_type": "SUV",
+    "year": 2002,
+    "mileage": 147178,
+    "transmission": "Automatic",
+    "location": "Other in Akkar, Akkar",
+    "district": "Akkar",
+    "original_price": 430000,
+    "current_price": 430000,
+    "price_history": [
+      {
+        "price": 430000,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116729914": {
+    "id": "116729914",
+    "title": "Nissan Rogue 2018 SV - AWD - CLEAN CARFAX !!!",
+    "url": "https://www.olx.com.lb/ad/nissan-rogue-2018-sv-awd-clean-carfax-ID116729914.html",
+    "make": "Nissan",
+    "model": "Rogue",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 125000,
+    "transmission": "Automatic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 15500,
+    "current_price": 15500,
+    "price_history": [
+      {
+        "price": 15500,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116680716": {
+    "id": "116680716",
+    "title": "Land Rover Evoque-  2020 MY - CLEAN CARFAX !!! - P250",
+    "url": "https://www.olx.com.lb/ad/land-rover-evoque-2020-my-clean-carfax-p250-ID116680716.html",
+    "make": "Land Rover",
+    "model": "Evoque",
+    "body_type": "SUV",
+    "year": 2020,
+    "mileage": 80000,
+    "transmission": "Automatic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 36000,
+    "current_price": 36000,
+    "price_history": [
+      {
+        "price": 36000,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814024": {
+    "id": "116814024",
+    "title": "Dodge Ram 2021",
+    "url": "https://www.olx.com.lb/ad/dodge-ram-2021-ID116814024.html",
+    "make": "Dodge",
+    "model": "Ram",
+    "body_type": "Pickup",
+    "year": 2021,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Abdul Latif El Bissar, Tripoli",
+    "district": "Tripoli",
+    "original_price": 35000,
+    "current_price": 35000,
+    "price_history": [
+      {
+        "price": 35000,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814010": {
+    "id": "116814010",
+    "title": "CHEVROLET SPARK-2020-22000KM-COMPANY SOURCE-ONE OWNER-BOYA CHERKEE",
+    "url": "https://www.olx.com.lb/ad/chevrolet-spark-2020-22000km-company-source-one-owner-boya-cherkee-ID116814010.html",
+    "make": "Chevrolet",
+    "model": "Spark",
+    "body_type": "Hatchback",
+    "year": 2020,
+    "mileage": 22000,
+    "transmission": "Automatic",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 10400,
+    "current_price": 10400,
+    "price_history": [
+      {
+        "price": 10400,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116400629": {
+    "id": "116400629",
+    "title": "Mazda CX-5 2017 AWD Touring Plus",
+    "url": "https://www.olx.com.lb/ad/mazda-cx-5-2017-awd-touring-plus-ID116400629.html",
+    "make": "Mazda",
+    "model": "CX-5",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 90000,
+    "transmission": "Automatic",
+    "location": "Al Zarif, Beirut",
+    "district": "Beirut",
+    "original_price": 21250,
+    "current_price": 21250,
+    "price_history": [
+      {
+        "price": 21250,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814009": {
+    "id": "116814009",
+    "title": "Mazda CX-30 AWD 2021 Premium.",
+    "url": "https://www.olx.com.lb/ad/mazda-cx-30-awd-2021-premium-ID116814009.html",
+    "make": "Mazda",
+    "model": "CX-30",
+    "body_type": "SUV",
+    "year": 2021,
+    "mileage": 40000,
+    "transmission": "Automatic",
+    "location": "Al Zarif, Beirut",
+    "district": "Beirut",
+    "original_price": 27500,
+    "current_price": 27500,
+    "price_history": [
+      {
+        "price": 27500,
         "date": "2026-03-08"
       }
     ],
