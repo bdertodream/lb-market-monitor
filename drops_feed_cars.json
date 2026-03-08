@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-08T04:10:26.918503",
-  "total_tracked": 1687,
+  "generated_at": "2026-03-08T05:45:09.517535",
+  "total_tracked": 1688,
   "total_drops": 37,
-  "total_new": 1687,
+  "total_new": 1688,
   "avg_drop_pct": 5.8,
   "biggest_drop_usd": 5000,
   "drops": [
@@ -1323,6 +1323,28 @@
       "price_history": [
         {
           "price": 14500,
+          "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116688385",
+      "title": "Mazda 3 2014",
+      "url": "https://www.olx.com.lb/ad/mazda-3-2014-ID116688385.html",
+      "make": "Mazda",
+      "model": "3",
+      "body_type": "Hatchback",
+      "year": 2014,
+      "mileage": 166000,
+      "transmission": "Manual",
+      "location": "Bikfaya, Metn",
+      "original_price": 11700,
+      "current_price": 11700,
+      "first_seen": "2026-03-08",
+      "posted_date": "2026-03-08",
+      "price_history": [
+        {
+          "price": 11700,
           "date": "2026-03-08"
         }
       ]
@@ -11243,7 +11265,7 @@
       "original_price": 22500,
       "current_price": 22500,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 22500,
@@ -35377,13 +35399,17 @@
       "transmission": "Manual",
       "location": "Rachaya Town, Rachaya",
       "original_price": 1500,
-      "current_price": 1500,
+      "current_price": 1700,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 1500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 1700,
+          "date": "2026-03-08"
         }
       ]
     },

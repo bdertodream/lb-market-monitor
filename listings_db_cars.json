@@ -12427,11 +12427,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-08",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116804056": {
     "id": "116804056",
@@ -42566,16 +42567,20 @@
     "location": "Rachaya Town, Rachaya",
     "district": "Rachaya",
     "original_price": 1500,
-    "current_price": 1500,
+    "current_price": 1700,
     "price_history": [
       {
         "price": 1500,
         "date": "2026-03-01"
+      },
+      {
+        "price": 1700,
+        "date": "2026-03-08"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-08",
-    "last_updated": "2026-03-07",
+    "last_updated": "2026-03-08",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
@@ -46769,6 +46774,34 @@
     "price_history": [
       {
         "price": 14500,
+        "date": "2026-03-08"
+      }
+    ],
+    "first_seen": "2026-03-08",
+    "last_seen": "2026-03-08",
+    "last_updated": "2026-03-08",
+    "posted_date": "2026-03-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116688385": {
+    "id": "116688385",
+    "title": "Mazda 3 2014",
+    "url": "https://www.olx.com.lb/ad/mazda-3-2014-ID116688385.html",
+    "make": "Mazda",
+    "model": "3",
+    "body_type": "Hatchback",
+    "year": 2014,
+    "mileage": 166000,
+    "transmission": "Manual",
+    "location": "Bikfaya, Metn",
+    "district": "Metn",
+    "original_price": 11700,
+    "current_price": 11700,
+    "price_history": [
+      {
+        "price": 11700,
         "date": "2026-03-08"
       }
     ],
