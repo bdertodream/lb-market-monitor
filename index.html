@@ -588,14 +588,32 @@ function fmtPrice(n){
 }
 
 /* ── Data Loading ──────────────────────────────────── */
+function normalizeUae(items){
+  return items.map(d=>{
+    const cp=d.current_price||d.new_price||0;
+    const op=d.original_price||d.old_price||0;
+    const sqm=parseFloat(d.sqm||d.size)||0;
+    return Object.assign({},d,{
+      type:d.type||d.category||'',
+      location:d.location||d.area||'',
+      current_price:Math.round(cp/3.6725),
+      original_price:Math.round(op/3.6725),
+      drop_usd:Math.round((op-cp)/3.6725),
+      drop_pct:d.drop_pct||0,
+      sqm:sqm,
+      last_drop_date:d.last_drop_date||d.date||'',
+      posted_date:d.posted_date||d.first_seen||''
+    });
+  });
+}
 async function loadData(){
   // LB data
   try{const r=await fetch('drops_feed.json');if(r.ok){const j=await r.json();lbReData=j}}catch(e){console.log('LB RE data not yet available')}
   try{const r=await fetch('drops_feed_cars.json');if(r.ok){const j=await r.json();lbCarsData=j}}catch(e){console.log('LB Cars data not yet available')}
   try{const r=await fetch('drops_feed_plates.json');if(r.ok){const j=await r.json();lbPlatesData=j}}catch(e){console.log('LB Plates data not yet available')}
   // UAE data
-  try{const r=await fetch('drops_feed_uae.json');if(r.ok){const j=await r.json();uaeReData=j}}catch(e){console.log('UAE RE data not yet available')}
-  try{const r=await fetch('drops_feed_uae_cars.json');if(r.ok){const j=await r.json();uaeCarsData=j}}catch(e){console.log('UAE Cars data not yet available')}
+  try{const r=await fetch('drops_feed_uae.json');if(r.ok){const j=await r.json();uaeReData=j;uaeReData.drops=normalizeUae(uaeReData.drops);if(uaeReData.new_listings)uaeReData.new_listings=normalizeUae(uaeReData.new_listings)}}catch(e){console.log('UAE RE data not yet available')}
+  try{const r=await fetch('drops_feed_uae_cars.json');if(r.ok){const j=await r.json();uaeCarsData=j;if(uaeCarsData.drops)uaeCarsData.drops=normalizeUae(uaeCarsData.drops);if(uaeCarsData.new_listings)uaeCarsData.new_listings=normalizeUae(uaeCarsData.new_listings)}}catch(e){console.log('UAE Cars data not yet available')}
   refresh();
 }
 
@@ -875,7 +893,7 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
         <td class="hide-m" style="font-size:12px;color:var(--tx2)">${priceSqm(d)?priceSqm(d).toLocaleString()+' $/sqm':"--"}</td>
         
           <td class="hide-m"><span class="new-badge">NEW</span> <span class="date">${isToday?'<span style="color:var(--grn)">today</span>':listDate||'--'}</span></td>
-          <td><a class="link-btn" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
+          <td><a class="link-btn" href="${d.url}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
         </tr>`}).join('');
     }else if(activeTab==='cars'||activeTab==='uae-cars'){
       tbody.innerHTML=items.map((d,i)=>{
@@ -890,7 +908,7 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
           <td class="hide-m" style="font:400 12px/1 'JetBrains Mono',monospace;color:var(--tx3)">${fmtKM(d.mileage)}</td>
           <td><div class="p-now">${fmt(d.current_price)}</div></td>
           <td class="hide-m"><span class="new-badge">NEW</span> <span class="date">${isToday?'<span style="color:var(--grn)">today</span>':listDate||'--'}</span></td>
-          <td><a class="link-btn" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
+          <td><a class="link-btn" href="${d.url}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
         </tr>`}).join('');
     }else{
       tbody.innerHTML=items.map((d,i)=>{
@@ -902,7 +920,7 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
           <td class="hide-m" style="font-size:12px;color:var(--tx2)">${esc((d.location||'').split(',')[0])}</td>
           <td><div class="p-now">${fmtUSD(d.current_price)}</div></td>
           <td class="hide-m"><span class="new-badge">NEW</span> <span class="date">${isToday?'<span style="color:var(--grn)">today</span>':listDate||'--'}</span></td>
-          <td><a class="link-btn" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on OLX">${ICON_ARROW}</a></td>
+          <td><a class="link-btn" href="${d.url}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on OLX">${ICON_ARROW}</a></td>
         </tr>`}).join('');
     }
   }else{
@@ -920,7 +938,7 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
           <td><span class="drop ${dc}">${d.drop_pct}%</span></td>
           <td><span class="drop-amt">-${fmt(d.drop_usd)}</span></td><td class="hide-m" style="font-size:12px;color:var(--tx2)">${priceSqm(d)?priceSqm(d).toLocaleString()+' $/sqm':"--"}</td>
           <td class="hide-m"><span class="date">${isToday?'<span style="color:var(--grn)">today</span>':d.last_drop_date||'--'}</span></td>
-          <td><a class="link-btn" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
+          <td><a class="link-btn" href="${d.url}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
         </tr>`}).join('');
     }else if(activeTab==='cars'||activeTab==='uae-cars'){
       tbody.innerHTML=items.map((d,i)=>{
@@ -938,7 +956,7 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
           <td><span class="drop ${dc}">${d.drop_pct}%</span></td>
           <td><span class="drop-amt">-${fmt(d.drop_usd)}</span></td>
           <td class="hide-m"><span class="date">${isToday?'<span style="color:var(--grn)">today</span>':d.last_drop_date||'--'}</span></td>
-          <td><a class="link-btn" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
+          <td><a class="link-btn" href="${d.url}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
         </tr>`}).join('');
     }else{
       tbody.innerHTML=items.map((d,i)=>{
@@ -953,7 +971,7 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
           <td><span class="drop ${dc}">${d.drop_pct}%</span></td>
           <td><span class="drop-amt">-${fmtUSD(d.drop_usd)}</span></td>
           <td class="hide-m"><span class="date">${isToday?'<span style="color:var(--grn)">today</span>':d.last_drop_date||'--'}</span></td>
-          <td><a class="link-btn" href="${d.url}" target="_blank" onclick="event.stopPropagation()" title="View on OLX">${ICON_ARROW}</a></td>
+          <td><a class="link-btn" href="${d.url}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on OLX">${ICON_ARROW}</a></td>
         </tr>`}).join('');
     }
   }
