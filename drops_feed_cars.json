@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-09T15:01:08.743666",
-  "total_tracked": 2002,
-  "total_drops": 65,
-  "total_new": 2002,
-  "avg_drop_pct": 7.4,
+  "generated_at": "2026-03-09T15:56:47.147192",
+  "total_tracked": 2009,
+  "total_drops": 67,
+  "total_new": 2009,
+  "avg_drop_pct": 7.2,
   "biggest_drop_usd": 426000,
   "drops": [
     {
@@ -1398,6 +1398,35 @@
       ]
     },
     {
+      "id": "116815200",
+      "title": "Mercedes-Benz S-Class 2008",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-s-class-2008-ID116815200.html",
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "body_type": "Sedan",
+      "year": 2008,
+      "mileage": 175000,
+      "transmission": "Automatic",
+      "location": "Adonis, Keserouan",
+      "original_price": 13900,
+      "current_price": 13600,
+      "drop_usd": 300,
+      "drop_pct": 2.2,
+      "last_drop_date": "2026-03-09",
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 13900,
+          "date": "2026-03-09"
+        },
+        {
+          "price": 13600,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
       "id": "116811923",
       "title": "Mercedes-Benz GLE - Class 2017",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-gle-class-2017-ID116811923.html",
@@ -1713,6 +1742,35 @@
         {
           "price": 15300,
           "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116779749",
+      "title": "Mercedes-Benz GLC 300 2021 clean car fax",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-300-2021-clean-car-fax-ID116779749.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2021,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Okaibe, Keserouan",
+      "original_price": 43500,
+      "current_price": 43000,
+      "drop_usd": 500,
+      "drop_pct": 1.1,
+      "last_drop_date": "2026-03-09",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 43500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 43000,
+          "date": "2026-03-09"
         }
       ]
     },
@@ -3877,12 +3935,16 @@
       "transmission": "Automatic",
       "location": "Adonis, Keserouan",
       "original_price": 13900,
-      "current_price": 13900,
+      "current_price": 13600,
       "first_seen": "2026-03-09",
       "posted_date": "2026-03-09",
       "price_history": [
         {
           "price": 13900,
+          "date": "2026-03-09"
+        },
+        {
+          "price": 13600,
           "date": "2026-03-09"
         }
       ]
@@ -4499,6 +4561,160 @@
       "price_history": [
         {
           "price": 12000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116815393",
+      "title": "Audi Q4 e-tron 2025",
+      "url": "https://www.olx.com.lb/ad/audi-q4-e-tron-2025-ID116815393.html",
+      "make": "Audi",
+      "model": "e-tron",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Bouar, Keserouan",
+      "original_price": 39000,
+      "current_price": 39000,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 39000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116728225",
+      "title": "Audi A5 2014",
+      "url": "https://www.olx.com.lb/ad/audi-a5-2014-ID116728225.html",
+      "make": "Audi",
+      "model": "A5",
+      "body_type": "Sports / Coupe",
+      "year": 2014,
+      "mileage": 120000,
+      "transmission": "Steptronic",
+      "location": "Nahr El Mott, Metn",
+      "original_price": 13000,
+      "current_price": 13000,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 13000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116815379",
+      "title": "Jeep Cherokee 1990",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-1990-ID116815379.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "Other",
+      "year": 1990,
+      "mileage": 5,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 4500,
+      "current_price": 4500,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 4500,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116723908",
+      "title": "RAV 4 LE SUPER CLEAN",
+      "url": "https://www.olx.com.lb/ad/جيب-جراند-شيروكى-2017-ID116723908.html",
+      "make": "Toyota",
+      "model": "Rav 4",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 108000,
+      "transmission": "Steptronic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 19000,
+      "current_price": 19000,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 19000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116815360",
+      "title": "Hyundai Kona 2019 full electric",
+      "url": "https://www.olx.com.lb/ad/hyundai-kona-2019-full-electric-ID116815360.html",
+      "make": "Hyundai",
+      "model": "Kona",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 45000,
+      "transmission": "Automatic",
+      "location": "Zouk Mosbeh, Keserouan",
+      "original_price": 19000,
+      "current_price": 19000,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 19000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116815351",
+      "title": "Suzuki Vitara 2018",
+      "url": "https://www.olx.com.lb/ad/suzuki-vitara-2018-ID116815351.html",
+      "make": "Suzuki",
+      "model": "Vitara",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 163902,
+      "transmission": "Automatic",
+      "location": "Majdalaya, Zgharta",
+      "original_price": 14500,
+      "current_price": 14500,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 14500,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116815343",
+      "title": "Jeep Grand Cherokee 2019",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2019-ID116815343.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Baabda Town, Baabda",
+      "original_price": 23900,
+      "current_price": 23900,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 23900,
           "date": "2026-03-09"
         }
       ]
@@ -10283,13 +10499,17 @@
       "transmission": "Automatic",
       "location": "Okaibe, Keserouan",
       "original_price": 43500,
-      "current_price": 43500,
+      "current_price": 43000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 43500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 43000,
+          "date": "2026-03-09"
         }
       ]
     },
@@ -28107,7 +28327,7 @@
       "original_price": 4700,
       "current_price": 4700,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 4700,
