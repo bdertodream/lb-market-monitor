@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T08:42:10.079166",
+  "generated_at": "2026-03-09T08:59:00.806530",
   "total_tracked": 211,
   "total_drops": 2,
   "total_new": 211,
@@ -2152,13 +2152,17 @@
       "plate_type": "Standard",
       "location": "Tabaris, Beirut",
       "original_price": 18000,
-      "current_price": 18000,
+      "current_price": 23000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 18000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 23000,
+          "date": "2026-03-09"
         }
       ]
     },

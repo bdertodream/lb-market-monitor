@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-09T08:41:51.639066",
-  "total_tracked": 1912,
+  "generated_at": "2026-03-09T08:58:41.335727",
+  "total_tracked": 1915,
   "total_drops": 54,
-  "total_new": 1912,
+  "total_new": 1915,
   "avg_drop_pct": 8.5,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -2192,6 +2192,72 @@
       "price_history": [
         {
           "price": 11000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116727533",
+      "title": "Land Rover Range Rover Sport 2019",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2019-ID116727533.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 90000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 43000,
+      "current_price": 43000,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 43000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116649475",
+      "title": "Land Rover Range Rover Sport 2020",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2020-ID116649475.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 102000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 48000,
+      "current_price": 48000,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 48000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116649468",
+      "title": "Land Rover Velar 2019",
+      "url": "https://www.olx.com.lb/ad/land-rover-velar-2019-ID116649468.html",
+      "make": "Land Rover",
+      "model": "Velar",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 56000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 39000,
+      "current_price": 39000,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 39000,
           "date": "2026-03-09"
         }
       ]

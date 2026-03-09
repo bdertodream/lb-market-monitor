@@ -7182,7 +7182,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -53200,6 +53200,90 @@
     "price_history": [
       {
         "price": 11000,
+        "date": "2026-03-09"
+      }
+    ],
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "last_updated": "2026-03-09",
+    "posted_date": "2026-03-09",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116727533": {
+    "id": "116727533",
+    "title": "Land Rover Range Rover Sport 2019",
+    "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2019-ID116727533.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 90000,
+    "transmission": "Steptronic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 43000,
+    "current_price": 43000,
+    "price_history": [
+      {
+        "price": 43000,
+        "date": "2026-03-09"
+      }
+    ],
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "last_updated": "2026-03-09",
+    "posted_date": "2026-03-09",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116649475": {
+    "id": "116649475",
+    "title": "Land Rover Range Rover Sport 2020",
+    "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2020-ID116649475.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2020,
+    "mileage": 102000,
+    "transmission": "Steptronic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 48000,
+    "current_price": 48000,
+    "price_history": [
+      {
+        "price": 48000,
+        "date": "2026-03-09"
+      }
+    ],
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "last_updated": "2026-03-09",
+    "posted_date": "2026-03-09",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116649468": {
+    "id": "116649468",
+    "title": "Land Rover Velar 2019",
+    "url": "https://www.olx.com.lb/ad/land-rover-velar-2019-ID116649468.html",
+    "make": "Land Rover",
+    "model": "Velar",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 56000,
+    "transmission": "Steptronic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 39000,
+    "current_price": 39000,
+    "price_history": [
+      {
+        "price": 39000,
         "date": "2026-03-09"
       }
     ],
