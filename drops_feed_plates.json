@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-09T10:45:02.615541",
-  "total_tracked": 211,
+  "generated_at": "2026-03-09T11:37:09.969369",
+  "total_tracked": 212,
   "total_drops": 2,
-  "total_new": 211,
+  "total_new": 212,
   "avg_drop_pct": 16.9,
   "biggest_drop_usd": 1800,
   "drops": [
@@ -76,6 +76,24 @@
       "price_history": [
         {
           "price": 37000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116815005",
+      "title": "sac tekhsis jehiz",
+      "url": "https://www.olx.com.lb/ad/sac-tekhsis-jehiz-ID116815005.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Tall Ez Zaatar, Metn",
+      "original_price": 4000,
+      "current_price": 4000,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 4000,
           "date": "2026-03-09"
         }
       ]
