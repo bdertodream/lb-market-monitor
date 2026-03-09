@@ -5,8 +5,23 @@
   "total_new": 0,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
-  "drops": [],
+  "drops": [
+    {
+      "id": "9804083",
+      "title": "Fully Fitted Rented Office On Mid Floor",
+      "old_price": 2400000,
+      "new_price": 1700000,
+      "drop_pct": 29.2,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/14/fully-fitted-rented-office-on-mid-floor-2-197922/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "563",
+      "bedrooms": "",
+      "date": "2026-03-09",
+      "first_seen": "2026-03-08"
+    }
+  ],
   "new_listings": [],
-  "tracked": 1119,
+  "tracked": 1182,
   "last_updated": "2026-03-09"
 }

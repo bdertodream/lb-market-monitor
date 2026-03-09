@@ -1512,7 +1512,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -3709,7 +3709,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -4964,7 +4964,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -9366,7 +9366,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-06",
     "drop_usd": 300,
     "drop_pct": 2.2,
@@ -29719,7 +29719,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -33518,7 +33518,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -35604,7 +35604,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -44874,7 +44874,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-09",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -52790,6 +52790,34 @@
     "price_history": [
       {
         "price": 3500,
+        "date": "2026-03-09"
+      }
+    ],
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "last_updated": "2026-03-09",
+    "posted_date": "2026-03-09",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116814719": {
+    "id": "116814719",
+    "title": "AVATR  11  DUAL MOTOR (AWD)  2026, 3.500Km ONLY",
+    "url": "https://www.olx.com.lb/ad/avatr-11-dual-motor-awd-2026-3500km-only-ID116814719.html",
+    "make": "Avatr",
+    "model": "Avatr 11",
+    "body_type": "Other",
+    "year": 2026,
+    "mileage": 3500,
+    "transmission": "Automatic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 50000,
+    "current_price": 50000,
+    "price_history": [
+      {
+        "price": 50000,
         "date": "2026-03-09"
       }
     ],
