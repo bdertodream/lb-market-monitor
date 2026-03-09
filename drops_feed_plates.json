@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-09T19:05:23.026784",
-  "total_tracked": 213,
+  "generated_at": "2026-03-09T19:42:14.386257",
+  "total_tracked": 214,
   "total_drops": 2,
-  "total_new": 213,
+  "total_new": 214,
   "avg_drop_pct": 16.9,
   "biggest_drop_usd": 1800,
   "drops": [
@@ -39,10 +39,10 @@
       "plate_type": "Standard",
       "location": "Dekwaneh, Metn",
       "original_price": 3400,
-      "current_price": 3400,
+      "current_price": 3300,
       "drop_usd": 100,
       "drop_pct": 2.9,
-      "last_drop_date": "2026-03-07",
+      "last_drop_date": "2026-03-09",
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -57,6 +57,10 @@
         {
           "price": 3400,
           "date": "2026-03-08"
+        },
+        {
+          "price": 3300,
+          "date": "2026-03-09"
         }
       ]
     }
@@ -112,6 +116,24 @@
       "price_history": [
         {
           "price": 15000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116815651",
+      "title": "Special Car Plate Number صك تخصيص جاهز A 966666",
+      "url": "https://www.olx.com.lb/ad/special-car-plate-number-صك-تخصيص-جاهز-a-966666-ID116815651.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jounieh, Keserouan",
+      "original_price": 16500,
+      "current_price": 16500,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 16500,
           "date": "2026-03-09"
         }
       ]
@@ -1676,7 +1698,7 @@
       "plate_type": "Standard",
       "location": "Dekwaneh, Metn",
       "original_price": 3400,
-      "current_price": 3400,
+      "current_price": 3300,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -1691,6 +1713,10 @@
         {
           "price": 3400,
           "date": "2026-03-08"
+        },
+        {
+          "price": 3300,
+          "date": "2026-03-09"
         }
       ]
     },
@@ -2020,19 +2046,23 @@
     },
     {
       "id": "116799403",
-      "title": "S-424424",
+      "title": "S-79797",
       "url": "https://www.olx.com.lb/ad/s-424424-ID116799403.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Other in Saida, Saida",
       "original_price": 4400,
-      "current_price": 4400,
+      "current_price": 4899,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 4400,
           "date": "2026-03-01"
+        },
+        {
+          "price": 4899,
+          "date": "2026-03-09"
         }
       ]
     },
