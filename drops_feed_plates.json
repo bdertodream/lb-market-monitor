@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-08T23:23:09.059644",
-  "total_tracked": 210,
+  "generated_at": "2026-03-09T01:22:24.856844",
+  "total_tracked": 211,
   "total_drops": 2,
-  "total_new": 210,
+  "total_new": 211,
   "avg_drop_pct": 16.9,
   "biggest_drop_usd": 1800,
   "drops": [
@@ -62,6 +62,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116814493",
+      "title": "car plate",
+      "url": "https://www.olx.com.lb/ad/car-plate-ID116814493.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 37000,
+      "current_price": 37000,
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 37000,
+          "date": "2026-03-09"
+        }
+      ]
+    },
     {
       "id": "115548047",
       "title": "S   310000   &   N   310000",
