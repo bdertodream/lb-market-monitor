@@ -98,6 +98,8 @@ def parse_hit(hit):
         if isinstance(details, dict):
             for k, v in details.items():
                 vv = v.get("en", v) if isinstance(v, dict) else str(v)
+                if isinstance(vv, dict) and "value" in vv:
+                    vv = vv["value"]
                 if isinstance(vv, list):
                     vv = vv[0] if vv else ""
                 kl = k.lower()
