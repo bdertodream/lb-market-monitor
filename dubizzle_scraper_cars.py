@@ -197,7 +197,7 @@ def load_feed():
     if os.path.exists(FEED_FILE):
         with open(FEED_FILE) as f:
             return json.load(f)
-    return []
+    return {"total_tracked": 0, "drops": [], "new_listings": []}
 
 def save_feed(feed):
     with open(FEED_FILE, "w") as f:
@@ -211,10 +211,12 @@ def main():
     print(f"\nTotal parsed: {len(listings)}")
 
     db = load_db()
-    feed = load_feed()
+    old_feed = load_feed()
+    existing_drops = old_feed.get("drops", old_feed) if isinstance(old_feed, dict) else old_feed
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     new_count = 0
     drop_count = 0
+    drops = list(existing_drops) if isinstance(existing_drops, list) else []
 
     for item in listings:
         lid = item["id"]
@@ -228,7 +230,7 @@ def main():
                 db[lid]["url"] = item["url"]
                 if pct >= DROP_THRESHOLD:
                     drop_count += 1
-                    feed.append({
+                    drops.append({
                         "id": lid,
                         "title": item["title"],
                         "old_price": old_price,
@@ -263,6 +265,32 @@ def main():
                 "prices": [{"price": item["price"], "date": now}],
                 "date": item.get("date", ""),
             }
+
+    # Build new_listings from db (listings first seen after war start)
+    new_listings = []
+    for lid, entry in db.items():
+        if entry.get("first_seen", "") >= WAR_START:
+            new_listings.append({
+                "id": lid,
+                "title": entry["title"],
+                "url": entry["url"],
+                "category": entry.get("category", ""),
+                "make": entry.get("make", ""),
+                "model": entry.get("model", ""),
+                "year": entry.get("year", ""),
+                "price": entry["price"],
+                "first_seen": entry["first_seen"],
+            })
+    new_listings.sort(key=lambda x: x.get("first_seen", ""), reverse=True)
+
+    feed = {
+        "total_tracked": len(db),
+        "total_drops": len(drops),
+        "total_new": len(new_listings),
+        "last_updated": now,
+        "drops": drops[-500:],
+        "new_listings": new_listings[:500],
+    }
 
     save_db(db)
     save_feed(feed)
