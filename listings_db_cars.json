@@ -10931,16 +10931,20 @@
     "location": "Furn El Chebbak, Baabda",
     "district": "Baabda",
     "original_price": 7850,
-    "current_price": 7850,
+    "current_price": 7950,
     "price_history": [
       {
         "price": 7850,
         "date": "2026-03-01"
+      },
+      {
+        "price": 7950,
+        "date": "2026-03-10"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-10",
-    "last_updated": "2026-03-05",
+    "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
@@ -26552,19 +26556,24 @@
     "location": "Saida Downtown, Saida",
     "district": "Saida",
     "original_price": 15900,
-    "current_price": 15900,
+    "current_price": 15500,
     "price_history": [
       {
         "price": 15900,
         "date": "2026-03-01"
+      },
+      {
+        "price": 15500,
+        "date": "2026-03-10"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-05",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "drop_usd": 400,
+    "drop_pct": 2.5,
+    "last_drop_date": "2026-03-10",
+    "posted_date": "2026-03-01"
   },
   "116787630": {
     "id": "116787630",
@@ -38576,16 +38585,20 @@
     "location": "Horsh Tabet, Metn",
     "district": "Metn",
     "original_price": 7888,
-    "current_price": 7888,
+    "current_price": 7999,
     "price_history": [
       {
         "price": 7888,
         "date": "2026-03-01"
+      },
+      {
+        "price": 7999,
+        "date": "2026-03-10"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-10",
-    "last_updated": "2026-03-06",
+    "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
@@ -62320,6 +62333,174 @@
     "price_history": [
       {
         "price": 58000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116654355": {
+    "id": "116654355",
+    "title": "Jaguar F-Pace R Sport 2017",
+    "url": "https://www.olx.com.lb/ad/jaguar-f-pace-r-sport-2017-ID116654355.html",
+    "make": "Jaguar",
+    "model": "F-Pace",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 90000,
+    "transmission": "Steptronic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 26000,
+    "current_price": 26000,
+    "price_history": [
+      {
+        "price": 26000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116774538": {
+    "id": "116774538",
+    "title": "Land Rover Range Rover Sport 2020",
+    "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2020-ID116774538.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2020,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Badaro, Beirut",
+    "district": "Beirut",
+    "original_price": 45000,
+    "current_price": 45000,
+    "price_history": [
+      {
+        "price": 45000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116669221": {
+    "id": "116669221",
+    "title": "Jaguar F-Pace 2018",
+    "url": "https://www.olx.com.lb/ad/jaguar-f-pace-2018-ID116669221.html",
+    "make": "Jaguar",
+    "model": "F-Pace",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 81000,
+    "transmission": "Automatic",
+    "location": "Ghazir, Keserouan",
+    "district": "Keserouan",
+    "original_price": 17900,
+    "current_price": 17900,
+    "price_history": [
+      {
+        "price": 17900,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816491": {
+    "id": "116816491",
+    "title": "Hyundai I10 2010",
+    "url": "https://www.olx.com.lb/ad/hyundai-i10-2010-ID116816491.html",
+    "make": "Hyundai",
+    "model": "I10",
+    "body_type": "Hatchback",
+    "year": 2010,
+    "mileage": 150000,
+    "transmission": "Automatic",
+    "location": "Ras Beirut, Beirut",
+    "district": "Beirut",
+    "original_price": 5000,
+    "current_price": 5000,
+    "price_history": [
+      {
+        "price": 5000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816482": {
+    "id": "116816482",
+    "title": "Kia Rio 2005",
+    "url": "https://www.olx.com.lb/ad/kia-rio-2005-ID116816482.html",
+    "make": "Kia",
+    "model": "Rio",
+    "body_type": "Sedan",
+    "year": 2005,
+    "mileage": 240000,
+    "transmission": "Automatic",
+    "location": "Other in Akkar, Akkar",
+    "district": "Akkar",
+    "original_price": 4000,
+    "current_price": 4000,
+    "price_history": [
+      {
+        "price": 4000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816470": {
+    "id": "116816470",
+    "title": "Jeep Grand Cherokee 2019 Limited",
+    "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2019-limited-ID116816470.html",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Zgharta Town, Zgharta",
+    "district": "Zgharta",
+    "original_price": 27500,
+    "current_price": 27500,
+    "price_history": [
+      {
+        "price": 27500,
         "date": "2026-03-10"
       }
     ],
