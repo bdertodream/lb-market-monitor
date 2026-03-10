@@ -4,10 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>War Market Monitor — Price Drop Tracker</title>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fontsgoogleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-
 /* ── Theme Variables ─────────────────────────────── */
 :root{--blur:24px;--glass:rgba(255,255,255,.04);--glass-border:rgba(255,255,255,.08);--glass-hover:rgba(255,255,255,.08);--radius:20px}
 [data-theme="dark"]{
@@ -602,7 +601,8 @@ function normalizeUae(items){
       drop_pct:d.drop_pct||0,
       sqm:sqm,
       last_drop_date:d.last_drop_date||d.date||'',
-      posted_date:d.posted_date||d.first_seen||''
+      posted_date:d.posted_date||d.first_seen||'',
+      mileage:d.mileage||''
     });
   });
 }
