@@ -1,11 +1,36 @@
 {
-  "generated_at": "2026-03-10T01:16:13.561715",
+  "generated_at": "2026-03-10T04:08:49.364711",
   "total_tracked": 214,
-  "total_drops": 3,
+  "total_drops": 4,
   "total_new": 214,
-  "avg_drop_pct": 12.1,
-  "biggest_drop_usd": 1800,
+  "avg_drop_pct": 30.0,
+  "biggest_drop_usd": 13000,
   "drops": [
+    {
+      "id": "116811046",
+      "title": "plate 112555 B     or  wiz DB E350 2011",
+      "url": "https://www.olx.com.lb/ad/plate-112555-b-ID116811046.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Tallet el Khayat, Beirut",
+      "original_price": 15500,
+      "current_price": 2500,
+      "drop_usd": 13000,
+      "drop_pct": 83.9,
+      "last_drop_date": "2026-03-10",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 15500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 2500,
+          "date": "2026-03-10"
+        }
+      ]
+    },
     {
       "id": "116596685",
       "title": "Special car number: S 6085",
@@ -823,13 +848,17 @@
       "plate_type": "Standard",
       "location": "Tallet el Khayat, Beirut",
       "original_price": 15500,
-      "current_price": 15500,
+      "current_price": 2500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 15500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 2500,
+          "date": "2026-03-10"
         }
       ]
     },

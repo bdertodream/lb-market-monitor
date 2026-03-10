@@ -752,19 +752,23 @@
     "location": "Tallet el Khayat, Beirut",
     "district": "Beirut",
     "original_price": 15500,
-    "current_price": 15500,
+    "current_price": 2500,
     "price_history": [
       {
         "price": 15500,
         "date": "2026-03-01"
+      },
+      {
+        "price": 2500,
+        "date": "2026-03-10"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-10",
-    "last_updated": "2026-03-07",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_updated": "2026-03-10",
+    "drop_usd": 13000,
+    "drop_pct": 83.9,
+    "last_drop_date": "2026-03-10",
     "posted_date": "2026-03-01"
   },
   "116724986": {
