@@ -1960,7 +1960,7 @@
     "location": "Dekwaneh, Metn",
     "district": "Metn",
     "original_price": 3400,
-    "current_price": 3400,
+    "current_price": 3300,
     "price_history": [
       {
         "price": 3400,
@@ -1981,14 +1981,18 @@
       {
         "price": 3400,
         "date": "2026-03-09"
+      },
+      {
+        "price": 3300,
+        "date": "2026-03-10"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-10",
-    "last_updated": "2026-03-09",
+    "last_updated": "2026-03-10",
     "drop_usd": 100,
     "drop_pct": 2.9,
-    "last_drop_date": "2026-03-09",
+    "last_drop_date": "2026-03-10",
     "posted_date": "2026-03-01"
   },
   "116668811": {
@@ -5052,7 +5056,7 @@
   },
   "116772999": {
     "id": "116772999",
-    "title": "special plate numbers",
+    "title": "لوحات سياراات مميزة",
     "url": "https://www.olx.com.lb/ad/ارقام-مميزة-ID116772999.html",
     "plate_code": "",
     "plate_type": "Standard",
@@ -5067,7 +5071,7 @@
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-10",
     "last_updated": "2026-03-08",
     "posted_date": "2026-03-08",
     "drop_usd": 0,
