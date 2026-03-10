@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 2051,
-  "total_drops": 4,
-  "total_new": 2051,
+  "total_tracked": 2055,
+  "total_drops": 5,
+  "total_new": 2055,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -61,6 +61,20 @@
       "bedrooms": "2",
       "date": "2026-03-09",
       "first_seen": "2026-03-08"
+    },
+    {
+      "id": "17012447",
+      "title": "Buy apartment Dubai | Smart home | Panoramic view",
+      "old_price": 862000,
+      "new_price": 811000,
+      "drop_pct": 5.9,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/29/buy-apartment-dubai-smart-home-panorami-2-933900/",
+      "area": "Dubai Production City (IMPZ)",
+      "category": "Apartment",
+      "size": "375",
+      "bedrooms": "0",
+      "date": "2026-03-10",
+      "first_seen": "2026-03-09"
     }
   ],
   "new_listings": [
@@ -403,6 +417,50 @@
       "size": "11517",
       "bedrooms": "",
       "price": 29000000,
+      "first_seen": "2026-03-10"
+    },
+    {
+      "id": "16965143",
+      "title": "Three Bedroom | Renovated | Balcony",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/20/14h1-limestone-house-limestone-house-di-2-331283/",
+      "area": "DIFC",
+      "category": "Apartment",
+      "size": "2815",
+      "bedrooms": "3",
+      "price": 13500000,
+      "first_seen": "2026-03-10"
+    },
+    {
+      "id": "17030165",
+      "title": "2 Bed plus Maids | Community Living | Brand New",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/3/2-bed-plus-maids-community-living-brand-2-111067/",
+      "area": "Dubailand",
+      "category": "Villa",
+      "size": "854",
+      "bedrooms": "2",
+      "price": 2200000,
+      "first_seen": "2026-03-10"
+    },
+    {
+      "id": "16904517",
+      "title": "Exclusive Location | Type B | Next To Pool And Park",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/1/7/exclusive-type-b-next-to-pool-and-park-2-174197/",
+      "area": "Al Furjan",
+      "category": "Villa",
+      "size": "4845",
+      "bedrooms": "4",
+      "price": 8750000,
+      "first_seen": "2026-03-10"
+    },
+    {
+      "id": "9807361",
+      "title": "Business Bay Park View Shop | Community Expert",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/10/business-bay-park-view-shop-community-e-2-996587/",
+      "area": "Business Bay",
+      "category": "Shop",
+      "size": "379",
+      "bedrooms": "",
+      "price": 1400000,
       "first_seen": "2026-03-10"
     },
     {
@@ -1667,7 +1725,7 @@
       "category": "Apartment",
       "size": "1560",
       "bedrooms": "2",
-      "price": 2234000,
+      "price": 2198500,
       "first_seen": "2026-03-09"
     },
     {
@@ -1678,7 +1736,7 @@
       "category": "Apartment",
       "size": "375",
       "bedrooms": "0",
-      "price": 862000,
+      "price": 811000,
       "first_seen": "2026-03-09"
     },
     {
@@ -1711,7 +1769,7 @@
       "category": "Apartment",
       "size": "359",
       "bedrooms": "0",
-      "price": 714000,
+      "price": 708500,
       "first_seen": "2026-03-09"
     },
     {
@@ -5518,50 +5576,6 @@
       "size": "1038",
       "bedrooms": "",
       "price": 3951608,
-      "first_seen": "2026-03-09"
-    },
-    {
-      "id": "9806678",
-      "title": "Prime Retail | Main Road | Handover Q4 2026",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/5/prime-retail-main-road-handover-q4-2026-2-891243/",
-      "area": "Arjan",
-      "category": "Shop",
-      "size": "1019",
-      "bedrooms": "",
-      "price": 3877845,
-      "first_seen": "2026-03-09"
-    },
-    {
-      "id": "9807250",
-      "title": "Exclusive Offer | Investor Price | Fast Selling",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/9/exclusive-offer-investor-price-fast-sel-2-310193/",
-      "area": "Majan",
-      "category": "Shop",
-      "size": "1287",
-      "bedrooms": "",
-      "price": 4100000,
-      "first_seen": "2026-03-09"
-    },
-    {
-      "id": "9807249",
-      "title": "Hot Deal | Smart Investment | Rare Opportunity",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/9/hot-deal-smart-investment-rare-opportun-2-257582/",
-      "area": "Majan",
-      "category": "Shop",
-      "size": "1012",
-      "bedrooms": "",
-      "price": 3210000,
-      "first_seen": "2026-03-09"
-    },
-    {
-      "id": "9746986",
-      "title": "Rare Large Corner Plot | Prime Location | Jebel Ali Hills",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/3/9/rare-large-corner-plot-prime-location-j-2-568700/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "18054",
-      "bedrooms": "",
-      "price": 7890000,
       "first_seen": "2026-03-09"
     }
   ],
