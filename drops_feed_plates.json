@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-09T23:27:06.374337",
+  "generated_at": "2026-03-10T01:16:13.561715",
   "total_tracked": 214,
-  "total_drops": 2,
+  "total_drops": 3,
   "total_new": 214,
-  "avg_drop_pct": 16.9,
+  "avg_drop_pct": 12.1,
   "biggest_drop_usd": 1800,
   "drops": [
     {
@@ -65,6 +65,31 @@
         {
           "price": 3400,
           "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116795756",
+      "title": "مرسادس مودال ٢٠٠٢",
+      "url": "https://www.olx.com.lb/ad/أرقام-مميزه-للبيع-777710z-777710-b-ID116795756.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Al Beddaoui, Tripoli",
+      "original_price": 4300,
+      "current_price": 4200,
+      "drop_usd": 100,
+      "drop_pct": 2.3,
+      "last_drop_date": "2026-03-10",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 4300,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 4200,
+          "date": "2026-03-10"
         }
       ]
     }
@@ -2440,19 +2465,23 @@
     },
     {
       "id": "116795756",
-      "title": "هيونداي سوناتا . ٤سلندر",
+      "title": "مرسادس مودال ٢٠٠٢",
       "url": "https://www.olx.com.lb/ad/أرقام-مميزه-للبيع-777710z-777710-b-ID116795756.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Al Beddaoui, Tripoli",
       "original_price": 4300,
-      "current_price": 4300,
+      "current_price": 4200,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 4300,
           "date": "2026-03-01"
+        },
+        {
+          "price": 4200,
+          "date": "2026-03-10"
         }
       ]
     },
