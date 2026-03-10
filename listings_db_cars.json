@@ -1819,7 +1819,7 @@
     "location": "Dekwaneh, Metn",
     "district": "Metn",
     "original_price": 39000,
-    "current_price": 38800,
+    "current_price": 42800,
     "price_history": [
       {
         "price": 39000,
@@ -1828,11 +1828,15 @@
       {
         "price": 38800,
         "date": "2026-03-06"
+      },
+      {
+        "price": 42800,
+        "date": "2026-03-10"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-10",
-    "last_updated": "2026-03-06",
+    "last_updated": "2026-03-10",
     "drop_usd": 200,
     "drop_pct": 0.5,
     "last_drop_date": "2026-03-06",
@@ -14889,11 +14893,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-10",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116745224": {
     "id": "116745224",
@@ -14943,11 +14948,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-10",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116695021": {
     "id": "116695021",
@@ -14970,11 +14976,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-10",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116615700": {
     "id": "116615700",
@@ -14997,11 +15004,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-10",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116596121": {
     "id": "116596121",
@@ -15024,11 +15032,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-10",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116810417": {
     "id": "116810417",
@@ -15105,11 +15114,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-10",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116577668": {
     "id": "116577668",
@@ -15132,11 +15142,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-10",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116565682": {
     "id": "116565682",
@@ -15186,11 +15197,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-10",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116810414": {
     "id": "116810414",
@@ -19731,19 +19743,23 @@
     "location": "Zouk Mikael, Keserouan",
     "district": "Keserouan",
     "original_price": 12500,
-    "current_price": 12500,
+    "current_price": 12000,
     "price_history": [
       {
         "price": 12500,
         "date": "2026-03-01"
+      },
+      {
+        "price": 12000,
+        "date": "2026-03-10"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-10",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_updated": "2026-03-10",
+    "drop_usd": 500,
+    "drop_pct": 4.0,
+    "last_drop_date": "2026-03-10",
     "posted_date": "2026-03-01"
   },
   "116809633": {
@@ -56153,7 +56169,7 @@
     "location": "Mansourieh, Metn",
     "district": "Metn",
     "original_price": 13000,
-    "current_price": 12700,
+    "current_price": 12500,
     "price_history": [
       {
         "price": 13000,
@@ -56162,15 +56178,19 @@
       {
         "price": 12700,
         "date": "2026-03-09"
+      },
+      {
+        "price": 12500,
+        "date": "2026-03-10"
       }
     ],
     "first_seen": "2026-03-09",
     "last_seen": "2026-03-10",
-    "last_updated": "2026-03-09",
+    "last_updated": "2026-03-10",
     "posted_date": "2026-03-09",
-    "drop_usd": 300,
-    "drop_pct": 2.3,
-    "last_drop_date": "2026-03-09"
+    "drop_usd": 500,
+    "drop_pct": 3.8,
+    "last_drop_date": "2026-03-10"
   },
   "116639783": {
     "id": "116639783",
@@ -64361,6 +64381,314 @@
     "price_history": [
       {
         "price": 4700,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816797": {
+    "id": "116816797",
+    "title": "Infiniti Qx series 2015 - Luxury SUV",
+    "url": "https://www.olx.com.lb/ad/infiniti-qx-series-2015-luxury-suv-ID116816797.html",
+    "make": "Infiniti",
+    "model": "Qx series",
+    "body_type": "SUV",
+    "year": 2015,
+    "mileage": 1,
+    "transmission": "Automatic",
+    "location": "Ghazir, Keserouan",
+    "district": "Keserouan",
+    "original_price": 14000,
+    "current_price": 14000,
+    "price_history": [
+      {
+        "price": 14000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116776913": {
+    "id": "116776913",
+    "title": "Land Rover Discovery Luxury 2017",
+    "url": "https://www.olx.com.lb/ad/land-rover-discovery-luxury-2017-ID116776913.html",
+    "make": "Land Rover",
+    "model": "Discovery",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 88000,
+    "transmission": "Automatic",
+    "location": "Jbeil Town, Jbeil",
+    "district": "Jbeil",
+    "original_price": 28000,
+    "current_price": 28000,
+    "price_history": [
+      {
+        "price": 28000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116767777": {
+    "id": "116767777",
+    "title": "Mercedes-Benz GLC-Class 2017 look amg",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-class-2017-ID116767777.html",
+    "make": "Mercedes-Benz",
+    "model": "GLC-Class",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 98000,
+    "transmission": "Automatic",
+    "location": "Zgharta Town, Zgharta",
+    "district": "Zgharta",
+    "original_price": 25800,
+    "current_price": 25800,
+    "price_history": [
+      {
+        "price": 25800,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116615765": {
+    "id": "116615765",
+    "title": "Jetour T2 Brand new 0km XWD GCC panoramic roof 7 cameras Top!",
+    "url": "https://www.olx.com.lb/ad/jetour-t2-brand-new-0km-xwd-full-options-panoramic-roof-7-cameras-top-ID116615765.html",
+    "make": "Jetour",
+    "model": "T2",
+    "body_type": "SUV",
+    "year": 2006,
+    "mileage": 0,
+    "transmission": "Steptronic",
+    "location": "Dekwaneh, Metn",
+    "district": "Metn",
+    "original_price": 42800,
+    "current_price": 42800,
+    "price_history": [
+      {
+        "price": 42800,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116603191": {
+    "id": "116603191",
+    "title": "Jetour T2 GCC SPECS BRAND NEW 0km Full options top Version",
+    "url": "https://www.olx.com.lb/ad/jetour-t2-brand-new-0km-full-options-top-version-hot-offer-ID116603191.html",
+    "make": "Jetour",
+    "model": "T2",
+    "body_type": "SUV",
+    "year": 2006,
+    "mileage": 0,
+    "transmission": "Steptronic",
+    "location": "Dekwaneh, Metn",
+    "district": "Metn",
+    "original_price": 42800,
+    "current_price": 42800,
+    "price_history": [
+      {
+        "price": 42800,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816793": {
+    "id": "116816793",
+    "title": "Honda CR-V 2013",
+    "url": "https://www.olx.com.lb/ad/honda-cr-v-2013-ID116816793.html",
+    "make": "Honda",
+    "model": "CR-V",
+    "body_type": "Other",
+    "year": 2013,
+    "mileage": 275000,
+    "transmission": "Automatic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 13000,
+    "current_price": 13000,
+    "price_history": [
+      {
+        "price": 13000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116673570": {
+    "id": "116673570",
+    "title": "Ford Other 1997",
+    "url": "https://www.olx.com.lb/ad/ford-other-1997-ID116673570.html",
+    "make": "Ford",
+    "model": "Other",
+    "body_type": "Other",
+    "year": 1997,
+    "mileage": 110000,
+    "transmission": "Automatic",
+    "location": "Mazraat Yachouh, Metn",
+    "district": "Metn",
+    "original_price": 5000,
+    "current_price": 5000,
+    "price_history": [
+      {
+        "price": 5000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116655687": {
+    "id": "116655687",
+    "title": "Jetour T2 GCC  BRAND NEW 0km Full options top Version HOT OFFER !!!",
+    "url": "https://www.olx.com.lb/ad/jetour-t2-brand-new-0km-full-options-top-version-hot-offer-ID116655687.html",
+    "make": "Jetour",
+    "model": "T2",
+    "body_type": "SUV",
+    "year": 2025,
+    "mileage": 0,
+    "transmission": "Steptronic",
+    "location": "Dekwaneh, Metn",
+    "district": "Metn",
+    "original_price": 42800,
+    "current_price": 42800,
+    "price_history": [
+      {
+        "price": 42800,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816789": {
+    "id": "116816789",
+    "title": "Mercedes-Benz C-Class 2002",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2002-ID116816789.html",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Hatchback",
+    "year": 2002,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Other in Zgharta, Zgharta",
+    "district": "Zgharta",
+    "original_price": 3700,
+    "current_price": 3700,
+    "price_history": [
+      {
+        "price": 3700,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816785": {
+    "id": "116816785",
+    "title": "Mercedes-Benz GLE-Class 2017",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-gle-class-2017-ID116816785.html",
+    "make": "Mercedes-Benz",
+    "model": "GLE-Class",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 90000,
+    "transmission": "Steptronic",
+    "location": "Al Bahsas, Tripoli",
+    "district": "Tripoli",
+    "original_price": 25000,
+    "current_price": 25000,
+    "price_history": [
+      {
+        "price": 25000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816784": {
+    "id": "116816784",
+    "title": "Mazda CX-5 2018",
+    "url": "https://www.olx.com.lb/ad/mazda-cx-5-2018-ID116816784.html",
+    "make": "Mazda",
+    "model": "CX-5",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 67000,
+    "transmission": "Automatic",
+    "location": "Halat, Jbeil",
+    "district": "Jbeil",
+    "original_price": 20800,
+    "current_price": 20800,
+    "price_history": [
+      {
+        "price": 20800,
         "date": "2026-03-10"
       }
     ],
