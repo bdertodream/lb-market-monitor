@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T14:43:22.187609",
+  "generated_at": "2026-03-10T14:50:29.240281",
   "total_tracked": 2231,
   "total_drops": 82,
   "total_new": 2231,
@@ -7446,13 +7446,17 @@
       "transmission": "Steptronic",
       "location": "Jal El Dib, Metn",
       "original_price": 15900,
-      "current_price": 15900,
+      "current_price": 16200,
       "first_seen": "2026-03-09",
       "posted_date": "2026-03-09",
       "price_history": [
         {
           "price": 15900,
           "date": "2026-03-09"
+        },
+        {
+          "price": 16200,
+          "date": "2026-03-10"
         }
       ]
     },

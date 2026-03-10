@@ -54996,16 +54996,20 @@
     "location": "Jal El Dib, Metn",
     "district": "Metn",
     "original_price": 15900,
-    "current_price": 15900,
+    "current_price": 16200,
     "price_history": [
       {
         "price": 15900,
         "date": "2026-03-09"
+      },
+      {
+        "price": 16200,
+        "date": "2026-03-10"
       }
     ],
     "first_seen": "2026-03-09",
     "last_seen": "2026-03-10",
-    "last_updated": "2026-03-09",
+    "last_updated": "2026-03-10",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
