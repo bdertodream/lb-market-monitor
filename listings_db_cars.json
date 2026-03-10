@@ -19590,11 +19590,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
+    "last_seen": "2026-03-10",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116766946": {
     "id": "116766946",
@@ -25175,11 +25176,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-05",
+    "last_seen": "2026-03-10",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116776530": {
     "id": "116776530",
@@ -25202,11 +25204,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-05",
+    "last_seen": "2026-03-10",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116779527": {
     "id": "116779527",
@@ -32936,7 +32939,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-10",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -58778,6 +58781,398 @@
     "price_history": [
       {
         "price": 240000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116719774": {
+    "id": "116719774",
+    "title": "Mercedes-Benz GLC-Class 2018",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-class-2018-clean-carfax-ID116719774.html",
+    "make": "Mercedes-Benz",
+    "model": "GLC-Class",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 78000,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 26300,
+    "current_price": 26300,
+    "price_history": [
+      {
+        "price": 26300,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116777428": {
+    "id": "116777428",
+    "title": "Renault Laguna 2011",
+    "url": "https://www.olx.com.lb/ad/renault-laguna-2011-ID116777428.html",
+    "make": "Renault",
+    "model": "Laguna",
+    "body_type": "Hatchback",
+    "year": 2011,
+    "mileage": 150000,
+    "transmission": "Automatic",
+    "location": "Ajaltoun, Keserouan",
+    "district": "Keserouan",
+    "original_price": 6500,
+    "current_price": 6500,
+    "price_history": [
+      {
+        "price": 6500,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116815907": {
+    "id": "116815907",
+    "title": "Land Rover Discovery 2017 HSE",
+    "url": "https://www.olx.com.lb/ad/land-rover-discovery-2017-hse-ID116815907.html",
+    "make": "Land Rover",
+    "model": "Discovery",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 113000,
+    "transmission": "Steptronic",
+    "location": "Baouchriye, Metn",
+    "district": "Metn",
+    "original_price": 26500,
+    "current_price": 26500,
+    "price_history": [
+      {
+        "price": 26500,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116654752": {
+    "id": "116654752",
+    "title": "Mercedes-Benz E-Class 2017 E300 (Clean Carfax)",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2017-e300-clean-carfax-ID116654752.html",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "body_type": "Sedan",
+    "year": 2017,
+    "mileage": 103000,
+    "transmission": "Steptronic",
+    "location": "Sin El Fil, Metn",
+    "district": "Metn",
+    "original_price": 27000,
+    "current_price": 27000,
+    "price_history": [
+      {
+        "price": 27000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116690486": {
+    "id": "116690486",
+    "title": "2025 MINI Cooper S John Cooper Works Brand New",
+    "url": "https://www.olx.com.lb/ad/2025-mini-cooper-s-john-cooper-works-brand-new-ID116690486.html",
+    "make": "MINI",
+    "model": "Cooper S",
+    "body_type": "Small city car",
+    "year": 2025,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Ramlet el Bayda, Beirut",
+    "district": "Beirut",
+    "original_price": 49000,
+    "current_price": 49000,
+    "price_history": [
+      {
+        "price": 49000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116667463": {
+    "id": "116667463",
+    "title": "Jeep Grand Cherokee 2017 limited",
+    "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2017-ID116667463.html",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 118000,
+    "transmission": "Steptronic",
+    "location": "Bzommar, Keserouan",
+    "district": "Keserouan",
+    "original_price": 20800,
+    "current_price": 20800,
+    "price_history": [
+      {
+        "price": 20800,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116815891": {
+    "id": "116815891",
+    "title": "ميتسوبيشي باجيرو 1986",
+    "url": "https://www.olx.com.lb/ad/ميتسوبيشي-باجيرو-1986-ID116815891.html",
+    "make": "Mitsubishi",
+    "model": "Pajero",
+    "body_type": "SUV",
+    "year": 1986,
+    "mileage": 1,
+    "transmission": "Manual",
+    "location": "Qoubbe, Tripoli",
+    "district": "Tripoli",
+    "original_price": 3500,
+    "current_price": 3500,
+    "price_history": [
+      {
+        "price": 3500,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116815889": {
+    "id": "116815889",
+    "title": "Audi Q8 S line",
+    "url": "https://www.olx.com.lb/ad/audi-q8-2025-ID116815889.html",
+    "make": "Audi",
+    "model": "Q8",
+    "body_type": "SUV",
+    "year": 2025,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 110000,
+    "current_price": 110000,
+    "price_history": [
+      {
+        "price": 110000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116776224": {
+    "id": "116776224",
+    "title": "Range Rover Sport V6 HSE 2019 gray on black (clean carfax)",
+    "url": "https://www.olx.com.lb/ad/range-rover-sport-v6-hse-2019-gray-on-black-clean-carfax-ID116776224.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 91000,
+    "transmission": "Steptronic",
+    "location": "Antelias, Metn",
+    "district": "Metn",
+    "original_price": 43500,
+    "current_price": 43500,
+    "price_history": [
+      {
+        "price": 43500,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116771374": {
+    "id": "116771374",
+    "title": "Porsche Cayenne 2016 gray on black",
+    "url": "https://www.olx.com.lb/ad/porsche-cayenne-2016-gray-on-black-ID116771374.html",
+    "make": "Porsche",
+    "model": "Cayenne",
+    "body_type": "SUV",
+    "year": 2016,
+    "mileage": 115000,
+    "transmission": "Steptronic",
+    "location": "Antelias, Metn",
+    "district": "Metn",
+    "original_price": 27500,
+    "current_price": 27500,
+    "price_history": [
+      {
+        "price": 27500,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116681632": {
+    "id": "116681632",
+    "title": "Range Rover Velar V6 P 380 2018 black on black clean carfax-47k miles",
+    "url": "https://www.olx.com.lb/ad/range-rover-velar-v6-p-380-2018-black-on-black-clean-carfax-47k-miles-ID116681632.html",
+    "make": "Land Rover",
+    "model": "Velar",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 47000,
+    "transmission": "Steptronic",
+    "location": "Antelias, Metn",
+    "district": "Metn",
+    "original_price": 36500,
+    "current_price": 36500,
+    "price_history": [
+      {
+        "price": 36500,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116635426": {
+    "id": "116635426",
+    "title": "Porsche Macan 2017 blue on black (clean carfax)",
+    "url": "https://www.olx.com.lb/ad/porsche-macan-2017-blue-on-black-clean-carfax-ID116635426.html",
+    "make": "Porsche",
+    "model": "Macan",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 99000,
+    "transmission": "Steptronic",
+    "location": "Antelias, Metn",
+    "district": "Metn",
+    "original_price": 29800,
+    "current_price": 29800,
+    "price_history": [
+      {
+        "price": 29800,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116538596": {
+    "id": "116538596",
+    "title": "Range Rover Vogue V6 HSE 2018 black on black clean carfax-65000 miles",
+    "url": "https://www.olx.com.lb/ad/range-rover-vogue-v6-hse-2018-black-on-black-clean-carfax-65000-miles-ID116538596.html",
+    "make": "Land Rover",
+    "model": "Vogue",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 65000,
+    "transmission": "Steptronic",
+    "location": "Antelias, Metn",
+    "district": "Metn",
+    "original_price": 49000,
+    "current_price": 49000,
+    "price_history": [
+      {
+        "price": 49000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116815878": {
+    "id": "116815878",
+    "title": "Honda Pilot 2010",
+    "url": "https://www.olx.com.lb/ad/honda-pilot-2010-ID116815878.html",
+    "make": "Honda",
+    "model": "Pilot",
+    "body_type": "SUV",
+    "year": 2010,
+    "mileage": 190000,
+    "transmission": "Automatic",
+    "location": "Abdul Latif El Bissar, Tripoli",
+    "district": "Tripoli",
+    "original_price": 8500,
+    "current_price": 8500,
+    "price_history": [
+      {
+        "price": 8500,
         "date": "2026-03-10"
       }
     ],
