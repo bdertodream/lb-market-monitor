@@ -15863,11 +15863,12 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
+    "last_seen": "2026-03-10",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "posted_date": "2026-03-01"
   },
   "116805346": {
     "id": "116805346",
@@ -17951,19 +17952,24 @@
     "location": "Antelias, Metn",
     "district": "Metn",
     "original_price": 8200,
-    "current_price": 8200,
+    "current_price": 8000,
     "price_history": [
       {
         "price": 8200,
         "date": "2026-03-01"
+      },
+      {
+        "price": 8000,
+        "date": "2026-03-10"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "drop_usd": 200,
+    "drop_pct": 2.4,
+    "last_drop_date": "2026-03-10",
+    "posted_date": "2026-03-01"
   },
   "116810016": {
     "id": "116810016",
@@ -44217,19 +44223,23 @@
     "location": "Mazraa, Beirut",
     "district": "Beirut",
     "original_price": 15000,
-    "current_price": 15000,
+    "current_price": 14900,
     "price_history": [
       {
         "price": 15000,
         "date": "2026-03-01"
+      },
+      {
+        "price": 14900,
+        "date": "2026-03-10"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-10",
-    "last_updated": "2026-03-07",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_updated": "2026-03-10",
+    "drop_usd": 100,
+    "drop_pct": 0.7,
+    "last_drop_date": "2026-03-10",
     "posted_date": "2026-03-01"
   },
   "116813271": {
@@ -63493,10 +63503,14 @@
     "location": "Achrafieh, Beirut",
     "district": "Beirut",
     "original_price": 12500,
-    "current_price": 12500,
+    "current_price": 12800,
     "price_history": [
       {
         "price": 12500,
+        "date": "2026-03-10"
+      },
+      {
+        "price": 12800,
         "date": "2026-03-10"
       }
     ],
@@ -63525,6 +63539,174 @@
     "price_history": [
       {
         "price": 22500,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816726": {
+    "id": "116816726",
+    "title": "Range Rover Sport V8 Autobiography 2015",
+    "url": "https://www.olx.com.lb/ad/range-rover-sport-v8-autobiography-2015-ID116816726.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2015,
+    "mileage": 140000,
+    "transmission": "Steptronic",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 32000,
+    "current_price": 32000,
+    "price_history": [
+      {
+        "price": 32000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816700": {
+    "id": "116816700",
+    "title": "Mercedes-Benz ML-Class 2014  AMG7",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-ml-class-2014-amg7-ID116816700.html",
+    "make": "Mercedes-Benz",
+    "model": "ML-Class",
+    "body_type": "SUV",
+    "year": 2014,
+    "mileage": 135000,
+    "transmission": "Steptronic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 20000,
+    "current_price": 20000,
+    "price_history": [
+      {
+        "price": 20000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816704": {
+    "id": "116816704",
+    "title": "Chevrolet Equinox 2005",
+    "url": "https://www.olx.com.lb/ad/chevrolet-equinox-2005-ID116816704.html",
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "body_type": "Estate",
+    "year": 2005,
+    "mileage": 94000,
+    "transmission": "Automatic",
+    "location": "Baouchriye, Metn",
+    "district": "Metn",
+    "original_price": 3000,
+    "current_price": 3000,
+    "price_history": [
+      {
+        "price": 3000,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816703": {
+    "id": "116816703",
+    "title": "Ford Taurus 1996",
+    "url": "https://www.olx.com.lb/ad/ford-taurus-1996-ID116816703.html",
+    "make": "Ford",
+    "model": "Taurus",
+    "body_type": "Small city car",
+    "year": 1996,
+    "mileage": 20000,
+    "transmission": "Automatic",
+    "location": "Darayia, Keserouan",
+    "district": "Keserouan",
+    "original_price": 900,
+    "current_price": 900,
+    "price_history": [
+      {
+        "price": 900,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816702": {
+    "id": "116816702",
+    "title": "Ford Taurus 1996",
+    "url": "https://www.olx.com.lb/ad/ford-taurus-1996-ID116816702.html",
+    "make": "Ford",
+    "model": "Taurus",
+    "body_type": "Sedan",
+    "year": 1996,
+    "mileage": 50000,
+    "transmission": "Automatic",
+    "location": "Ajaltoun, Keserouan",
+    "district": "Keserouan",
+    "original_price": 900,
+    "current_price": 900,
+    "price_history": [
+      {
+        "price": 900,
+        "date": "2026-03-10"
+      }
+    ],
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-03-10",
+    "last_updated": "2026-03-10",
+    "posted_date": "2026-03-10",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116816671": {
+    "id": "116816671",
+    "title": "Mercedes-Benz GLC-Class 2020",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-class-2020-ID116816671.html",
+    "make": "Mercedes-Benz",
+    "model": "GLC-Class",
+    "body_type": "SUV",
+    "year": 2020,
+    "mileage": 67000,
+    "transmission": "Steptronic",
+    "location": "Other in Tripoli, Tripoli",
+    "district": "Tripoli",
+    "original_price": 34500,
+    "current_price": 34500,
+    "price_history": [
+      {
+        "price": 34500,
         "date": "2026-03-10"
       }
     ],
