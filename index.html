@@ -51,8 +51,8 @@ body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--tx);min-hei
 @keyframes morph{0%,100%{border-radius:40% 60% 70% 30%/40% 50% 60% 50%;transform:translate(0,0) rotate(0deg)}25%{border-radius:70% 30% 50% 50%/30% 30% 70% 70%;transform:translate(20px,-30px) rotate(5deg)}50%{border-radius:50% 60% 30% 60%/60% 40% 70% 40%;transform:translate(-10px,20px) rotate(-3deg)}75%{border-radius:60% 40% 60% 40%/50% 60% 30% 60%;transform:translate(15px,10px) rotate(2deg)}}
 
 /* ── Floating Illustration ──────────────────────── */
-.hero-illust{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:100%;max-width:1360px;height:380px;pointer-events:none;z-index:0;overflow:visible}
-.illust-layer{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;opacity:0;transform:scale(.92) translateY(10px);transition:opacity .7s cubic-bezier(.4,0,.2,1),transform .7s cubic-bezier(.4,0,.2,1);pointer-events:none}
+.hero-illust{display:none!important;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:100%;max-width:1360px;height:380px;pointer-events:none;z-index:0;overflow:visible}
+.illust-layer{display:none!important;position:absolute;inset:0;align-items:center;justify-content:center;opacity:0;transform:scale(.92) translateY(10px);transition:opacity .7s cubic-bezier(.4,0,.2,1),transform .7s cubic-bezier(.4,0,.2,1);pointer-events:none}
 .illust-layer.active{opacity:1;transform:scale(1) translateY(0)}
 .illust-layer svg{width:auto;height:280px;filter:drop-shadow(0 0 60px rgba(255,77,106,.15));animation:float 8s ease-in-out infinite}
 @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
@@ -128,8 +128,8 @@ header{position:relative;z-index:3;display:flex;align-items:center;justify-conte
 .area-sel option{background:var(--bg)}
 
 /* ── Table ────────────────────────────────────────── */
-.table-wrap{background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);border-radius:var(--radius);overflow:hidden;margin-bottom:20px}
-table{width:100%;border-collapse:collapse}
+.table-wrap{background:var(--surface);backdrop-filter:blur(var(--blur));border:1px solid var(--surface-border);border-radius:var(--radius);overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;margin-bottom:20px}
+table{width:100%;min-width:700px;border-collapse:collapse}
 thead th{padding:12px 14px;font:600 9px/1 'JetBrains Mono',monospace;text-transform:uppercase;letter-spacing:.8px;color:var(--tx3);text-align:left;border-bottom:1px solid var(--surface-border);background:transparent}
 tbody tr{border-bottom:1px solid rgba(255,255,255,.03);transition:background .15s;cursor:pointer}
 tbody tr:hover{background:var(--glass-hover)}
@@ -542,7 +542,7 @@ function fmtUSD(n){if(!n)return '--';return '$'+n.toLocaleString('en-US')}
 function fmtAED(n){if(!n)return '--';return 'AED '+n.toLocaleString('en-US')}
 function fmtKM(n){if(!n)return '--';return n>=1000?(n/1000).toFixed(0)+'K':n+''}
 const AED_TO_USD=3.6725;
-function fmtAedUsd(n){if(!n)return'';const u=Math.round(n/AED_TO_USD);return'AED '+n.toLocaleString('en-US')+' (~'+String.fromCharCode(36)+u.toLocaleString('en-US')+')'}
+function fmtAedUsd(n){if(!n)return'';const u=Math.round(n/AED_TO_USD);return'AED '+n.toLocaleString('en-US')+' ('+String.fromCharCode(36)+u.toLocaleString('en-US')+')'}
 function priceSqm(d){if(!d.current_price||!d.sqm)return 0;return Math.round(d.current_price/d.sqm)}
 function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
 
@@ -905,7 +905,7 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
           <td><div class="prop-name">${esc(makeModel||d.title)}</div><div class="prop-loc">${esc(subtitle)}</div></td>
           <td><span class="tbadge t-${carTypeClass(d.body_type)}">${d.body_type||'Other'}</span></td>
           <td class="hide-m" style="font:500 12px/1 'JetBrains Mono',monospace;color:var(--tx2)">${d.year||'--'}</td>
-          <td class="hide-m" style="font:400 12px/1 'JetBrains Mono',monospace;color:var(--tx3)">${fmtKM(d.mileage)}</td>
+          <td style="font:400 12px/1 'JetBrains Mono',monospace;color:var(--tx3)">${fmtKM(d.mileage)}</td>
           <td><div class="p-now">${fmt(d.current_price)}</div></td>
           <td class="hide-m"><span class="new-badge">NEW</span> <span class="date">${isToday?'<span style="color:var(--grn)">today</span>':listDate||'--'}</span></td>
           <td><a class="link-btn" href="${d.url}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
@@ -950,7 +950,7 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
           <td><div class="prop-name">${esc(makeModel||d.title)}</div><div class="prop-loc">${esc(subtitle)}</div></td>
           <td><span class="tbadge t-${carTypeClass(d.body_type)}">${d.body_type||'Other'}</span></td>
           <td class="hide-m" style="font:500 12px/1 'JetBrains Mono',monospace;color:var(--tx2)">${d.year||'--'}</td>
-          <td class="hide-m" style="font:400 12px/1 'JetBrains Mono',monospace;color:var(--tx3)">${fmtKM(d.mileage)}</td>
+          <td style="font:400 12px/1 'JetBrains Mono',monospace;color:var(--tx3)">${fmtKM(d.mileage)}</td>
           <td><div class="p-now">${fmt(d.current_price)}</div></td>
           <td><div class="p-was">${fmt(d.original_price)}</div></td>
           <td><span class="drop ${dc}">${d.drop_pct}%</span></td>
