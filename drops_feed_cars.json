@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-11T01:16:41.518040",
-  "total_tracked": 2341,
+  "generated_at": "2026-03-11T04:09:28.496860",
+  "total_tracked": 2344,
   "total_drops": 90,
-  "total_new": 2341,
+  "total_new": 2344,
   "avg_drop_pct": 7.0,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -2770,6 +2770,72 @@
       "price_history": [
         {
           "price": 11300,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116816897",
+      "title": "فولكسفاغن طوارق 2009",
+      "url": "https://www.olx.com.lb/ad/فولكسفاغن-طوارق-2009-ID116816897.html",
+      "make": "Volkswagen",
+      "model": "Touareg",
+      "body_type": "SUV",
+      "year": 2009,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Chtoura, Zahle",
+      "original_price": 4000,
+      "current_price": 4000,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 4000,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116816889",
+      "title": "Mercedes-Benz E-Class 1989",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-1989-ID116816889.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sedan",
+      "year": 1989,
+      "mileage": 1,
+      "transmission": "Automatic",
+      "location": "Other in Rachaya, Rachaya",
+      "original_price": 2200,
+      "current_price": 2200,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 2200,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116816886",
+      "title": "Hyundai Grand i10 mod 2018 f. o power windows like new",
+      "url": "https://www.olx.com.lb/ad/hyundai-grand-i10-mod-2018-f-o-power-windows-like-new-ID116816886.html",
+      "make": "Hyundai",
+      "model": "Grandeur",
+      "body_type": "Hatchback",
+      "year": 2018,
+      "mileage": 93000,
+      "transmission": "Steptronic",
+      "location": "Jdaide, Metn",
+      "original_price": 8000,
+      "current_price": 8000,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 8000,
           "date": "2026-03-11"
         }
       ]
