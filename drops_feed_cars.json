@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-11T08:38:06.986075",
-  "total_tracked": 2365,
-  "total_drops": 90,
-  "total_new": 2365,
-  "avg_drop_pct": 7.0,
+  "generated_at": "2026-03-11T09:42:18.265192",
+  "total_tracked": 2377,
+  "total_drops": 93,
+  "total_new": 2377,
+  "avg_drop_pct": 6.8,
   "biggest_drop_usd": 426000,
   "drops": [
     {
@@ -1377,6 +1377,35 @@
       ]
     },
     {
+      "id": "116809925",
+      "title": "Nissan Rogue 2016 SV 4 WD  very clean California",
+      "url": "https://www.olx.com.lb/ad/nissan-rogue-2016-sv-like-new-very-clean-ID116809925.html",
+      "make": "Nissan",
+      "model": "Rogue",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 85000,
+      "transmission": "Steptronic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 12300,
+      "current_price": 11800,
+      "drop_usd": 500,
+      "drop_pct": 4.1,
+      "last_drop_date": "2026-03-11",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 12300,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 11800,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
       "id": "116814400",
       "title": "Hyundai Tucson 2019",
       "url": "https://www.olx.com.lb/ad/hyundai-tucson-2019-ID116814400.html",
@@ -2424,6 +2453,35 @@
       ]
     },
     {
+      "id": "116765811",
+      "title": "2.0 Subaru XV Crosstrek 2018 مصدر و صيانة الشركة لبنان",
+      "url": "https://www.olx.com.lb/ad/20-subaru-xv-crosstrek-2018-مصدر-و-صيانة-الشركة-لبنان-ID116765811.html",
+      "make": "Subaru",
+      "model": "XV Crosstrek",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 102000,
+      "transmission": "Automatic",
+      "location": "Furn El Chebbak, Baabda",
+      "original_price": 18200,
+      "current_price": 17999,
+      "drop_usd": 201,
+      "drop_pct": 1.1,
+      "last_drop_date": "2026-03-11",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 18200,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 17999,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
       "id": "116783652",
       "title": "2019 HYUNDAI TUCSON SEL 4WD",
       "url": "https://www.olx.com.lb/ad/2019-hyundai-tucson-sel-4wd-ID116783652.html",
@@ -2685,6 +2743,35 @@
         {
           "price": 18900,
           "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116724775",
+      "title": "Hyundai Tucson 2011 4WD مصدر الشركة لبنان",
+      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2011-4wd-مصدر-الشركة-لبنان-ID116724775.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "SUV",
+      "year": 2011,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 11000,
+      "current_price": 10990,
+      "drop_usd": 10,
+      "drop_pct": 0.1,
+      "last_drop_date": "2026-03-11",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 11000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 10990,
+          "date": "2026-03-11"
         }
       ]
     }
@@ -3302,6 +3389,270 @@
       "price_history": [
         {
           "price": 23000,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116817095",
+      "title": "Jeep Cherokee 2014",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-2014-ID116817095.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 360000,
+      "transmission": "Steptronic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 16000,
+      "current_price": 16000,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 16000,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116729610",
+      "title": "NISSAN SENTRA MODEL 2018 SILVER COMPANY SOURCE",
+      "url": "https://www.olx.com.lb/ad/nissan-sentra-model-2018-silver-company-source-ID116729610.html",
+      "make": "Nissan",
+      "model": "Sentra",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 10000,
+      "current_price": 10000,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 10000,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116728080",
+      "title": "GMC YUKON DENALI MODEL 2022 COMPANY SOURCE",
+      "url": "https://www.olx.com.lb/ad/gmc-yukon-denalli-model-2022-company-source-ID116728080.html",
+      "make": "GMC",
+      "model": "Yukon",
+      "body_type": "SUV",
+      "year": 2022,
+      "mileage": 75000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 85000,
+      "current_price": 85000,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 85000,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116696255",
+      "title": "NISSAN KICKS SV MODEL 2018 GREY COMPANY SOURCE",
+      "url": "https://www.olx.com.lb/ad/nissan-kicks-sv-model-2018-grey-company-source-ID116696255.html",
+      "make": "Nissan",
+      "model": "Kicks ",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 75000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 14000,
+      "current_price": 14000,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 14000,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116643647",
+      "title": "MG HS TROPHY 2. OL 4WD MODEL 2014 COMPANY SOURCE WARRANTY TILL 2030",
+      "url": "https://www.olx.com.lb/ad/mg-hs-trophy-2-ol-4wd-model-2014-company-source-warranty-till-2030-ID116643647.html",
+      "make": "MG",
+      "model": "HS",
+      "body_type": "SUV",
+      "year": 2024,
+      "mileage": 20000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 27500,
+      "current_price": 27500,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 27500,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116157854",
+      "title": "Volkswagen Tiguan 2.0T 4 Motion Model 2017 Company Source",
+      "url": "https://www.olx.com.lb/ad/volkswagen-tiguan-20t-4-motion-model-2017-company-source-ID116157854.html",
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 17000,
+      "current_price": 17000,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 17000,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "115914114",
+      "title": "Land Rover Range Rover Sport 2019 Autobiography v8 White",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2019-autobiography-v8-white-ID115914114.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 85000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 65000,
+      "current_price": 65000,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 65000,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116531821",
+      "title": "Mercedes-Benz G-Class 2019",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-g-class-2019-ID116531821.html",
+      "make": "Mercedes-Benz",
+      "model": "G-Class",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 86000,
+      "transmission": "Automatic",
+      "location": "Dora, Metn",
+      "original_price": 145999,
+      "current_price": 145999,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 145999,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116764652",
+      "title": "Hyundai Tucson 2017",
+      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2017-ID116764652.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 119000,
+      "transmission": "Steptronic",
+      "location": "Aabadiyeh, Baabda",
+      "original_price": 1400,
+      "current_price": 1400,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 1400,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116817028",
+      "title": "Nissan Sunny 1997",
+      "url": "https://www.olx.com.lb/ad/nissan-sunny-1997-ID116817028.html",
+      "make": "Nissan",
+      "model": "Sunny",
+      "body_type": "Estate",
+      "year": 1997,
+      "mileage": 150000,
+      "transmission": "Automatic",
+      "location": "Tabarja, Keserouan",
+      "original_price": 1200,
+      "current_price": 1200,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 1200,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116817027",
+      "title": "Mercedes-Benz E350 Coupe  2011 Amg",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e350-coupe-2011-amg-ID116817027.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2011,
+      "mileage": 159000,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 12000,
+      "current_price": 12000,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 12000,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116817013",
+      "title": "Mercedes-Benz CLS-Class 2015",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-cls-class-2015-ID116817013.html",
+      "make": "Mercedes-Benz",
+      "model": "CLS-Class",
+      "body_type": "Sedan",
+      "year": 2015,
+      "mileage": 121820,
+      "transmission": "Automatic",
+      "location": "Jbeil Town, Jbeil",
+      "original_price": 25000,
+      "current_price": 25000,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 25000,
           "date": "2026-03-11"
         }
       ]
@@ -22134,13 +22485,17 @@
       "transmission": "Automatic",
       "location": "Hazmiyeh, Baabda",
       "original_price": 11000,
-      "current_price": 11000,
+      "current_price": 10990,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 11000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 10990,
+          "date": "2026-03-11"
         }
       ]
     },
@@ -25322,13 +25677,17 @@
       "transmission": "Automatic",
       "location": "Furn El Chebbak, Baabda",
       "original_price": 18200,
-      "current_price": 18200,
+      "current_price": 17999,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 18200,
           "date": "2026-03-01"
+        },
+        {
+          "price": 17999,
+          "date": "2026-03-11"
         }
       ]
     },
@@ -32796,13 +33155,17 @@
       "transmission": "Steptronic",
       "location": "Sin El Fil, Metn",
       "original_price": 12300,
-      "current_price": 12300,
+      "current_price": 11800,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 12300,
           "date": "2026-03-01"
+        },
+        {
+          "price": 11800,
+          "date": "2026-03-11"
         }
       ]
     },
