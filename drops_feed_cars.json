@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-11T05:49:30.482952",
-  "total_tracked": 2344,
+  "generated_at": "2026-03-11T06:48:15.003712",
+  "total_tracked": 2346,
   "total_drops": 90,
-  "total_new": 2344,
+  "total_new": 2346,
   "avg_drop_pct": 7.0,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -2836,6 +2836,50 @@
       "price_history": [
         {
           "price": 8000,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116537538",
+      "title": "Cadillac XT5 2017",
+      "url": "https://www.olx.com.lb/ad/cadillac-xt5-2017-ID116537538.html",
+      "make": "Cadillac",
+      "model": "XT5",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 100000,
+      "transmission": "Steptronic",
+      "location": "Verdun, Beirut",
+      "original_price": 24900,
+      "current_price": 24900,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 24900,
+          "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116816841",
+      "title": "بي ام دبليو الفئة 5 2004",
+      "url": "https://www.olx.com.lb/ad/بي-ام-دبليو-الفئة-5-2004-ID116816841.html",
+      "make": "BMW",
+      "model": "5-Series",
+      "body_type": "Sedan",
+      "year": 2004,
+      "mileage": 150000,
+      "transmission": "Steptronic",
+      "location": "Sebline, Chouf",
+      "original_price": 4700,
+      "current_price": 4700,
+      "first_seen": "2026-03-11",
+      "posted_date": "2026-03-11",
+      "price_history": [
+        {
+          "price": 4700,
           "date": "2026-03-11"
         }
       ]
