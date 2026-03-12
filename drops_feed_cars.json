@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-12T04:13:22.326334",
-  "total_tracked": 2547,
+  "generated_at": "2026-03-12T05:51:18.977588",
+  "total_tracked": 2549,
   "total_drops": 107,
-  "total_new": 2547,
+  "total_new": 2549,
   "avg_drop_pct": 6.4,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -3345,6 +3345,50 @@
       "price_history": [
         {
           "price": 8500,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116779912",
+      "title": "Hyundai Getz 2009",
+      "url": "https://www.olx.com.lb/ad/hyundai-getz-2009-ID116779912.html",
+      "make": "Hyundai",
+      "model": "Getz",
+      "body_type": "Small city car",
+      "year": 2009,
+      "mileage": 340000,
+      "transmission": "Manual",
+      "location": "Baissour, Aley",
+      "original_price": 4300,
+      "current_price": 4300,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 4300,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "115952275",
+      "title": "LOTUS EVORA 400 2016, 12.000Km ONLY, RYMCO LEB SOURCE !!!",
+      "url": "https://www.olx.com.lb/ad/lotus-evora-400-2016-12000km-only-rymco-leb-source-ID115952275.html",
+      "make": "Lotus",
+      "model": "Evora 400",
+      "body_type": "Sports / Coupe",
+      "year": 2016,
+      "mileage": 12000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 59000,
+      "current_price": 59000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 59000,
           "date": "2026-03-12"
         }
       ]
