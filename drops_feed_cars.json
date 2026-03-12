@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-12T15:56:53.121168",
-  "total_tracked": 2646,
+  "generated_at": "2026-03-12T16:58:35.432636",
+  "total_tracked": 2654,
   "total_drops": 115,
-  "total_new": 2646,
-  "avg_drop_pct": 6.1,
+  "total_new": 2654,
+  "avg_drop_pct": 6.2,
   "biggest_drop_usd": 426000,
   "drops": [
     {
@@ -715,6 +715,39 @@
         {
           "price": 24500,
           "date": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "id": "116816700",
+      "title": "Mercedes-Benz ML-Class 2014  AMG7",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-ml-class-2014-amg7-ID116816700.html",
+      "make": "Mercedes-Benz",
+      "model": "ML-Class",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 135000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 20000,
+      "current_price": 18500,
+      "drop_usd": 1500,
+      "drop_pct": 7.5,
+      "last_drop_date": "2026-03-12",
+      "first_seen": "2026-03-10",
+      "posted_date": "2026-03-10",
+      "price_history": [
+        {
+          "price": 20000,
+          "date": "2026-03-10"
+        },
+        {
+          "price": 19400,
+          "date": "2026-03-12"
+        },
+        {
+          "price": 18500,
+          "date": "2026-03-12"
         }
       ]
     },
@@ -1820,35 +1853,6 @@
       ]
     },
     {
-      "id": "116816700",
-      "title": "Mercedes-Benz ML-Class 2014  AMG7",
-      "url": "https://www.olx.com.lb/ad/mercedes-benz-ml-class-2014-amg7-ID116816700.html",
-      "make": "Mercedes-Benz",
-      "model": "ML-Class",
-      "body_type": "SUV",
-      "year": 2014,
-      "mileage": 135000,
-      "transmission": "Steptronic",
-      "location": "Dbaye, Metn",
-      "original_price": 20000,
-      "current_price": 19400,
-      "drop_usd": 600,
-      "drop_pct": 3.0,
-      "last_drop_date": "2026-03-12",
-      "first_seen": "2026-03-10",
-      "posted_date": "2026-03-10",
-      "price_history": [
-        {
-          "price": 20000,
-          "date": "2026-03-10"
-        },
-        {
-          "price": 19400,
-          "date": "2026-03-12"
-        }
-      ]
-    },
-    {
       "id": "116666459",
       "title": "Mercedes-Benz C-Class 2017",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2017-ID116666459.html",
@@ -2098,7 +2102,7 @@
     },
     {
       "id": "116810272",
-      "title": "GLC 300 2018 ! 4matic ! Clean Carfax ! Coming Soon !",
+      "title": "GLC 300 2018 ! 4matic ! Clean Carfax ! Coming Soon !Arriving In 5 Days",
       "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-altitude-2018-no-airbags-deployed-4x4-ID116810272.html",
       "make": "Jeep",
       "model": "Grand Cherokee",
@@ -5763,6 +5767,182 @@
       "price_history": [
         {
           "price": 19500,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116584730",
+      "title": "Dodge Charger 2008",
+      "url": "https://www.olx.com.lb/ad/dodge-charger-2008-ID116584730.html",
+      "make": "Dodge",
+      "model": "Charger",
+      "body_type": "Sedan",
+      "year": 2008,
+      "mileage": 120,
+      "transmission": "Automatic",
+      "location": "Majdel Anjar, Zahle",
+      "original_price": 5400,
+      "current_price": 5400,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 5400,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818602",
+      "title": "Nissan Kicks  2019",
+      "url": "https://www.olx.com.lb/ad/nissan-kicks-2019-ID116818602.html",
+      "make": "Nissan",
+      "model": "Kicks ",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 72000,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 13500,
+      "current_price": 13500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 13500,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116806718",
+      "title": "Infiniti Fx series 2004",
+      "url": "https://www.olx.com.lb/ad/infiniti-fx-series-2004-ID116806718.html",
+      "make": "Infiniti",
+      "model": "Fx series",
+      "body_type": "SUV",
+      "year": 2004,
+      "mileage": 130000,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 6200,
+      "current_price": 6200,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 6200,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116727773",
+      "title": "Kia Sportage 2017",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-2017-ID116727773.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 90000,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 14500,
+      "current_price": 14500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 14500,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116781174",
+      "title": "Dacia Dokker 2017",
+      "url": "https://www.olx.com.lb/ad/dacia-dokker-2017-ID116781174.html",
+      "make": "Dacia",
+      "model": "Dokker",
+      "body_type": "Other",
+      "year": 2017,
+      "mileage": 150,
+      "transmission": "Manual",
+      "location": "Derdghaiya, Tyre",
+      "original_price": 6400,
+      "current_price": 6400,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 6400,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818593",
+      "title": "Tucson [2.0] Benzine 4x4 (4000km!!) cherkit lebnen",
+      "url": "https://www.olx.com.lb/ad/tucson-20-benzine-4x4-4000km-cherkit-lebnen-ID116818593.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 4000,
+      "transmission": "Steptronic",
+      "location": "Jdaide, Metn",
+      "original_price": 31800,
+      "current_price": 31800,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 31800,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116789800",
+      "title": "Tucson 2025 (2.0) 8000km 5 years warranty",
+      "url": "https://www.olx.com.lb/ad/tucson-2025-20-8000km-5-years-warranty-ID116789800.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 8000,
+      "transmission": "Steptronic",
+      "location": "Jdaide, Metn",
+      "original_price": 31800,
+      "current_price": 31800,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 31800,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818579",
+      "title": "Smart forfour 2017",
+      "url": "https://www.olx.com.lb/ad/smart-forfour-2017-ID116818579.html",
+      "make": "Smart",
+      "model": "forfour",
+      "body_type": "Hatchback",
+      "year": 2017,
+      "mileage": 65000,
+      "transmission": "Automatic",
+      "location": "Baabda Town, Baabda",
+      "original_price": 11500,
+      "current_price": 11500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 11500,
           "date": "2026-03-12"
         }
       ]
@@ -14341,7 +14521,7 @@
       "transmission": "Steptronic",
       "location": "Dbaye, Metn",
       "original_price": 20000,
-      "current_price": 19400,
+      "current_price": 18500,
       "first_seen": "2026-03-10",
       "posted_date": "2026-03-10",
       "price_history": [
@@ -14351,6 +14531,10 @@
         },
         {
           "price": 19400,
+          "date": "2026-03-12"
+        },
+        {
+          "price": 18500,
           "date": "2026-03-12"
         }
       ]
@@ -32439,7 +32623,7 @@
     },
     {
       "id": "116810272",
-      "title": "GLC 300 2018 ! 4matic ! Clean Carfax ! Coming Soon !",
+      "title": "GLC 300 2018 ! 4matic ! Clean Carfax ! Coming Soon !Arriving In 5 Days",
       "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-altitude-2018-no-airbags-deployed-4x4-ID116810272.html",
       "make": "Jeep",
       "model": "Grand Cherokee",
