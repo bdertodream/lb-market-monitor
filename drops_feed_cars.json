@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-12T22:24:12.687364",
-  "total_tracked": 2708,
+  "generated_at": "2026-03-12T23:27:04.304044",
+  "total_tracked": 2711,
   "total_drops": 118,
-  "total_new": 2708,
+  "total_new": 2711,
   "avg_drop_pct": 6.2,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -7226,6 +7226,72 @@
       "price_history": [
         {
           "price": 42000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116818905",
+      "title": "Mercedes-Benz A-Class 2020",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-a-class-2020-ID116818905.html",
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "body_type": "Sedan",
+      "year": 2020,
+      "mileage": 70000,
+      "transmission": "Automatic",
+      "location": "Masska, Koura",
+      "original_price": 28000,
+      "current_price": 28000,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 28000,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116743186",
+      "title": "Hyundai Tucson 2018 CLEAN CARFAX , FULL OPTIONS",
+      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2018-clean-carfax-full-options-ID116743186.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 190,
+      "transmission": "Automatic",
+      "location": "Jbeil Town, Jbeil",
+      "original_price": 17500,
+      "current_price": 17500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116657471",
+      "title": "Land Rover LR4 V6 2012",
+      "url": "https://www.olx.com.lb/ad/land-rover-lr4-2012-ID116657471.html",
+      "make": "Land Rover",
+      "model": "LR4",
+      "body_type": "SUV",
+      "year": 2012,
+      "mileage": 182000,
+      "transmission": "Automatic",
+      "location": "Mazraa, Beirut",
+      "original_price": 11500,
+      "current_price": 11500,
+      "first_seen": "2026-03-12",
+      "posted_date": "2026-03-12",
+      "price_history": [
+        {
+          "price": 11500,
           "date": "2026-03-12"
         }
       ]
