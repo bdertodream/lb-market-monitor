@@ -12604,19 +12604,23 @@
     "location": "Batroun Town, Batroun",
     "district": "Batroun",
     "original_price": 5900,
-    "current_price": 5900,
+    "current_price": 5800,
     "price_history": [
       {
         "price": 5900,
         "date": "2026-03-01"
+      },
+      {
+        "price": 5800,
+        "date": "2026-03-12"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-11",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "drop_usd": 100,
+    "drop_pct": 1.7,
+    "last_drop_date": "2026-03-12",
     "posted_date": "2026-03-01"
   },
   "116804773": {
@@ -60908,16 +60912,20 @@
     "location": "Ksara, Zahle",
     "district": "Zahle",
     "original_price": 21800,
-    "current_price": 21800,
+    "current_price": 23800,
     "price_history": [
       {
         "price": 21800,
         "date": "2026-03-10"
+      },
+      {
+        "price": 23800,
+        "date": "2026-03-12"
       }
     ],
     "first_seen": "2026-03-10",
     "last_seen": "2026-03-12",
-    "last_updated": "2026-03-10",
+    "last_updated": "2026-03-12",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -63744,20 +63752,24 @@
     "location": "Dbaye, Metn",
     "district": "Metn",
     "original_price": 20000,
-    "current_price": 20000,
+    "current_price": 19400,
     "price_history": [
       {
         "price": 20000,
         "date": "2026-03-10"
+      },
+      {
+        "price": 19400,
+        "date": "2026-03-12"
       }
     ],
     "first_seen": "2026-03-10",
     "last_seen": "2026-03-12",
-    "last_updated": "2026-03-10",
+    "last_updated": "2026-03-12",
     "posted_date": "2026-03-10",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 600,
+    "drop_pct": 3.0,
+    "last_drop_date": "2026-03-12"
   },
   "116816704": {
     "id": "116816704",
@@ -71800,10 +71812,14 @@
     "location": "Jdaide, Metn",
     "district": "Metn",
     "original_price": 24000,
-    "current_price": 24000,
+    "current_price": 23800,
     "price_history": [
       {
         "price": 24000,
+        "date": "2026-03-12"
+      },
+      {
+        "price": 23800,
         "date": "2026-03-12"
       }
     ],
@@ -71811,9 +71827,9 @@
     "last_seen": "2026-03-12",
     "last_updated": "2026-03-12",
     "posted_date": "2026-03-12",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 200,
+    "drop_pct": 0.8,
+    "last_drop_date": "2026-03-12"
   },
   "116706357": {
     "id": "116706357",
@@ -72756,6 +72772,174 @@
     "price_history": [
       {
         "price": 9000,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116818304": {
+    "id": "116818304",
+    "title": "Hyundai Accent 2016",
+    "url": "https://www.olx.com.lb/ad/hyundai-accent-2016-ID116818304.html",
+    "make": "Hyundai",
+    "model": "Accent",
+    "body_type": "Sedan",
+    "year": 2016,
+    "mileage": 108,
+    "transmission": "Steptronic",
+    "location": "Tariq el Jdideh, Beirut",
+    "district": "Beirut",
+    "original_price": 7000,
+    "current_price": 7000,
+    "price_history": [
+      {
+        "price": 7000,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116750215": {
+    "id": "116750215",
+    "title": "Land Rover Discovery 1995",
+    "url": "https://www.olx.com.lb/ad/land-rover-discovery-1995-ID116750215.html",
+    "make": "Land Rover",
+    "model": "Discovery",
+    "body_type": "Classic Cars",
+    "year": 1995,
+    "mileage": 222222,
+    "transmission": "Manual",
+    "location": "Zgharta Town, Zgharta",
+    "district": "Zgharta",
+    "original_price": 6000,
+    "current_price": 6000,
+    "price_history": [
+      {
+        "price": 6000,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116818280": {
+    "id": "116818280",
+    "title": "Land Rover Velar 2018 R -dynamic v6",
+    "url": "https://www.olx.com.lb/ad/land-rover-velar-2018-r-dynamic-v6-ID116818280.html",
+    "make": "Land Rover",
+    "model": "Velar",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 120000,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 35000,
+    "current_price": 35000,
+    "price_history": [
+      {
+        "price": 35000,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116818264": {
+    "id": "116818264",
+    "title": "GMC Envoy 2002",
+    "url": "https://www.olx.com.lb/ad/gmc-envoy-2002-ID116818264.html",
+    "make": "GMC",
+    "model": "Envoy",
+    "body_type": "SUV",
+    "year": 2002,
+    "mileage": 177000,
+    "transmission": "Automatic",
+    "location": "Jdaide, Metn",
+    "district": "Metn",
+    "original_price": 4000,
+    "current_price": 4000,
+    "price_history": [
+      {
+        "price": 4000,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116572518": {
+    "id": "116572518",
+    "title": "Maserati Excellent Condition",
+    "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2012-ID116572518.html",
+    "make": "Maserati",
+    "model": "Ghibli",
+    "body_type": "Sedan",
+    "year": 2014,
+    "mileage": 119000,
+    "transmission": "Automatic",
+    "location": "Jnah, Beirut",
+    "district": "Beirut",
+    "original_price": 23000,
+    "current_price": 23000,
+    "price_history": [
+      {
+        "price": 23000,
+        "date": "2026-03-12"
+      }
+    ],
+    "first_seen": "2026-03-12",
+    "last_seen": "2026-03-12",
+    "last_updated": "2026-03-12",
+    "posted_date": "2026-03-12",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116818246": {
+    "id": "116818246",
+    "title": "Porsche Cayenne 2011",
+    "url": "https://www.olx.com.lb/ad/porsche-cayenne-2011-ID116818246.html",
+    "make": "Porsche",
+    "model": "Cayenne",
+    "body_type": "SUV",
+    "year": 2011,
+    "mileage": 240000,
+    "transmission": "Steptronic",
+    "location": "Ajaltoun, Keserouan",
+    "district": "Keserouan",
+    "original_price": 17800,
+    "current_price": 17800,
+    "price_history": [
+      {
+        "price": 17800,
         "date": "2026-03-12"
       }
     ],
