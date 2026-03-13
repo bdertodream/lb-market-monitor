@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-13T01:19:52.818258",
-  "total_tracked": 2716,
+  "generated_at": "2026-03-13T04:11:40.070515",
+  "total_tracked": 2719,
   "total_drops": 118,
-  "total_new": 2716,
+  "total_new": 2719,
   "avg_drop_pct": 6.2,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -3632,6 +3632,72 @@
       "price_history": [
         {
           "price": 20500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116818960",
+      "title": "AUDI  Q5 50 E-TRON QUATTRO  EDITION 1 FULL ELECTRIC BRAND NEW (0Km)",
+      "url": "https://www.olx.com.lb/ad/audi-q5-50-e-tron-quattro-edition-1-full-electric-brand-new-0km-ID116818960.html",
+      "make": "Audi",
+      "model": "Q5",
+      "body_type": "Other",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 41000,
+      "current_price": 41000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 41000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116818958",
+      "title": "قسط بلا بنك",
+      "url": "https://www.olx.com.lb/ad/قسط-بلا-بنك-ID116818958.html",
+      "make": "Hyundai",
+      "model": "Accent",
+      "body_type": "Other",
+      "year": 2012,
+      "mileage": 123,
+      "transmission": "Automatic",
+      "location": "Downtown, Beirut",
+      "original_price": 4500,
+      "current_price": 4500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 4500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116606281",
+      "title": "Smart forfour 2017",
+      "url": "https://www.olx.com.lb/ad/smart-forfour-2017-ID116606281.html",
+      "make": "Smart",
+      "model": "forfour",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 37000,
+      "transmission": "Automatic",
+      "location": "Jal El Dib, Metn",
+      "original_price": 12900,
+      "current_price": 12900,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 12900,
           "date": "2026-03-13"
         }
       ]
