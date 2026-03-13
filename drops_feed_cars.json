@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-13T21:32:46.377765",
-  "total_tracked": 2902,
+  "generated_at": "2026-03-13T22:28:14.329512",
+  "total_tracked": 2905,
   "total_drops": 133,
-  "total_new": 2902,
+  "total_new": 2905,
   "avg_drop_pct": 6.6,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -8175,6 +8175,72 @@
       "price_history": [
         {
           "price": 34000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116765726",
+      "title": "بيجو 505 1984",
+      "url": "https://www.olx.com.lb/ad/بيجو-505-1984-ID116765726.html",
+      "make": "Peugeot",
+      "model": "505",
+      "body_type": "Sedan",
+      "year": 1984,
+      "mileage": 400000,
+      "transmission": "Manual",
+      "location": "Zouk Mikael, Keserouan",
+      "original_price": 1100,
+      "current_price": 1100,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 1100,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116757033",
+      "title": "BYD Song plus Dm-i 2025",
+      "url": "https://www.olx.com.lb/ad/byd-other-2025-ID116757033.html",
+      "make": "BYD",
+      "model": "Other",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Maalaqah, Zahle",
+      "original_price": 32000,
+      "current_price": 32000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 32000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116809662",
+      "title": "Volkswagen Golf 2007",
+      "url": "https://www.olx.com.lb/ad/volkswagen-golf-2007-ID116809662.html",
+      "make": "Volkswagen",
+      "model": "Golf",
+      "body_type": "Hatchback",
+      "year": 2007,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 5700,
+      "current_price": 5700,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 5700,
           "date": "2026-03-13"
         }
       ]
