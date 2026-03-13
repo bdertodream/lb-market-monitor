@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
   "total_tracked": 3651,
-  "total_drops": 27,
+  "total_drops": 28,
   "total_new": 3651,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
@@ -381,6 +381,20 @@
       "category": "Apartment",
       "size": "1021",
       "bedrooms": "2",
+      "date": "2026-03-13",
+      "first_seen": "2026-03-08"
+    },
+    {
+      "id": "17158506",
+      "title": "Premium Apartment for Sale in Lagoon Views \u2013 District One",
+      "old_price": 2100000,
+      "new_price": 1985000,
+      "drop_pct": 5.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/4/premium-apartment-for-sale-in-lagoon-vi-2-246314/",
+      "area": "Mohammed Bin Rashid City",
+      "category": "Apartment",
+      "size": "855",
+      "bedrooms": "1",
       "date": "2026-03-13",
       "first_seen": "2026-03-08"
     }
