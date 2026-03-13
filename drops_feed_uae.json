@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 3413,
-  "total_drops": 23,
-  "total_new": 3413,
+  "total_tracked": 3416,
+  "total_drops": 24,
+  "total_new": 3416,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -326,6 +326,20 @@
       "size": "7743",
       "bedrooms": "",
       "date": "2026-03-12",
+      "first_seen": "2026-03-08"
+    },
+    {
+      "id": "9745892",
+      "title": "G+P+6 RESIDENTIAL PLOT FOR SALE | WARSAN 4",
+      "old_price": 29000000,
+      "new_price": 25500000,
+      "drop_pct": 12.1,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/3/4/gp8-residential-plot-for-sale-warsan-4-2-334810/",
+      "area": "International City",
+      "category": "Land",
+      "size": "26057",
+      "bedrooms": "",
+      "date": "2026-03-13",
       "first_seen": "2026-03-08"
     }
   ],
@@ -999,6 +1013,39 @@
       "size": "1400",
       "bedrooms": "",
       "price": 5600680,
+      "first_seen": "2026-03-13"
+    },
+    {
+      "id": "17177091",
+      "title": "EXCLUSIVE | VOT Extended 4E | Backing Pool",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/9/exclusive-vot-extended-4e-backing-pool-2-160786/",
+      "area": "The Springs",
+      "category": "Villa",
+      "size": "1794",
+      "bedrooms": "2",
+      "price": 4500000,
+      "first_seen": "2026-03-13"
+    },
+    {
+      "id": "16575416",
+      "title": "3BR + Maids | Facing the Pool | TYPE B",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2025/10/30/3br-maids-facing-the-pool-type-b-2-740442/",
+      "area": "Mudon",
+      "category": "Townhouse",
+      "size": "1716",
+      "bedrooms": "3",
+      "price": 3000000,
+      "first_seen": "2026-03-13"
+    },
+    {
+      "id": "17146084",
+      "title": "Upgraded | Prime Location | Multiple Options",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/28/fully-upgraded-prime-location-tenanted-2-833597/",
+      "area": "Tilal Al Ghaf",
+      "category": "Villa",
+      "size": "4099",
+      "bedrooms": "4",
+      "price": 10300000,
       "first_seen": "2026-03-13"
     },
     {
@@ -1795,7 +1842,7 @@
     },
     {
       "id": "16942068",
-      "title": "GREAT FLOOR PLAN | PRIME LOCATION | FAMILY LIVING",
+      "title": "GREAT FLOOR PLAN | PRIME LOCATION | PRICE REDUCED",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/14/great-floor-plan-prime-location-family--2-810603/",
       "area": "Umm Suqeim",
       "category": "Apartment",
@@ -2169,13 +2216,13 @@
     },
     {
       "id": "17177941",
-      "title": "BURJ VIEW | BRAND NEW | FULLY FURNISHED",
+      "title": "BURJ VIEW | VACANT NOW | FULLY FURNISHED",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/9/burj-view-brand-new-fully-furnished-2-301147/",
       "area": "Downtown Dubai",
       "category": "Apartment",
       "size": "1045",
       "bedrooms": "2",
-      "price": 4700000,
+      "price": 4500000,
       "first_seen": "2026-03-12"
     },
     {
@@ -5795,39 +5842,6 @@
       "size": "1097",
       "bedrooms": "",
       "price": 5515700,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9803287",
-      "title": "Lowest Price / Rented / Investment / ROI / Immediate Income / Spacious layout / Partitioned",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/10/lowest-price-rented-investment-roi-imme-2-305194/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "2205",
-      "bedrooms": "",
-      "price": 4500000,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9803240",
-      "title": "Bright & Spacious Retail Unit | High Visibility",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/10/bright-spacious-retail-unit-high-visibi-2-130167/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Shop",
-      "size": "2172",
-      "bedrooms": "",
-      "price": 6300000,
-      "first_seen": "2026-03-12"
-    },
-    {
-      "id": "9803228",
-      "title": "Retail Business | Best Price | Business Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/10/retail-business-best-price-business-pri-2-273675/",
-      "area": "Business Bay",
-      "category": "Shop",
-      "size": "1795",
-      "bedrooms": "",
-      "price": 8500000,
       "first_seen": "2026-03-12"
     }
   ],
