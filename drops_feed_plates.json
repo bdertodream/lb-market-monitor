@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-13T20:31:56.562916",
-  "total_tracked": 242,
+  "generated_at": "2026-03-13T21:33:05.155990",
+  "total_tracked": 243,
   "total_drops": 6,
-  "total_new": 242,
+  "total_new": 243,
   "avg_drop_pct": 26.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -402,6 +402,24 @@
       "price_history": [
         {
           "price": 9000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116577611",
+      "title": "Special plate number",
+      "url": "https://www.olx.com.lb/ad/special-plate-number-ID116577611.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Ain Al Mraiseh, Beirut",
+      "original_price": 7000,
+      "current_price": 7000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 7000,
           "date": "2026-03-13"
         }
       ]
