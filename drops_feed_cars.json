@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-13T19:33:03.688479",
-  "total_tracked": 2881,
-  "total_drops": 132,
-  "total_new": 2881,
-  "avg_drop_pct": 6.7,
+  "generated_at": "2026-03-13T20:31:35.959958",
+  "total_tracked": 2889,
+  "total_drops": 133,
+  "total_new": 2889,
+  "avg_drop_pct": 6.6,
   "biggest_drop_usd": 426000,
   "drops": [
     {
@@ -2457,6 +2457,35 @@
         {
           "price": 15500,
           "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116807013",
+      "title": "2011 Jeep Grand Cherokee V6 Black/Black Clean Carfax Like New!",
+      "url": "https://www.olx.com.lb/ad/2011-jeep-grand-cherokee-v6-blackblack-clean-carfax-like-new-ID116807013.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2011,
+      "mileage": 150000,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 11800,
+      "current_price": 11500,
+      "drop_usd": 300,
+      "drop_pct": 2.5,
+      "last_drop_date": "2026-03-13",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 11800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 11500,
+          "date": "2026-03-13"
         }
       ]
     },
@@ -7684,6 +7713,182 @@
       "price_history": [
         {
           "price": 3500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819827",
+      "title": "Chevrolet Aveo 2009",
+      "url": "https://www.olx.com.lb/ad/chevrolet-aveo-2009-ID116819827.html",
+      "make": "Chevrolet",
+      "model": "Aveo",
+      "body_type": "Hatchback",
+      "year": 2009,
+      "mileage": 150000,
+      "transmission": "Automatic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 5800,
+      "current_price": 5800,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 5800,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819824",
+      "title": "Mercedes-Benz GLC-Class 2018",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-class-2018-ID116819824.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 90000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 37500,
+      "current_price": 37500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 37500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819822",
+      "title": "Mercedes-Benz GLC-Class 2019",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-class-2019-ID116819822.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 61000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 31000,
+      "current_price": 31000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 31000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819820",
+      "title": "Land Rover Velar 2018",
+      "url": "https://www.olx.com.lb/ad/land-rover-velar-2018-ID116819820.html",
+      "make": "Land Rover",
+      "model": "Velar",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 51000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 38000,
+      "current_price": 38000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 38000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819818",
+      "title": "Jaguar X-Type 2007",
+      "url": "https://www.olx.com.lb/ad/jaguar-x-type-2007-ID116819818.html",
+      "make": "Jaguar",
+      "model": "X-Type",
+      "body_type": "Sedan",
+      "year": 2007,
+      "mileage": 99000,
+      "transmission": "Automatic",
+      "location": "Khaldeh, Aley",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 6000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116730642",
+      "title": "BMW 4-Series 2016",
+      "url": "https://www.olx.com.lb/ad/bmw-4-series-2016-ID116730642.html",
+      "make": "BMW",
+      "model": "4-Series",
+      "body_type": "Sedan",
+      "year": 2016,
+      "mileage": 130000,
+      "transmission": "Steptronic",
+      "location": "Safra, Keserouan",
+      "original_price": 16500,
+      "current_price": 16500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 16500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819811",
+      "title": "Jaguar F-Pace 2017",
+      "url": "https://www.olx.com.lb/ad/jaguar-f-pace-2017-ID116819811.html",
+      "make": "Jaguar",
+      "model": "F-Pace",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 94000,
+      "transmission": "Automatic",
+      "location": "Bsalim, Metn",
+      "original_price": 21000,
+      "current_price": 21000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 21000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819798",
+      "title": "بي ام دبليو الفئة 5 2007",
+      "url": "https://www.olx.com.lb/ad/بي-ام-دبليو-الفئة-5-2007-ID116819798.html",
+      "make": "BMW",
+      "model": "5-Series",
+      "body_type": "Sedan",
+      "year": 2007,
+      "mileage": 117000,
+      "transmission": "Steptronic",
+      "location": "Chmistar, Baalbeck",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 6000,
           "date": "2026-03-13"
         }
       ]
@@ -64066,13 +64271,17 @@
       "transmission": "Steptronic",
       "location": "Achrafieh, Beirut",
       "original_price": 11800,
-      "current_price": 11800,
+      "current_price": 11500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 11800,
           "date": "2026-03-01"
+        },
+        {
+          "price": 11500,
+          "date": "2026-03-13"
         }
       ]
     },
