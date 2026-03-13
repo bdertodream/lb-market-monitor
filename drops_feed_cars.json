@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-13T09:38:51.305439",
-  "total_tracked": 2765,
-  "total_drops": 123,
-  "total_new": 2765,
+  "generated_at": "2026-03-13T10:34:35.502428",
+  "total_tracked": 2773,
+  "total_drops": 124,
+  "total_new": 2773,
   "avg_drop_pct": 6.1,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -566,6 +566,35 @@
         {
           "price": 9500,
           "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116281352",
+      "title": "Velar 2018 p380 dynamic",
+      "url": "https://www.olx.com.lb/ad/velar-2018-p380-dynamic-ID116281352.html",
+      "make": "Land Rover",
+      "model": "Velar",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 60000,
+      "transmission": "Steptronic",
+      "location": "Sabtieh, Metn",
+      "original_price": 42000,
+      "current_price": 38000,
+      "drop_usd": 4000,
+      "drop_pct": 9.5,
+      "last_drop_date": "2026-03-13",
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 42000,
+          "date": "2026-03-13"
+        },
+        {
+          "price": 38000,
+          "date": "2026-03-13"
         }
       ]
     },
@@ -4541,12 +4570,16 @@
       "transmission": "Steptronic",
       "location": "Sabtieh, Metn",
       "original_price": 42000,
-      "current_price": 42000,
+      "current_price": 38000,
       "first_seen": "2026-03-13",
       "posted_date": "2026-03-13",
       "price_history": [
         {
           "price": 42000,
+          "date": "2026-03-13"
+        },
+        {
+          "price": 38000,
           "date": "2026-03-13"
         }
       ]
@@ -4855,6 +4888,182 @@
       "price_history": [
         {
           "price": 8500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819225",
+      "title": "Hyundai Santa Fe 2018",
+      "url": "https://www.olx.com.lb/ad/hyundai-santa-fe-2018-ID116819225.html",
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 34000,
+      "transmission": "Steptronic",
+      "location": "Mkalles, Metn",
+      "original_price": 17500,
+      "current_price": 17500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819206",
+      "title": "Kia Sportage 2020",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-2020-ID116819206.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 36000,
+      "transmission": "Automatic",
+      "location": "Zouk Mikael, Keserouan",
+      "original_price": 17500,
+      "current_price": 17500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819204",
+      "title": "Land Rover Velar 2018",
+      "url": "https://www.olx.com.lb/ad/land-rover-velar-2018-ID116819204.html",
+      "make": "Land Rover",
+      "model": "Velar",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 66000,
+      "transmission": "Steptronic",
+      "location": "Zahle Town, Zahle",
+      "original_price": 29000,
+      "current_price": 29000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 29000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116781490",
+      "title": "Suzuki Grand Vitara 2014",
+      "url": "https://www.olx.com.lb/ad/suzuki-grand-vitara-2014-ID116781490.html",
+      "make": "Suzuki",
+      "model": "Grand Vitara",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 136000,
+      "transmission": "Automatic",
+      "location": "Mkalles, Metn",
+      "original_price": 13500,
+      "current_price": 13500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 13500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819197",
+      "title": "MERCEDES-BENZ GLC 2019 4MATIC !! 68,000 MILES ONLY!!",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-2019-4matic-68000-miles-only-ID116819197.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 68000,
+      "transmission": "Steptronic",
+      "location": "Zouk Mosbeh, Keserouan",
+      "original_price": 28900,
+      "current_price": 28900,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 28900,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819191",
+      "title": "Toyota Corolla 2003",
+      "url": "https://www.olx.com.lb/ad/toyota-corolla-2003-ID116819191.html",
+      "make": "Toyota",
+      "model": "Corolla",
+      "body_type": "Sedan",
+      "year": 2003,
+      "mileage": 232000,
+      "transmission": "Automatic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 6600,
+      "current_price": 6600,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 6600,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116703790",
+      "title": "Mercedes-Benz GLC 300 _ 2020 !!!!",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-300-_-2020-ID116703790.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "Sedan",
+      "year": 2020,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 34900,
+      "current_price": 34900,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 34900,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "115348812",
+      "title": "Range Rover velar p 250 R dynamic black on black",
+      "url": "https://www.olx.com.lb/ad/velar-p-250-r-dynamic-black-on-black-ID115348812.html",
+      "make": "Land Rover",
+      "model": "Velar",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 55000,
+      "transmission": "Steptronic",
+      "location": "Dora, Metn",
+      "original_price": 42000,
+      "current_price": 42000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 42000,
           "date": "2026-03-13"
         }
       ]
@@ -17733,13 +17942,17 @@
       "transmission": "Automatic",
       "location": "Mazraat Yachouh, Metn",
       "original_price": 2170,
-      "current_price": 2170,
+      "current_price": 21500,
       "first_seen": "2026-03-10",
       "posted_date": "2026-03-10",
       "price_history": [
         {
           "price": 2170,
           "date": "2026-03-10"
+        },
+        {
+          "price": 21500,
+          "date": "2026-03-13"
         }
       ]
     },
@@ -39723,7 +39936,7 @@
       "original_price": 17200,
       "current_price": 17200,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 17200,
@@ -39767,7 +39980,7 @@
       "original_price": 28000,
       "current_price": 28000,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 28000,
@@ -45113,7 +45326,7 @@
       "original_price": 27500,
       "current_price": 27500,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 27500,

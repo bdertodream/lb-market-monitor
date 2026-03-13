@@ -4188,16 +4188,20 @@
     "location": "Furn El Chebbak, Baabda",
     "district": "Baabda",
     "original_price": 6750,
-    "current_price": 6750,
+    "current_price": 6850,
     "price_history": [
       {
         "price": 6750,
         "date": "2026-03-01"
+      },
+      {
+        "price": 6850,
+        "date": "2026-03-13"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-13",
-    "last_updated": "2026-03-07",
+    "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
@@ -5611,6 +5615,30 @@
     "price_history": [
       {
         "price": 7000,
+        "date": "2026-03-13"
+      }
+    ],
+    "first_seen": "2026-03-13",
+    "last_seen": "2026-03-13",
+    "last_updated": "2026-03-13",
+    "posted_date": "2026-03-13",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116815260": {
+    "id": "116815260",
+    "title": "19877 B special number",
+    "url": "https://www.olx.com.lb/ad/19877-b-special-number-ID116815260.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Louaizeh, Baabda",
+    "district": "Baabda",
+    "original_price": 4200,
+    "current_price": 4200,
+    "price_history": [
+      {
+        "price": 4200,
         "date": "2026-03-13"
       }
     ],

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-13T09:39:09.644695",
-  "total_tracked": 231,
+  "generated_at": "2026-03-13T10:34:52.581149",
+  "total_tracked": 232,
   "total_drops": 6,
-  "total_new": 231,
+  "total_new": 232,
   "avg_drop_pct": 26.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -204,6 +204,24 @@
       "price_history": [
         {
           "price": 7000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116815260",
+      "title": "19877 B special number",
+      "url": "https://www.olx.com.lb/ad/19877-b-special-number-ID116815260.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Louaizeh, Baabda",
+      "original_price": 4200,
+      "current_price": 4200,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 4200,
           "date": "2026-03-13"
         }
       ]
@@ -3820,13 +3838,17 @@
       "plate_type": "Standard",
       "location": "Furn El Chebbak, Baabda",
       "original_price": 6750,
-      "current_price": 6750,
+      "current_price": 6850,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 6750,
           "date": "2026-03-01"
+        },
+        {
+          "price": 6850,
+          "date": "2026-03-13"
         }
       ]
     },
