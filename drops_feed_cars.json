@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-13T22:28:14.329512",
-  "total_tracked": 2905,
-  "total_drops": 133,
-  "total_new": 2905,
+  "generated_at": "2026-03-13T23:27:19.708533",
+  "total_tracked": 2910,
+  "total_drops": 135,
+  "total_new": 2910,
   "avg_drop_pct": 6.6,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -3082,6 +3082,35 @@
       ]
     },
     {
+      "id": "116819781",
+      "title": "Chevrolet Tahoe 2006",
+      "url": "https://www.olx.com.lb/ad/chevrolet-tahoe-2006-ID116819781.html",
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "body_type": "SUV",
+      "year": 2006,
+      "mileage": 261000,
+      "transmission": "Automatic",
+      "location": "Ain Al Tineh, Beirut",
+      "original_price": 11000,
+      "current_price": 10800,
+      "drop_usd": 200,
+      "drop_pct": 1.8,
+      "last_drop_date": "2026-03-13",
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 11000,
+          "date": "2026-03-13"
+        },
+        {
+          "price": 10800,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
       "id": "116797576",
       "title": "BMW 3-Series 2007 e92 0 faults",
       "url": "https://www.olx.com.lb/ad/bmw-3-series-2007-e92-0-faults-ID116797576.html",
@@ -3433,6 +3462,35 @@
         },
         {
           "price": 41000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819048",
+      "title": "Land Rover Range Rover Sport 2017 Dynamic",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2017-dynamic-ID116819048.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 115000,
+      "transmission": "Automatic",
+      "location": "Downtown, Beirut",
+      "original_price": 35000,
+      "current_price": 34500,
+      "drop_usd": 500,
+      "drop_pct": 1.4,
+      "last_drop_date": "2026-03-13",
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 35000,
+          "date": "2026-03-13"
+        },
+        {
+          "price": 34500,
           "date": "2026-03-13"
         }
       ]
@@ -4751,12 +4809,16 @@
       "transmission": "Automatic",
       "location": "Downtown, Beirut",
       "original_price": 35000,
-      "current_price": 35000,
+      "current_price": 34500,
       "first_seen": "2026-03-13",
       "posted_date": "2026-03-13",
       "price_history": [
         {
           "price": 35000,
+          "date": "2026-03-13"
+        },
+        {
+          "price": 34500,
           "date": "2026-03-13"
         }
       ]
@@ -7531,12 +7593,16 @@
       "transmission": "Automatic",
       "location": "Ain Al Tineh, Beirut",
       "original_price": 11000,
-      "current_price": 11000,
+      "current_price": 10800,
       "first_seen": "2026-03-13",
       "posted_date": "2026-03-13",
       "price_history": [
         {
           "price": 11000,
+          "date": "2026-03-13"
+        },
+        {
+          "price": 10800,
           "date": "2026-03-13"
         }
       ]
@@ -8203,7 +8269,7 @@
     },
     {
       "id": "116757033",
-      "title": "BYD Song plus Dm-i 2025",
+      "title": "BYD Song plus Dm-i 2025 (plug in hybrid)",
       "url": "https://www.olx.com.lb/ad/byd-other-2025-ID116757033.html",
       "make": "BYD",
       "model": "Other",
@@ -8241,6 +8307,116 @@
       "price_history": [
         {
           "price": 5700,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819927",
+      "title": "BMW M3 2008",
+      "url": "https://www.olx.com.lb/ad/bmw-m3-2008-ID116819927.html",
+      "make": "BMW",
+      "model": "M3",
+      "body_type": "Sports / Coupe",
+      "year": 2008,
+      "mileage": 104000,
+      "transmission": "Steptronic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 38000,
+      "current_price": 38000,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 38000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116643184",
+      "title": "Land Rover Range Rover Sport 2019",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2019-ID116643184.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 70000,
+      "transmission": "Automatic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 43900,
+      "current_price": 43900,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 43900,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819913",
+      "title": "Honda Civic 2006",
+      "url": "https://www.olx.com.lb/ad/honda-civic-2006-ID116819913.html",
+      "make": "Honda",
+      "model": "Civic",
+      "body_type": "Sedan",
+      "year": 2006,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Al Bahsas, Tripoli",
+      "original_price": 5800,
+      "current_price": 5800,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 5800,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116819909",
+      "title": "بورشه كاريرا GT 2006",
+      "url": "https://www.olx.com.lb/ad/بورشه-كاريرا-gt-2006-ID116819909.html",
+      "make": "Porsche",
+      "model": "Carrera GT",
+      "body_type": "Convertible",
+      "year": 2006,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Kfaryassine, Keserouan",
+      "original_price": 37500,
+      "current_price": 37500,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 37500,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116805371",
+      "title": "Nissan Sunny 2019",
+      "url": "https://www.olx.com.lb/ad/nissan-sunny-2019-ID116805371.html",
+      "make": "Nissan",
+      "model": "Sunny",
+      "body_type": "Sedan",
+      "year": 2019,
+      "mileage": 96700,
+      "transmission": "Automatic",
+      "location": "Deir El Qamar, Chouf",
+      "original_price": 8700,
+      "current_price": 8700,
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 8700,
           "date": "2026-03-13"
         }
       ]
