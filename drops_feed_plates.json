@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-14T22:24:32.366162",
+  "generated_at": "2026-03-14T23:27:14.138991",
   "total_tracked": 246,
   "total_drops": 8,
   "total_new": 246,
-  "avg_drop_pct": 22.8,
+  "avg_drop_pct": 23.5,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -107,31 +107,6 @@
       ]
     },
     {
-      "id": "116790059",
-      "title": "number plate",
-      "url": "https://www.olx.com.lb/ad/number-plate-ID116790059.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Aley Town, Aley",
-      "original_price": 4500,
-      "current_price": 4000,
-      "drop_usd": 500,
-      "drop_pct": 11.1,
-      "last_drop_date": "2026-03-14",
-      "first_seen": "2026-03-01",
-      "posted_date": "2026-03-01",
-      "price_history": [
-        {
-          "price": 4500,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 4000,
-          "date": "2026-03-14"
-        }
-      ]
-    },
-    {
       "id": "116754377",
       "title": "Special 6 Digits Car Plate Number",
       "url": "https://www.olx.com.lb/ad/special-6-digits-car-plate-number-ID116754377.html",
@@ -139,10 +114,10 @@
       "plate_type": "Standard",
       "location": "Dekwaneh, Metn",
       "original_price": 3400,
-      "current_price": 3200,
-      "drop_usd": 200,
-      "drop_pct": 5.9,
-      "last_drop_date": "2026-03-12",
+      "current_price": 3000,
+      "drop_usd": 400,
+      "drop_pct": 11.8,
+      "last_drop_date": "2026-03-14",
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -181,6 +156,35 @@
         {
           "price": 3200,
           "date": "2026-03-12"
+        },
+        {
+          "price": 3000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116790059",
+      "title": "number plate",
+      "url": "https://www.olx.com.lb/ad/number-plate-ID116790059.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Aley Town, Aley",
+      "original_price": 4500,
+      "current_price": 4000,
+      "drop_usd": 500,
+      "drop_pct": 11.1,
+      "last_drop_date": "2026-03-14",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 4500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 4000,
+          "date": "2026-03-14"
         }
       ]
     },
@@ -2476,7 +2480,7 @@
       "plate_type": "Standard",
       "location": "Dekwaneh, Metn",
       "original_price": 3400,
-      "current_price": 3200,
+      "current_price": 3000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -2515,6 +2519,10 @@
         {
           "price": 3200,
           "date": "2026-03-12"
+        },
+        {
+          "price": 3000,
+          "date": "2026-03-14"
         }
       ]
     },
