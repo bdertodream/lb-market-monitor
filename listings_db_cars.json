@@ -3062,12 +3062,13 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-05",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
-    "stale": true
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "116804159": {
     "id": "116804159",
@@ -8460,19 +8461,23 @@
     "location": "Other in Zgharta, Zgharta",
     "district": "Zgharta",
     "original_price": 17300,
-    "current_price": 17300,
+    "current_price": 16900,
     "price_history": [
       {
         "price": 17300,
         "date": "2026-03-01"
+      },
+      {
+        "price": 16900,
+        "date": "2026-03-14"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-14",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_updated": "2026-03-14",
+    "drop_usd": 400,
+    "drop_pct": 2.3,
+    "last_drop_date": "2026-03-14",
     "posted_date": "2026-03-01"
   },
   "116811067": {
@@ -8572,19 +8577,23 @@
     "location": "Other in Zgharta, Zgharta",
     "district": "Zgharta",
     "original_price": 16000,
-    "current_price": 16000,
+    "current_price": 15800,
     "price_history": [
       {
         "price": 16000,
         "date": "2026-03-01"
+      },
+      {
+        "price": 15800,
+        "date": "2026-03-14"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-14",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_updated": "2026-03-14",
+    "drop_usd": 200,
+    "drop_pct": 1.2,
+    "last_drop_date": "2026-03-14",
     "posted_date": "2026-03-01"
   },
   "116811044": {
@@ -8748,19 +8757,23 @@
     "location": "Other in Zgharta, Zgharta",
     "district": "Zgharta",
     "original_price": 11500,
-    "current_price": 11500,
+    "current_price": 11000,
     "price_history": [
       {
         "price": 11500,
         "date": "2026-03-01"
+      },
+      {
+        "price": 11000,
+        "date": "2026-03-14"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-14",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_updated": "2026-03-14",
+    "drop_usd": 500,
+    "drop_pct": 4.3,
+    "last_drop_date": "2026-03-14",
     "posted_date": "2026-03-01"
   },
   "116767701": {
@@ -17170,20 +17183,25 @@
     "location": "Mkalles, Metn",
     "district": "Metn",
     "original_price": 34500,
-    "current_price": 34500,
+    "current_price": 30500,
     "price_history": [
       {
         "price": 34500,
         "date": "2026-03-01"
+      },
+      {
+        "price": 30500,
+        "date": "2026-03-14"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
-    "stale": true
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "drop_usd": 4000,
+    "drop_pct": 11.6,
+    "last_drop_date": "2026-03-14",
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "116486433": {
     "id": "116486433",
@@ -45561,7 +45579,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-14",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -86105,6 +86123,426 @@
     "price_history": [
       {
         "price": 29000,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116819100": {
+    "id": "116819100",
+    "title": "Kia Sportage 2020",
+    "url": "https://www.olx.com.lb/ad/kia-sportage-2020-ID116819100.html",
+    "make": "Kia",
+    "model": "Sportage",
+    "body_type": "SUV",
+    "year": 2020,
+    "mileage": 109000,
+    "transmission": "Steptronic",
+    "location": "Zalka, Metn",
+    "district": "Metn",
+    "original_price": 17900,
+    "current_price": 17900,
+    "price_history": [
+      {
+        "price": 17900,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116724135": {
+    "id": "116724135",
+    "title": "Porsche Macan 2018",
+    "url": "https://www.olx.com.lb/ad/porsche-macan-2018-ID116724135.html",
+    "make": "Porsche",
+    "model": "Macan",
+    "body_type": "Sports / Coupe",
+    "year": 2018,
+    "mileage": 120000,
+    "transmission": "Automatic",
+    "location": "Jnah, Beirut",
+    "district": "Beirut",
+    "original_price": 29000,
+    "current_price": 29000,
+    "price_history": [
+      {
+        "price": 29000,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "112175970": {
+    "id": "112175970",
+    "title": "E46 Convertible",
+    "url": "https://www.olx.com.lb/ad/e46-convertible-ID112175970.html",
+    "make": "BMW",
+    "model": "3-Series",
+    "body_type": "Sedan",
+    "year": 2001,
+    "mileage": 165000,
+    "transmission": "Automatic",
+    "location": "Awkar, Metn",
+    "district": "Metn",
+    "original_price": 2750,
+    "current_price": 2750,
+    "price_history": [
+      {
+        "price": 2750,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116030039": {
+    "id": "116030039",
+    "title": "Porsche Macan 2016 Car for Sale",
+    "url": "https://www.olx.com.lb/ad/porsche-macan-2016-car-for-sale-ID116030039.html",
+    "make": "Porsche",
+    "model": "Macan",
+    "body_type": "Sports / Coupe",
+    "year": 2016,
+    "mileage": 80000,
+    "transmission": "Automatic",
+    "location": "Zouk Mikael, Keserouan",
+    "district": "Keserouan",
+    "original_price": 29500,
+    "current_price": 29500,
+    "price_history": [
+      {
+        "price": 29500,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115989346": {
+    "id": "115989346",
+    "title": "Mercedes-Benz CLA-Class 2017 amg package",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-cla-class-2017-car-for-sale-ID115989346.html",
+    "make": "Mercedes-Benz",
+    "model": "CLA-Class",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 75000,
+    "transmission": "Automatic",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 18800,
+    "current_price": 18800,
+    "price_history": [
+      {
+        "price": 18800,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115988929": {
+    "id": "115988929",
+    "title": "Land Rover  HST Sport 2016 Car for Sale",
+    "url": "https://www.olx.com.lb/ad/land-rover-hst-sport-2016-car-for-sale-ID115988929.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2016,
+    "mileage": 95000,
+    "transmission": "Automatic",
+    "location": "Zouk Mikael, Keserouan",
+    "district": "Keserouan",
+    "original_price": 33500,
+    "current_price": 33500,
+    "price_history": [
+      {
+        "price": 33500,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116735090": {
+    "id": "116735090",
+    "title": "Audi Q7 2018",
+    "url": "https://www.olx.com.lb/ad/audi-q7-2018-ID116735090.html",
+    "make": "Audi",
+    "model": "Q7",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 90000,
+    "transmission": "Automatic",
+    "location": "Zouk Mikael, Keserouan",
+    "district": "Keserouan",
+    "original_price": 27500,
+    "current_price": 27500,
+    "price_history": [
+      {
+        "price": 27500,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116725071": {
+    "id": "116725071",
+    "title": "Mazda CX-3 2018",
+    "url": "https://www.olx.com.lb/ad/mazda-cx-3-2018-ID116725071.html",
+    "make": "Mazda",
+    "model": "CX-3",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 60000,
+    "transmission": "Automatic",
+    "location": "Zouk Mikael, Keserouan",
+    "district": "Keserouan",
+    "original_price": 17800,
+    "current_price": 17800,
+    "price_history": [
+      {
+        "price": 17800,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116725048": {
+    "id": "116725048",
+    "title": "Jeep Grand Cherokee 2018 (clean car fax)",
+    "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2018-clean-car-fax-ID116725048.html",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 120000,
+    "transmission": "Automatic",
+    "location": "Zouk Mikael, Keserouan",
+    "district": "Keserouan",
+    "original_price": 22500,
+    "current_price": 22500,
+    "price_history": [
+      {
+        "price": 22500,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116725041": {
+    "id": "116725041",
+    "title": "Jeep Grand Cherokee 2018 (clean car fax)",
+    "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2018-clean-car-fax-ID116725041.html",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 90000,
+    "transmission": "Steptronic",
+    "location": "Zouk Mikael, Keserouan",
+    "district": "Keserouan",
+    "original_price": 24500,
+    "current_price": 24500,
+    "price_history": [
+      {
+        "price": 24500,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116700797": {
+    "id": "116700797",
+    "title": "Dodge Ram 2012",
+    "url": "https://www.olx.com.lb/ad/dodge-ram-2012-ID116700797.html",
+    "make": "Dodge",
+    "model": "Ram",
+    "body_type": "Pickup",
+    "year": 2012,
+    "mileage": 100000,
+    "transmission": "Automatic",
+    "location": "Zouk Mikael, Keserouan",
+    "district": "Keserouan",
+    "original_price": 16000,
+    "current_price": 16000,
+    "price_history": [
+      {
+        "price": 16000,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116636201": {
+    "id": "116636201",
+    "title": "Toyota Highlander Hybrid 2025",
+    "url": "https://www.olx.com.lb/ad/toyota-highlander-hybrid-2025-ID116636201.html",
+    "make": "Toyota",
+    "model": "Highlander Hybrid",
+    "body_type": "SUV",
+    "year": 2025,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Zouk Mikael, Keserouan",
+    "district": "Keserouan",
+    "original_price": 77000,
+    "current_price": 77000,
+    "price_history": [
+      {
+        "price": 77000,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116710812": {
+    "id": "116710812",
+    "title": "Jeep Grand Cherokee 2017",
+    "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2017-ID116710812.html",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 0,
+    "transmission": "Steptronic",
+    "location": "Other in Koura, Koura",
+    "district": "Koura",
+    "original_price": 21000,
+    "current_price": 21000,
+    "price_history": [
+      {
+        "price": 21000,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116738290": {
+    "id": "116738290",
+    "title": "Cadillac STS 2005",
+    "url": "https://www.olx.com.lb/ad/cadillac-sts-2005-ID116738290.html",
+    "make": "Cadillac",
+    "model": "STS",
+    "body_type": "Sedan",
+    "year": 2005,
+    "mileage": 80000,
+    "transmission": "Automatic",
+    "location": "Dekwaneh, Metn",
+    "district": "Metn",
+    "original_price": 5500,
+    "current_price": 5500,
+    "price_history": [
+      {
+        "price": 5500,
+        "date": "2026-03-14"
+      }
+    ],
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14",
+    "last_updated": "2026-03-14",
+    "posted_date": "2026-03-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116450844": {
+    "id": "116450844",
+    "title": "Mitsubishi Pajero 2017",
+    "url": "https://www.olx.com.lb/ad/mitsubishi-pajero-2017-ID116450844.html",
+    "make": "Mitsubishi",
+    "model": "Pajero",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 120000,
+    "transmission": "Steptronic",
+    "location": "Damour, Chouf",
+    "district": "Chouf",
+    "original_price": 26500,
+    "current_price": 26500,
+    "price_history": [
+      {
+        "price": 26500,
         "date": "2026-03-14"
       }
     ],
