@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-14T21:25:57.796750",
-  "total_tracked": 3134,
+  "generated_at": "2026-03-14T22:24:13.147043",
+  "total_tracked": 3138,
   "total_drops": 156,
-  "total_new": 3134,
+  "total_new": 3138,
   "avg_drop_pct": 6.3,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -9580,6 +9580,94 @@
       "price_history": [
         {
           "price": 20000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116789787",
+      "title": "Mercedes-Benz C-Class 2018",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2018-ID116789787.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "El Heri, Batroun",
+      "original_price": 20500,
+      "current_price": 20500,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 20500,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116329559",
+      "title": "BMW 7-Series 1987",
+      "url": "https://www.olx.com.lb/ad/bmw-7-series-1987-ID116329559.html",
+      "make": "BMW",
+      "model": "7-Series",
+      "body_type": "Other",
+      "year": 1987,
+      "mileage": 1,
+      "transmission": "Automatic",
+      "location": "Halba, Akkar",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116767122",
+      "title": "Toyota FJ Cruiser 2018 وكالة لبنانية صيانة دورية في الشركة",
+      "url": "https://www.olx.com.lb/ad/toyota-fj-cruiser-2018-ID116767122.html",
+      "make": "Toyota",
+      "model": "FJ Cruiser",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 93000,
+      "transmission": "Steptronic",
+      "location": "Al Maarad, Tripoli",
+      "original_price": 35000,
+      "current_price": 35000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 35000,
+          "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116820713",
+      "title": "Jaguar F-Pace 2018",
+      "url": "https://www.olx.com.lb/ad/jaguar-f-pace-2018-ID116820713.html",
+      "make": "Jaguar",
+      "model": "F-Pace",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Damour, Chouf",
+      "original_price": 24000,
+      "current_price": 24000,
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 24000,
           "date": "2026-03-14"
         }
       ]
