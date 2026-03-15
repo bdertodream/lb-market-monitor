@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-15T20:24:16.924542",
-  "total_tracked": 19469,
+  "generated_at": "2026-03-15T21:26:26.062468",
+  "total_tracked": 19471,
   "total_drops": 94,
-  "total_new": 19469,
+  "total_new": 19471,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -11158,6 +11158,42 @@
       "price_history": [
         {
           "price": 209900,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821634",
+      "title": "Apartment for sale in Ain Saadeh 285,000$ شقة للبيع في عين سعادة",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-ain-saadeh-285000-شقة-للبيع-في-عين-سعادة-ID116821634.html",
+      "type": "Apartment",
+      "location": "Ain Saadeh, Metn",
+      "sqm": 160,
+      "original_price": 285000,
+      "current_price": 285000,
+      "posted_date": "2026-03-15",
+      "first_seen": "2026-03-15",
+      "price_history": [
+        {
+          "price": 285000,
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116821636",
+      "title": "Land for Sale | Ornet El Ham",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-ornet-el-ham-ID116821636.html",
+      "type": "Land",
+      "location": "Qornet El Hamra, Metn",
+      "sqm": 1380,
+      "original_price": 315000,
+      "current_price": 315000,
+      "posted_date": "2026-03-15",
+      "first_seen": "2026-03-15",
+      "price_history": [
+        {
+          "price": 315000,
           "date": "2026-03-15"
         }
       ]
