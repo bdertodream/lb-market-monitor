@@ -293,14 +293,14 @@
   },
   "115879522": {
     "id": "115879522",
-    "title": "T   20001   &   M   20001",
+    "title": "Y   1064",
     "url": "https://www.olx.com.lb/ad/b-7961-ID115879522.html",
     "plate_code": "",
     "plate_type": "Standard",
     "location": "Downtown, Beirut",
     "district": "Beirut",
     "original_price": 8000,
-    "current_price": 17500,
+    "current_price": 4500,
     "price_history": [
       {
         "price": 8000,
@@ -309,14 +309,18 @@
       {
         "price": 17500,
         "date": "2026-03-13"
+      },
+      {
+        "price": 4500,
+        "date": "2026-03-15"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-14",
-    "last_updated": "2026-03-13",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_seen": "2026-03-15",
+    "last_updated": "2026-03-15",
+    "drop_usd": 3500,
+    "drop_pct": 43.8,
+    "last_drop_date": "2026-03-15",
     "posted_date": "2026-03-01"
   },
   "115481535": {
