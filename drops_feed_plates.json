@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-16T12:56:12.652070",
-  "total_tracked": 251,
+  "generated_at": "2026-03-16T14:23:59.675827",
+  "total_tracked": 252,
   "total_drops": 11,
-  "total_new": 251,
+  "total_new": 252,
   "avg_drop_pct": 31.7,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -359,6 +359,24 @@
       "price_history": [
         {
           "price": 123,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116822311",
+      "title": "ABBBBA SPECIAL 6 DIGITS",
+      "url": "https://www.olx.com.lb/ad/abbbba-special-6-digits-ID116822311.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dawhet Aaramoun, Aley",
+      "original_price": 4800,
+      "current_price": 4800,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 4800,
           "date": "2026-03-16"
         }
       ]
