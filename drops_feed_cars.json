@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-16T18:03:45.256317",
-  "total_tracked": 3486,
-  "total_drops": 187,
-  "total_new": 3486,
+  "generated_at": "2026-03-16T18:59:18.246544",
+  "total_tracked": 3494,
+  "total_drops": 188,
+  "total_new": 3494,
   "avg_drop_pct": 6.5,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -3264,6 +3264,35 @@
       ]
     },
     {
+      "id": "116811917",
+      "title": "Land Rover Range Rover SVR 2018 clean car fax CARON EDITION",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-svr-2018-clean-car-fax-california-ID116811917.html",
+      "make": "Land Rover",
+      "model": "Range Rover SVR",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 90000,
+      "transmission": "Steptronic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 71000,
+      "current_price": 69000,
+      "drop_usd": 2000,
+      "drop_pct": 2.8,
+      "last_drop_date": "2026-03-16",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 71000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 69000,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
       "id": "116493860",
       "title": "Land Rover Discovery Sport 2017",
       "url": "https://www.olx.com.lb/ad/land-rover-discovery-sport-2017-ID116493860.html",
@@ -4914,7 +4943,7 @@
       "transmission": "Steptronic",
       "location": "Sin El Fil, Metn",
       "original_price": 38000,
-      "current_price": 37500,
+      "current_price": 38500,
       "drop_usd": 500,
       "drop_pct": 1.3,
       "last_drop_date": "2026-03-16",
@@ -4927,6 +4956,10 @@
         },
         {
           "price": 37500,
+          "date": "2026-03-16"
+        },
+        {
+          "price": 38500,
           "date": "2026-03-16"
         }
       ]
@@ -9169,6 +9202,182 @@
       "price_history": [
         {
           "price": 30000,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116814138",
+      "title": "Nissan Pathfinder 2001",
+      "url": "https://www.olx.com.lb/ad/nissan-pathfinder-2001-ID116814138.html",
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "body_type": "SUV",
+      "year": 2001,
+      "mileage": 192000,
+      "transmission": "Automatic",
+      "location": "Other in Aley, Aley",
+      "original_price": 1234,
+      "current_price": 1234,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 1234,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116822731",
+      "title": "Hyundai Veloster 2014",
+      "url": "https://www.olx.com.lb/ad/hyundai-veloster-2014-ID116822731.html",
+      "make": "Hyundai",
+      "model": "Veloster",
+      "body_type": "Hatchback",
+      "year": 2014,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 1111,
+      "current_price": 1111,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 1111,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116786987",
+      "title": "Subaru Outback 2018",
+      "url": "https://www.olx.com.lb/ad/subaru-outback-2018-ID116786987.html",
+      "make": "Subaru",
+      "model": "Outback",
+      "body_type": "Hatchback",
+      "year": 2018,
+      "mileage": 73500,
+      "transmission": "Steptronic",
+      "location": "Haoush el Oumara, Zahle",
+      "original_price": 18200,
+      "current_price": 18200,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 18200,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116781631",
+      "title": "Mercedes-Benz C-Class 2017",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2017-ID116781631.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2017,
+      "mileage": 95000,
+      "transmission": "Steptronic",
+      "location": "Ksara, Zahle",
+      "original_price": 24000,
+      "current_price": 24000,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 24000,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116822720",
+      "title": "Land Rover Range Rover Sport 2019 HSE clean car fax California",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2019-hse-clean-car-fax-california-ID116822720.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 85000,
+      "transmission": "Steptronic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 41500,
+      "current_price": 41500,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 41500,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116822699",
+      "title": "Mazda 3 2011",
+      "url": "https://www.olx.com.lb/ad/mazda-3-2011-ID116822699.html",
+      "make": "Mazda",
+      "model": "3",
+      "body_type": "Sedan",
+      "year": 2011,
+      "mileage": 115000,
+      "transmission": "Automatic",
+      "location": "Jal El Dib, Metn",
+      "original_price": 7700,
+      "current_price": 7700,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 7700,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116822697",
+      "title": "F Pace Prestige clean carfax 105000km super ndife",
+      "url": "https://www.olx.com.lb/ad/f-pace-prestige-clean-carfax-105000km-super-ndife-ID116822697.html",
+      "make": "Jaguar",
+      "model": "F-Pace",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 105000,
+      "transmission": "Steptronic",
+      "location": "Jdaide, Metn",
+      "original_price": 26800,
+      "current_price": 26800,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 26800,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116568381",
+      "title": "سيتروين سي 4 2009",
+      "url": "https://www.olx.com.lb/ad/سيتروين-سي-4-2009-ID116568381.html",
+      "make": "Citroen",
+      "model": "C4",
+      "body_type": "Sedan",
+      "year": 2009,
+      "mileage": 200,
+      "transmission": "Automatic",
+      "location": "Naccache, Metn",
+      "original_price": 3200,
+      "current_price": 3200,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 3200,
           "date": "2026-03-16"
         }
       ]
@@ -37529,7 +37738,7 @@
     },
     {
       "id": "116814926",
-      "title": "Jeep Grand Cherokee 2021 Limited 7 sitters clean car fax California",
+      "title": "Jeep Grand Cherokee L 2021 Limited 7 sitters clean car fax California",
       "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2021-limited-7-sitters-clean-car-fax-california-ID116814926.html",
       "make": "Jeep",
       "model": "Grand Cherokee",
@@ -37539,7 +37748,7 @@
       "transmission": "Steptronic",
       "location": "Sin El Fil, Metn",
       "original_price": 41000,
-      "current_price": 42500,
+      "current_price": 41500,
       "first_seen": "2026-03-09",
       "posted_date": "2026-03-09",
       "price_history": [
@@ -37550,6 +37759,10 @@
         {
           "price": 42500,
           "date": "2026-03-09"
+        },
+        {
+          "price": 41500,
+          "date": "2026-03-16"
         }
       ]
     },
@@ -70101,13 +70314,17 @@
       "transmission": "Steptronic",
       "location": "Sin El Fil, Metn",
       "original_price": 71000,
-      "current_price": 71000,
+      "current_price": 69000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 71000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 69000,
+          "date": "2026-03-16"
         }
       ]
     },
@@ -70721,7 +70938,7 @@
       "transmission": "Steptronic",
       "location": "Sin El Fil, Metn",
       "original_price": 38000,
-      "current_price": 37500,
+      "current_price": 38500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -70731,6 +70948,10 @@
         },
         {
           "price": 37500,
+          "date": "2026-03-16"
+        },
+        {
+          "price": 38500,
           "date": "2026-03-16"
         }
       ]
