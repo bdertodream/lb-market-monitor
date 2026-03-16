@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-16T01:28:26.273278",
-  "total_tracked": 19502,
+  "generated_at": "2026-03-16T04:37:53.444189",
+  "total_tracked": 19506,
   "total_drops": 94,
-  "total_new": 19502,
+  "total_new": 19506,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -2590,6 +2590,78 @@
       "price_history": [
         {
           "price": 335000,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116742418",
+      "title": "Three bedrooms 190m2 Appartment in Mansourieh, Next to Villa Wakim",
+      "url": "https://www.olx.com.lb/ad/three-bedrooms-190m2-appartment-in-mansourieh-next-to-villa-wakim-ID116742418.html",
+      "type": "Villa",
+      "location": "Mansourieh, Metn",
+      "sqm": 190,
+      "original_price": 180000,
+      "current_price": 180000,
+      "posted_date": "2026-03-16",
+      "first_seen": "2026-03-16",
+      "price_history": [
+        {
+          "price": 180000,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116821747",
+      "title": "duplex apartment for sale in Hazmiyeh baabda شقق للبيع في حازمية بعبدا",
+      "url": "https://www.olx.com.lb/ad/duplex-apartment-for-sale-in-hazmiyeh-baabda-شقق-للبيع-في-حازمية-بعبدا-ID116821747.html",
+      "type": "Duplex",
+      "location": "Hazmiyeh, Baabda",
+      "sqm": 250,
+      "original_price": 399000,
+      "current_price": 399000,
+      "posted_date": "2026-03-16",
+      "first_seen": "2026-03-16",
+      "price_history": [
+        {
+          "price": 399000,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116821745",
+      "title": "apartments for sale in Hazmiyeh mar takla شقق للبيع في حازمية بعبدا",
+      "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-hazmiyeh-mar-takla-شقق-للبيع-في-حازمية-بعبدا-ID116821745.html",
+      "type": "Apartment",
+      "location": "Hazmiyeh, Baabda",
+      "sqm": 190,
+      "original_price": 300000,
+      "current_price": 300000,
+      "posted_date": "2026-03-16",
+      "first_seen": "2026-03-16",
+      "price_history": [
+        {
+          "price": 300000,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116821743",
+      "title": "apartments for sale in ramlet el bayda beirut شقق للبيع في بيروت",
+      "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-ramlet-el-bayda-beirut-شقق-للبيع-في-بيروت-ID116821743.html",
+      "type": "Apartment",
+      "location": "Ramlet el Bayda, Beirut",
+      "sqm": 435,
+      "original_price": 1700000,
+      "current_price": 1700000,
+      "posted_date": "2026-03-16",
+      "first_seen": "2026-03-16",
+      "price_history": [
+        {
+          "price": 1700000,
           "date": "2026-03-16"
         }
       ]
