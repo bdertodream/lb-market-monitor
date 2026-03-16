@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-16T19:56:38.854356",
-  "total_tracked": 3505,
-  "total_drops": 189,
-  "total_new": 3505,
+  "generated_at": "2026-03-16T20:37:21.816498",
+  "total_tracked": 3509,
+  "total_drops": 191,
+  "total_new": 3509,
   "avg_drop_pct": 6.5,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -1526,6 +1526,35 @@
         {
           "price": 17000,
           "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116814142",
+      "title": "Nissan Pathfinder 1998",
+      "url": "https://www.olx.com.lb/ad/nissan-pathfinder-1998-ID116814142.html",
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "body_type": "SUV",
+      "year": 1998,
+      "mileage": 150000,
+      "transmission": "Automatic",
+      "location": "Aley Town, Aley",
+      "original_price": 5500,
+      "current_price": 5200,
+      "drop_usd": 300,
+      "drop_pct": 5.5,
+      "last_drop_date": "2026-03-16",
+      "first_seen": "2026-03-14",
+      "posted_date": "2026-03-14",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-03-14"
+        },
+        {
+          "price": 5200,
+          "date": "2026-03-16"
         }
       ]
     },
@@ -4990,6 +5019,35 @@
         {
           "price": 15300,
           "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116791174",
+      "title": "Land Rover Range Rover SVR 2014",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-svr-2014-ID116791174.html",
+      "make": "Land Rover",
+      "model": "Range Rover SVR",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 150000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 40000,
+      "current_price": 39500,
+      "drop_usd": 500,
+      "drop_pct": 1.2,
+      "last_drop_date": "2026-03-16",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 40000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 39500,
+          "date": "2026-03-16"
         }
       ]
     },
@@ -9649,6 +9707,94 @@
       "price_history": [
         {
           "price": 9300,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116655975",
+      "title": "Mercedes-Benz C-Class 2017",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2017-ID116655975.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 75000,
+      "transmission": "Automatic",
+      "location": "Haret Hreik, Baabda",
+      "original_price": 20000,
+      "current_price": 20000,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 20000,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116764538",
+      "title": "Kia Sportage 2020  9000 miles only",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-2020-lx-black-awd-4-wheel-ID116764538.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Jdaide, Metn",
+      "original_price": 17950,
+      "current_price": 17950,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 17950,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116822796",
+      "title": "Gargour tgf Jeep Grand Cherokee 2022 L Limited with 18 months warranty",
+      "url": "https://www.olx.com.lb/ad/gargour-tgf-jeep-grand-cherokee-2022-l-limited-with-18-months-warranty-ID116822796.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2022,
+      "mileage": 50000,
+      "transmission": "Automatic",
+      "location": "Badaro, Beirut",
+      "original_price": 54900,
+      "current_price": 54900,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 54900,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116822793",
+      "title": "تويوتا كامرى 2015",
+      "url": "https://www.olx.com.lb/ad/تويوتا-كامرى-2015-ID116822793.html",
+      "make": "Toyota",
+      "model": "Camry",
+      "body_type": "Sedan",
+      "year": 2015,
+      "mileage": 157000,
+      "transmission": "Steptronic",
+      "location": "Bourj Hammoud, Metn",
+      "original_price": 9500,
+      "current_price": 9500,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 9500,
           "date": "2026-03-16"
         }
       ]
@@ -18709,13 +18855,17 @@
       "transmission": "Automatic",
       "location": "Aley Town, Aley",
       "original_price": 5500,
-      "current_price": 5500,
+      "current_price": 5200,
       "first_seen": "2026-03-14",
       "posted_date": "2026-03-14",
       "price_history": [
         {
           "price": 5500,
           "date": "2026-03-14"
+        },
+        {
+          "price": 5200,
+          "date": "2026-03-16"
         }
       ]
     },
@@ -49737,13 +49887,17 @@
       "transmission": "Automatic",
       "location": "Dekwaneh, Metn",
       "original_price": 40000,
-      "current_price": 40000,
+      "current_price": 39500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 40000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 39500,
+          "date": "2026-03-16"
         }
       ]
     },
