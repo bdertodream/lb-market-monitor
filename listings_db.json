@@ -73,7 +73,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -2617,12 +2617,13 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-04",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
-    "stale": true
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "116129169": {
     "id": "116129169",
@@ -4615,7 +4616,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -4966,7 +4967,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -6474,7 +6475,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -8592,7 +8593,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -10195,7 +10196,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -16727,7 +16728,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -18224,7 +18225,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -19855,7 +19856,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -19909,7 +19910,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -28352,7 +28353,7 @@
     "bedrooms": null,
     "bathrooms": null,
     "original_price": 160000,
-    "current_price": 150000,
+    "current_price": 140000,
     "price_history": [
       {
         "price": 160000,
@@ -28361,14 +28362,18 @@
       {
         "price": 150000,
         "date": "2026-03-13"
+      },
+      {
+        "price": 140000,
+        "date": "2026-03-16"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-16",
-    "last_updated": "2026-03-13",
-    "drop_usd": 10000,
-    "drop_pct": 6.2,
-    "last_drop_date": "2026-03-13",
+    "last_updated": "2026-03-16",
+    "drop_usd": 20000,
+    "drop_pct": 12.5,
+    "last_drop_date": "2026-03-16",
     "posted_date": "2026-03-01"
   },
   "116811045": {
@@ -29448,7 +29453,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -33407,12 +33412,13 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-05",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
-    "stale": true
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "115867394": {
     "id": "115867394",
@@ -33515,7 +33521,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -51917,7 +51923,7 @@
   },
   "116809108": {
     "id": "116809108",
-    "title": "Furnished Chalet for Sale | Mayrouba – Keserwan | Edge AI Real Estate",
+    "title": "Furnished Chalet for Sale | Mayrouba – Keserwan Edge AI #YN101016",
     "url": "https://www.olx.com.lb/ad/furnished-chalet-for-sale-mayrouba-keserwan-edge-ai-real-estate-ID116809108.html",
     "type": "Chalet",
     "location": "Mayrouba, Keserouan",
@@ -67593,12 +67599,13 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
-    "stale": true
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "116096409": {
     "id": "116096409",
@@ -67620,12 +67627,13 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
-    "stale": true
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "115911871": {
     "id": "115911871",
@@ -67647,12 +67655,13 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
-    "stale": true
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "116379175": {
     "id": "116379175",
@@ -103226,7 +103235,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -109507,7 +109516,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -109974,7 +109983,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -112120,7 +112129,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -115619,7 +115628,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -115700,7 +115709,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -115727,7 +115736,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -115781,7 +115790,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -118059,7 +118068,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -126079,7 +126088,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -126214,7 +126223,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -127712,7 +127721,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -129014,7 +129023,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -132081,7 +132090,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -132945,7 +132954,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -135359,7 +135368,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -135440,7 +135449,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -138245,7 +138254,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 15000,
     "drop_pct": 6.8,
@@ -138843,7 +138852,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -139358,7 +139367,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -139864,7 +139873,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -147553,7 +147562,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -148663,7 +148672,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -151017,19 +151026,23 @@
     "bedrooms": "3",
     "bathrooms": "2",
     "original_price": 185000,
-    "current_price": 185000,
+    "current_price": 179000,
     "price_history": [
       {
         "price": 185000,
         "date": "2026-03-01"
+      },
+      {
+        "price": 179000,
+        "date": "2026-03-16"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-13",
-    "last_updated": "2026-03-06",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 6000,
+    "drop_pct": 3.2,
+    "last_drop_date": "2026-03-16",
     "posted_date": "2026-03-01"
   },
   "116796793": {
@@ -157673,7 +157686,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -158024,7 +158037,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -174783,7 +174796,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -175755,7 +175768,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -182834,7 +182847,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -183780,7 +183793,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -183942,7 +183955,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184023,7 +184036,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184050,7 +184063,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184077,7 +184090,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184266,7 +184279,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184347,7 +184360,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184374,7 +184387,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184455,7 +184468,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184536,7 +184549,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184563,7 +184576,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184617,7 +184630,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184644,7 +184657,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184671,7 +184684,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184807,7 +184820,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184861,7 +184874,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184888,7 +184901,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184942,7 +184955,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184996,7 +185009,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -185023,7 +185036,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -185077,7 +185090,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -185104,7 +185117,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -185123,19 +185136,23 @@
     "bedrooms": "3",
     "bathrooms": "4",
     "original_price": 590000,
-    "current_price": 590000,
+    "current_price": 550000,
     "price_history": [
       {
         "price": 590000,
         "date": "2026-03-01"
+      },
+      {
+        "price": 550000,
+        "date": "2026-03-16"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
-    "last_updated": "2026-03-07",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 40000,
+    "drop_pct": 6.8,
+    "last_drop_date": "2026-03-16",
     "posted_date": "2026-03-01"
   },
   "116690922": {
@@ -185158,7 +185175,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -185185,7 +185202,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -185239,7 +185256,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -185320,7 +185337,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -185347,7 +185364,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -185374,7 +185391,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -185428,7 +185445,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -185482,7 +185499,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -185617,7 +185634,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -185698,7 +185715,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -185833,7 +185850,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -185942,7 +185959,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -186131,7 +186148,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -186266,7 +186283,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -186455,7 +186472,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -186591,7 +186608,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -186618,7 +186635,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -186672,7 +186689,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -192850,7 +192867,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -193286,7 +193303,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -198968,7 +198985,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -199455,7 +199472,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -201058,7 +201075,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -201112,7 +201129,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -201139,7 +201156,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -201328,7 +201345,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -201382,7 +201399,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -201599,7 +201616,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -209654,7 +209671,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -210825,7 +210842,7 @@
       }
     ],
     "first_seen": "2026-03-07",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -211485,7 +211502,7 @@
     ],
     "posted_date": "2026-03-08",
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-08",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -214244,7 +214261,7 @@
     ],
     "posted_date": "2026-03-08",
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-08",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -218370,7 +218387,7 @@
     ],
     "posted_date": "2026-03-08",
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-08",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -220616,7 +220633,7 @@
     ],
     "posted_date": "2026-03-08",
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-08",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -224742,7 +224759,7 @@
     ],
     "posted_date": "2026-03-08",
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -234532,7 +234549,7 @@
     ],
     "posted_date": "2026-03-08",
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-08",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -252576,7 +252593,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -253089,7 +253106,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -255766,7 +255783,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -258623,17 +258640,21 @@
     "bedrooms": "2",
     "bathrooms": "2",
     "original_price": 140000,
-    "current_price": 140000,
+    "current_price": 145000,
     "price_history": [
       {
         "price": 140000,
         "date": "2026-03-09"
+      },
+      {
+        "price": 145000,
+        "date": "2026-03-16"
       }
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
     "last_seen": "2026-03-16",
-    "last_updated": "2026-03-09",
+    "last_updated": "2026-03-16",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null
@@ -265008,7 +265029,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -271492,7 +271513,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-14",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -272603,7 +272624,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -276981,7 +277002,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -277008,7 +277029,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -277633,7 +277654,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -277660,7 +277681,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -277876,7 +277897,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -278038,7 +278059,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -278686,7 +278707,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -278794,7 +278815,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -280036,7 +280057,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -280468,7 +280489,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -283060,7 +283081,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -284950,7 +284971,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -285625,7 +285646,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -292487,7 +292508,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -292838,7 +292859,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -294800,7 +294821,7 @@
     "bedrooms": "3",
     "bathrooms": "3",
     "original_price": 250000,
-    "current_price": 203000,
+    "current_price": 268000,
     "price_history": [
       {
         "price": 250000,
@@ -294809,12 +294830,16 @@
       {
         "price": 203000,
         "date": "2026-03-13"
+      },
+      {
+        "price": 268000,
+        "date": "2026-03-16"
       }
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
     "last_seen": "2026-03-16",
-    "last_updated": "2026-03-13",
+    "last_updated": "2026-03-16",
     "drop_usd": 47000,
     "drop_pct": 18.8,
     "last_drop_date": "2026-03-13"
@@ -302983,7 +303008,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -307967,7 +307992,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -309344,7 +309369,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -311963,7 +311988,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -315018,7 +315043,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -315072,7 +315097,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -318077,7 +318102,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -318104,7 +318129,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -318131,7 +318156,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -318212,7 +318237,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -318266,7 +318291,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -318293,7 +318318,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -318320,7 +318345,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -318374,7 +318399,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -318671,7 +318696,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -319238,7 +319263,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -319751,7 +319776,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -321263,7 +321288,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -322262,7 +322287,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -322891,7 +322916,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -322972,7 +322997,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -322999,7 +323024,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -323566,7 +323591,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -323620,7 +323645,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -324105,17 +324130,21 @@
     "bedrooms": "1",
     "bathrooms": "1",
     "original_price": 50000,
-    "current_price": 50000,
+    "current_price": 55000,
     "price_history": [
       {
         "price": 50000,
         "date": "2026-03-10"
+      },
+      {
+        "price": 55000,
+        "date": "2026-03-16"
       }
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
     "last_seen": "2026-03-16",
-    "last_updated": "2026-03-10",
+    "last_updated": "2026-03-16",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null
@@ -333873,7 +333902,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -334251,7 +334280,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -334818,7 +334847,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -334953,7 +334982,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -336195,7 +336224,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -337734,7 +337763,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -347512,7 +347541,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -353761,7 +353790,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -353842,7 +353871,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -353869,7 +353898,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -353950,7 +353979,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -353977,7 +354006,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -354004,7 +354033,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -354949,7 +354978,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -354976,7 +355005,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -355057,7 +355086,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -355138,7 +355167,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -355520,7 +355549,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -356222,7 +356251,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -359385,7 +359414,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -361561,7 +361590,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -373561,7 +373590,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -378016,7 +378045,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -386502,7 +386531,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -390579,7 +390608,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -393927,7 +393956,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -394170,7 +394199,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -394629,7 +394658,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -405541,7 +405570,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -405568,7 +405597,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -405595,7 +405624,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -408673,7 +408702,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -409672,7 +409701,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -410887,7 +410916,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -413425,7 +413454,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -416781,7 +416810,7 @@
   },
   "116818713": {
     "id": "116818713",
-    "title": "Brand-New Fully Furnished Apartment for Sale | Nahr Ibrahim",
+    "title": "Brand-New Fully Furnished Apartment for Sale | Nahr Ibrahim #HS101002",
     "url": "https://www.olx.com.lb/ad/brand-new-fully-furnished-apartment-for-sale-nahr-ibrahim-ID116818713.html",
     "type": "Apartment",
     "location": "Nahr Ibrahim, Jbeil",
@@ -416800,7 +416829,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -425363,7 +425392,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -428445,7 +428474,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -430065,7 +430094,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -430335,7 +430364,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -456880,7 +456909,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -460174,7 +460203,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -460201,7 +460230,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -460228,7 +460257,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -460255,7 +460284,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -463364,7 +463393,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -463391,7 +463420,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -463499,7 +463528,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -466523,7 +466552,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -489917,7 +489946,7 @@
   },
   "116819815": {
     "id": "116819815",
-    "title": "Fully Renovated Apartment for Sale | Dik El Mehdi",
+    "title": "Fully Renovated Apartment for Sale | Dik El Mehdi #YN101025",
     "url": "https://www.olx.com.lb/ad/fully-renovated-apartment-for-sale-dik-el-mehdi-ID116819815.html",
     "type": "Apartment",
     "location": "Dik El Mehdi, Metn",
@@ -489936,7 +489965,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -499768,7 +499797,7 @@
     ],
     "posted_date": "2026-03-14",
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-14",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -500362,7 +500391,7 @@
     ],
     "posted_date": "2026-03-14",
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-14",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -500389,7 +500418,7 @@
     ],
     "posted_date": "2026-03-14",
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-14",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -501793,7 +501822,7 @@
     ],
     "posted_date": "2026-03-14",
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-14",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -502441,7 +502470,7 @@
     ],
     "posted_date": "2026-03-14",
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-14",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -519347,7 +519376,7 @@
     ],
     "posted_date": "2026-03-15",
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-15",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -519482,7 +519511,7 @@
     ],
     "posted_date": "2026-03-15",
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-15",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -519806,7 +519835,7 @@
     ],
     "posted_date": "2026-03-15",
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-15",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -521633,20 +521662,24 @@
     "bedrooms": "3",
     "bathrooms": "5",
     "original_price": 1000000,
-    "current_price": 1000000,
+    "current_price": 950000,
     "price_history": [
       {
         "price": 1000000,
         "date": "2026-03-15"
+      },
+      {
+        "price": 950000,
+        "date": "2026-03-16"
       }
     ],
     "posted_date": "2026-03-15",
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
-    "last_updated": "2026-03-15",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 50000,
+    "drop_pct": 5.0,
+    "last_drop_date": "2026-03-16"
   },
   "116394136": {
     "id": "116394136",
@@ -521804,7 +521837,7 @@
     ],
     "posted_date": "2026-03-15",
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-15",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -567086,6 +567119,3030 @@
     "price_history": [
       {
         "price": 1100000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116520224": {
+    "id": "116520224",
+    "title": "APARTMENT FOR SALE IN ATCHANEH / METN",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-atchaneh-metn-ID116520224.html",
+    "type": "Apartment",
+    "location": "Aatchane, Metn",
+    "district": "Metn",
+    "neighborhood": "Aatchane",
+    "sqm": 100,
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "original_price": 57000,
+    "current_price": 57000,
+    "price_history": [
+      {
+        "price": 57000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822281": {
+    "id": "116822281",
+    "title": "Apartment For Sale In Deir El Harf شقة للبيع في دير الحرف - بعبدا",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-deir-el-harf-شقة-للبيع-في-دير-الحرف-بعبدا-ID116822281.html",
+    "type": "Apartment",
+    "location": "Ras El Matn, Metn",
+    "district": "Metn",
+    "neighborhood": "Ras El Matn",
+    "sqm": 123,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 65000,
+    "current_price": 65000,
+    "price_history": [
+      {
+        "price": 65000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822279": {
+    "id": "116822279",
+    "title": "GMK213SZ - Duplex For Sale In Amchit - دوبلكس للبيع في عمشيت",
+    "url": "https://www.olx.com.lb/ad/gmk213sz-duplex-for-sale-in-amchit-دوبلكس-للبيع-في-عمشيت-ID116822279.html",
+    "type": "Duplex",
+    "location": "Aamchit, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Aamchit",
+    "sqm": 165,
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "original_price": 165000,
+    "current_price": 165000,
+    "price_history": [
+      {
+        "price": 165000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822276": {
+    "id": "116822276",
+    "title": "شقة لقطة مميزة للبيع في مجدليون",
+    "url": "https://www.olx.com.lb/ad/شقة-لقطة-مميزة-للبيع-في-مجدليون-ID116822276.html",
+    "type": "Apartment",
+    "location": "Majdelyoun, Saida",
+    "district": "Saida",
+    "neighborhood": "Majdelyoun",
+    "sqm": 165,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 115000,
+    "current_price": 115000,
+    "price_history": [
+      {
+        "price": 115000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116356870": {
+    "id": "116356870",
+    "title": "Apartment for sale in Ain Najem شقة للبيع في عين نجم",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-ain-najem-شقة-للبيع-في-عين-نجم-ID116356870.html",
+    "type": "Apartment",
+    "location": "Ain Najm, Metn",
+    "district": "Metn",
+    "neighborhood": "Ain Najm",
+    "sqm": 170,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 330000,
+    "current_price": 330000,
+    "price_history": [
+      {
+        "price": 330000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115109618": {
+    "id": "115109618",
+    "title": "Duplex for sale in Halat دوبلكس للبيع بحلات",
+    "url": "https://www.olx.com.lb/ad/duplex-for-sale-in-halat-دوبلكس-للبيع-بحلات-ID115109618.html",
+    "type": "Duplex",
+    "location": "Halat, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Halat",
+    "sqm": 260,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 170000,
+    "current_price": 170000,
+    "price_history": [
+      {
+        "price": 170000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115967815": {
+    "id": "115967815",
+    "title": "Cozy Apartment For Sale in Mar Eliasشقة مميزة للبيع في مار الياس",
+    "url": "https://www.olx.com.lb/ad/cozy-apartment-for-sale-in-mar-eliasشقة-مميزة-للبيع-في-مار-الياس-ID115967815.html",
+    "type": "Apartment",
+    "location": "Mar Elias, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Mar Elias",
+    "sqm": 170,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 310000,
+    "current_price": 310000,
+    "price_history": [
+      {
+        "price": 310000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822270": {
+    "id": "116822270",
+    "title": "Apartment for Sale – Zouk Mosbeh – SGHG170",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-zouk-mosbeh-sghg170-ID116822270.html",
+    "type": "Apartment",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Zouk Mosbeh",
+    "sqm": 110,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 160000,
+    "current_price": 160000,
+    "price_history": [
+      {
+        "price": 160000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116770070": {
+    "id": "116770070",
+    "title": "Nabay | 270 sqm | Panoramic Sea View",
+    "url": "https://www.olx.com.lb/ad/nabay-270-sqm-panoramic-sea-view-ID116770070.html",
+    "type": "Apartment",
+    "location": "Nabay, Metn",
+    "district": "Metn",
+    "neighborhood": "Nabay",
+    "sqm": 270,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 285000,
+    "current_price": 285000,
+    "price_history": [
+      {
+        "price": 285000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116694535": {
+    "id": "116694535",
+    "title": "Kfarhbab | 300 sqm | Prime Location",
+    "url": "https://www.olx.com.lb/ad/kfarhbab-300-sqm-prime-location-ID116694535.html",
+    "type": "Apartment",
+    "location": "Kfar Hbab, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Kfar Hbab",
+    "sqm": 300,
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "original_price": 450000,
+    "current_price": 450000,
+    "price_history": [
+      {
+        "price": 450000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116651768": {
+    "id": "116651768",
+    "title": "Zouk Mosbeh | 170 sqm + 220 sqm Garden & Terrace | Fully Furnished",
+    "url": "https://www.olx.com.lb/ad/zouk-mosbeh-170-sqm-220-sqm-garden-terrace-fully-furnished-ID116651768.html",
+    "type": "Apartment",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Zouk Mosbeh",
+    "sqm": 170,
+    "bedrooms": "2",
+    "bathrooms": "3",
+    "original_price": 275000,
+    "current_price": 275000,
+    "price_history": [
+      {
+        "price": 275000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116634843": {
+    "id": "116634843",
+    "title": "Rihaniyeh Baabda | 300 sqm + 100 sqm Terrace | Prime Location",
+    "url": "https://www.olx.com.lb/ad/rihaniyeh-baabda-300-sqm-100-sqm-terrace-prime-location-ID116634843.html",
+    "type": "Apartment",
+    "location": "Rihaniyeh, Baabda",
+    "district": "Baabda",
+    "neighborhood": "Rihaniyeh",
+    "sqm": 300,
+    "bedrooms": "4",
+    "bathrooms": "5",
+    "original_price": 800000,
+    "current_price": 800000,
+    "price_history": [
+      {
+        "price": 800000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116550967": {
+    "id": "116550967",
+    "title": "Adonis | 160 sqm | Prime Location",
+    "url": "https://www.olx.com.lb/ad/adonis-160-sqm-prime-location-ID116550967.html",
+    "type": "Apartment",
+    "location": "Adonis, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Adonis",
+    "sqm": 160,
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "original_price": 125000,
+    "current_price": 125000,
+    "price_history": [
+      {
+        "price": 125000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116472288": {
+    "id": "116472288",
+    "title": "Adonis | 220 sqm | Fully Furnished",
+    "url": "https://www.olx.com.lb/ad/adonis-220-sqm-fully-furnished-ID116472288.html",
+    "type": "Apartment",
+    "location": "Adonis, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Adonis",
+    "sqm": 220,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 250000,
+    "current_price": 250000,
+    "price_history": [
+      {
+        "price": 250000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116371369": {
+    "id": "116371369",
+    "title": "Adonis | 200 sqm",
+    "url": "https://www.olx.com.lb/ad/adonis-200-sqm-ID116371369.html",
+    "type": "Apartment",
+    "location": "Adonis, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Adonis",
+    "sqm": 200,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 160000,
+    "current_price": 160000,
+    "price_history": [
+      {
+        "price": 160000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116360379": {
+    "id": "116360379",
+    "title": "Zouk mosbeh | 200 sqm | Panoramic Sea View",
+    "url": "https://www.olx.com.lb/ad/zouk-mosbeh-200-sqm-panoramic-sea-view-ID116360379.html",
+    "type": "Apartment",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Zouk Mosbeh",
+    "sqm": 200,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 250000,
+    "current_price": 250000,
+    "price_history": [
+      {
+        "price": 250000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822268": {
+    "id": "116822268",
+    "title": "Apartment For Sale In Deir lharf- Baabda شقة للبيع في دير الحرف",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-deir-lharf-baabda-شقة-للبيع-في-دير-الحرف-ID116822268.html",
+    "type": "Apartment",
+    "location": "Ras El Matn, Metn",
+    "district": "Metn",
+    "neighborhood": "Ras El Matn",
+    "sqm": 110,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 80000,
+    "current_price": 80000,
+    "price_history": [
+      {
+        "price": 80000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116603248": {
+    "id": "116603248",
+    "title": "Duplex in Ajaltoun | 300 sqm | Prime Location",
+    "url": "https://www.olx.com.lb/ad/duplex-in-ajaltoun-300-sqm-prime-location-ID116603248.html",
+    "type": "Duplex",
+    "location": "Ajaltoun, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Ajaltoun",
+    "sqm": 300,
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "original_price": 360000,
+    "current_price": 360000,
+    "price_history": [
+      {
+        "price": 360000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116603247": {
+    "id": "116603247",
+    "title": "Duplex In Ajaltoun | 250 sqm | Prime Location",
+    "url": "https://www.olx.com.lb/ad/duplex-in-ajaltoun-250-sqm-prime-location-ID116603247.html",
+    "type": "Duplex",
+    "location": "Ajaltoun, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Ajaltoun",
+    "sqm": 250,
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "original_price": 300000,
+    "current_price": 300000,
+    "price_history": [
+      {
+        "price": 300000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116595693": {
+    "id": "116595693",
+    "title": "Adonis | 140 sqm",
+    "url": "https://www.olx.com.lb/ad/adonis-140-sqm-ID116595693.html",
+    "type": "Apartment",
+    "location": "Adonis, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Adonis",
+    "sqm": 140,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 185000,
+    "current_price": 185000,
+    "price_history": [
+      {
+        "price": 185000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116595692": {
+    "id": "116595692",
+    "title": "Adonis | 270 sqm",
+    "url": "https://www.olx.com.lb/ad/adonis-270-sqm-ID116595692.html",
+    "type": "Apartment",
+    "location": "Adonis, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Adonis",
+    "sqm": 270,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 350000,
+    "current_price": 350000,
+    "price_history": [
+      {
+        "price": 350000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116388076": {
+    "id": "116388076",
+    "title": "Ajaltoun Villa | Land Area 1200 sqm | Built Area 1360 sqm | $1.5 M",
+    "url": "https://www.olx.com.lb/ad/ajaltoun-villa-land-area-1200-sqm-built-area-1360-sqm-15-m-ID116388076.html",
+    "type": "Villa",
+    "location": "Ajaltoun, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Ajaltoun",
+    "sqm": 1360,
+    "bedrooms": "8",
+    "bathrooms": "9",
+    "original_price": 1500000,
+    "current_price": 1500000,
+    "price_history": [
+      {
+        "price": 1500000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116310909": {
+    "id": "116310909",
+    "title": "Ajaltoun | 226 sqm + 40 sqm Garden | Super Deluxe",
+    "url": "https://www.olx.com.lb/ad/ajaltoun-226-sqm-40-sqm-garden-super-deluxe-ID116310909.html",
+    "type": "Apartment",
+    "location": "Ajaltoun, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Ajaltoun",
+    "sqm": 226,
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "original_price": 336000,
+    "current_price": 336000,
+    "price_history": [
+      {
+        "price": 336000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116786790": {
+    "id": "116786790",
+    "title": "Apartment for Sale in Dawhet El Hoss شقة للبيع في دوحة الحص",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-dawhet-el-hoss-شقة-للبيع-في-دوحة-الحص-ID116786790.html",
+    "type": "Apartment",
+    "location": "Dawhet el Hoss, Aley",
+    "district": "Aley",
+    "neighborhood": "Dawhet el Hoss",
+    "sqm": 400,
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "original_price": 350000,
+    "current_price": 350000,
+    "price_history": [
+      {
+        "price": 350000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822256": {
+    "id": "116822256",
+    "title": "Apartment for Sale – Zouk Mosbeh – SGHG169",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-zouk-mosbeh-sghg169-ID116822256.html",
+    "type": "Apartment",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Zouk Mosbeh",
+    "sqm": 90,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 180000,
+    "current_price": 180000,
+    "price_history": [
+      {
+        "price": 180000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116139741": {
+    "id": "116139741",
+    "title": "AMAZING APARTMENT IN YARZEH PRIME (450Sq) WITH TERRACE, (BA-418)",
+    "url": "https://www.olx.com.lb/ad/amazing-apartment-in-yarzeh-prime-450sq-with-terrace-ba-418-ID116139741.html",
+    "type": "Apartment",
+    "location": "Yarzeh, Baabda",
+    "district": "Baabda",
+    "neighborhood": "Yarzeh",
+    "sqm": 450,
+    "bedrooms": "4",
+    "bathrooms": "5",
+    "original_price": 920000,
+    "current_price": 920000,
+    "price_history": [
+      {
+        "price": 920000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822248": {
+    "id": "116822248",
+    "title": "Apartment for Sale – Zouk Mikael – SGHG168",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-zouk-mikael-sghg168-ID116822248.html",
+    "type": "Apartment",
+    "location": "Zouk Mikael, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Zouk Mikael",
+    "sqm": 352,
+    "bedrooms": "3",
+    "bathrooms": "5",
+    "original_price": 600000,
+    "current_price": 600000,
+    "price_history": [
+      {
+        "price": 600000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116810632": {
+    "id": "116810632",
+    "title": "Prime Location/Good investment/Bourj Hammoud/ برج حمود ! REF#GN133571",
+    "url": "https://www.olx.com.lb/ad/prime-locationgood-investmentbourj-hammoud-برج-حمود-refgn133571-ID116810632.html",
+    "type": "Apartment",
+    "location": "Bourj Hammoud, Metn",
+    "district": "Metn",
+    "neighborhood": "Bourj Hammoud",
+    "sqm": 90,
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "original_price": 89000,
+    "current_price": 89000,
+    "price_history": [
+      {
+        "price": 89000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116743757": {
+    "id": "116743757",
+    "title": "RWK154IY - Exceptional apartment for sale in the heart of New Sehayleh",
+    "url": "https://www.olx.com.lb/ad/rwk154iy-exceptional-apartment-for-sale-in-the-heart-of-new-sehayleh-ID116743757.html",
+    "type": "Apartment",
+    "location": "Sehayleh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Sehayleh",
+    "sqm": 145,
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "original_price": 165000,
+    "current_price": 165000,
+    "price_history": [
+      {
+        "price": 165000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822242": {
+    "id": "116822242",
+    "title": "Apartment For Sale In Bhamdoun (Terrace&Garden) شقة للبيع في بحمدون",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-bhamdoun-terracegarden-شقة-للبيع-في-بحمدون-ID116822242.html",
+    "type": "Apartment",
+    "location": "Bhamdoun, Aley",
+    "district": "Aley",
+    "neighborhood": "Bhamdoun",
+    "sqm": 235,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 150000,
+    "current_price": 150000,
+    "price_history": [
+      {
+        "price": 150000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822235": {
+    "id": "116822235",
+    "title": "Apartment for Sale – Sahel Alma – SGHG167",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-sahel-alma-sghg167-ID116822235.html",
+    "type": "Apartment",
+    "location": "Sahel Alma, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Sahel Alma",
+    "sqm": 216,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 320000,
+    "current_price": 320000,
+    "price_history": [
+      {
+        "price": 320000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822234": {
+    "id": "116822234",
+    "title": "Apartment For Sale In Aley شقة للبيع في عاليه",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-aley-شقة-للبيع-في-عاليه-ID116822234.html",
+    "type": "Apartment",
+    "location": "Aley Town, Aley",
+    "district": "Aley",
+    "neighborhood": "Aley Town",
+    "sqm": 127,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 85000,
+    "current_price": 85000,
+    "price_history": [
+      {
+        "price": 85000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116420106": {
+    "id": "116420106",
+    "title": "Villa for sale in Mrayjat فيلا للبيع في مريجات",
+    "url": "https://www.olx.com.lb/ad/villa-for-sale-in-mrayjat-فيلا-للبيع-في-مريجات-ID116420106.html",
+    "type": "Villa",
+    "location": "Mreijat, Zahle",
+    "district": "Zahle",
+    "neighborhood": "Mreijat",
+    "sqm": 6300,
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "original_price": 1600000,
+    "current_price": 1600000,
+    "price_history": [
+      {
+        "price": 1600000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116009835": {
+    "id": "116009835",
+    "title": "MODERN FURNISHED APARTMENT IN YARZEH PRIME (210Sq) 3 BEDROOMS,(BA-404)",
+    "url": "https://www.olx.com.lb/ad/modern-furnished-apartment-in-yarzeh-prime-210sq-3-bedroomsba-404-ID116009835.html",
+    "type": "Apartment",
+    "location": "Yarzeh, Baabda",
+    "district": "Baabda",
+    "neighborhood": "Yarzeh",
+    "sqm": 210,
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "original_price": 450000,
+    "current_price": 450000,
+    "price_history": [
+      {
+        "price": 450000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822226": {
+    "id": "116822226",
+    "title": "RA-8394 / Apartment for Sale in Adonis, شقة للبيع في أدونيس",
+    "url": "https://www.olx.com.lb/ad/ra-8394-apartment-for-sale-in-adonis-شقة-للبيع-في-أدونيس-ID116822226.html",
+    "type": "Apartment",
+    "location": "Adonis, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Adonis",
+    "sqm": 170,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 170000,
+    "current_price": 170000,
+    "price_history": [
+      {
+        "price": 170000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115976833": {
+    "id": "115976833",
+    "title": "Duplex for sale in broumana  دوبلكس للبيع في برمانا",
+    "url": "https://www.olx.com.lb/ad/duplex-for-sale-in-broumana-300k-دوبلكس-للبيع-في-برمانا-٣٠٠٠٠٠-ID115976833.html",
+    "type": "Duplex",
+    "location": "Broummana, Metn",
+    "district": "Metn",
+    "neighborhood": "Broummana",
+    "sqm": 340,
+    "bedrooms": "3",
+    "bathrooms": "5",
+    "original_price": 300000,
+    "current_price": 300000,
+    "price_history": [
+      {
+        "price": 300000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822221": {
+    "id": "116822221",
+    "title": "Apartment For Sale In Aley Town (120sqm terrace) شقة للبيع في عاليه",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-aley-town-120sqm-terrace-شقة-للبيع-في-عاليه-ID116822221.html",
+    "type": "Apartment",
+    "location": "Aley Town, Aley",
+    "district": "Aley",
+    "neighborhood": "Aley Town",
+    "sqm": 213,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 165000,
+    "current_price": 165000,
+    "price_history": [
+      {
+        "price": 165000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116796000": {
+    "id": "116796000",
+    "title": "3 Balconies. 1 parking, Luxurious, Zouk Mikael/زوق مكايل REF#CI133066",
+    "url": "https://www.olx.com.lb/ad/3-balconies-1-parking-luxurious-zouk-mikaelزوق-مكايل-refci133066-ID116796000.html",
+    "type": "Apartment",
+    "location": "Zouk Mikael, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Zouk Mikael",
+    "sqm": 155,
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "original_price": 165000,
+    "current_price": 165000,
+    "price_history": [
+      {
+        "price": 165000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116386250": {
+    "id": "116386250",
+    "title": "Great Price, Calm nice location- Beit el Chaar, el Metn  REF#OD121406",
+    "url": "https://www.olx.com.lb/ad/great-price-calm-nice-location-beit-el-chaar-el-metn-refod121406-ID116386250.html",
+    "type": "Apartment",
+    "location": "Beit El Chaar, Metn",
+    "district": "Metn",
+    "neighborhood": "Beit El Chaar",
+    "sqm": 110,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 100000,
+    "current_price": 100000,
+    "price_history": [
+      {
+        "price": 100000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822214": {
+    "id": "116822214",
+    "title": "Apartment for sale in Sarba شقة للبيع في صربا",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-sarba-شقة-للبيع-في-صربا-ID116822214.html",
+    "type": "Apartment",
+    "location": "Sarba, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Sarba",
+    "sqm": 240,
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "original_price": 150000,
+    "current_price": 150000,
+    "price_history": [
+      {
+        "price": 150000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822211": {
+    "id": "116822211",
+    "title": "RA-8393 / Apartment for Sale in Biakout, شقة للبيع في بياقوت",
+    "url": "https://www.olx.com.lb/ad/ra-8393-apartment-for-sale-in-biakout-شقة-للبيع-في-بياقوت-ID116822211.html",
+    "type": "Apartment",
+    "location": "Biaqout, Metn",
+    "district": "Metn",
+    "neighborhood": "Biaqout",
+    "sqm": 130,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 140000,
+    "current_price": 140000,
+    "price_history": [
+      {
+        "price": 140000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116468214": {
+    "id": "116468214",
+    "title": "Apartment for Sale In Achrafieh - شقة للبيع في الأشرفية",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-achrafieh-شقة-للبيع-في-الأشرفية-ID116468214.html",
+    "type": "Apartment",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Achrafieh",
+    "sqm": 60,
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "original_price": 300000,
+    "current_price": 300000,
+    "price_history": [
+      {
+        "price": 300000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116351317": {
+    "id": "116351317",
+    "title": "Apartment For Sale In Achrafieh - شقة للبيع في الأشرفية",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-achrafieh-شقة-للبيع-في-الأشرفية-ID116351317.html",
+    "type": "Apartment",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Achrafieh",
+    "sqm": 374,
+    "bedrooms": "4",
+    "bathrooms": "6",
+    "original_price": 970000,
+    "current_price": 970000,
+    "price_history": [
+      {
+        "price": 970000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116737913": {
+    "id": "116737913",
+    "title": "Open Panoramic Sea View Apartment for Sale in Acharfieh",
+    "url": "https://www.olx.com.lb/ad/open-panoramic-sea-view-apartment-for-sale-in-acharfieh-ID116737913.html",
+    "type": "Apartment",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Achrafieh",
+    "sqm": 260,
+    "bedrooms": "4",
+    "bathrooms": "5",
+    "original_price": 990000,
+    "current_price": 990000,
+    "price_history": [
+      {
+        "price": 990000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116704526": {
+    "id": "116704526",
+    "title": "Apartment for Sale in Zoukak al Blat شقة للبيع في زقاق البلاط",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-zoukak-al-blat-شقة-للبيع-في-زقاق-البلاط-ID116704526.html",
+    "type": "Apartment",
+    "location": "Zoukak al Blat, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Zoukak al Blat",
+    "sqm": 115,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 190000,
+    "current_price": 190000,
+    "price_history": [
+      {
+        "price": 190000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116699232": {
+    "id": "116699232",
+    "title": "150 sqm Apartment For Sale in Amshit (عمشيت) with Sea View",
+    "url": "https://www.olx.com.lb/ad/150-sqm-apartment-for-sale-in-amshit-عمشيت-with-sea-view-ID116699232.html",
+    "type": "Apartment",
+    "location": "Aamchit, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Aamchit",
+    "sqm": 150,
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "original_price": 105000,
+    "current_price": 105000,
+    "price_history": [
+      {
+        "price": 105000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116698995": {
+    "id": "116698995",
+    "title": "Prime Location 220 sqm Apartment For Sale in Jounieh (جونيه)+Sea View",
+    "url": "https://www.olx.com.lb/ad/prime-location-220-sqm-apartment-for-sale-in-jounieh-جونيهsea-view-ID116698995.html",
+    "type": "Apartment",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Jounieh",
+    "sqm": 220,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 210000,
+    "current_price": 210000,
+    "price_history": [
+      {
+        "price": 210000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116650326": {
+    "id": "116650326",
+    "title": "120 sqm Apartment For Sale in Blat (بلاط) with 80 sqm Terrace",
+    "url": "https://www.olx.com.lb/ad/120-sqm-apartment-for-sale-in-blat-بلاط-with-80-sqm-terrace-ID116650326.html",
+    "type": "Apartment",
+    "location": "Blat, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Blat",
+    "sqm": 120,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 93000,
+    "current_price": 93000,
+    "price_history": [
+      {
+        "price": 93000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116602366": {
+    "id": "116602366",
+    "title": "Fully Furnished 130 sqm Apartment For Sale in Zouk Mikael (زوق مكايل)",
+    "url": "https://www.olx.com.lb/ad/fully-furnished-130-sqm-apartment-for-sale-in-zouk-mikael-زوق-مكايل-ID116602366.html",
+    "type": "Apartment",
+    "location": "Zouk Mikael, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Zouk Mikael",
+    "sqm": 130,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 90000,
+    "current_price": 90000,
+    "price_history": [
+      {
+        "price": 90000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116584266": {
+    "id": "116584266",
+    "title": "Fully Furnished 120 sqm Apartment For Sale in Douar (دوار)+ View",
+    "url": "https://www.olx.com.lb/ad/fully-furnished-120-sqm-apartment-for-sale-in-douar-دوار-view-ID116584266.html",
+    "type": "Apartment",
+    "location": "Douar, Metn",
+    "district": "Metn",
+    "neighborhood": "Douar",
+    "sqm": 120,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 120000,
+    "current_price": 120000,
+    "price_history": [
+      {
+        "price": 120000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116473120": {
+    "id": "116473120",
+    "title": "133 sqm Apartment For Sale in Hboub with Open View !!!",
+    "url": "https://www.olx.com.lb/ad/133-sqm-apartment-for-sale-in-hboub-with-open-view-ID116473120.html",
+    "type": "Apartment",
+    "location": "Hboub, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Hboub",
+    "sqm": 133,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 120000,
+    "current_price": 120000,
+    "price_history": [
+      {
+        "price": 120000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115657864": {
+    "id": "115657864",
+    "title": "Apartment for sale in Mar Chaaya شقة للبيع في مار شعيا",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-mar-chaaya-شقة-للبيع-في-مار-شعيا-ID115657864.html",
+    "type": "Apartment",
+    "location": "Mar Chaaya, Metn",
+    "district": "Metn",
+    "neighborhood": "Mar Chaaya",
+    "sqm": 260,
+    "bedrooms": "3",
+    "bathrooms": "5",
+    "original_price": 400000,
+    "current_price": 400000,
+    "price_history": [
+      {
+        "price": 400000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115653328": {
+    "id": "115653328",
+    "title": "Villa for sale in Beit Mery فيلا للبيع في بيت مري",
+    "url": "https://www.olx.com.lb/ad/villa-for-sale-in-beit-mery-فيلا-للبيع-في-بيت-مري-ID115653328.html",
+    "type": "Villa",
+    "location": "Beit Mery, Metn",
+    "district": "Metn",
+    "neighborhood": "Beit Mery",
+    "sqm": 1100,
+    "bedrooms": "6",
+    "bathrooms": "7",
+    "original_price": 1900000,
+    "current_price": 1900000,
+    "price_history": [
+      {
+        "price": 1900000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "111303336": {
+    "id": "111303336",
+    "title": "Apartment for sale in Mar Chaaya شقه للبيع في مار شعيا",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-mar-chaaya-شقه-للبيع-في-مار-شعيا-ID111303336.html",
+    "type": "Apartment",
+    "location": "Mar Chaaya, Metn",
+    "district": "Metn",
+    "neighborhood": "Mar Chaaya",
+    "sqm": 225,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 400000,
+    "current_price": 400000,
+    "price_history": [
+      {
+        "price": 400000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116785498": {
+    "id": "116785498",
+    "title": "Apartment for Sale in Aramoun شقة للبيع في عرمون",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-aramoun-شقة-للبيع-في-عرمون-ID116785498.html",
+    "type": "Apartment",
+    "location": "Aaramoun, Aley",
+    "district": "Aley",
+    "neighborhood": "Aaramoun",
+    "sqm": 180,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 140000,
+    "current_price": 140000,
+    "price_history": [
+      {
+        "price": 140000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116646607": {
+    "id": "116646607",
+    "title": "160 sqm Apartment For Sale in Jbeil (جبيل)",
+    "url": "https://www.olx.com.lb/ad/160-sqm-apartment-for-sale-in-jbeil-جبيل-ID116646607.html",
+    "type": "Apartment",
+    "location": "Kartaboun, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Kartaboun",
+    "sqm": 160,
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "original_price": 119000,
+    "current_price": 119000,
+    "price_history": [
+      {
+        "price": 119000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116555396": {
+    "id": "116555396",
+    "title": "Brand New 100 sqm Apartment For Sale in Jbeil with Sea View !!!",
+    "url": "https://www.olx.com.lb/ad/brand-new-100-sqm-apartment-for-sale-in-jbeil-with-sea-view-ID116555396.html",
+    "type": "Apartment",
+    "location": "Jbeil Town, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Jbeil Town",
+    "sqm": 100,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 120000,
+    "current_price": 120000,
+    "price_history": [
+      {
+        "price": 120000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116539287": {
+    "id": "116539287",
+    "title": "120 sqm Apartment For Sale in Zouk Mikael with Sea & Mountain View !!!",
+    "url": "https://www.olx.com.lb/ad/120-sqm-apartment-for-sale-in-zouk-mikael-with-sea-mountain-view-ID116539287.html",
+    "type": "Apartment",
+    "location": "Zouk Mikael, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Zouk Mikael",
+    "sqm": 120,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 115000,
+    "current_price": 115000,
+    "price_history": [
+      {
+        "price": 115000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822199": {
+    "id": "116822199",
+    "title": "Apartment for Sale in Jal El Dib",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-jal-el-dib-ID116822199.html",
+    "type": "Apartment",
+    "location": "Jal El Dib, Metn",
+    "district": "Metn",
+    "neighborhood": "Jal El Dib",
+    "sqm": 140,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 165000,
+    "current_price": 165000,
+    "price_history": [
+      {
+        "price": 165000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822196": {
+    "id": "116822196",
+    "title": "DY3349 - Dik el Mehdi Apartment for Sale!",
+    "url": "https://www.olx.com.lb/ad/dy3349-dik-el-mehdi-apartment-for-sale-ID116822196.html",
+    "type": "Apartment",
+    "location": "Dik El Mehdi, Metn",
+    "district": "Metn",
+    "neighborhood": "Dik El Mehdi",
+    "sqm": 130,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 175000,
+    "current_price": 175000,
+    "price_history": [
+      {
+        "price": 175000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116785868": {
+    "id": "116785868",
+    "title": "100 sqm Apartment For Sale in Sin El Fil سن الفيل",
+    "url": "https://www.olx.com.lb/ad/100-sqm-apartment-for-sale-in-sin-el-fil-سن-الفيل-ID116785868.html",
+    "type": "Apartment",
+    "location": "Sin El Fil, Metn",
+    "district": "Metn",
+    "neighborhood": "Sin El Fil",
+    "sqm": 100,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 120000,
+    "current_price": 120000,
+    "price_history": [
+      {
+        "price": 120000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116625027": {
+    "id": "116625027",
+    "title": "Land And Building 6 Floors For Sale in Blat Facing LAU with Open View",
+    "url": "https://www.olx.com.lb/ad/land-and-building-6-floors-for-sale-in-blat-facing-lau-with-open-view-ID116625027.html",
+    "type": "Land",
+    "location": "Blat, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Blat",
+    "sqm": 970,
+    "bedrooms": "10",
+    "bathrooms": "10",
+    "original_price": 1500000,
+    "current_price": 1500000,
+    "price_history": [
+      {
+        "price": 1500000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116513768": {
+    "id": "116513768",
+    "title": "Golden Area - Apartment For Sale in Achrafieh - شقة للبيع في الأشرفية",
+    "url": "https://www.olx.com.lb/ad/golden-area-apartment-for-sale-in-achrafieh-شقة-للبيع-في-الأشرفية-ID116513768.html",
+    "type": "Apartment",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Achrafieh",
+    "sqm": 353,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 670000,
+    "current_price": 670000,
+    "price_history": [
+      {
+        "price": 670000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822190": {
+    "id": "116822190",
+    "title": "GMC484R Apartment for sale in Baabdat - شقة للبيع في بعبدات",
+    "url": "https://www.olx.com.lb/ad/gmc484r-apartment-for-sale-in-baabdat-شقة-للبيع-في-بعبدات-ID116822190.html",
+    "type": "Apartment",
+    "location": "Baabdat, Metn",
+    "district": "Metn",
+    "neighborhood": "Baabdat",
+    "sqm": 200,
+    "bedrooms": "3",
+    "bathrooms": "5",
+    "original_price": 325000,
+    "current_price": 325000,
+    "price_history": [
+      {
+        "price": 325000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822189": {
+    "id": "116822189",
+    "title": "Apartment for Sale in Sodeco | Under Construction Project-#R2566",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-sodeco-under-construction-project-r2566-ID116822189.html",
+    "type": "Apartment",
+    "location": "Sodeco, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Sodeco",
+    "sqm": 148,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 370000,
+    "current_price": 370000,
+    "price_history": [
+      {
+        "price": 370000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116150406": {
+    "id": "116150406",
+    "title": "Apartment for Sale In Ramlet Al Bayda شقة للبيع في الرملة البيضاء",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-ramlet-al-bayda-شقة-للبيع-في-الرملة-البيضاء-ID116150406.html",
+    "type": "Apartment",
+    "location": "Ramlet el Bayda, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Ramlet el Bayda",
+    "sqm": 300,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 1050000,
+    "current_price": 1050000,
+    "price_history": [
+      {
+        "price": 1050000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115573650": {
+    "id": "115573650",
+    "title": "Luxury full floor Apartment for sale in Rawcheشقة فاخرة للبيع في روشه",
+    "url": "https://www.olx.com.lb/ad/luxury-full-floor-apartment-for-sale-in-rawcheشقة-فاخرة-للبيع-في-روشه-ID115573650.html",
+    "type": "Apartment",
+    "location": "Rawche, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Rawche",
+    "sqm": 535,
+    "bedrooms": "5",
+    "bathrooms": "6",
+    "original_price": 3500000,
+    "current_price": 3500000,
+    "price_history": [
+      {
+        "price": 3500000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115934621": {
+    "id": "115934621",
+    "title": "Apartment for Sale in Zekrit with a view.",
+    "url": "https://www.olx.com.lb/ad/apartment-for-rent-in-zekrit-with-a-view-ID115934621.html",
+    "type": "Apartment",
+    "location": "Zakrit, Metn",
+    "district": "Metn",
+    "neighborhood": "Zakrit",
+    "sqm": 110,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 145000,
+    "current_price": 145000,
+    "price_history": [
+      {
+        "price": 145000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116550375": {
+    "id": "116550375",
+    "title": "Beautiful Fully Furnished Apartment For Sale In Mar Elias",
+    "url": "https://www.olx.com.lb/ad/beautiful-fully-furnished-apartment-for-sale-in-mar-elias-ID116550375.html",
+    "type": "Apartment",
+    "location": "Mar Elias, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Mar Elias",
+    "sqm": 200,
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "original_price": 300000,
+    "current_price": 300000,
+    "price_history": [
+      {
+        "price": 300000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116747985": {
+    "id": "116747985",
+    "title": "High-end Apartment for Sale In Roumieh شقة فاخرة للبيع في رومية",
+    "url": "https://www.olx.com.lb/ad/high-end-apartment-for-sale-in-roumieh-شقة-فاخرة-للبيع-في-رومية-ID116747985.html",
+    "type": "Apartment",
+    "location": "Roumieh, Metn",
+    "district": "Metn",
+    "neighborhood": "Roumieh",
+    "sqm": 250,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 355000,
+    "current_price": 355000,
+    "price_history": [
+      {
+        "price": 355000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115006661": {
+    "id": "115006661",
+    "title": "FULLY FURNISHED APARTMENT FOR SALE IN BAABDA PRIME  , (BA-245)",
+    "url": "https://www.olx.com.lb/ad/fully-furnished-apartment-for-sale-in-baabda-prime-ba-245-ID115006661.html",
+    "type": "Apartment",
+    "location": "Baabda Town, Baabda",
+    "district": "Baabda",
+    "neighborhood": "Baabda Town",
+    "sqm": 220,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 360000,
+    "current_price": 360000,
+    "price_history": [
+      {
+        "price": 360000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822121": {
+    "id": "116822121",
+    "title": "Apartment for sale in Dekwaneh شقة للبيع في الدكوانة",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-dekwaneh-شقة-للبيع-في-الدكوانة-ID116822121.html",
+    "type": "Apartment",
+    "location": "Dekwaneh, Metn",
+    "district": "Metn",
+    "neighborhood": "Dekwaneh",
+    "sqm": 128,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 165000,
+    "current_price": 165000,
+    "price_history": [
+      {
+        "price": 165000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115628519": {
+    "id": "115628519",
+    "title": "Apartment for sale in Ramlet Al Baydah شقة للبيع في رملة البيضاء",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-ramlet-al-baydah-شقة-للبيع-في-رملة-البيضاء-ID115628519.html",
+    "type": "Apartment",
+    "location": "Ramlet el Bayda, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Ramlet el Bayda",
+    "sqm": 360,
+    "bedrooms": "3",
+    "bathrooms": "5",
+    "original_price": 1400000,
+    "current_price": 1400000,
+    "price_history": [
+      {
+        "price": 1400000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115542135": {
+    "id": "115542135",
+    "title": "Duplex for sale in Rawche شقة للبيع في روشه",
+    "url": "https://www.olx.com.lb/ad/duplex-for-sale-in-rawche-شقة-للبيع-في-روشه-ID115542135.html",
+    "type": "Duplex",
+    "location": "Rawche, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Rawche",
+    "sqm": 740,
+    "bedrooms": "5",
+    "bathrooms": "6",
+    "original_price": 4350000,
+    "current_price": 4350000,
+    "price_history": [
+      {
+        "price": 4350000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822087": {
+    "id": "116822087",
+    "title": "GMK175YA - Apartment For Sale in Kfaryassine - شقة للبيع في كفرياسين",
+    "url": "https://www.olx.com.lb/ad/gmk175ya-apartment-for-sale-in-kfaryassine-شقة-للبيع-في-كفرياسين-ID116822087.html",
+    "type": "Apartment",
+    "location": "Kfaryassine, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Kfaryassine",
+    "sqm": 150,
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "original_price": 185000,
+    "current_price": 185000,
+    "price_history": [
+      {
+        "price": 185000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822053": {
+    "id": "116822053",
+    "title": "Cozy Ground Floor Studio With Garden For Sale | Batroun",
+    "url": "https://www.olx.com.lb/ad/cozy-ground-floor-studio-with-garden-for-sale-batroun-ID116822053.html",
+    "type": "Apartment",
+    "location": "Batroun Town, Batroun",
+    "district": "Batroun",
+    "neighborhood": "Batroun Town",
+    "sqm": 67,
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "original_price": 160000,
+    "current_price": 160000,
+    "price_history": [
+      {
+        "price": 160000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116327292": {
+    "id": "116327292",
+    "title": "Land in Adonis | 1221 sqm | 750$/sqm",
+    "url": "https://www.olx.com.lb/ad/land-in-adonis-1221-sqm-750sqm-ID116327292.html",
+    "type": "Land",
+    "location": "Adonis, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Adonis",
+    "sqm": 1221,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 915750,
+    "current_price": 915750,
+    "price_history": [
+      {
+        "price": 915750,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116764782": {
+    "id": "116764782",
+    "title": "Mountain and sea view - Fatri-Jbeil REF#RS128484",
+    "url": "https://www.olx.com.lb/ad/mountain-and-sea-view-fatri-jbeil-refrs128484-ID116764782.html",
+    "type": "Apartment",
+    "location": "Fatre, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Fatre",
+    "sqm": 1954,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 148000,
+    "current_price": 148000,
+    "price_history": [
+      {
+        "price": 148000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116520611": {
+    "id": "116520611",
+    "title": "LAND FOR SALE IN BEIT HEBBEK / JBEIL",
+    "url": "https://www.olx.com.lb/ad/land-for-sale-in-beit-hebbek-jbeil-ID116520611.html",
+    "type": "Land",
+    "location": "Other in Jbeil, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Other in Jbeil",
+    "sqm": 996,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 75000,
+    "current_price": 75000,
+    "price_history": [
+      {
+        "price": 75000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822277": {
+    "id": "116822277",
+    "title": "land for sale Achrafieh hot deal",
+    "url": "https://www.olx.com.lb/ad/land-for-sale-achrafieh-hot-deal-ID116822277.html",
+    "type": "Land",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Achrafieh",
+    "sqm": 167,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 500000,
+    "current_price": 500000,
+    "price_history": [
+      {
+        "price": 500000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822274": {
+    "id": "116822274",
+    "title": "Land for sale in Qornet Chahwan ارض للبيع في قرنة شهوان",
+    "url": "https://www.olx.com.lb/ad/land-for-sale-in-qornet-chahwan-ارض-للبيع-في-قرنة-شهوان-ID116822274.html",
+    "type": "Land",
+    "location": "Cornet Chahwan, Metn",
+    "district": "Metn",
+    "neighborhood": "Cornet Chahwan",
+    "sqm": 1050,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 1400000,
+    "current_price": 1400000,
+    "price_history": [
+      {
+        "price": 1400000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822273": {
+    "id": "116822273",
+    "title": "360-degree panoramic view ,Flat land , Broumana / برمانا REF#CN133997",
+    "url": "https://www.olx.com.lb/ad/360-degree-panoramic-view-flat-land-broumana-برمانا-refcn133997-ID116822273.html",
+    "type": "Land",
+    "location": "Broummana, Metn",
+    "district": "Metn",
+    "neighborhood": "Broummana",
+    "sqm": 2300,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 2500000,
+    "current_price": 2500000,
+    "price_history": [
+      {
+        "price": 2500000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822265": {
+    "id": "116822265",
+    "title": "Land for sale in Assia Batroun ارض للبيع في اسيا البترون",
+    "url": "https://www.olx.com.lb/ad/land-for-sale-in-assia-batroun-ارض-للبيع-في-اسيا-البترون-ID116822265.html",
+    "type": "Land",
+    "location": "Other in Batroun, Batroun",
+    "district": "Batroun",
+    "neighborhood": "Other in Batroun",
+    "sqm": 1277,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 85000,
+    "current_price": 85000,
+    "price_history": [
+      {
+        "price": 85000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116786838": {
+    "id": "116786838",
+    "title": "Land In Sehayleh | 1035 sqm | Prime Location",
+    "url": "https://www.olx.com.lb/ad/land-in-sehayleh-1035-sqm-prime-location-ID116786838.html",
+    "type": "Land",
+    "location": "Sehayleh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Sehayleh",
+    "sqm": 1035,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 650000,
+    "current_price": 650000,
+    "price_history": [
+      {
+        "price": 650000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822262": {
+    "id": "116822262",
+    "title": "FLAT land, great view, prime area, Bikfaya/بكفيا REF#CN133996",
+    "url": "https://www.olx.com.lb/ad/flat-land-great-view-prime-area-bikfayaبكفيا-refcn133996-ID116822262.html",
+    "type": "Land",
+    "location": "Bikfaya, Metn",
+    "district": "Metn",
+    "neighborhood": "Bikfaya",
+    "sqm": 3810,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 1500000,
+    "current_price": 1500000,
+    "price_history": [
+      {
+        "price": 1500000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822259": {
+    "id": "116822259",
+    "title": "Direct main road ,full panoramic view ,Zaarour/الزعرور REF#CN133995",
+    "url": "https://www.olx.com.lb/ad/direct-main-road-full-panoramic-view-zaarourالزعرور-refcn133995-ID116822259.html",
+    "type": "Apartment",
+    "location": "Zaarour, Metn",
+    "district": "Metn",
+    "neighborhood": "Zaarour",
+    "sqm": 1835,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 400000,
+    "current_price": 400000,
+    "price_history": [
+      {
+        "price": 400000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822252": {
+    "id": "116822252",
+    "title": "Land For Sale In Aley - Bedghane أرض للبيع في عاليه - بدغان",
+    "url": "https://www.olx.com.lb/ad/land-for-sale-in-aley-bedghane-أرض-للبيع-في-عاليه-بدغان-ID116822252.html",
+    "type": "Land",
+    "location": "Aley Town, Aley",
+    "district": "Aley",
+    "neighborhood": "Aley Town",
+    "sqm": 1100,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 110000,
+    "current_price": 110000,
+    "price_history": [
+      {
+        "price": 110000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116772322": {
+    "id": "116772322",
+    "title": "687$/sqm Land for Sale in a prime location in Adma very prime location",
+    "url": "https://www.olx.com.lb/ad/687sqm-land-for-sale-in-a-prime-location-in-adma-very-prime-location-ID116772322.html",
+    "type": "Land",
+    "location": "Adma w Dafnah, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Adma w Dafnah",
+    "sqm": 1165,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 800000,
+    "current_price": 800000,
+    "price_history": [
+      {
+        "price": 800000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116738231": {
+    "id": "116738231",
+    "title": "Land for sale in Bqennayet Jal El Dib ارض للبيع في بقناية جل الديب",
+    "url": "https://www.olx.com.lb/ad/land-for-sale-in-bqennayet-jal-el-dib-ارض-للبيع-في-بقناية-جل-الديب-ID116738231.html",
+    "type": "Land",
+    "location": "Bqennaya, Metn",
+    "district": "Metn",
+    "neighborhood": "Bqennaya",
+    "sqm": 1670,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 1169000,
+    "current_price": 1169000,
+    "price_history": [
+      {
+        "price": 1169000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822228": {
+    "id": "116822228",
+    "title": "Land For Sale In Mtein (Villa Zoning) أرض للبيع في المتين سعر مميز",
+    "url": "https://www.olx.com.lb/ad/land-for-sale-in-mtein-villa-zoning-أرض-للبيع-في-المتين-سعر-مميز-ID116822228.html",
+    "type": "Villa",
+    "location": "El Mtein, Metn",
+    "district": "Metn",
+    "neighborhood": "El Mtein",
+    "sqm": 1976,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 125000,
+    "current_price": 125000,
+    "price_history": [
+      {
+        "price": 125000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822201": {
+    "id": "116822201",
+    "title": "GMB195MM - Land For Sale In Blat - أرض للبيع في بلاط",
+    "url": "https://www.olx.com.lb/ad/gmb195mm-land-for-sale-in-blat-أرض-للبيع-في-بلاط-ID116822201.html",
+    "type": "Land",
+    "location": "Blat, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Blat",
+    "sqm": 1160,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 300000,
+    "current_price": 300000,
+    "price_history": [
+      {
+        "price": 300000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116696082": {
+    "id": "116696082",
+    "title": "6400 sqm Land For Sale in Ain Kfaa (عين كفاع)",
+    "url": "https://www.olx.com.lb/ad/6400-sqm-land-for-sale-in-ain-kfaa-عين-كفاع-ID116696082.html",
+    "type": "Land",
+    "location": "Chahtoul, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Chahtoul",
+    "sqm": 6400,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 155000,
+    "current_price": 155000,
+    "price_history": [
+      {
+        "price": 155000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116681956": {
+    "id": "116681956",
+    "title": "1700 sqm Land For Sale in Halat (حالات) with Open Sea View",
+    "url": "https://www.olx.com.lb/ad/1700-sqm-land-for-sale-in-halat-حالات-with-open-sea-view-ID116681956.html",
+    "type": "Land",
+    "location": "Halat, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Halat",
+    "sqm": 1700,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 500000,
+    "current_price": 500000,
+    "price_history": [
+      {
+        "price": 500000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116785951": {
+    "id": "116785951",
+    "title": "900 sqm Land For Sale in Mayrouba ميروبا with Open View",
+    "url": "https://www.olx.com.lb/ad/900-sqm-land-for-sale-in-mayrouba-ميروبا-with-open-view-ID116785951.html",
+    "type": "Land",
+    "location": "Mayrouba, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Mayrouba",
+    "sqm": 900,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 99000,
+    "current_price": 99000,
+    "price_history": [
+      {
+        "price": 99000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116653967": {
+    "id": "116653967",
+    "title": "800 sqm Land For Sale in Breij (بريج) with Open Mountain View",
+    "url": "https://www.olx.com.lb/ad/800-sqm-land-for-sale-in-breij-بريج-with-open-mountain-view-ID116653967.html",
+    "type": "Land",
+    "location": "Breij, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Breij",
+    "sqm": 800,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 160000,
+    "current_price": 160000,
+    "price_history": [
+      {
+        "price": 160000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116651175": {
+    "id": "116651175",
+    "title": "2700 sqm Land For Sale in Bkassine (بكاسين)",
+    "url": "https://www.olx.com.lb/ad/2700-sqm-land-for-sale-in-bkassine-بكاسين-ID116651175.html",
+    "type": "Land",
+    "location": "Other in Jezzine, Jezzine",
+    "district": "Jezzine",
+    "neighborhood": "Other in Jezzine",
+    "sqm": 2700,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 270000,
+    "current_price": 270000,
+    "price_history": [
+      {
+        "price": 270000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116635955": {
+    "id": "116635955",
+    "title": "815 sqm Land For Sale in Zaarour with Open View",
+    "url": "https://www.olx.com.lb/ad/815-sqm-land-for-sale-in-zaarour-with-open-view-ID116635955.html",
+    "type": "Land",
+    "location": "Zaarour, Metn",
+    "district": "Metn",
+    "neighborhood": "Zaarour",
+    "sqm": 815,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 140000,
+    "current_price": 140000,
+    "price_history": [
+      {
+        "price": 140000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116539216": {
+    "id": "116539216",
+    "title": "1000 sqm Land For Sale in Faytroun with Open Mountain View !!!",
+    "url": "https://www.olx.com.lb/ad/1000-sqm-land-for-sale-in-faytroun-with-open-mountain-view-ID116539216.html",
+    "type": "Land",
+    "location": "Faitroun, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Faitroun",
+    "sqm": 1000,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 220000,
+    "current_price": 220000,
+    "price_history": [
+      {
+        "price": 220000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116504032": {
+    "id": "116504032",
+    "title": "Prime Location 1300 sqm Land For Sale in Faytroun with Highway View !!",
+    "url": "https://www.olx.com.lb/ad/prime-location-1300-sqm-land-for-sale-in-faytroun-with-highway-view-ID116504032.html",
+    "type": "Land",
+    "location": "Faitroun, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Faitroun",
+    "sqm": 1300,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 325000,
+    "current_price": 325000,
+    "price_history": [
+      {
+        "price": 325000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116454976": {
+    "id": "116454976",
+    "title": "830 sqm Land For Sale in Zebdine with Open View !!!",
+    "url": "https://www.olx.com.lb/ad/830-sqm-land-for-sale-in-zebdine-with-open-view-ID116454976.html",
+    "type": "Land",
+    "location": "Zebdine, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Zebdine",
+    "sqm": 830,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 83000,
+    "current_price": 83000,
+    "price_history": [
+      {
+        "price": 83000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116407048": {
+    "id": "116407048",
+    "title": "1200 sqm Land For Sale in Mechmech with Facility Payment !!!",
+    "url": "https://www.olx.com.lb/ad/1200-sqm-land-for-sale-in-mechmech-with-facility-payment-ID116407048.html",
+    "type": "Land",
+    "location": "Mechmech, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Mechmech",
+    "sqm": 1200,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 67000,
+    "current_price": 67000,
+    "price_history": [
+      {
+        "price": 67000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116579018": {
+    "id": "116579018",
+    "title": "1050 sqm Land For Sale in Ashkout (عشقوت) with View",
+    "url": "https://www.olx.com.lb/ad/1050-sqm-land-for-sale-in-ashkout-عشقوت-with-view-ID116579018.html",
+    "type": "Land",
+    "location": "Aachqout, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Aachqout",
+    "sqm": 1050,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 125000,
+    "current_price": 125000,
+    "price_history": [
+      {
+        "price": 125000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116502383": {
+    "id": "116502383",
+    "title": "Furnished chalet for sale in Lunivers project Feitrun",
+    "url": "https://www.olx.com.lb/ad/furnished-chalet-for-sale-in-lunivers-project-feitrun-ID116502383.html",
+    "type": "Chalet",
+    "location": "Faitroun, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Faitroun",
+    "sqm": 181,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 260000,
+    "current_price": 260000,
+    "price_history": [
+      {
+        "price": 260000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "114544351": {
+    "id": "114544351",
+    "title": "Jeita 110m2 Office | 110m2 Terrace | Prime Location | View | Unique |",
+    "url": "https://www.olx.com.lb/ad/jeita-110m2-office-110m2-terrace-prime-location-view-unique-ID114544351.html",
+    "type": "Commercial",
+    "location": "Jeita, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Jeita",
+    "sqm": 110,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 130000,
+    "current_price": 130000,
+    "price_history": [
+      {
+        "price": 130000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822272": {
+    "id": "116822272",
+    "title": "Office for Sale – Zouk Mosbeh – SGHG171",
+    "url": "https://www.olx.com.lb/ad/office-for-sale-zouk-mosbeh-sghg171-ID116822272.html",
+    "type": "Commercial",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Zouk Mosbeh",
+    "sqm": 100,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 200000,
+    "current_price": 200000,
+    "price_history": [
+      {
+        "price": 200000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822261": {
+    "id": "116822261",
+    "title": "Shop for Sale in Jisr El Bacha| Under Construction",
+    "url": "https://www.olx.com.lb/ad/shop-for-sale-in-jisr-el-bacha-under-construction-ID116822261.html",
+    "type": "Commercial",
+    "location": "Jisr El Bacha, Metn",
+    "district": "Metn",
+    "neighborhood": "Jisr El Bacha",
+    "sqm": 363,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 2146000,
+    "current_price": 2146000,
+    "price_history": [
+      {
+        "price": 2146000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116697083": {
+    "id": "116697083",
+    "title": "Very Prime Location 80sqm Commercial For Sale in Jal El Dib (جل الديب)",
+    "url": "https://www.olx.com.lb/ad/very-prime-location-80sqm-commercial-for-sale-in-jal-el-dib-جل-الديب-ID116697083.html",
+    "type": "Commercial",
+    "location": "Jal El Dib, Metn",
+    "district": "Metn",
+    "neighborhood": "Jal El Dib",
+    "sqm": 80,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 170000,
+    "current_price": 170000,
+    "price_history": [
+      {
+        "price": 170000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116569326": {
+    "id": "116569326",
+    "title": "66 sqm Shop For Sale in Ain El Remmaneh !!!",
+    "url": "https://www.olx.com.lb/ad/66-sqm-shop-for-sale-in-ain-el-remmaneh-ID116569326.html",
+    "type": "Commercial",
+    "location": "Ain El Remmaneh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Ain El Remmaneh",
+    "sqm": 66,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 84000,
+    "current_price": 84000,
+    "price_history": [
+      {
+        "price": 84000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116626986": {
+    "id": "116626986",
+    "title": "40 sqm Office For Sale in Batroun Souk with View",
+    "url": "https://www.olx.com.lb/ad/40-sqm-office-for-sale-in-batroun-souk-with-view-ID116626986.html",
+    "type": "Commercial",
+    "location": "Batroun Town, Batroun",
+    "district": "Batroun",
+    "neighborhood": "Batroun Town",
+    "sqm": 40,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 65000,
+    "current_price": 65000,
+    "price_history": [
+      {
+        "price": 65000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116626678": {
+    "id": "116626678",
+    "title": "Warehouse for Sale in Rawcheستودع للبيع في الروشة",
+    "url": "https://www.olx.com.lb/ad/warehouse-for-sale-in-rawcheستودع-للبيع-في-الروشة-ID116626678.html",
+    "type": "Villa",
+    "location": "Rawche, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Rawche",
+    "sqm": 500,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 550000,
+    "current_price": 550000,
+    "price_history": [
+      {
+        "price": 550000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822119": {
+    "id": "116822119",
+    "title": "historic castle,prime area,achrafieh,sursock/اشرفيه, سرسق REF#OI133973",
+    "url": "https://www.olx.com.lb/ad/historic-castleprime-areaachrafiehsursockاشرفيه-سرسق-refoi133973-ID116822119.html",
+    "type": "Apartment",
+    "location": "sursock, Beirut",
+    "district": "Beirut",
+    "neighborhood": "sursock",
+    "sqm": 1440,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 24000000,
+    "current_price": 24000000,
+    "price_history": [
+      {
+        "price": 24000000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822075": {
+    "id": "116822075",
+    "title": "Hotel for Sale in Maameltein  Sea and Mountain view 3000 Sqm",
+    "url": "https://www.olx.com.lb/ad/hotel-for-sale-in-maameltein-sea-and-mountain-view-3000-sqm-ID116822075.html",
+    "type": "Apartment",
+    "location": "Maameltein, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Maameltein",
+    "sqm": 3000,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 17000000,
+    "current_price": 17000000,
+    "price_history": [
+      {
+        "price": 17000000,
         "date": "2026-03-16"
       }
     ],
