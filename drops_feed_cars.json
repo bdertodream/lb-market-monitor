@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-15T23:28:41.783446",
-  "total_tracked": 3323,
-  "total_drops": 170,
-  "total_new": 3323,
+  "generated_at": "2026-03-16T01:30:12.147719",
+  "total_tracked": 3328,
+  "total_drops": 172,
+  "total_new": 3328,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -798,6 +798,35 @@
         {
           "price": 13500,
           "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116745973",
+      "title": "Land Rover Range Rover Sport 2018 V6",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2018-v6-ID116745973.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 68000,
+      "transmission": "Steptronic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 43000,
+      "current_price": 39000,
+      "drop_usd": 4000,
+      "drop_pct": 9.3,
+      "last_drop_date": "2026-03-16",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 43000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 39000,
+          "date": "2026-03-16"
         }
       ]
     },
@@ -2544,6 +2573,35 @@
         {
           "price": 12500,
           "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116728895",
+      "title": "Mercedes-Benz C-Class 300 / 4matic AMG",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2017-4matic-amg-ID116728895.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 95000,
+      "transmission": "Automatic",
+      "location": "Abdul Latif El Bissar, Tripoli",
+      "original_price": 18500,
+      "current_price": 17800,
+      "drop_usd": 700,
+      "drop_pct": 3.8,
+      "last_drop_date": "2026-03-16",
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 18500,
+          "date": "2026-03-13"
+        },
+        {
+          "price": 17800,
+          "date": "2026-03-16"
         }
       ]
     },
@@ -5078,6 +5136,116 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116736007",
+      "title": "Mercedes-Benz A-Class 2019",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-a-class-2019-ID116736007.html",
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "body_type": "Sedan",
+      "year": 2019,
+      "mileage": 85000,
+      "transmission": "Steptronic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 29000,
+      "current_price": 29000,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 29000,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116821737",
+      "title": "Kia Optima 2017",
+      "url": "https://www.olx.com.lb/ad/kia-optima-2017-ID116821737.html",
+      "make": "Kia",
+      "model": "Optima",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 95000,
+      "transmission": "Steptronic",
+      "location": "Al Beddaoui, Tripoli",
+      "original_price": 11700,
+      "current_price": 11700,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 11700,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116742347",
+      "title": "Grand Cherokee Limited 2018 Fully Loaded",
+      "url": "https://www.olx.com.lb/ad/grand-cherokee-limited-2018-fully-loaded-ID116742347.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 107000,
+      "transmission": "Steptronic",
+      "location": "Chtoura, Zahle",
+      "original_price": 22000,
+      "current_price": 22000,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 22000,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116821720",
+      "title": "Mercedes-Benz C-Class 2005",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2005-ID116821720.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2005,
+      "mileage": 190000,
+      "transmission": "Automatic",
+      "location": "Beino, Akkar",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 6000,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116821719",
+      "title": "Jeep Grand Cherokee 2012",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2012-ID116821719.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2012,
+      "mileage": 77000,
+      "transmission": "Automatic",
+      "location": "Faraya, Keserouan",
+      "original_price": 11800,
+      "current_price": 11800,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 11800,
+          "date": "2026-03-16"
+        }
+      ]
+    },
     {
       "id": "116820829",
       "title": "Nissan Rogue 2022",
@@ -14268,13 +14436,17 @@
       "transmission": "Automatic",
       "location": "Abdul Latif El Bissar, Tripoli",
       "original_price": 18500,
-      "current_price": 18500,
+      "current_price": 17800,
       "first_seen": "2026-03-13",
       "posted_date": "2026-03-13",
       "price_history": [
         {
           "price": 18500,
           "date": "2026-03-13"
+        },
+        {
+          "price": 17800,
+          "date": "2026-03-16"
         }
       ]
     },
@@ -43628,13 +43800,17 @@
       "transmission": "Steptronic",
       "location": "Saida Downtown, Saida",
       "original_price": 43000,
-      "current_price": 43000,
+      "current_price": 39000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 43000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 39000,
+          "date": "2026-03-16"
         }
       ]
     },
