@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-16T22:32:36.482218",
-  "total_tracked": 253,
+  "generated_at": "2026-03-16T23:31:20.938095",
+  "total_tracked": 254,
   "total_drops": 11,
-  "total_new": 253,
+  "total_new": 254,
   "avg_drop_pct": 31.7,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -395,6 +395,24 @@
       "price_history": [
         {
           "price": 3000,
+          "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116267766",
+      "title": "plate number",
+      "url": "https://www.olx.com.lb/ad/plate-number-ID116267766.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Tallet el Khayat, Beirut",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 6000,
           "date": "2026-03-16"
         }
       ]

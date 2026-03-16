@@ -24413,7 +24413,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-04",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -131138,7 +131138,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -155252,7 +155252,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -174581,7 +174581,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -175742,7 +175742,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -184577,7 +184577,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -198115,7 +198115,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -198627,19 +198627,23 @@
     "bedrooms": "2",
     "bathrooms": "2",
     "original_price": 149900,
-    "current_price": 149900,
+    "current_price": 139900,
     "price_history": [
       {
         "price": 149900,
         "date": "2026-03-01"
+      },
+      {
+        "price": 139900,
+        "date": "2026-03-16"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-16",
-    "last_updated": "2026-03-07",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_updated": "2026-03-16",
+    "drop_usd": 10000,
+    "drop_pct": 6.7,
+    "last_drop_date": "2026-03-16",
     "posted_date": "2026-03-01"
   },
   "116685603": {
@@ -228827,7 +228831,7 @@
     ],
     "posted_date": "2026-03-08",
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-08",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -250953,7 +250957,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -264357,7 +264361,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -267304,7 +267308,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -268870,7 +268874,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -291921,7 +291925,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -312481,7 +312485,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -334079,7 +334083,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -334484,7 +334488,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -334808,7 +334812,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -428366,7 +428370,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -432983,7 +432987,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -507442,7 +507446,7 @@
     ],
     "posted_date": "2026-03-14",
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-14",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -601093,6 +601097,411 @@
     "price_history": [
       {
         "price": 230000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116786439": {
+    "id": "116786439",
+    "title": "RWK113MF -  project under-construction for sale in Zouk Mosbeh",
+    "url": "https://www.olx.com.lb/ad/rwk113mf-project-under-construction-for-sale-in-zouk-mosbeh-ID116786439.html",
+    "type": "Apartment",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Zouk Mosbeh",
+    "sqm": 140,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 175000,
+    "current_price": 175000,
+    "price_history": [
+      {
+        "price": 175000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116786403": {
+    "id": "116786403",
+    "title": "RWK111MF -  project under-construction for sale in Zouk Mosbeh",
+    "url": "https://www.olx.com.lb/ad/rwk111mf-project-under-construction-for-sale-in-zouk-mosbeh-ID116786403.html",
+    "type": "Apartment",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Zouk Mosbeh",
+    "sqm": 108,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 135000,
+    "current_price": 135000,
+    "price_history": [
+      {
+        "price": 135000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116786329": {
+    "id": "116786329",
+    "title": "RWK103MF - Brand new apartment for sale in Adonis",
+    "url": "https://www.olx.com.lb/ad/rwk103mf-brand-new-apartment-for-sale-in-adonis-ID116786329.html",
+    "type": "Apartment",
+    "location": "Adonis, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Adonis",
+    "sqm": 110,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 110000,
+    "current_price": 110000,
+    "price_history": [
+      {
+        "price": 110000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116786320": {
+    "id": "116786320",
+    "title": "RWK102MF - Brand new duplex for sale in Sarba with terrace and  view",
+    "url": "https://www.olx.com.lb/ad/rwk102mf-brand-new-duplex-for-sale-in-sarba-with-terrace-and-view-ID116786320.html",
+    "type": "Duplex",
+    "location": "Sarba, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Sarba",
+    "sqm": 230,
+    "bedrooms": "5",
+    "bathrooms": "5",
+    "original_price": 195000,
+    "current_price": 195000,
+    "price_history": [
+      {
+        "price": 195000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116742337": {
+    "id": "116742337",
+    "title": "RWK144IY - Apartment for sale in Sehayleh",
+    "url": "https://www.olx.com.lb/ad/rwk144iy-apartment-for-sale-in-sehayleh-ID116742337.html",
+    "type": "Apartment",
+    "location": "Sehayleh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Sehayleh",
+    "sqm": 130,
+    "bedrooms": "2",
+    "bathrooms": "3",
+    "original_price": 135000,
+    "current_price": 135000,
+    "price_history": [
+      {
+        "price": 135000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116742109": {
+    "id": "116742109",
+    "title": "RWK130IY - Brand new apartment for sale in Ballouneh",
+    "url": "https://www.olx.com.lb/ad/rwk130iy-brand-new-apartment-for-sale-in-ballouneh-ID116742109.html",
+    "type": "Apartment",
+    "location": "Ballouneh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Ballouneh",
+    "sqm": 164,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 190000,
+    "current_price": 190000,
+    "price_history": [
+      {
+        "price": 190000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116742099": {
+    "id": "116742099",
+    "title": "RWK129IY - Apartment for sale in ballouneh",
+    "url": "https://www.olx.com.lb/ad/rwk129iy-apartment-for-sale-in-ballouneh-ID116742099.html",
+    "type": "Apartment",
+    "location": "Ballouneh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Ballouneh",
+    "sqm": 480,
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "original_price": 300000,
+    "current_price": 300000,
+    "price_history": [
+      {
+        "price": 300000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116786374": {
+    "id": "116786374",
+    "title": "RWK106MF - Used apartment for sale in Ain El Rihaneh",
+    "url": "https://www.olx.com.lb/ad/rwk106mf-used-apartment-for-sale-in-ain-el-rihaneh-ID116786374.html",
+    "type": "Apartment",
+    "location": "Ain El Rihaneh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Ain El Rihaneh",
+    "sqm": 110,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 90000,
+    "current_price": 90000,
+    "price_history": [
+      {
+        "price": 90000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116786344": {
+    "id": "116786344",
+    "title": "RWK105MF - Apartment under-construction for sale in Zouk Mosbeh",
+    "url": "https://www.olx.com.lb/ad/rwk105mf-apartment-under-construction-for-sale-in-zouk-mosbeh-ID116786344.html",
+    "type": "Apartment",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Zouk Mosbeh",
+    "sqm": 135,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 168750,
+    "current_price": 168750,
+    "price_history": [
+      {
+        "price": 168750,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116645971": {
+    "id": "116645971",
+    "title": "Delb-Bikfaya | Brand New 200m² + 300m² Terrace/Basement | Unique Catch",
+    "url": "https://www.olx.com.lb/ad/delb-bikfaya-brand-new-200m2-300m2-terracebasement-unique-catch-ID116645971.html",
+    "type": "Apartment",
+    "location": "Bikfaya, Metn",
+    "district": "Metn",
+    "neighborhood": "Bikfaya",
+    "sqm": 500,
+    "bedrooms": "2",
+    "bathrooms": "4",
+    "original_price": 265000,
+    "current_price": 265000,
+    "price_history": [
+      {
+        "price": 265000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116183239": {
+    "id": "116183239",
+    "title": "Fatka | 50,000$ DOWNPAYMENT , 5 YEARS PAYMENT FACILITIES | Brand New",
+    "url": "https://www.olx.com.lb/ad/fatka-50000-downpayment-5-years-payment-facilities-brand-new-ID116183239.html",
+    "type": "Apartment",
+    "location": "Fatqa, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Fatqa",
+    "sqm": 390,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 275000,
+    "current_price": 275000,
+    "price_history": [
+      {
+        "price": 275000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116787037": {
+    "id": "116787037",
+    "title": "1383 Sqm Land in Klayaat",
+    "url": "https://www.olx.com.lb/ad/1383-sqm-land-in-klayaat-ID116787037.html",
+    "type": "Land",
+    "location": "Klayaat, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Klayaat",
+    "sqm": 1383,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 350000,
+    "current_price": 350000,
+    "price_history": [
+      {
+        "price": 350000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116699994": {
+    "id": "116699994",
+    "title": "RWK462GZ - Land for sale in Kfardebian",
+    "url": "https://www.olx.com.lb/ad/rwk462gz-land-for-sale-in-kfardebian-ID116699994.html",
+    "type": "Land",
+    "location": "Kfardebian, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Kfardebian",
+    "sqm": 1216,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 486000,
+    "current_price": 486000,
+    "price_history": [
+      {
+        "price": 486000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116742091": {
+    "id": "116742091",
+    "title": "RWK127IY - Warehouse for sale in Ballouneh",
+    "url": "https://www.olx.com.lb/ad/rwk127iy-warehouse-for-sale-in-ballouneh-ID116742091.html",
+    "type": "Villa",
+    "location": "Ballouneh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Ballouneh",
+    "sqm": 400,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 190000,
+    "current_price": 190000,
+    "price_history": [
+      {
+        "price": 190000,
+        "date": "2026-03-16"
+      }
+    ],
+    "posted_date": "2026-03-16",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116786382": {
+    "id": "116786382",
+    "title": "RWK108MF - Used shop for sale in Zouk Mikael in a very prime location",
+    "url": "https://www.olx.com.lb/ad/rwk108mf-used-shop-for-sale-in-zouk-mikael-in-a-very-prime-location-ID116786382.html",
+    "type": "Commercial",
+    "location": "Zouk Mikael, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Zouk Mikael",
+    "sqm": 90,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 135000,
+    "current_price": 135000,
+    "price_history": [
+      {
+        "price": 135000,
         "date": "2026-03-16"
       }
     ],
