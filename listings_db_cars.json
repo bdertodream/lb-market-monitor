@@ -2506,7 +2506,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -3743,7 +3743,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -12901,7 +12901,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "drop_usd": 100,
     "drop_pct": 1.7,
@@ -35614,7 +35614,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -54390,7 +54390,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -60662,7 +60662,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-10",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
@@ -73154,7 +73154,7 @@
       }
     ],
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "posted_date": "2026-03-12",
     "drop_usd": 0,
@@ -73966,7 +73966,7 @@
       }
     ],
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-16",
     "last_updated": "2026-03-12",
     "posted_date": "2026-03-12",
     "drop_usd": 0,
@@ -81370,16 +81370,20 @@
     "location": "Majdelyoun, Saida",
     "district": "Saida",
     "original_price": 6950,
-    "current_price": 6950,
+    "current_price": 7300,
     "price_history": [
       {
         "price": 6950,
         "date": "2026-03-13"
+      },
+      {
+        "price": 7300,
+        "date": "2026-03-16"
       }
     ],
     "first_seen": "2026-03-13",
     "last_seen": "2026-03-16",
-    "last_updated": "2026-03-13",
+    "last_updated": "2026-03-16",
     "posted_date": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -94562,6 +94566,118 @@
     "price_history": [
       {
         "price": 8200,
+        "date": "2026-03-16"
+      }
+    ],
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "posted_date": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116821773": {
+    "id": "116821773",
+    "title": "Kia Picanto 2025",
+    "url": "https://www.olx.com.lb/ad/kia-picanto-2025-ID116821773.html",
+    "make": "Kia",
+    "model": "Picanto",
+    "body_type": "Hatchback",
+    "year": 2025,
+    "mileage": 13000,
+    "transmission": "Automatic",
+    "location": "Beit El Kiko, Metn",
+    "district": "Metn",
+    "original_price": 15300,
+    "current_price": 15300,
+    "price_history": [
+      {
+        "price": 15300,
+        "date": "2026-03-16"
+      }
+    ],
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "posted_date": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115790655": {
+    "id": "115790655",
+    "title": "328 e93 2010 76024903",
+    "url": "https://www.olx.com.lb/ad/328-e93-2010-ID115790655.html",
+    "make": "BMW",
+    "model": "3-Series",
+    "body_type": "Convertible",
+    "year": 2010,
+    "mileage": 169000,
+    "transmission": "Steptronic",
+    "location": "Hamra, Beirut",
+    "district": "Beirut",
+    "original_price": 8000,
+    "current_price": 8000,
+    "price_history": [
+      {
+        "price": 8000,
+        "date": "2026-03-16"
+      }
+    ],
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "posted_date": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116821756": {
+    "id": "116821756",
+    "title": "Xiaomi SU7 MAX 2025 BRAND NEW (0Km) 673 HP",
+    "url": "https://www.olx.com.lb/ad/xiaomi-su7-max-2025-brand-new-0km-673-hp-ID116821756.html",
+    "make": "Xiaomi",
+    "model": "SU7 MAX",
+    "body_type": "Sedan",
+    "year": 2025,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 61000,
+    "current_price": 61000,
+    "price_history": [
+      {
+        "price": 61000,
+        "date": "2026-03-16"
+      }
+    ],
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "posted_date": "2026-03-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116821722": {
+    "id": "116821722",
+    "title": "بي ام دبليو الفئة 3 2006",
+    "url": "https://www.olx.com.lb/ad/بي-ام-دبليو-الفئة-3-2006-ID116821722.html",
+    "make": "BMW",
+    "model": "3-Series",
+    "body_type": "Sedan",
+    "year": 2006,
+    "mileage": 285000,
+    "transmission": "Automatic",
+    "location": "Al Bahsas, Tripoli",
+    "district": "Tripoli",
+    "original_price": 5800,
+    "current_price": 5800,
+    "price_history": [
+      {
+        "price": 5800,
         "date": "2026-03-16"
       }
     ],
