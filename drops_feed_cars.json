@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-17T19:58:02.721801",
-  "total_tracked": 3715,
-  "total_drops": 209,
-  "total_new": 3715,
+  "generated_at": "2026-03-17T20:38:19.325711",
+  "total_tracked": 3723,
+  "total_drops": 210,
+  "total_new": 3723,
   "avg_drop_pct": 7.3,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -1733,6 +1733,35 @@
         {
           "price": 17000,
           "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116807788",
+      "title": "HYUNDAI KONA 2018 SEL AWD 2.0 LUXURY EDITION MINT CONDITION",
+      "url": "https://www.olx.com.lb/ad/hyundai-kona-2018-sel-awd-20-luxury-edition-mint-condition-ID116807788.html",
+      "make": "Hyundai",
+      "model": "Kona",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 59000,
+      "transmission": "Steptronic",
+      "location": "Baouchriye, Metn",
+      "original_price": 18000,
+      "current_price": 17000,
+      "drop_usd": 1000,
+      "drop_pct": 5.6,
+      "last_drop_date": "2026-03-17",
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 18000,
+          "date": "2026-03-15"
+        },
+        {
+          "price": 17000,
+          "date": "2026-03-17"
         }
       ]
     },
@@ -10168,6 +10197,182 @@
       ]
     },
     {
+      "id": "116745168",
+      "title": "BMW I3 2017",
+      "url": "https://www.olx.com.lb/ad/bmw-i3-2017-ID116745168.html",
+      "make": "BMW",
+      "model": "I3",
+      "body_type": "Hatchback",
+      "year": 2017,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 12000,
+      "current_price": 12000,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 12000,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116427774",
+      "title": "Porsche Cayenne 2017",
+      "url": "https://www.olx.com.lb/ad/porsche-cayenne-2017-ID116427774.html",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 148000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 31999,
+      "current_price": 31999,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 31999,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116823954",
+      "title": "بي ام دبليو الفئة 3 2007",
+      "url": "https://www.olx.com.lb/ad/بي-ام-دبليو-الفئة-3-2007-ID116823954.html",
+      "make": "BMW",
+      "model": "3-Series",
+      "body_type": "Sedan",
+      "year": 2007,
+      "mileage": 290,
+      "transmission": "Automatic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 5500,
+      "current_price": 5500,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116823951",
+      "title": "Mercedes-Benz E-Class 2011 2011",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2011-2011-ID116823951.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2011,
+      "mileage": 170000,
+      "transmission": "Steptronic",
+      "location": "Zgharta Town, Zgharta",
+      "original_price": 11500,
+      "current_price": 11500,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 11500,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116659776",
+      "title": "Honda Odyssey 2000",
+      "url": "https://www.olx.com.lb/ad/honda-odyssey-2000-ID116659776.html",
+      "make": "Honda",
+      "model": "Odyssey",
+      "body_type": "MPV",
+      "year": 2000,
+      "mileage": 48000,
+      "transmission": "Manual",
+      "location": "Aamchit, Jbeil",
+      "original_price": 3500,
+      "current_price": 3500,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 3500,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116743599",
+      "title": "Porsche Panamera 2011",
+      "url": "https://www.olx.com.lb/ad/porsche-panamera-2011-ID116743599.html",
+      "make": "Porsche",
+      "model": "Panamera",
+      "body_type": "Sedan",
+      "year": 2011,
+      "mileage": 108624,
+      "transmission": "Automatic",
+      "location": "Majdelyoun, Saida",
+      "original_price": 19000,
+      "current_price": 19000,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 19000,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116764777",
+      "title": "Mitsubishi Outlander Sport 2020",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-outlander-sport-2020-ID116764777.html",
+      "make": "Mitsubishi",
+      "model": "Outlander Sport",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Zahle Town, Zahle",
+      "original_price": 18500,
+      "current_price": 18500,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 18500,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116784055",
+      "title": "Mercedes-Benz CLA-Class 2018",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-cla-class-2018-ID116784055.html",
+      "make": "Mercedes-Benz",
+      "model": "CLA-Class",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 119000,
+      "transmission": "Steptronic",
+      "location": "Mouallaka, Zahle",
+      "original_price": 17500,
+      "current_price": 17500,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
       "id": "116736007",
       "title": "Mercedes-Benz A-Class 2019",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-a-class-2019-ID116736007.html",
@@ -10575,13 +10780,17 @@
       "transmission": "Automatic",
       "location": "Verdun, Beirut",
       "original_price": 68000,
-      "current_price": 68000,
+      "current_price": 70000,
       "first_seen": "2026-03-16",
       "posted_date": "2026-03-16",
       "price_history": [
         {
           "price": 68000,
           "date": "2026-03-16"
+        },
+        {
+          "price": 70000,
+          "date": "2026-03-17"
         }
       ]
     },
@@ -17101,13 +17310,17 @@
       "transmission": "Steptronic",
       "location": "Baouchriye, Metn",
       "original_price": 18000,
-      "current_price": 18000,
+      "current_price": 17000,
       "first_seen": "2026-03-15",
       "posted_date": "2026-03-15",
       "price_history": [
         {
           "price": 18000,
           "date": "2026-03-15"
+        },
+        {
+          "price": 17000,
+          "date": "2026-03-17"
         }
       ]
     },
