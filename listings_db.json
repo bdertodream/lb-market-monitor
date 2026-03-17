@@ -115554,7 +115554,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -119473,7 +119473,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -131604,7 +131604,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -140183,7 +140183,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-13",
     "drop_usd": 150000,
     "drop_pct": 9.1,
@@ -146192,7 +146192,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -148793,7 +148793,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -149036,7 +149036,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -151129,7 +151129,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -155921,7 +155921,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -174425,7 +174425,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -174560,7 +174560,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -191666,7 +191666,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -259136,7 +259136,7 @@
     ],
     "posted_date": "2026-03-09",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -314592,7 +314592,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -317620,7 +317620,7 @@
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -335880,20 +335880,24 @@
     "bedrooms": "3",
     "bathrooms": "2",
     "original_price": 219000,
-    "current_price": 219000,
+    "current_price": 205000,
     "price_history": [
       {
         "price": 219000,
         "date": "2026-03-10"
+      },
+      {
+        "price": 205000,
+        "date": "2026-03-17"
       }
     ],
     "posted_date": "2026-03-10",
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-16",
-    "last_updated": "2026-03-10",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 14000,
+    "drop_pct": 6.4,
+    "last_drop_date": "2026-03-17"
   },
   "116808957": {
     "id": "116808957",
@@ -361868,7 +361872,7 @@
     ],
     "posted_date": "2026-03-11",
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -409795,7 +409799,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -414844,7 +414848,7 @@
     ],
     "posted_date": "2026-03-12",
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-12",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -458928,7 +458932,7 @@
     ],
     "posted_date": "2026-03-13",
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -638109,6 +638113,735 @@
     "price_history": [
       {
         "price": 249900,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116823995": {
+    "id": "116823995",
+    "title": "Cornet Chehwan sea view 145 sqm, 150 sqm and 165 sqm",
+    "url": "https://www.olx.com.lb/ad/cornet-chehwan-sea-view-145-sqm-150-sqm-and-165-sqm-ID116823995.html",
+    "type": "Apartment",
+    "location": "Cornet Chahwan, Metn",
+    "district": "Metn",
+    "neighborhood": "Cornet Chahwan",
+    "sqm": 145,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 255000,
+    "current_price": 255000,
+    "price_history": [
+      {
+        "price": 255000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116823993": {
+    "id": "116823993",
+    "title": "Apartment for sale in Mar Roukouz 160,000$شقة للبيع في مار روكز",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-mar-roukouz-160000شقة-للبيع-في-مار-روكز-ID116823993.html",
+    "type": "Apartment",
+    "location": "Mar Roukoz, Metn",
+    "district": "Metn",
+    "neighborhood": "Mar Roukoz",
+    "sqm": 115,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 160000,
+    "current_price": 160000,
+    "price_history": [
+      {
+        "price": 160000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116715203": {
+    "id": "116715203",
+    "title": "Apartment for sale in Baabdat SM169 شقة مفروشة للبيع في بعبدات",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-baabdat-sm169-شقة-مفروشة-للبيع-في-بعبدات-ID116715203.html",
+    "type": "Apartment",
+    "location": "Baabdat, Metn",
+    "district": "Metn",
+    "neighborhood": "Baabdat",
+    "sqm": 193,
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "original_price": 330000,
+    "current_price": 330000,
+    "price_history": [
+      {
+        "price": 330000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116617289": {
+    "id": "116617289",
+    "title": "Tilal Ain Saadeh | 155m² + 55m² Terrace | Sea/Mountain View | Floor 1",
+    "url": "https://www.olx.com.lb/ad/tilal-ain-saadeh-155m2-55m2-terrace-seamountain-view-floor-1-ID116617289.html",
+    "type": "Apartment",
+    "location": "Ain Saadeh, Metn",
+    "district": "Metn",
+    "neighborhood": "Ain Saadeh",
+    "sqm": 210,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 175000,
+    "current_price": 175000,
+    "price_history": [
+      {
+        "price": 175000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116084616": {
+    "id": "116084616",
+    "title": "Experience the Pulse of the City ! Apartment for sale in Achrafieh",
+    "url": "https://www.olx.com.lb/ad/experience-the-pulse-of-the-city-apartment-for-sale-in-achrafieh-ID116084616.html",
+    "type": "Apartment",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Achrafieh",
+    "sqm": 310,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 1350000,
+    "current_price": 1350000,
+    "price_history": [
+      {
+        "price": 1350000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115420627": {
+    "id": "115420627",
+    "title": "Stylish Modern Loft for Sale in Achrafieh",
+    "url": "https://www.olx.com.lb/ad/stylish-modern-loft-for-sale-in-achrafieh-ID115420627.html",
+    "type": "Apartment",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Achrafieh",
+    "sqm": 300,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 1000000,
+    "current_price": 1000000,
+    "price_history": [
+      {
+        "price": 1000000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "114824902": {
+    "id": "114824902",
+    "title": "There’s only one home for me ! Achrafieh !!!",
+    "url": "https://www.olx.com.lb/ad/theres-only-one-home-for-me-achrafieh-ID114824902.html",
+    "type": "Apartment",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Achrafieh",
+    "sqm": 330,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 1000000,
+    "current_price": 1000000,
+    "price_history": [
+      {
+        "price": 1000000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "114717659": {
+    "id": "114717659",
+    "title": "Modern Amenities. Urban Location. Sophisticated Style in Achrafieh",
+    "url": "https://www.olx.com.lb/ad/modern-amenities-urban-location-sophisticated-style-in-achrafieh-ID114717659.html",
+    "type": "Apartment",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Achrafieh",
+    "sqm": 400,
+    "bedrooms": "4",
+    "bathrooms": "5",
+    "original_price": 1190000,
+    "current_price": 1190000,
+    "price_history": [
+      {
+        "price": 1190000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "114664141": {
+    "id": "114664141",
+    "title": "Where life begins with luxury ! For Sale in Achrafieh !",
+    "url": "https://www.olx.com.lb/ad/where-life-begins-with-luxury-for-sale-in-achrafieh-ID114664141.html",
+    "type": "Apartment",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Achrafieh",
+    "sqm": 600,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 2450000,
+    "current_price": 2450000,
+    "price_history": [
+      {
+        "price": 2450000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116461172": {
+    "id": "116461172",
+    "title": "Core and Shell Apartment For Sale in Achrafieh Carré D’or",
+    "url": "https://www.olx.com.lb/ad/core-and-shell-apartment-for-sale-in-achrafieh-carré-dor-ID116461172.html",
+    "type": "Apartment",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Achrafieh",
+    "sqm": 250,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 850000,
+    "current_price": 850000,
+    "price_history": [
+      {
+        "price": 850000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "114505530": {
+    "id": "114505530",
+    "title": "Must See ! Elegant Apartment for Sale in Achrafieh ! Careé D'or",
+    "url": "https://www.olx.com.lb/ad/must-see-elegant-apartment-for-sale-in-achrafieh-careé-dor-ID114505530.html",
+    "type": "Apartment",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Achrafieh",
+    "sqm": 280,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 1000000,
+    "current_price": 1000000,
+    "price_history": [
+      {
+        "price": 1000000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "112573069": {
+    "id": "112573069",
+    "title": "Luxury Living in the Heart of Achrafieh – Take a Tour!",
+    "url": "https://www.olx.com.lb/ad/luxury-living-in-the-heart-of-achrafieh-take-a-tour-ID112573069.html",
+    "type": "Apartment",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Achrafieh",
+    "sqm": 412,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 1750000,
+    "current_price": 1750000,
+    "price_history": [
+      {
+        "price": 1750000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116823977": {
+    "id": "116823977",
+    "title": "Apartment For Sale in Hosrayel Jbeil شقة للبيع في حصرايل، جبيل",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-hosrayel-jbeil-شقة-للبيع-في-حصرايل-جبيل-ID116823977.html",
+    "type": "Apartment",
+    "location": "Hosrayel, Jbeil",
+    "district": "Jbeil",
+    "neighborhood": "Hosrayel",
+    "sqm": 100,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 120000,
+    "current_price": 120000,
+    "price_history": [
+      {
+        "price": 120000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116788460": {
+    "id": "116788460",
+    "title": "Apartment for Sale in Tariq el Jdideh, Beirut",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-tariq-el-jdideh-beirut-ID116788460.html",
+    "type": "Apartment",
+    "location": "Tariq el Jdideh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Tariq el Jdideh",
+    "sqm": 170,
+    "bedrooms": "2",
+    "bathrooms": "4",
+    "original_price": 300000,
+    "current_price": 300000,
+    "price_history": [
+      {
+        "price": 300000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116705908": {
+    "id": "116705908",
+    "title": "apartment for sale in hazmieh , 225 sqm",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-hazmieh-225-sqm-ID116705908.html",
+    "type": "Apartment",
+    "location": "Hazmiyeh, Baabda",
+    "district": "Baabda",
+    "neighborhood": "Hazmiyeh",
+    "sqm": 225,
+    "bedrooms": "5",
+    "bathrooms": "4",
+    "original_price": 434000,
+    "current_price": 434000,
+    "price_history": [
+      {
+        "price": 434000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116643885": {
+    "id": "116643885",
+    "title": "brand new 135 sqm apartment with terrace for sale in sawfar",
+    "url": "https://www.olx.com.lb/ad/brand-new-135-sqm-apartment-with-terrace-for-sale-in-sawfar-ID116643885.html",
+    "type": "Apartment",
+    "location": "Sawfar, Aley",
+    "district": "Aley",
+    "neighborhood": "Sawfar",
+    "sqm": 135,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 140000,
+    "current_price": 140000,
+    "price_history": [
+      {
+        "price": 140000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116535536": {
+    "id": "116535536",
+    "title": "apartment for sale in dawhet aramoun - شقة للبيع في دوحة عرمون",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-dawhet-aramoun-شقة-للبيع-في-دوحة-عرمون-ID116535536.html",
+    "type": "Apartment",
+    "location": "Dawhet Aaramoun, Aley",
+    "district": "Aley",
+    "neighborhood": "Dawhet Aaramoun",
+    "sqm": 160,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 110000,
+    "current_price": 110000,
+    "price_history": [
+      {
+        "price": 110000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116453033": {
+    "id": "116453033",
+    "title": "apartment for sale in dawhet aramoun - شقة للبيع في دوحة عرمون",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-dawhet-aramoun-شقة-للبيع-في-دوحة-عرمون-ID116453033.html",
+    "type": "Apartment",
+    "location": "Dawhet Aaramoun, Aley",
+    "district": "Aley",
+    "neighborhood": "Dawhet Aaramoun",
+    "sqm": 175,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 180000,
+    "current_price": 180000,
+    "price_history": [
+      {
+        "price": 180000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116441492": {
+    "id": "116441492",
+    "title": "apartment for sale in bchamoun - شقة للبيع في بشامون",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-bchamoun-شقة-للبيع-في-بشامون-ID116441492.html",
+    "type": "Apartment",
+    "location": "Bchamoun, Aley",
+    "district": "Aley",
+    "neighborhood": "Bchamoun",
+    "sqm": 120,
+    "bedrooms": "2",
+    "bathrooms": "3",
+    "original_price": 100000,
+    "current_price": 100000,
+    "price_history": [
+      {
+        "price": 100000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116823967": {
+    "id": "116823967",
+    "title": "Apartment for sale in Bzommar RB348 شقة للبيع في بزومار",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-bzommar-rb348-شقة-للبيع-في-بزومار-ID116823967.html",
+    "type": "Apartment",
+    "location": "Bzommar, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Bzommar",
+    "sqm": 150,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 100000,
+    "current_price": 100000,
+    "price_history": [
+      {
+        "price": 100000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116823965": {
+    "id": "116823965",
+    "title": "Modern Apartment for Sale in Antelias, Metn – Easy Installment Plan",
+    "url": "https://www.olx.com.lb/ad/modern-apartment-for-sale-in-antelias-metn-easy-installment-plan-ID116823965.html",
+    "type": "Apartment",
+    "location": "Antelias, Metn",
+    "district": "Metn",
+    "neighborhood": "Antelias",
+    "sqm": 100,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 179000,
+    "current_price": 179000,
+    "price_history": [
+      {
+        "price": 179000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116743485": {
+    "id": "116743485",
+    "title": "Bsalim under construction| classy Area| 150 sqm & 170 sqm | Seaview",
+    "url": "https://www.olx.com.lb/ad/bsalim-under-construction-classy-area-150-sqm-170-sqm-seaview-ID116743485.html",
+    "type": "Apartment",
+    "location": "Bsalim, Metn",
+    "district": "Metn",
+    "neighborhood": "Bsalim",
+    "sqm": 150,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "original_price": 260000,
+    "current_price": 260000,
+    "price_history": [
+      {
+        "price": 260000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116823960": {
+    "id": "116823960",
+    "title": "Apartment for sale in Adma Ref#SK102 شقة للبيع في ادما",
+    "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-adma-refsk102-شقة-للبيع-في-ادما-ID116823960.html",
+    "type": "Apartment",
+    "location": "Adma w Dafnah, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Adma w Dafnah",
+    "sqm": 255,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 450000,
+    "current_price": 450000,
+    "price_history": [
+      {
+        "price": 450000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116741757": {
+    "id": "116741757",
+    "title": "Ain Aar Super Deluxe 240 sqm + 185 sqm Terrace open sea view",
+    "url": "https://www.olx.com.lb/ad/ain-aar-super-deluxe-240-sqm-with-panoramic-sea-view-ID116741757.html",
+    "type": "Apartment",
+    "location": "Ain Aar, Metn",
+    "district": "Metn",
+    "neighborhood": "Ain Aar",
+    "sqm": 240,
+    "bedrooms": "3",
+    "bathrooms": "5",
+    "original_price": 559000,
+    "current_price": 559000,
+    "price_history": [
+      {
+        "price": 559000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116741697": {
+    "id": "116741697",
+    "title": "Sheileh New Decorated 190 sqm + 80 sqm Garden | Panoramic Sea view",
+    "url": "https://www.olx.com.lb/ad/sheileh-new-decorated-190-sqm-80-sqm-garden-panoramic-sea-view-ID116741697.html",
+    "type": "Apartment",
+    "location": "Sehayleh, Keserouan",
+    "district": "Keserouan",
+    "neighborhood": "Sehayleh",
+    "sqm": 190,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "original_price": 295000,
+    "current_price": 295000,
+    "price_history": [
+      {
+        "price": 295000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116823956": {
+    "id": "116823956",
+    "title": "Dbaye sea view 140 sqm + 100 sqm Terrace Fully Furnished New",
+    "url": "https://www.olx.com.lb/ad/dbaye-sea-view-140-sqm-100-sqm-terrace-fully-furnished-new-ID116823956.html",
+    "type": "Apartment",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "neighborhood": "Dbaye",
+    "sqm": 160,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "original_price": 260000,
+    "current_price": 260000,
+    "price_history": [
+      {
+        "price": 260000,
+        "date": "2026-03-17"
+      }
+    ],
+    "posted_date": "2026-03-17",
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115824022": {
+    "id": "115824022",
+    "title": "Land For Sale in a Prime Location in Achrafieh",
+    "url": "https://www.olx.com.lb/ad/land-for-sale-in-a-prime-location-in-achrafieh-ID115824022.html",
+    "type": "Land",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "neighborhood": "Achrafieh",
+    "sqm": 280,
+    "bedrooms": null,
+    "bathrooms": null,
+    "original_price": 2450000,
+    "current_price": 2450000,
+    "price_history": [
+      {
+        "price": 2450000,
         "date": "2026-03-17"
       }
     ],
