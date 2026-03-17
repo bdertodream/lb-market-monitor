@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-17T18:59:14.787427",
-  "total_tracked": 264,
+  "generated_at": "2026-03-17T19:58:18.046830",
+  "total_tracked": 265,
   "total_drops": 13,
-  "total_new": 264,
+  "total_new": 265,
   "avg_drop_pct": 30.6,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -557,6 +557,24 @@
       "price_history": [
         {
           "price": 11000,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116823896",
+      "title": "car plate",
+      "url": "https://www.olx.com.lb/ad/car-plate-ID116823896.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jounieh, Keserouan",
+      "original_price": 4000,
+      "current_price": 4000,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 4000,
           "date": "2026-03-17"
         }
       ]
