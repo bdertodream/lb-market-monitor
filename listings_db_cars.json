@@ -3430,7 +3430,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -21773,7 +21773,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -24447,7 +24447,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-09",
     "drop_usd": 500,
     "drop_pct": 1.4,
@@ -28342,7 +28342,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -30380,7 +30380,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -90735,16 +90735,20 @@
     "location": "Bchamoun, Aley",
     "district": "Aley",
     "original_price": 1500,
-    "current_price": 1500,
+    "current_price": 150000,
     "price_history": [
       {
         "price": 1500,
         "date": "2026-03-15"
+      },
+      {
+        "price": 150000,
+        "date": "2026-03-17"
       }
     ],
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-17",
-    "last_updated": "2026-03-15",
+    "last_updated": "2026-03-17",
     "posted_date": "2026-03-15",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -104687,6 +104691,314 @@
     "price_history": [
       {
         "price": 12000,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116802172": {
+    "id": "116802172",
+    "title": "Jeep Grand Cherokee Altitude 2018",
+    "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-altitude-2018-ID116802172.html",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 148000,
+    "transmission": "Steptronic",
+    "location": "Other in Baalbeck, Baalbeck",
+    "district": "Baalbeck",
+    "original_price": 18900,
+    "current_price": 18900,
+    "price_history": [
+      {
+        "price": 18900,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116427766": {
+    "id": "116427766",
+    "title": "Mercedes-Benz A-Class 2019",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-a-class-2019-ID116427766.html",
+    "make": "Mercedes-Benz",
+    "model": "A-Class",
+    "body_type": "Hatchback",
+    "year": 2019,
+    "mileage": 50000,
+    "transmission": "Steptronic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 25000,
+    "current_price": 25000,
+    "price_history": [
+      {
+        "price": 25000,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116823830": {
+    "id": "116823830",
+    "title": "Mercedes-Benz CLK-Class 2006",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-clk-class-2006-ID116823830.html",
+    "make": "Mercedes-Benz",
+    "model": "CLK-Class",
+    "body_type": "Sports / Coupe",
+    "year": 2006,
+    "mileage": 280000,
+    "transmission": "Automatic",
+    "location": "Daychounieh, Metn",
+    "district": "Metn",
+    "original_price": 5700,
+    "current_price": 5700,
+    "price_history": [
+      {
+        "price": 5700,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116611947": {
+    "id": "116611947",
+    "title": "بي ام دبليو الفئة 5 1997",
+    "url": "https://www.olx.com.lb/ad/بي-ام-دبليو-الفئة-5-1997-ID116611947.html",
+    "make": "BMW",
+    "model": "5-Series",
+    "body_type": "Sedan",
+    "year": 1997,
+    "mileage": 200,
+    "transmission": "Manual",
+    "location": "Elissar, Metn",
+    "district": "Metn",
+    "original_price": 5500,
+    "current_price": 5500,
+    "price_history": [
+      {
+        "price": 5500,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116823818": {
+    "id": "116823818",
+    "title": "MINI COOPER COUNTRYMAN ALL4S 16000MILES 2019 MINT CONDITION",
+    "url": "https://www.olx.com.lb/ad/mini-cooper-countryman-all4s-16000miles-2019-mint-condition-ID116823818.html",
+    "make": "MINI",
+    "model": "Cooper S Countryman",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 16000,
+    "transmission": "Steptronic",
+    "location": "Baouchriye, Metn",
+    "district": "Metn",
+    "original_price": 23800,
+    "current_price": 23800,
+    "price_history": [
+      {
+        "price": 23800,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116823817": {
+    "id": "116823817",
+    "title": "Volvo S60 2014",
+    "url": "https://www.olx.com.lb/ad/volvo-s60-2014-ID116823817.html",
+    "make": "Volvo",
+    "model": "S60",
+    "body_type": "Other",
+    "year": 2014,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 12500,
+    "current_price": 12500,
+    "price_history": [
+      {
+        "price": 12500,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116350939": {
+    "id": "116350939",
+    "title": "Jeep Grand Cherokee Trailhawk 2018 4x4 30000 Miles Only !!!!",
+    "url": "https://www.olx.com.lb/ad/jeep-cherokee-2018-ID116350939.html",
+    "make": "Jeep",
+    "model": "Cherokee",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 30000,
+    "transmission": "Steptronic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 25000,
+    "current_price": 25000,
+    "price_history": [
+      {
+        "price": 25000,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116823798": {
+    "id": "116823798",
+    "title": "Honda Accord 2023",
+    "url": "https://www.olx.com.lb/ad/honda-accord-2023-ID116823798.html",
+    "make": "Honda",
+    "model": "Accord",
+    "body_type": "Sedan",
+    "year": 2023,
+    "mileage": 20000,
+    "transmission": "Automatic",
+    "location": "Downtown, Beirut",
+    "district": "Beirut",
+    "original_price": 31000,
+    "current_price": 31000,
+    "price_history": [
+      {
+        "price": 31000,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116823784": {
+    "id": "116823784",
+    "title": "Honda CR-V 2009",
+    "url": "https://www.olx.com.lb/ad/honda-cr-v-2009-ID116823784.html",
+    "make": "Honda",
+    "model": "CR-V",
+    "body_type": "SUV",
+    "year": 2009,
+    "mileage": 110000,
+    "transmission": "Automatic",
+    "location": "Ras Al Nabaa, Beirut",
+    "district": "Beirut",
+    "original_price": 10800,
+    "current_price": 10800,
+    "price_history": [
+      {
+        "price": 10800,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116787911": {
+    "id": "116787911",
+    "title": "Ford Ka 2000",
+    "url": "https://www.olx.com.lb/ad/ford-ka-2000-ID116787911.html",
+    "make": "Ford",
+    "model": "Ka",
+    "body_type": "Sports / Coupe",
+    "year": 2000,
+    "mileage": 89000,
+    "transmission": "Manual",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "original_price": 2950,
+    "current_price": 2950,
+    "price_history": [
+      {
+        "price": 2950,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116823715": {
+    "id": "116823715",
+    "title": "إنفينيتي فئة كيو إكس 1999",
+    "url": "https://www.olx.com.lb/ad/إنفينيتي-فئة-كيو-إكس-1999-ID116823715.html",
+    "make": "Infiniti",
+    "model": "Qx series",
+    "body_type": "Estate",
+    "year": 1999,
+    "mileage": 147000,
+    "transmission": "Automatic",
+    "location": "Aley Town, Aley",
+    "district": "Aley",
+    "original_price": 4300,
+    "current_price": 4300,
+    "price_history": [
+      {
+        "price": 4300,
         "date": "2026-03-17"
       }
     ],
