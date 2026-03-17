@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-16T23:29:09.826231",
-  "total_tracked": 22226,
-  "total_drops": 110,
-  "total_new": 22226,
+  "generated_at": "2026-03-17T01:20:44.111632",
+  "total_tracked": 22230,
+  "total_drops": 111,
+  "total_new": 22230,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -869,6 +869,31 @@
         {
           "price": 125000,
           "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116627186",
+      "title": "Unique opportunity to own a modern villa in Halat REF#RS127631",
+      "url": "https://www.olx.com.lb/ad/unique-opportunity-to-own-a-modern-villa-in-halat-refrs127631-ID116627186.html",
+      "type": "Villa",
+      "location": "Halat, Jbeil",
+      "sqm": 1400,
+      "original_price": 680000,
+      "current_price": 630000,
+      "drop_usd": 50000,
+      "drop_pct": 7.4,
+      "last_drop_date": "2026-03-17",
+      "posted_date": "2026-03-13",
+      "first_seen": "2026-03-13",
+      "price_history": [
+        {
+          "price": 680000,
+          "date": "2026-03-13"
+        },
+        {
+          "price": 630000,
+          "date": "2026-03-17"
         }
       ]
     },
@@ -2798,6 +2823,78 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116822964",
+      "title": "Apartment for Sale in Qbayaa شقة للبيع في قبيع",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-qbayaa-شقة-للبيع-في-قبيع-ID116822964.html",
+      "type": "Apartment",
+      "location": "Sawfar, Aley",
+      "sqm": 130,
+      "original_price": 130000,
+      "current_price": 130000,
+      "posted_date": "2026-03-17",
+      "first_seen": "2026-03-17",
+      "price_history": [
+        {
+          "price": 130000,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116787491",
+      "title": "Bouar | Brand New 120m² Apartment | 3 Balconies | Minutes from Highway",
+      "url": "https://www.olx.com.lb/ad/bouar-brand-new-120m2-apartment-3-balconies-minutes-from-highway-ID116787491.html",
+      "type": "Apartment",
+      "location": "Bouar, Keserouan",
+      "sqm": 120,
+      "original_price": 126000,
+      "current_price": 126000,
+      "posted_date": "2026-03-17",
+      "first_seen": "2026-03-17",
+      "price_history": [
+        {
+          "price": 126000,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116267137",
+      "title": "Sahel Alma | 300m² | 3 Bedrooms Apartment | 2 Parking Lots | Sea View",
+      "url": "https://www.olx.com.lb/ad/sahel-alma-300m2-3-bedrooms-apartment-2-parking-lots-sea-view-ID116267137.html",
+      "type": "Apartment",
+      "location": "Sahel Alma, Keserouan",
+      "sqm": 300,
+      "original_price": 300000,
+      "current_price": 300000,
+      "posted_date": "2026-03-17",
+      "first_seen": "2026-03-17",
+      "price_history": [
+        {
+          "price": 300000,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116471094",
+      "title": "Bsalim | 1568m² Land | Main Road | Sea View | Zone 30/90 | Easy Access",
+      "url": "https://www.olx.com.lb/ad/bsalim-1568m2-land-main-road-sea-view-zone-3090-easy-access-ID116471094.html",
+      "type": "Land",
+      "location": "Bsalim, Metn",
+      "sqm": 1568,
+      "original_price": 1250000,
+      "current_price": 1250000,
+      "posted_date": "2026-03-17",
+      "first_seen": "2026-03-17",
+      "price_history": [
+        {
+          "price": 1250000,
+          "date": "2026-03-17"
+        }
+      ]
+    },
     {
       "id": "116693953",
       "title": "ZE25-4572 Apartment 290 sqm for Sale in Verdun",
@@ -79474,13 +79571,17 @@
       "location": "Halat, Jbeil",
       "sqm": 1400,
       "original_price": 680000,
-      "current_price": 680000,
+      "current_price": 630000,
       "posted_date": "2026-03-13",
       "first_seen": "2026-03-13",
       "price_history": [
         {
           "price": 680000,
           "date": "2026-03-13"
+        },
+        {
+          "price": 630000,
+          "date": "2026-03-17"
         }
       ]
     },

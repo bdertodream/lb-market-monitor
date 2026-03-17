@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-16T23:31:20.938095",
-  "total_tracked": 254,
+  "generated_at": "2026-03-17T01:22:54.464792",
+  "total_tracked": 255,
   "total_drops": 11,
-  "total_new": 254,
+  "total_new": 255,
   "avg_drop_pct": 31.7,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -327,6 +327,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116822967",
+      "title": "M93094 رقم مميز",
+      "url": "https://www.olx.com.lb/ad/m93094-رقم-مميز-ID116822967.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 2500,
+      "current_price": 2500,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 2500,
+          "date": "2026-03-17"
+        }
+      ]
+    },
     {
       "id": "116006008",
       "title": "special plate number",

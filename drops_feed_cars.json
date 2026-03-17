@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-16T23:31:03.796557",
-  "total_tracked": 3536,
+  "generated_at": "2026-03-17T01:22:35.575511",
+  "total_tracked": 3538,
   "total_drops": 197,
-  "total_new": 3536,
+  "total_new": 3538,
   "avg_drop_pct": 7.0,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -5869,6 +5869,50 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116822949",
+      "title": "Opel Corsa 2015",
+      "url": "https://www.olx.com.lb/ad/opel-corsa-2015-ID116822949.html",
+      "make": "Opel",
+      "model": "Corsa",
+      "body_type": "Small city car",
+      "year": 2015,
+      "mileage": 40000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 6000,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116743113",
+      "title": "Cadillac CTS 2005",
+      "url": "https://www.olx.com.lb/ad/cadillac-cts-2005-ID116743113.html",
+      "make": "Cadillac",
+      "model": "CTS",
+      "body_type": "Sedan",
+      "year": 2005,
+      "mileage": 69000,
+      "transmission": "Automatic",
+      "location": "Chbaniyeh, Baabda",
+      "original_price": 5500,
+      "current_price": 5500,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-03-17"
+        }
+      ]
+    },
     {
       "id": "116736007",
       "title": "Mercedes-Benz A-Class 2019",
