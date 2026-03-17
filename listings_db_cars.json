@@ -1412,7 +1412,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-09",
     "drop_usd": 500,
     "drop_pct": 1.1,
@@ -2708,7 +2708,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -3843,7 +3843,7 @@
   },
   "116807071": {
     "id": "116807071",
-    "title": "2023 Honda E: NP1 FULL ELECTRIC 12,000 Km",
+    "title": "2023 Honda E: NP1 FULL ELECTRIC 12,000 Km UNDER OFFER",
     "url": "https://www.olx.com.lb/ad/2023-honda-e-np1-full-electric-12000-km-ID116807071.html",
     "make": "Honda",
     "model": "NP1",
@@ -3854,20 +3854,25 @@
     "location": "Jounieh, Keserouan",
     "district": "Keserouan",
     "original_price": 20500,
-    "current_price": 20500,
+    "current_price": 19900,
     "price_history": [
       {
         "price": 20500,
         "date": "2026-03-01"
+      },
+      {
+        "price": 19900,
+        "date": "2026-03-17"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
-    "stale": true
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "drop_usd": 600,
+    "drop_pct": 2.9,
+    "last_drop_date": "2026-03-17",
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "116783159": {
     "id": "116783159",
@@ -10833,7 +10838,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -51173,7 +51178,7 @@
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-08",
     "posted_date": "2026-03-08",
     "drop_usd": 0,
@@ -69523,7 +69528,7 @@
       }
     ],
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-11",
     "posted_date": "2026-03-11",
     "drop_usd": 0,
@@ -78135,7 +78140,7 @@
       }
     ],
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-17",
     "last_updated": "2026-03-13",
     "posted_date": "2026-03-13",
     "drop_usd": 0,
@@ -100855,6 +100860,118 @@
     "price_history": [
       {
         "price": 48000,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116735927": {
+    "id": "116735927",
+    "title": "Renault Rapid 2012",
+    "url": "https://www.olx.com.lb/ad/renault-rapid-2012-ID116735927.html",
+    "make": "Renault",
+    "model": "Rapid",
+    "body_type": "Small city car",
+    "year": 2012,
+    "mileage": 10000,
+    "transmission": "Manual",
+    "location": "Al Minie, Minieh-Denniye",
+    "district": "Minieh-Denniye",
+    "original_price": 6700,
+    "current_price": 6700,
+    "price_history": [
+      {
+        "price": 6700,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822973": {
+    "id": "116822973",
+    "title": "AVATR  11  DUAL MOTOR (AWD)  2025 ONE-OWNER 13.000Km ONLY",
+    "url": "https://www.olx.com.lb/ad/avatr-11-dual-motor-awd-2025-one-owner-13000km-only-ID116822973.html",
+    "make": "Avatr",
+    "model": "Avatr 11",
+    "body_type": "Other",
+    "year": 2025,
+    "mileage": 13000,
+    "transmission": "Automatic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 47000,
+    "current_price": 47000,
+    "price_history": [
+      {
+        "price": 47000,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116822970": {
+    "id": "116822970",
+    "title": "ميتسوبيشي جالنت 1919",
+    "url": "https://www.olx.com.lb/ad/ميتسوبيشي-جالنت-1919-ID116822970.html",
+    "make": "Mitsubishi",
+    "model": "Galant",
+    "body_type": "Estate",
+    "year": 1919,
+    "mileage": 1000,
+    "transmission": "Manual",
+    "location": "Barja, Chouf",
+    "district": "Chouf",
+    "original_price": 1000,
+    "current_price": 1000,
+    "price_history": [
+      {
+        "price": 1000,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116552345": {
+    "id": "116552345",
+    "title": "2018 RANGE ROVER SPORT AUTOBIOGRAPHY V6 “CLEAN CARFAX” Special Car",
+    "url": "https://www.olx.com.lb/ad/2018-range-rover-sport-autobiography-v6-clean-carfax-special-car-ID116552345.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 66000,
+    "transmission": "Automatic",
+    "location": "Zalka, Metn",
+    "district": "Metn",
+    "original_price": 42900,
+    "current_price": 42900,
+    "price_history": [
+      {
+        "price": 42900,
         "date": "2026-03-17"
       }
     ],

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-17T04:17:08.812452",
-  "total_tracked": 3547,
-  "total_drops": 197,
-  "total_new": 3547,
+  "generated_at": "2026-03-17T06:01:00.569290",
+  "total_tracked": 3551,
+  "total_drops": 198,
+  "total_new": 3551,
   "avg_drop_pct": 7.0,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -3277,6 +3277,35 @@
       ]
     },
     {
+      "id": "116807071",
+      "title": "2023 Honda E: NP1 FULL ELECTRIC 12,000 Km UNDER OFFER",
+      "url": "https://www.olx.com.lb/ad/2023-honda-e-np1-full-electric-12000-km-ID116807071.html",
+      "make": "Honda",
+      "model": "NP1",
+      "body_type": "SUV",
+      "year": 2023,
+      "mileage": 12000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 20500,
+      "current_price": 19900,
+      "drop_usd": 600,
+      "drop_pct": 2.9,
+      "last_drop_date": "2026-03-17",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 20500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 19900,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
       "id": "116794382",
       "title": "2017 Infiniti Q30 1 Owner Rymco 2.0 T | Serviced at Dealership",
       "url": "https://www.olx.com.lb/ad/infiniti-q-series-2017-ID116794382.html",
@@ -6107,6 +6136,94 @@
       "price_history": [
         {
           "price": 48000,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116735927",
+      "title": "Renault Rapid 2012",
+      "url": "https://www.olx.com.lb/ad/renault-rapid-2012-ID116735927.html",
+      "make": "Renault",
+      "model": "Rapid",
+      "body_type": "Small city car",
+      "year": 2012,
+      "mileage": 10000,
+      "transmission": "Manual",
+      "location": "Al Minie, Minieh-Denniye",
+      "original_price": 6700,
+      "current_price": 6700,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 6700,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116822973",
+      "title": "AVATR  11  DUAL MOTOR (AWD)  2025 ONE-OWNER 13.000Km ONLY",
+      "url": "https://www.olx.com.lb/ad/avatr-11-dual-motor-awd-2025-one-owner-13000km-only-ID116822973.html",
+      "make": "Avatr",
+      "model": "Avatr 11",
+      "body_type": "Other",
+      "year": 2025,
+      "mileage": 13000,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 47000,
+      "current_price": 47000,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 47000,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116822970",
+      "title": "ميتسوبيشي جالنت 1919",
+      "url": "https://www.olx.com.lb/ad/ميتسوبيشي-جالنت-1919-ID116822970.html",
+      "make": "Mitsubishi",
+      "model": "Galant",
+      "body_type": "Estate",
+      "year": 1919,
+      "mileage": 1000,
+      "transmission": "Manual",
+      "location": "Barja, Chouf",
+      "original_price": 1000,
+      "current_price": 1000,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 1000,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116552345",
+      "title": "2018 RANGE ROVER SPORT AUTOBIOGRAPHY V6 “CLEAN CARFAX” Special Car",
+      "url": "https://www.olx.com.lb/ad/2018-range-rover-sport-autobiography-v6-clean-carfax-special-car-ID116552345.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 66000,
+      "transmission": "Automatic",
+      "location": "Zalka, Metn",
+      "original_price": 42900,
+      "current_price": 42900,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 42900,
           "date": "2026-03-17"
         }
       ]
@@ -50529,7 +50646,7 @@
     },
     {
       "id": "116807071",
-      "title": "2023 Honda E: NP1 FULL ELECTRIC 12,000 Km",
+      "title": "2023 Honda E: NP1 FULL ELECTRIC 12,000 Km UNDER OFFER",
       "url": "https://www.olx.com.lb/ad/2023-honda-e-np1-full-electric-12000-km-ID116807071.html",
       "make": "Honda",
       "model": "NP1",
@@ -50539,13 +50656,17 @@
       "transmission": "Automatic",
       "location": "Jounieh, Keserouan",
       "original_price": 20500,
-      "current_price": 20500,
+      "current_price": 19900,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 20500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 19900,
+          "date": "2026-03-17"
         }
       ]
     },
