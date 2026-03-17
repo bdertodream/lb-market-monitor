@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 4570,
-  "total_drops": 45,
-  "total_new": 4570,
+  "total_tracked": 4571,
+  "total_drops": 46,
+  "total_new": 4571,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -635,6 +635,20 @@
       "bedrooms": "",
       "date": "2026-03-17",
       "first_seen": "2026-03-14"
+    },
+    {
+      "id": "9807302",
+      "title": "Vacant | Fitted Office | DAMAC Executive Heights",
+      "old_price": 2600000,
+      "new_price": 2400000,
+      "drop_pct": 7.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/9/fitted-office-damac-executive-heights-2-101303/",
+      "area": "Barsha Heights (Tecom)",
+      "category": "Office",
+      "size": "1669",
+      "bedrooms": "",
+      "date": "2026-03-17",
+      "first_seen": "2026-03-09"
     }
   ],
   "new_listings": [
@@ -2263,7 +2277,7 @@
       "category": "Shop",
       "size": "1242",
       "bedrooms": "",
-      "price": 4960999,
+      "price": 5691999,
       "first_seen": "2026-03-17"
     },
     {
@@ -3045,6 +3059,17 @@
       "size": "2400",
       "bedrooms": "4",
       "price": 3695000,
+      "first_seen": "2026-03-17"
+    },
+    {
+      "id": "17212896",
+      "title": "Exclusive | Fully Upgraded | Golf Course View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/17/exclusive-fully-upgraded-golf-course-vi-2-849492/",
+      "area": "Arabian Ranches",
+      "category": "Villa",
+      "size": "4909",
+      "bedrooms": "5",
+      "price": 21800000,
       "first_seen": "2026-03-17"
     },
     {
@@ -6125,17 +6150,6 @@
       "size": "1541",
       "bedrooms": "",
       "price": 6160000,
-      "first_seen": "2026-03-15"
-    },
-    {
-      "id": "9799801",
-      "title": "Spacious | Prime Location | Bright",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/19/spacious-prime-location-bright-2-549196/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1541",
-      "bedrooms": "",
-      "price": 6550000,
       "first_seen": "2026-03-15"
     }
   ],
