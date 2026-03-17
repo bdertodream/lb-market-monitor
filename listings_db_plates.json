@@ -1086,26 +1086,30 @@
   },
   "116809774": {
     "id": "116809774",
-    "title": "4161 Y",
+    "title": "4327 G",
     "url": "https://www.olx.com.lb/ad/4161-y-ID116809774.html",
     "plate_code": "",
     "plate_type": "Standard",
     "location": "Sarba, Keserouan",
     "district": "Keserouan",
     "original_price": 4800,
-    "current_price": 4800,
+    "current_price": 4500,
     "price_history": [
       {
         "price": 4800,
         "date": "2026-03-01"
+      },
+      {
+        "price": 4500,
+        "date": "2026-03-17"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-17",
-    "last_updated": "2026-03-07",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_updated": "2026-03-17",
+    "drop_usd": 300,
+    "drop_pct": 6.2,
+    "last_drop_date": "2026-03-17",
     "posted_date": "2026-03-01"
   },
   "116809417": {
@@ -6235,6 +6239,30 @@
     "price_history": [
       {
         "price": 2500,
+        "date": "2026-03-17"
+      }
+    ],
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17",
+    "last_updated": "2026-03-17",
+    "posted_date": "2026-03-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115593660": {
+    "id": "115593660",
+    "title": "M922222",
+    "url": "https://www.olx.com.lb/ad/m922222-ID115593660.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "original_price": 10000,
+    "current_price": 10000,
+    "price_history": [
+      {
+        "price": 10000,
         "date": "2026-03-17"
       }
     ],

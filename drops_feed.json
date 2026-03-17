@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-17T01:20:44.111632",
-  "total_tracked": 22230,
+  "generated_at": "2026-03-17T04:15:17.496379",
+  "total_tracked": 22232,
   "total_drops": 111,
-  "total_new": 22230,
+  "total_new": 22232,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -2891,6 +2891,42 @@
       "price_history": [
         {
           "price": 1250000,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116684257",
+      "title": "apartment for sale in Zouk شقة للبيع في ذوق",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-zouk-شقة-للبيع-في-ذوق-ID116684257.html",
+      "type": "Apartment",
+      "location": "Zouk Mikael, Keserouan",
+      "sqm": 180,
+      "original_price": 139000,
+      "current_price": 139000,
+      "posted_date": "2026-03-17",
+      "first_seen": "2026-03-17",
+      "price_history": [
+        {
+          "price": 139000,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116676612",
+      "title": "Apartment for sale in Sahel Alma | Terrace شقة للبيع في ساحل علما",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-sahel-alma-terrace-شقة-للبيع-في-ساحل-علما-ID116676612.html",
+      "type": "Apartment",
+      "location": "Sahel Alma, Keserouan",
+      "sqm": 170,
+      "original_price": 160000,
+      "current_price": 160000,
+      "posted_date": "2026-03-17",
+      "first_seen": "2026-03-17",
+      "price_history": [
+        {
+          "price": 160000,
           "date": "2026-03-17"
         }
       ]
