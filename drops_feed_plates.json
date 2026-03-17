@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-17T09:53:53.286149",
+  "generated_at": "2026-03-17T10:50:13.703145",
   "total_tracked": 256,
-  "total_drops": 12,
+  "total_drops": 13,
   "total_new": 256,
-  "avg_drop_pct": 29.6,
+  "avg_drop_pct": 30.6,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -111,6 +111,35 @@
         {
           "price": 4500,
           "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "115479244",
+      "title": "S   3010",
+      "url": "https://www.olx.com.lb/ad/n-843-ID115479244.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Downtown, Beirut",
+      "original_price": 17000,
+      "current_price": 9600,
+      "drop_usd": 7400,
+      "drop_pct": 43.5,
+      "last_drop_date": "2026-03-17",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 17000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 19000,
+          "date": "2026-03-13"
+        },
+        {
+          "price": 9600,
+          "date": "2026-03-17"
         }
       ]
     },
@@ -1420,13 +1449,13 @@
     },
     {
       "id": "115479244",
-      "title": "S   3010   &   N   3010",
+      "title": "S   3010",
       "url": "https://www.olx.com.lb/ad/n-843-ID115479244.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Downtown, Beirut",
       "original_price": 17000,
-      "current_price": 19000,
+      "current_price": 9600,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -1437,6 +1466,10 @@
         {
           "price": 19000,
           "date": "2026-03-13"
+        },
+        {
+          "price": 9600,
+          "date": "2026-03-17"
         }
       ]
     },
