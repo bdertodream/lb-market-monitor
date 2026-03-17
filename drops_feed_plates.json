@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-17T11:45:56.474999",
-  "total_tracked": 258,
+  "generated_at": "2026-03-17T12:54:21.571242",
+  "total_tracked": 259,
   "total_drops": 13,
-  "total_new": 258,
+  "total_new": 259,
   "avg_drop_pct": 30.6,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -449,6 +449,24 @@
       "price_history": [
         {
           "price": 4500,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116823476",
+      "title": "Plate Number Z 222232",
+      "url": "https://www.olx.com.lb/ad/plate-number-z-222232-ID116823476.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Sarba, Keserouan",
+      "original_price": 11000,
+      "current_price": 11000,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 11000,
           "date": "2026-03-17"
         }
       ]
