@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-17T10:50:13.703145",
-  "total_tracked": 256,
+  "generated_at": "2026-03-17T11:45:56.474999",
+  "total_tracked": 258,
   "total_drops": 13,
-  "total_new": 256,
+  "total_new": 258,
   "avg_drop_pct": 30.6,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -413,6 +413,42 @@
       "price_history": [
         {
           "price": 10000,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116823404",
+      "title": "نمرة مميزة",
+      "url": "https://www.olx.com.lb/ad/نمرة-مميزة-ID116823404.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Baakleen, Chouf",
+      "original_price": 3000,
+      "current_price": 3000,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 3000,
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116782707",
+      "title": "special plate numbers",
+      "url": "https://www.olx.com.lb/ad/special-aba-aba-ID116782707.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Sodeco, Beirut",
+      "original_price": 4500,
+      "current_price": 4500,
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 4500,
           "date": "2026-03-17"
         }
       ]
