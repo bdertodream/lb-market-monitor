@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-17T23:29:38.134653",
-  "total_tracked": 23522,
-  "total_drops": 130,
-  "total_new": 23522,
+  "generated_at": "2026-03-18T01:24:24.602508",
+  "total_tracked": 23527,
+  "total_drops": 131,
+  "total_new": 23527,
   "avg_drop_pct": 6.9,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -731,6 +731,31 @@
         {
           "price": 2990000,
           "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116795392",
+      "title": "Villa for Sale in Baysour,فيلا للبيع في بيصور",
+      "url": "https://www.olx.com.lb/ad/villa-for-sale-in-baysourفيلا-للبيع-في-بيصور-ID116795392.html",
+      "type": "Villa",
+      "location": "Baissour, Aley",
+      "sqm": 450,
+      "original_price": 298000,
+      "current_price": 270000,
+      "drop_usd": 28000,
+      "drop_pct": 9.4,
+      "last_drop_date": "2026-03-18",
+      "posted_date": "2026-03-01",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 298000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 270000,
+          "date": "2026-03-18"
         }
       ]
     },
@@ -2283,7 +2308,7 @@
       "location": "Bhamdoun, Aley",
       "sqm": 700,
       "original_price": 570000,
-      "current_price": 550000,
+      "current_price": 600000,
       "drop_usd": 20000,
       "drop_pct": 3.5,
       "last_drop_date": "2026-03-09",
@@ -2297,6 +2322,10 @@
         {
           "price": 550000,
           "date": "2026-03-09"
+        },
+        {
+          "price": 600000,
+          "date": "2026-03-18"
         }
       ]
     },
@@ -3310,6 +3339,96 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116824068",
+      "title": "Apartment for Sale in Rawche شقة للبيع في الروشة",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-rawche-شقة-للبيع-في-الروشة-ID116824068.html",
+      "type": "Apartment",
+      "location": "Rawche, Beirut",
+      "sqm": 215,
+      "original_price": 900000,
+      "current_price": 900000,
+      "posted_date": "2026-03-18",
+      "first_seen": "2026-03-18",
+      "price_history": [
+        {
+          "price": 900000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116788108",
+      "title": "lands for sale in Tannourine_tahta أرض للبيع في تنورين_التحتا",
+      "url": "https://www.olx.com.lb/ad/lands-for-sale-in-tannourine_tahta-أرض-للبيع-في-تنورين_التحتا-ID116788108.html",
+      "type": "Land",
+      "location": "Tannourine, Batroun",
+      "sqm": 4500,
+      "original_price": 135000,
+      "current_price": 135000,
+      "posted_date": "2026-03-18",
+      "first_seen": "2026-03-18",
+      "price_history": [
+        {
+          "price": 135000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116788056",
+      "title": "lands for sale in tannourine/Batroun أرض للبيع في تنورين _البترون",
+      "url": "https://www.olx.com.lb/ad/lands-for-sale-in-tannourinebatroun-أرض-للبيع-في-تنورين-_البترون-ID116788056.html",
+      "type": "Land",
+      "location": "Tannourine, Batroun",
+      "sqm": 3950,
+      "original_price": 150000,
+      "current_price": 150000,
+      "posted_date": "2026-03-18",
+      "first_seen": "2026-03-18",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116707674",
+      "title": "lands for sale in ijdabra أرض للبيع في إجدبرا",
+      "url": "https://www.olx.com.lb/ad/lands-for-sale-in-ijdabra-أرض-للبيع-في-إجدبرا-ID116707674.html",
+      "type": "Land",
+      "location": "Ijdabra, Batroun",
+      "sqm": 1100,
+      "original_price": 225000,
+      "current_price": 225000,
+      "posted_date": "2026-03-18",
+      "first_seen": "2026-03-18",
+      "price_history": [
+        {
+          "price": 225000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116704638",
+      "title": "lands for sale in tannourine أرض للبيع في تنورين",
+      "url": "https://www.olx.com.lb/ad/lands-for-sale-in-tannourine-أرض-للبيع-في-تنورين-ID116704638.html",
+      "type": "Land",
+      "location": "Other in Batroun, Batroun",
+      "sqm": 2200,
+      "original_price": 62000,
+      "current_price": 62000,
+      "posted_date": "2026-03-18",
+      "first_seen": "2026-03-18",
+      "price_history": [
+        {
+          "price": 62000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
     {
       "id": "116822964",
       "title": "Apartment for Sale in Qbayaa شقة للبيع في قبيع",
@@ -293130,7 +293249,7 @@
       "location": "Bhamdoun, Aley",
       "sqm": 700,
       "original_price": 570000,
-      "current_price": 550000,
+      "current_price": 600000,
       "posted_date": "2026-03-01",
       "first_seen": "2026-03-01",
       "price_history": [
@@ -293141,6 +293260,10 @@
         {
           "price": 550000,
           "date": "2026-03-09"
+        },
+        {
+          "price": 600000,
+          "date": "2026-03-18"
         }
       ]
     },
@@ -377158,13 +377281,17 @@
       "location": "Baissour, Aley",
       "sqm": 450,
       "original_price": 298000,
-      "current_price": 298000,
-      "posted_date": null,
+      "current_price": 270000,
+      "posted_date": "2026-03-01",
       "first_seen": "2026-03-01",
       "price_history": [
         {
           "price": 298000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 270000,
+          "date": "2026-03-18"
         }
       ]
     },

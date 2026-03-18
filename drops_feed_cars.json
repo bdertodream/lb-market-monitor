@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-17T23:31:31.742249",
-  "total_tracked": 3756,
+  "generated_at": "2026-03-18T01:26:22.375493",
+  "total_tracked": 3760,
   "total_drops": 211,
-  "total_new": 3756,
+  "total_new": 3760,
   "avg_drop_pct": 7.3,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -6287,6 +6287,94 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116780690",
+      "title": "Mercedes-Benz C-Class 2002",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2002-ID116780690.html",
+      "make": "Mercedes-Benz",
+      "model": "240/260/280",
+      "body_type": "Sedan",
+      "year": 2002,
+      "mileage": 180000,
+      "transmission": "Manual",
+      "location": "Younine, Baalbeck",
+      "original_price": 2300,
+      "current_price": 2300,
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 2300,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116786907",
+      "title": "2017 Nissan ROGUE SL WHITE 4X4",
+      "url": "https://www.olx.com.lb/ad/2017-nissan-rogue-sl-white-4x4-ID116786907.html",
+      "make": "Nissan",
+      "model": "Rogue Sport",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 50000,
+      "transmission": "Automatic",
+      "location": "Al Mina, Tripoli",
+      "original_price": 16700,
+      "current_price": 16700,
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 16700,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116824065",
+      "title": "Jeep Cherokee 2016",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-2016-ID116824065.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 150000,
+      "transmission": "Automatic",
+      "location": "Aamchit, Jbeil",
+      "original_price": 16000,
+      "current_price": 16000,
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 16000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116824063",
+      "title": "Jeep Cherokee 1991",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-1991-ID116824063.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "Other",
+      "year": 1991,
+      "mileage": 123456,
+      "transmission": "Automatic",
+      "location": "Aley Town, Aley",
+      "original_price": 3950,
+      "current_price": 3950,
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 3950,
+          "date": "2026-03-18"
+        }
+      ]
+    },
     {
       "id": "116822949",
       "title": "Opel Corsa 2015",
