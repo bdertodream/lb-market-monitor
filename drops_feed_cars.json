@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-18T22:32:27.778367",
-  "total_tracked": 4025,
+  "generated_at": "2026-03-18T23:31:18.166751",
+  "total_tracked": 4028,
   "total_drops": 230,
-  "total_new": 4025,
+  "total_new": 4028,
   "avg_drop_pct": 6.9,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -11014,12 +11014,16 @@
       "transmission": "Steptronic",
       "location": "Antelias, Metn",
       "original_price": 14000,
-      "current_price": 14000,
+      "current_price": 15000,
       "first_seen": "2026-03-18",
       "posted_date": "2026-03-18",
       "price_history": [
         {
           "price": 14000,
+          "date": "2026-03-18"
+        },
+        {
+          "price": 15000,
           "date": "2026-03-18"
         }
       ]
@@ -12224,12 +12228,16 @@
       "transmission": "Steptronic",
       "location": "Saida Downtown, Saida",
       "original_price": 29000,
-      "current_price": 29000,
+      "current_price": 30000,
       "first_seen": "2026-03-18",
       "posted_date": "2026-03-18",
       "price_history": [
         {
           "price": 29000,
+          "date": "2026-03-18"
+        },
+        {
+          "price": 30000,
           "date": "2026-03-18"
         }
       ]
@@ -12780,6 +12788,72 @@
       "price_history": [
         {
           "price": 34000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116808701",
+      "title": "Mazda 6 2003",
+      "url": "https://www.olx.com.lb/ad/mazda-6-2003-ID116808701.html",
+      "make": "Mazda",
+      "model": "6",
+      "body_type": "Sedan",
+      "year": 2003,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "Ras Beirut, Beirut",
+      "original_price": 5500,
+      "current_price": 5500,
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116708017",
+      "title": "Renault Clio 4 2014",
+      "url": "https://www.olx.com.lb/ad/renault-clio-2014-ID116708017.html",
+      "make": "Renault",
+      "model": "Clio",
+      "body_type": "Hatchback",
+      "year": 2014,
+      "mileage": 85000,
+      "transmission": "Steptronic",
+      "location": "Damour, Chouf",
+      "original_price": 8500,
+      "current_price": 8500,
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 8500,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116825165",
+      "title": "Land Rover Range Rover Sport 2014",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2014-ID116825165.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Niha, Zahle",
+      "original_price": 19500,
+      "current_price": 19500,
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 19500,
           "date": "2026-03-18"
         }
       ]
