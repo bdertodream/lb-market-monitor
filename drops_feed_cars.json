@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-18T01:26:22.375493",
-  "total_tracked": 3760,
+  "generated_at": "2026-03-18T04:22:47.523199",
+  "total_tracked": 3762,
   "total_drops": 211,
-  "total_new": 3760,
+  "total_new": 3762,
   "avg_drop_pct": 7.3,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -6371,6 +6371,50 @@
       "price_history": [
         {
           "price": 3950,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116824086",
+      "title": "Kia Sportage 2018",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-2018-ID116824086.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 65000,
+      "transmission": "Steptronic",
+      "location": "Baouchriye, Metn",
+      "original_price": 16600,
+      "current_price": 16600,
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 16600,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116788639",
+      "title": "AUDI  Q4  40  e-TRON  2025 FULL ELECTRIC BRAND NEW (0Km)",
+      "url": "https://www.olx.com.lb/ad/audi-q4-40-e-tron-2025-full-electric-brand-new-0km-ID116788639.html",
+      "make": "Audi",
+      "model": "e-tron",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 38000,
+      "current_price": 38000,
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 38000,
           "date": "2026-03-18"
         }
       ]
