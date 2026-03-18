@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-18T21:35:12.740205",
-  "total_tracked": 269,
+  "generated_at": "2026-03-18T22:32:48.750259",
+  "total_tracked": 271,
   "total_drops": 17,
-  "total_new": 269,
+  "total_new": 271,
   "avg_drop_pct": 31.9,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -561,6 +561,42 @@
         },
         {
           "price": 52000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116825142",
+      "title": "very special number",
+      "url": "https://www.olx.com.lb/ad/very-special-number-ID116825142.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Beit Chabeb, Metn",
+      "original_price": 3000,
+      "current_price": 3000,
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 3000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116825133",
+      "title": "5 digits special price",
+      "url": "https://www.olx.com.lb/ad/5-digits-special-price-ID116825133.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dekwaneh, Metn",
+      "original_price": 2500,
+      "current_price": 2500,
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 2500,
           "date": "2026-03-18"
         }
       ]
@@ -3975,19 +4011,23 @@
     },
     {
       "id": "115869629",
-      "title": "A   61616",
+      "title": "B   800700   &   G   800700",
       "url": "https://www.olx.com.lb/ad/z-800007-b-600005-ID115869629.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Downtown, Beirut",
       "original_price": 10600,
-      "current_price": 10600,
+      "current_price": 12800,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 10600,
           "date": "2026-03-01"
+        },
+        {
+          "price": 12800,
+          "date": "2026-03-18"
         }
       ]
     },
