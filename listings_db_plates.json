@@ -1373,7 +1373,7 @@
     "location": "Achrafieh, Beirut",
     "district": "Beirut",
     "original_price": 5800,
-    "current_price": 4000,
+    "current_price": 3900,
     "price_history": [
       {
         "price": 5800,
@@ -1382,14 +1382,18 @@
       {
         "price": 4000,
         "date": "2026-03-08"
+      },
+      {
+        "price": 3900,
+        "date": "2026-03-18"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-18",
-    "last_updated": "2026-03-08",
-    "drop_usd": 1800,
-    "drop_pct": 31.0,
-    "last_drop_date": "2026-03-08",
+    "last_updated": "2026-03-18",
+    "drop_usd": 1900,
+    "drop_pct": 32.8,
+    "last_drop_date": "2026-03-18",
     "posted_date": "2026-03-01"
   },
   "116392993": {
@@ -4910,7 +4914,7 @@
   },
   "116774578": {
     "id": "116774578",
-    "title": "M 6368  For sale",
+    "title": "M 6368  Special car plate number for 63 AMG",
     "url": "https://www.olx.com.lb/ad/m-6368-m-6369-for-sale-ID116774578.html",
     "plate_code": "",
     "plate_type": "Standard",
@@ -4925,7 +4929,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-03-18",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -6592,10 +6596,14 @@
     "location": "Ain Saadeh, Metn",
     "district": "Metn",
     "original_price": 25000,
-    "current_price": 25000,
+    "current_price": 27000,
     "price_history": [
       {
         "price": 25000,
+        "date": "2026-03-18"
+      },
+      {
+        "price": 27000,
         "date": "2026-03-18"
       }
     ],
@@ -6616,10 +6624,14 @@
     "location": "Ain Saadeh, Metn",
     "district": "Metn",
     "original_price": 48000,
-    "current_price": 48000,
+    "current_price": 52000,
     "price_history": [
       {
         "price": 48000,
+        "date": "2026-03-18"
+      },
+      {
+        "price": 52000,
         "date": "2026-03-18"
       }
     ],
