@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-18T14:25:18.231978",
+  "generated_at": "2026-03-18T16:10:15.315560",
   "total_tracked": 267,
-  "total_drops": 16,
+  "total_drops": 17,
   "total_new": 267,
-  "avg_drop_pct": 32.1,
+  "avg_drop_pct": 31.8,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -214,6 +214,31 @@
         },
         {
           "price": 4700,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116821474",
+      "title": "2 identical 4 digit number plate",
+      "url": "https://www.olx.com.lb/ad/2-identical-4-digit-number-plate-ID116821474.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Cornet Chahwan, Metn",
+      "original_price": 13000,
+      "current_price": 9500,
+      "drop_usd": 3500,
+      "drop_pct": 26.9,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 13000,
+          "date": "2026-03-15"
+        },
+        {
+          "price": 9500,
           "date": "2026-03-18"
         }
       ]
@@ -828,13 +853,17 @@
       "plate_type": "Standard",
       "location": "Cornet Chahwan, Metn",
       "original_price": 13000,
-      "current_price": 13000,
+      "current_price": 9500,
       "first_seen": "2026-03-15",
       "posted_date": "2026-03-15",
       "price_history": [
         {
           "price": 13000,
           "date": "2026-03-15"
+        },
+        {
+          "price": 9500,
+          "date": "2026-03-18"
         }
       ]
     },
