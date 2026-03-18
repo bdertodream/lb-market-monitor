@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T11:47:12.034916",
+  "generated_at": "2026-03-18T12:54:59.740849",
   "total_tracked": 266,
   "total_drops": 15,
   "total_new": 266,
@@ -2063,13 +2063,17 @@
       "plate_type": "Standard",
       "location": "Aaramoun, Aley",
       "original_price": 8500,
-      "current_price": 8500,
+      "current_price": 10500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 8500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 10500,
+          "date": "2026-03-18"
         }
       ]
     },
