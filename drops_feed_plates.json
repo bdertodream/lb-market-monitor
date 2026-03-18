@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-18T10:50:42.960782",
+  "generated_at": "2026-03-18T11:47:12.034916",
   "total_tracked": 266,
-  "total_drops": 14,
+  "total_drops": 15,
   "total_new": 266,
-  "avg_drop_pct": 28.8,
+  "avg_drop_pct": 28.9,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -165,6 +165,31 @@
         {
           "price": 4000,
           "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116568233",
+      "title": "رقم سيارة مميز  للبيع Z 2521",
+      "url": "https://www.olx.com.lb/ad/رقم-سيارة-مميز-للبيع-o-76767-ID116568233.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 6800,
+      "current_price": 4700,
+      "drop_usd": 2100,
+      "drop_pct": 30.9,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 6800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 4700,
+          "date": "2026-03-18"
         }
       ]
     },
@@ -4344,19 +4369,23 @@
     },
     {
       "id": "116568233",
-      "title": "رقم سيارة مميز  للبيع B 1373",
+      "title": "رقم سيارة مميز  للبيع Z 2521",
       "url": "https://www.olx.com.lb/ad/رقم-سيارة-مميز-للبيع-o-76767-ID116568233.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Achrafieh, Beirut",
       "original_price": 6800,
-      "current_price": 6800,
+      "current_price": 4700,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 6800,
           "date": "2026-03-01"
+        },
+        {
+          "price": 4700,
+          "date": "2026-03-18"
         }
       ]
     },
