@@ -7996,7 +7996,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-17",
+    "last_seen": "2026-03-18",
     "last_updated": "2026-03-13",
     "drop_usd": 149,
     "drop_pct": 0.8,
@@ -40917,19 +40917,23 @@
     "location": "Beit El Chaar, Metn",
     "district": "Metn",
     "original_price": 38500,
-    "current_price": 38500,
+    "current_price": 36500,
     "price_history": [
       {
         "price": 38500,
         "date": "2026-03-01"
+      },
+      {
+        "price": 36500,
+        "date": "2026-03-18"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-17",
-    "last_updated": "2026-03-07",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_seen": "2026-03-18",
+    "last_updated": "2026-03-18",
+    "drop_usd": 2000,
+    "drop_pct": 5.2,
+    "last_drop_date": "2026-03-18",
     "posted_date": "2026-03-01"
   },
   "116813169": {
@@ -42045,7 +42049,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-17",
+    "last_seen": "2026-03-18",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -69764,7 +69768,7 @@
   },
   "116776565": {
     "id": "116776565",
-    "title": "مرسيدس بنز جي ال سي - كلاس 2017",
+    "title": "للبيع او التبديل مرسيدس بنز جي ال سي - كلاس 2017",
     "url": "https://www.olx.com.lb/ad/مرسيدس-بنز-جي-ال-سي-كلاس-2017-ID116776565.html",
     "make": "Mercedes-Benz",
     "model": "GLC-Class",
@@ -73179,7 +73183,7 @@
       }
     ],
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-15",
+    "last_seen": "2026-03-18",
     "last_updated": "2026-03-12",
     "posted_date": "2026-03-12",
     "drop_usd": 0,
@@ -78287,7 +78291,7 @@
       }
     ],
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-17",
+    "last_seen": "2026-03-18",
     "last_updated": "2026-03-13",
     "posted_date": "2026-03-13",
     "drop_usd": 0,
@@ -102983,20 +102987,24 @@
     "location": "Mansourieh, Metn",
     "district": "Metn",
     "original_price": 13500,
-    "current_price": 13500,
+    "current_price": 13200,
     "price_history": [
       {
         "price": 13500,
         "date": "2026-03-17"
+      },
+      {
+        "price": 13200,
+        "date": "2026-03-18"
       }
     ],
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-18",
-    "last_updated": "2026-03-17",
+    "last_updated": "2026-03-18",
     "posted_date": "2026-03-17",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 300,
+    "drop_pct": 2.2,
+    "last_drop_date": "2026-03-18"
   },
   "116697278": {
     "id": "116697278",
@@ -107327,6 +107335,314 @@
     "price_history": [
       {
         "price": 24500,
+        "date": "2026-03-18"
+      }
+    ],
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "last_updated": "2026-03-18",
+    "posted_date": "2026-03-18",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116824119": {
+    "id": "116824119",
+    "title": "BMW 3-Series 2008",
+    "url": "https://www.olx.com.lb/ad/bmw-3-series-2008-ID116824119.html",
+    "make": "BMW",
+    "model": "3-Series",
+    "body_type": "Sports / Coupe",
+    "year": 2008,
+    "mileage": 160000,
+    "transmission": "Steptronic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 6800,
+    "current_price": 6800,
+    "price_history": [
+      {
+        "price": 6800,
+        "date": "2026-03-18"
+      }
+    ],
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "last_updated": "2026-03-18",
+    "posted_date": "2026-03-18",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116786207": {
+    "id": "116786207",
+    "title": "Chevrolet Silverado 2005",
+    "url": "https://www.olx.com.lb/ad/chevrolet-silverado-2005-ID116786207.html",
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "body_type": "Pickup",
+    "year": 2005,
+    "mileage": 167000,
+    "transmission": "Automatic",
+    "location": "Ain Dara, Aley",
+    "district": "Aley",
+    "original_price": 10000,
+    "current_price": 10000,
+    "price_history": [
+      {
+        "price": 10000,
+        "date": "2026-03-18"
+      }
+    ],
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "last_updated": "2026-03-18",
+    "posted_date": "2026-03-18",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116824110": {
+    "id": "116824110",
+    "title": "Mercedes-Benz E-Class 1996",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-1996-ID116824110.html",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "body_type": "Sedan",
+    "year": 1996,
+    "mileage": 350000,
+    "transmission": "Automatic",
+    "location": "Aamchit, Jbeil",
+    "district": "Jbeil",
+    "original_price": 1200,
+    "current_price": 1200,
+    "price_history": [
+      {
+        "price": 1200,
+        "date": "2026-03-18"
+      }
+    ],
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "last_updated": "2026-03-18",
+    "posted_date": "2026-03-18",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116620306": {
+    "id": "116620306",
+    "title": "Mercedes-Benz GLC-Class 2017",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-class-2017-ID116620306.html",
+    "make": "Mercedes-Benz",
+    "model": "GLC-Class",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 140000,
+    "transmission": "Automatic",
+    "location": "Ain Aalak, Metn",
+    "district": "Metn",
+    "original_price": 19800,
+    "current_price": 19800,
+    "price_history": [
+      {
+        "price": 19800,
+        "date": "2026-03-18"
+      }
+    ],
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "last_updated": "2026-03-18",
+    "posted_date": "2026-03-18",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116824103": {
+    "id": "116824103",
+    "title": "Mercedes-Benz C-Class 2017",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2017-ID116824103.html",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Sports / Coupe",
+    "year": 2017,
+    "mileage": 38000,
+    "transmission": "Automatic",
+    "location": "Jal El Dib, Metn",
+    "district": "Metn",
+    "original_price": 24500,
+    "current_price": 24500,
+    "price_history": [
+      {
+        "price": 24500,
+        "date": "2026-03-18"
+      }
+    ],
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "last_updated": "2026-03-18",
+    "posted_date": "2026-03-18",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116783479": {
+    "id": "116783479",
+    "title": "Mercedes-Benz C-Class 2017",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2017-ID116783479.html",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Convertible",
+    "year": 2017,
+    "mileage": 77000,
+    "transmission": "Automatic",
+    "location": "Beit El Chaar, Metn",
+    "district": "Metn",
+    "original_price": 37500,
+    "current_price": 37500,
+    "price_history": [
+      {
+        "price": 37500,
+        "date": "2026-03-18"
+      }
+    ],
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "last_updated": "2026-03-18",
+    "posted_date": "2026-03-18",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116781815": {
+    "id": "116781815",
+    "title": "MINI Cooper S 2019",
+    "url": "https://www.olx.com.lb/ad/mini-cooper-s-2019-ID116781815.html",
+    "make": "MINI",
+    "model": "Cooper S",
+    "body_type": "Hatchback",
+    "year": 2019,
+    "mileage": 60000,
+    "transmission": "Automatic",
+    "location": "Beit El Chaar, Metn",
+    "district": "Metn",
+    "original_price": 23500,
+    "current_price": 23500,
+    "price_history": [
+      {
+        "price": 23500,
+        "date": "2026-03-18"
+      }
+    ],
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "last_updated": "2026-03-18",
+    "posted_date": "2026-03-18",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116736652": {
+    "id": "116736652",
+    "title": "BMW X3 2019",
+    "url": "https://www.olx.com.lb/ad/bmw-x3-2019-ID116736652.html",
+    "make": "BMW",
+    "model": "X3",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 52000,
+    "transmission": "Automatic",
+    "location": "Beit El Chaar, Metn",
+    "district": "Metn",
+    "original_price": 29500,
+    "current_price": 29500,
+    "price_history": [
+      {
+        "price": 29500,
+        "date": "2026-03-18"
+      }
+    ],
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "last_updated": "2026-03-18",
+    "posted_date": "2026-03-18",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116656629": {
+    "id": "116656629",
+    "title": "Mazda 3 2020",
+    "url": "https://www.olx.com.lb/ad/mazda-3-2020-ID116656629.html",
+    "make": "Mazda",
+    "model": "3",
+    "body_type": "Hatchback",
+    "year": 2020,
+    "mileage": 70000,
+    "transmission": "Automatic",
+    "location": "Beit El Chaar, Metn",
+    "district": "Metn",
+    "original_price": 21000,
+    "current_price": 21000,
+    "price_history": [
+      {
+        "price": 21000,
+        "date": "2026-03-18"
+      }
+    ],
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "last_updated": "2026-03-18",
+    "posted_date": "2026-03-18",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116742957": {
+    "id": "116742957",
+    "title": "Mazda B2300 2019",
+    "url": "https://www.olx.com.lb/ad/mazda-b2300-2019-ID116742957.html",
+    "make": "Mazda",
+    "model": "3",
+    "body_type": "Hatchback",
+    "year": 2019,
+    "mileage": 63000,
+    "transmission": "Automatic",
+    "location": "Beit El Chaar, Metn",
+    "district": "Metn",
+    "original_price": 18800,
+    "current_price": 18800,
+    "price_history": [
+      {
+        "price": 18800,
+        "date": "2026-03-18"
+      }
+    ],
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18",
+    "last_updated": "2026-03-18",
+    "posted_date": "2026-03-18",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116742945": {
+    "id": "116742945",
+    "title": "Renault Clio 2017",
+    "url": "https://www.olx.com.lb/ad/renault-clio-2017-ID116742945.html",
+    "make": "Renault",
+    "model": "Clio",
+    "body_type": "Hatchback",
+    "year": 2017,
+    "mileage": 75000,
+    "transmission": "Steptronic",
+    "location": "Beit El Chaar, Metn",
+    "district": "Metn",
+    "original_price": 17500,
+    "current_price": 17500,
+    "price_history": [
+      {
+        "price": 17500,
         "date": "2026-03-18"
       }
     ],
