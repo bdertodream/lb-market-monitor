@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-18T18:02:06.974205",
-  "total_tracked": 267,
+  "generated_at": "2026-03-18T18:54:36.327473",
+  "total_tracked": 269,
   "total_drops": 17,
-  "total_new": 267,
+  "total_new": 269,
   "avg_drop_pct": 31.8,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -513,6 +513,42 @@
       "price_history": [
         {
           "price": 2500,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116824978",
+      "title": "S 2111   (Special Platinum Number)",
+      "url": "https://www.olx.com.lb/ad/s-2111-special-platinum-number-ID116824978.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Ain Saadeh, Metn",
+      "original_price": 25000,
+      "current_price": 25000,
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 25000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116824971",
+      "title": "M 588   (Special Platinum Number)",
+      "url": "https://www.olx.com.lb/ad/m-588-special-platinum-number-ID116824971.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Ain Saadeh, Metn",
+      "original_price": 48000,
+      "current_price": 48000,
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 48000,
           "date": "2026-03-18"
         }
       ]
