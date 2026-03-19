@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 4955,
-  "total_drops": 56,
-  "total_new": 4955,
+  "total_tracked": 4964,
+  "total_drops": 57,
+  "total_new": 4964,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -789,6 +789,20 @@
       "bedrooms": "1",
       "date": "2026-03-19",
       "first_seen": "2026-03-11"
+    },
+    {
+      "id": "9806014",
+      "title": "Open-Plan Office | Lynx Business Tower | Corner Unit | Downtown & Highway View",
+      "old_price": 1000000,
+      "new_price": 850000,
+      "drop_pct": 15.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/27/open-plan-office-lynx-business-tower-co-2-232596/",
+      "area": "Dubai Silicon Oasis (DSO)",
+      "category": "Office",
+      "size": "777",
+      "bedrooms": "",
+      "date": "2026-03-19",
+      "first_seen": "2026-03-15"
     }
   ],
   "new_listings": [
@@ -1450,6 +1464,105 @@
       "size": "915",
       "bedrooms": "1",
       "price": 1550000,
+      "first_seen": "2026-03-19"
+    },
+    {
+      "id": "16599965",
+      "title": "Lowest Price | Large 3 Bed | Close to Clubhouse",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2025/11/4/priced-to-sell-large-3-bed-close-to-clu-2-216237/",
+      "area": "Jumeirah Park",
+      "category": "Villa",
+      "size": "3527",
+      "bedrooms": "3",
+      "price": 7975000,
+      "first_seen": "2026-03-19"
+    },
+    {
+      "id": "17213023",
+      "title": "3 BR | Single Row | Vacant Soon | 2,992 sq.ft BUA",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/17/3-br-single-row-vacant-soon-2-177462/",
+      "area": "Jumeirah Village Triangle (JVT)",
+      "category": "Townhouse",
+      "size": "2992",
+      "bedrooms": "3",
+      "price": 3875000,
+      "first_seen": "2026-03-19"
+    },
+    {
+      "id": "17206010",
+      "title": "High Floor | Partial Golf View| Confirm Unit |CALL",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/16/high-floor-partial-golf-view-confirm-un-2-964628/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "869",
+      "bedrooms": "1",
+      "price": 1100000,
+      "first_seen": "2026-03-19"
+    },
+    {
+      "id": "16260848",
+      "title": "Single row | Genuine resale | Area Expert",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2025/8/21/single-row-genuine-resale-area-expert-2-259921/",
+      "area": "DAMAC Lagoons",
+      "category": "Townhouse",
+      "size": "2280",
+      "bedrooms": "4",
+      "price": 2850000,
+      "first_seen": "2026-03-19"
+    },
+    {
+      "id": "17144214",
+      "title": "Smart Home | Luxury Living | High ROI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/27/smart-home-luxury-living-high-roi-2-312097/",
+      "area": "Dubai Science Park",
+      "category": "Apartment",
+      "size": "1569",
+      "bedrooms": "2",
+      "price": 2100000,
+      "first_seen": "2026-03-19"
+    },
+    {
+      "id": "17193456",
+      "title": "High ROI | High Floor | Spacious 1BR",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/12/high-roi-high-floor-spacious-1br-2-321587/",
+      "area": "Dubai Science Park",
+      "category": "Apartment",
+      "size": "834",
+      "bedrooms": "1",
+      "price": 1490000,
+      "first_seen": "2026-03-19"
+    },
+    {
+      "id": "17192778",
+      "title": "Ready to Move | Brand New | Smart Home",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/12/ready-to-move-brand-new-smart-home-2-200953/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "816",
+      "bedrooms": "1",
+      "price": 1100000,
+      "first_seen": "2026-03-19"
+    },
+    {
+      "id": "17219558",
+      "title": "Unfurnished | Best Offer | Investor Deal",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/18/unfurnished-apartment-best-offer-invest-2-103864/",
+      "area": "Dubai Land Residence Complex",
+      "category": "Apartment",
+      "size": "339",
+      "bedrooms": "0",
+      "price": 524988,
+      "first_seen": "2026-03-19"
+    },
+    {
+      "id": "9808382",
+      "title": "Shop For Sale | P-23 | 1000 per sqft | Distress",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/19/shop-for-sale-p-23-1000-per-sqft-distre-2-197908/",
+      "area": "International City",
+      "category": "Shop",
+      "size": "706",
+      "bedrooms": "",
+      "price": 706750,
       "first_seen": "2026-03-19"
     },
     {
@@ -3495,7 +3608,7 @@
       "category": "Townhouse",
       "size": "1669",
       "bedrooms": "3",
-      "price": 1400000,
+      "price": 1390000,
       "first_seen": "2026-03-18"
     },
     {
@@ -6191,105 +6304,6 @@
       "size": "940",
       "bedrooms": "1",
       "price": 1250000,
-      "first_seen": "2026-03-17"
-    },
-    {
-      "id": "16456581",
-      "title": "Cash buyers heaven in the heart of Majan!",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/10/6/cash-buyers-heaven-in-the-heart-of-maja-2-921351/",
-      "area": "Majan",
-      "category": "Apartment",
-      "size": "828",
-      "bedrooms": "1",
-      "price": 1083882,
-      "first_seen": "2026-03-17"
-    },
-    {
-      "id": "17028285",
-      "title": "Pool View | Spacious Terrace | Ready to Move",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/2/pool-view-spacious-terrace-ready-to-mov-2-146877/",
-      "area": "Mirdif",
-      "category": "Apartment",
-      "size": "1515",
-      "bedrooms": "2",
-      "price": 1600000,
-      "first_seen": "2026-03-17"
-    },
-    {
-      "id": "16813202",
-      "title": "Upgraded and Fully Furnished | Single Row | VOT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/12/18/upgraded-and-fully-furnished-single-row-2-275001/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "2311",
-      "bedrooms": "3",
-      "price": 2495000,
-      "first_seen": "2026-03-17"
-    },
-    {
-      "id": "9808166",
-      "title": "High-ROI Commercial opportunity | Community Driven Development",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/17/high-roi-commercial-opportunity-communi-2-187395/",
-      "area": "Motor City",
-      "category": "Shop",
-      "size": "1242",
-      "bedrooms": "",
-      "price": 5691999,
-      "first_seen": "2026-03-17"
-    },
-    {
-      "id": "9782396",
-      "title": "Tenanted Office | Fully Fitted | For Sale",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/9/22/fitted-office-space-for-sale-tenanted-e-2-190984/",
-      "area": "The Greens",
-      "category": "Office",
-      "size": "2227",
-      "bedrooms": "",
-      "price": 8800000,
-      "first_seen": "2026-03-17"
-    },
-    {
-      "id": "9808165",
-      "title": "Lake View | Next to Metro | Best Price in market",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/17/lake-view-next-to-metro-best-price-in-m-2-189202/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "841",
-      "bedrooms": "",
-      "price": 1100000,
-      "first_seen": "2026-03-17"
-    },
-    {
-      "id": "9807780",
-      "title": "ZERO DLD_EASY ACCESS E11 RD_30%CAPTIAL APP_12%ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/13/zero-dld_easy-access-e11-rd_30captial-a-2-214470/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Shop",
-      "size": "2993",
-      "bedrooms": "",
-      "price": 10267499,
-      "first_seen": "2026-03-17"
-    },
-    {
-      "id": "9808153",
-      "title": "Luxury Fit Out | 1 Parking | Vacant Now",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/17/luxury-fit-out-1-parking-vacant-now-2-211914/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1605",
-      "bedrooms": "",
-      "price": 4200000,
-      "first_seen": "2026-03-17"
-    },
-    {
-      "id": "9808152",
-      "title": "Vacant Office for Sale | Apricot Tower | High ROI 10%+",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/17/vacant-office-for-sale-apricot-tower-hi-2-810459/",
-      "area": "Dubai Silicon Oasis (DSO)",
-      "category": "Office",
-      "size": "292",
-      "bedrooms": "",
-      "price": 420000,
       "first_seen": "2026-03-17"
     }
   ],
