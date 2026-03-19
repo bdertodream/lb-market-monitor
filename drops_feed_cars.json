@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-19T09:42:18.108048",
-  "total_tracked": 4096,
-  "total_drops": 238,
-  "total_new": 4096,
-  "avg_drop_pct": 6.8,
+  "generated_at": "2026-03-19T10:39:04.210388",
+  "total_tracked": 4136,
+  "total_drops": 239,
+  "total_new": 4136,
+  "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
     {
@@ -2083,7 +2083,7 @@
       "transmission": "Automatic",
       "location": "Beit El Chaar, Metn",
       "original_price": 38500,
-      "current_price": 36500,
+      "current_price": 38000,
       "drop_usd": 2000,
       "drop_pct": 5.2,
       "last_drop_date": "2026-03-18",
@@ -2097,6 +2097,10 @@
         {
           "price": 36500,
           "date": "2026-03-18"
+        },
+        {
+          "price": 38000,
+          "date": "2026-03-19"
         }
       ]
     },
@@ -3293,6 +3297,35 @@
         {
           "price": 13300,
           "date": "2026-03-11"
+        },
+        {
+          "price": 13000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116795213",
+      "title": "Land Rover LR4 HSE V8 5.0 PREMIUM 2010",
+      "url": "https://www.olx.com.lb/ad/land-rover-lr4-hse-v8-50-premium-2010-ID116795213.html",
+      "make": "Land Rover",
+      "model": "LR4",
+      "body_type": "SUV",
+      "year": 2010,
+      "mileage": 110000,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 13500,
+      "current_price": 13000,
+      "drop_usd": 500,
+      "drop_pct": 3.7,
+      "last_drop_date": "2026-03-19",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 13500,
+          "date": "2026-03-01"
         },
         {
           "price": 13000,
@@ -8594,6 +8627,886 @@
       "price_history": [
         {
           "price": 21000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116825529",
+      "title": "Mazda CX-9 2010 Grand Touring",
+      "url": "https://www.olx.com.lb/ad/mazda-cx-9-2010-grand-touring-ID116825529.html",
+      "make": "Mazda",
+      "model": "CX-9",
+      "body_type": "SUV",
+      "year": 2010,
+      "mileage": 235000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 8900,
+      "current_price": 8900,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 8900,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116744788",
+      "title": "MINI Cooper  Countryman 2017 very clean 4 WD very clean",
+      "url": "https://www.olx.com.lb/ad/mini-countryman-2017-very-clean-4-ed-ID116744788.html",
+      "make": "MINI",
+      "model": "Countryman",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 66000,
+      "transmission": "Steptronic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 17800,
+      "current_price": 17800,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 17800,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116825504",
+      "title": "Hyundai Santa Fe 2019 ajnabe (03068496)",
+      "url": "https://www.olx.com.lb/ad/hyundai-santa-fe-2019-ID116825504.html",
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Dawhet el Hoss, Aley",
+      "original_price": 17500,
+      "current_price": 17500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116729708",
+      "title": "2025 Volkswagen ID UNYX Ultra | Brand New",
+      "url": "https://www.olx.com.lb/ad/2025-volkswagen-id-unyx-ultra-ID116729708.html",
+      "make": "Volkswagen",
+      "model": "ID UNYX Ultra",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 36000,
+      "current_price": 36000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 36000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116694373",
+      "title": "2021 Audi Q7",
+      "url": "https://www.olx.com.lb/ad/2021-audi-q7-ID116694373.html",
+      "make": "Audi",
+      "model": "Q7",
+      "body_type": "SUV",
+      "year": 2021,
+      "mileage": 89000,
+      "transmission": "Automatic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 59000,
+      "current_price": 59000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 59000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116690504",
+      "title": "2025 John Cooper Works MINI Cooper Aceman S",
+      "url": "https://www.olx.com.lb/ad/2025-john-cooper-works-mini-cooper-aceman-s-ID116690504.html",
+      "make": "MINI",
+      "model": "Other",
+      "body_type": "Small city car",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 46000,
+      "current_price": 46000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 46000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116217163",
+      "title": "2025 Honda ENP2 Fully Electric Brand New",
+      "url": "https://www.olx.com.lb/ad/2025-honda-enp2-fully-electric-brand-new-ID116217163.html",
+      "make": "Honda",
+      "model": "NP1",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 27500,
+      "current_price": 27500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 27500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116825497",
+      "title": "Discovery LR5 HSE luxury 2018 Clean Carfax",
+      "url": "https://www.olx.com.lb/ad/discovery-lr5-hse-luxury-2018-clean-carfax-ID116825497.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 99000,
+      "transmission": "Automatic",
+      "location": "Zgharta Town, Zgharta",
+      "original_price": 28000,
+      "current_price": 28000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 28000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116707972",
+      "title": "Honda Civic 2009",
+      "url": "https://www.olx.com.lb/ad/honda-civic-2009-ID116707972.html",
+      "make": "Honda",
+      "model": "Civic",
+      "body_type": "Other",
+      "year": 2009,
+      "mileage": 300000,
+      "transmission": "Automatic",
+      "location": "Aamchit, Jbeil",
+      "original_price": 7500,
+      "current_price": 7500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 7500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116648492",
+      "title": "2026 Audi Q6L e-tron Coupe",
+      "url": "https://www.olx.com.lb/ad/2026-audi-q6l-e-tron-coupe-ID116648492.html",
+      "make": "Audi",
+      "model": "e-tron",
+      "body_type": "Hatchback",
+      "year": 2026,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 75000,
+      "current_price": 75000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 75000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116453834",
+      "title": "2019 Porsche Cayenne AWD",
+      "url": "https://www.olx.com.lb/ad/2019-porsche-cayenne-awd-ID116453834.html",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 65500,
+      "transmission": "Steptronic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 63000,
+      "current_price": 63000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 63000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116452056",
+      "title": "2021 Mercedes-Benz GLC 300 4 MATIC LOADED",
+      "url": "https://www.olx.com.lb/ad/2021-mercedes-benz-glc-300-4-matic-loaded-ID116452056.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2021,
+      "mileage": 87000,
+      "transmission": "Steptronic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 47000,
+      "current_price": 47000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 47000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "115994442",
+      "title": "Honda M-NV 2022",
+      "url": "https://www.olx.com.lb/ad/honda-m-nv-2022-ID115994442.html",
+      "make": "Honda",
+      "model": "Other",
+      "body_type": "SUV",
+      "year": 2022,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 23500,
+      "current_price": 23500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 23500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116790644",
+      "title": "Mercedes-Benz CLA-Class 2016",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-cla-class-2016-ID116790644.html",
+      "make": "Mercedes-Benz",
+      "model": "CLA-Class",
+      "body_type": "Sedan",
+      "year": 2016,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Zouk Mosbeh, Keserouan",
+      "original_price": 16500,
+      "current_price": 16500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 16500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116651433",
+      "title": "2024 Mercedes-Benz EQE 500",
+      "url": "https://www.olx.com.lb/ad/2024-mercedes-benz-eqe-500-ID116651433.html",
+      "make": "Mercedes-Benz",
+      "model": "EQE",
+      "body_type": "SUV",
+      "year": 2024,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 85000,
+      "current_price": 85000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 85000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116649593",
+      "title": "2021 Audi Q5 Sportback",
+      "url": "https://www.olx.com.lb/ad/2021-audi-q5-sportback-ID116649593.html",
+      "make": "Audi",
+      "model": "Q5",
+      "body_type": "Hatchback",
+      "year": 2021,
+      "mileage": 70000,
+      "transmission": "Automatic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 46000,
+      "current_price": 46000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 46000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116352696",
+      "title": "2024 Volkswagen ID3 brand new",
+      "url": "https://www.olx.com.lb/ad/2024-volkswagen-id3-brand-new-ID116352696.html",
+      "make": "Volkswagen",
+      "model": "ID3",
+      "body_type": "SUV",
+      "year": 2024,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 26500,
+      "current_price": 26500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 26500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "115986415",
+      "title": "Range Rover Sport HSE 2014",
+      "url": "https://www.olx.com.lb/ad/range-rover-sport-hse-2014-ID115986415.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 95000,
+      "transmission": "Automatic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 25000,
+      "current_price": 25000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 25000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116701841",
+      "title": "2025 Mercedes-Benz EQA 260 Brand New",
+      "url": "https://www.olx.com.lb/ad/2025-mercedes-benz-eqa-260-brand-new-ID116701841.html",
+      "make": "Mercedes-Benz",
+      "model": "EQA",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 42000,
+      "current_price": 42000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 42000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116566882",
+      "title": "2024 Volkswagen ID. 4 Pro",
+      "url": "https://www.olx.com.lb/ad/2024-volkswagen-id-4-pro-ID116566882.html",
+      "make": "Volkswagen",
+      "model": "ID.4",
+      "body_type": "SUV",
+      "year": 2024,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 34500,
+      "current_price": 34500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 34500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "112644831",
+      "title": "Smart ForFour forfour EQ EXCLUSIV/22KW/GJR/NAVI",
+      "url": "https://www.olx.com.lb/ad/smart-forfour-forfour-eq-exclusiv22kwgjrnavi-ID112644831.html",
+      "make": "Smart",
+      "model": "forfour",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 15000,
+      "transmission": "Automatic",
+      "location": "Verdun, Beirut",
+      "original_price": 18500,
+      "current_price": 18500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 18500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116758437",
+      "title": "Audi Q3 S-Line Quattro",
+      "url": "https://www.olx.com.lb/ad/audi-q3-s-line-quattro-ID116758437.html",
+      "make": "Audi",
+      "model": "Q3",
+      "body_type": "SUV",
+      "year": 2013,
+      "mileage": 161000,
+      "transmission": "Steptronic",
+      "location": "Kaslik, Keserouan",
+      "original_price": 11500,
+      "current_price": 11500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 11500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116650044",
+      "title": "2020 Land Rover Defender P400 SE V6",
+      "url": "https://www.olx.com.lb/ad/2020-land-rover-defender-p400-se-v6-ID116650044.html",
+      "make": "Land Rover",
+      "model": "Defender",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 75000,
+      "transmission": "Automatic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 83000,
+      "current_price": 83000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 83000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116452569",
+      "title": "2024 BMW IX 40 XDrive Fully Electric",
+      "url": "https://www.olx.com.lb/ad/2024-bmw-ix-40-xdrive-fully-electric-ID116452569.html",
+      "make": "BMW",
+      "model": "IX",
+      "body_type": "SUV",
+      "year": 2024,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 74000,
+      "current_price": 74000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 74000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116825483",
+      "title": "2026 ROX 01 VIP Edition | Fully Loaded, AWD, Black on Black",
+      "url": "https://www.olx.com.lb/ad/2026-rox-01-vip-edition-fully-loaded-awd-black-on-black-ID116825483.html",
+      "make": "ROX",
+      "model": "01",
+      "body_type": "SUV",
+      "year": 2026,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 65000,
+      "current_price": 65000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 65000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116608632",
+      "title": "BMW E30 1989",
+      "url": "https://www.olx.com.lb/ad/bmw-3-series-1989-ID116608632.html",
+      "make": "BMW",
+      "model": "3-Series",
+      "body_type": "Sedan",
+      "year": 1989,
+      "mileage": 100000,
+      "transmission": "Manual",
+      "location": "Bchamoun, Aley",
+      "original_price": 3500,
+      "current_price": 3500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 3500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116825481",
+      "title": "Mitsubishi Van 2012",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-van-2012-ID116825481.html",
+      "make": "Mitsubishi",
+      "model": "Van",
+      "body_type": "Van / Bus",
+      "year": 2012,
+      "mileage": 335000,
+      "transmission": "Manual",
+      "location": "Khaldeh, Aley",
+      "original_price": 4000,
+      "current_price": 4000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 4000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116825479",
+      "title": "Mitsubishi Outlander Sport 2015 2.4 Limited",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-outlander-sport-2015-24-limited-ID116825479.html",
+      "make": "Mitsubishi",
+      "model": "Outlander Sport",
+      "body_type": "SUV",
+      "year": 2015,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Sad El Baouchriyeh, Metn",
+      "original_price": 13500,
+      "current_price": 13500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 13500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116825475",
+      "title": "BMW X3 2011 28Xdrive",
+      "url": "https://www.olx.com.lb/ad/bmw-x3-2011-28xdrive-ID116825475.html",
+      "make": "BMW",
+      "model": "X3",
+      "body_type": "SUV",
+      "year": 2011,
+      "mileage": 130000,
+      "transmission": "Automatic",
+      "location": "Sad El Baouchriyeh, Metn",
+      "original_price": 12500,
+      "current_price": 12500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 12500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116825472",
+      "title": "Jaguar F-Pace S 2017 Supercharged",
+      "url": "https://www.olx.com.lb/ad/jaguar-f-pace-s-2017-supercharged-ID116825472.html",
+      "make": "Jaguar",
+      "model": "F-Pace",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 79000,
+      "transmission": "Automatic",
+      "location": "Sad El Baouchriyeh, Metn",
+      "original_price": 23500,
+      "current_price": 23500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 23500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116825464",
+      "title": "Audi Q7 2018 Premium Plus",
+      "url": "https://www.olx.com.lb/ad/audi-q7-2018-premium-plus-ID116825464.html",
+      "make": "Audi",
+      "model": "Q7",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Sad El Baouchriyeh, Metn",
+      "original_price": 24500,
+      "current_price": 24500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 24500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116790546",
+      "title": "Nissan Frontier 2022 Pro4X V6",
+      "url": "https://www.olx.com.lb/ad/nissan-frontier-2022-pro4x-v6-ID116790546.html",
+      "make": "Nissan",
+      "model": "Frontier",
+      "body_type": "Pickup",
+      "year": 2022,
+      "mileage": 50000,
+      "transmission": "Automatic",
+      "location": "Sad El Baouchriyeh, Metn",
+      "original_price": 25500,
+      "current_price": 25500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 25500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116790531",
+      "title": "Kia Cerato Coupe Koup 2011",
+      "url": "https://www.olx.com.lb/ad/kia-cerato-coupe-koup-2011-ID116790531.html",
+      "make": "Kia",
+      "model": "Cerato",
+      "body_type": "Sports / Coupe",
+      "year": 2011,
+      "mileage": 160000,
+      "transmission": "Automatic",
+      "location": "Sad El Baouchriyeh, Metn",
+      "original_price": 7600,
+      "current_price": 7600,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 7600,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116790526",
+      "title": "Chevrolet Camaro 2018 4Cylindre Turbo",
+      "url": "https://www.olx.com.lb/ad/chevrolet-camaro-2018-4cylindre-turbo-ID116790526.html",
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "body_type": "Sports / Coupe",
+      "year": 2018,
+      "mileage": 57000,
+      "transmission": "Automatic",
+      "location": "Sad El Baouchriyeh, Metn",
+      "original_price": 17500,
+      "current_price": 17500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116743241",
+      "title": "Hyundai Tucson 2016 Company",
+      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2016-company-ID116743241.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "Sad El Baouchriyeh, Metn",
+      "original_price": 14800,
+      "current_price": 14800,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 14800,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116743219",
+      "title": "Mazda 2 2018 ANB",
+      "url": "https://www.olx.com.lb/ad/mazda-2-2018-anb-ID116743219.html",
+      "make": "Mazda",
+      "model": "2",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 110000,
+      "transmission": "Automatic",
+      "location": "Sad El Baouchriyeh, Metn",
+      "original_price": 12500,
+      "current_price": 12500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 12500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116743216",
+      "title": "Chevrolet Spark 2016",
+      "url": "https://www.olx.com.lb/ad/chevrolet-spark-2016-ID116743216.html",
+      "make": "Chevrolet",
+      "model": "Spark",
+      "body_type": "Hatchback",
+      "year": 2016,
+      "mileage": 116000,
+      "transmission": "Automatic",
+      "location": "Sad El Baouchriyeh, Metn",
+      "original_price": 7800,
+      "current_price": 7800,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 7800,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116825451",
+      "title": "Nissan 350Z 2004",
+      "url": "https://www.olx.com.lb/ad/nissan-350z-2004-ID116825451.html",
+      "make": "Nissan",
+      "model": "350Z",
+      "body_type": "Sports / Coupe",
+      "year": 2004,
+      "mileage": 110000,
+      "transmission": "Manual",
+      "location": "Zouk Mosbeh, Keserouan",
+      "original_price": 7500,
+      "current_price": 7500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 7500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116790535",
+      "title": "Subaru Impreza 2008 4WD 2.0",
+      "url": "https://www.olx.com.lb/ad/subaru-impreza-2008-4wd-20-ID116790535.html",
+      "make": "Subaru",
+      "model": "Impreza",
+      "body_type": "Hatchback",
+      "year": 2008,
+      "mileage": 117000,
+      "transmission": "Automatic",
+      "location": "Sad El Baouchriyeh, Metn",
+      "original_price": 8400,
+      "current_price": 8400,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 8400,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116709131",
+      "title": "Ford Explorer 2012 XLT.",
+      "url": "https://www.olx.com.lb/ad/ford-explorer-2012-xlt-ID116709131.html",
+      "make": "Ford",
+      "model": "Explorer",
+      "body_type": "SUV",
+      "year": 2012,
+      "mileage": 234000,
+      "transmission": "Automatic",
+      "location": "Louaizeh, Baabda",
+      "original_price": 9100,
+      "current_price": 9100,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 9100,
           "date": "2026-03-19"
         }
       ]
@@ -73726,13 +74639,17 @@
       "transmission": "Automatic",
       "location": "Jounieh, Keserouan",
       "original_price": 13500,
-      "current_price": 13500,
+      "current_price": 13000,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 13500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 13000,
+          "date": "2026-03-19"
         }
       ]
     },
@@ -92938,7 +93855,7 @@
       "transmission": "Automatic",
       "location": "Beit El Chaar, Metn",
       "original_price": 38500,
-      "current_price": 36500,
+      "current_price": 38000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -92949,6 +93866,10 @@
         {
           "price": 36500,
           "date": "2026-03-18"
+        },
+        {
+          "price": 38000,
+          "date": "2026-03-19"
         }
       ]
     },
@@ -93736,7 +94657,7 @@
     },
     {
       "id": "116420945",
-      "title": "Hyundai IONIQ 5 N - 2024 MY - 2 years international warranty",
+      "title": "Hyundai IONIQ 5 N - 2024 MY  - Full Electric - Under Warranty",
       "url": "https://www.olx.com.lb/ad/hyundai-ioniq-5-n-2024-with-two-years-warranty-international-ID116420945.html",
       "make": "Hyundai",
       "model": "Ioniq 5 N",
