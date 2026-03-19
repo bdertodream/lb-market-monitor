@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-19T20:35:41.578361",
-  "total_tracked": 4266,
-  "total_drops": 243,
-  "total_new": 4266,
+  "generated_at": "2026-03-19T21:35:04.748214",
+  "total_tracked": 4271,
+  "total_drops": 244,
+  "total_new": 4271,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -7256,6 +7256,35 @@
           "date": "2026-03-19"
         }
       ]
+    },
+    {
+      "id": "116825687",
+      "title": "BMW X3 2009",
+      "url": "https://www.olx.com.lb/ad/bmw-x3-2009-ID116825687.html",
+      "make": "BMW",
+      "model": "X3",
+      "body_type": "SUV",
+      "year": 2009,
+      "mileage": 215759,
+      "transmission": "Steptronic",
+      "location": "Antelias, Metn",
+      "original_price": 7000,
+      "current_price": 6999,
+      "drop_usd": 1,
+      "drop_pct": 0.0,
+      "last_drop_date": "2026-03-19",
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 7000,
+          "date": "2026-03-19"
+        },
+        {
+          "price": 6999,
+          "date": "2026-03-19"
+        }
+      ]
     }
   ],
   "new_listings": [
@@ -10223,12 +10252,16 @@
       "transmission": "Steptronic",
       "location": "Antelias, Metn",
       "original_price": 7000,
-      "current_price": 7000,
+      "current_price": 6999,
       "first_seen": "2026-03-19",
       "posted_date": "2026-03-19",
       "price_history": [
         {
           "price": 7000,
+          "date": "2026-03-19"
+        },
+        {
+          "price": 6999,
           "date": "2026-03-19"
         }
       ]
@@ -10833,7 +10866,7 @@
     },
     {
       "id": "116825747",
-      "title": "Range Rover Velar 2019 - 32000$",
+      "title": "Range Rover Velar 2019 S",
       "url": "https://www.olx.com.lb/ad/range-rover-velar-2019-32000-ID116825747.html",
       "make": "Land Rover",
       "model": "Velar",
@@ -12499,6 +12532,116 @@
       "price_history": [
         {
           "price": 12500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116707676",
+      "title": "Mitsubishi Outlander Sport 2020",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-outlander-sport-2020-ID116707676.html",
+      "make": "Mitsubishi",
+      "model": "Outlander Sport",
+      "body_type": "Hatchback",
+      "year": 2020,
+      "mileage": 177000,
+      "transmission": "Automatic",
+      "location": "Basta, Beirut",
+      "original_price": 22000,
+      "current_price": 22000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 22000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116826245",
+      "title": "Renault Duster 2011",
+      "url": "https://www.olx.com.lb/ad/renault-duster-2011-ID116826245.html",
+      "make": "Renault",
+      "model": "Duster",
+      "body_type": "SUV",
+      "year": 2011,
+      "mileage": 400,
+      "transmission": "Manual",
+      "location": "Abou Samra, Tripoli",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116826240",
+      "title": "Land Rover Range Rover Sport 2018",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2018-ID116826240.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 65000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 43000,
+      "current_price": 43000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 43000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116826231",
+      "title": "BMW 3-Series 2006",
+      "url": "https://www.olx.com.lb/ad/bmw-3-series-2006-ID116826231.html",
+      "make": "BMW",
+      "model": "3-Series",
+      "body_type": "Sedan",
+      "year": 2006,
+      "mileage": 155000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116692038",
+      "title": "Audi A6 2009",
+      "url": "https://www.olx.com.lb/ad/audi-a6-2009-ID116692038.html",
+      "make": "Audi",
+      "model": "A6",
+      "body_type": "Sedan",
+      "year": 2009,
+      "mileage": 160000,
+      "transmission": "Automatic",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 7000,
+      "current_price": 7000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 7000,
           "date": "2026-03-19"
         }
       ]
