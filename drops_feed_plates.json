@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-19T01:26:15.915641",
-  "total_tracked": 272,
+  "generated_at": "2026-03-19T04:21:51.461420",
+  "total_tracked": 273,
   "total_drops": 17,
-  "total_new": 272,
+  "total_new": 273,
   "avg_drop_pct": 31.9,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -499,6 +499,24 @@
       "price_history": [
         {
           "price": 6500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "115766786",
+      "title": "43969 For Sale",
+      "url": "https://www.olx.com.lb/ad/43969-for-sale-ID115766786.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Zalka, Metn",
+      "original_price": 2500,
+      "current_price": 2500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 2500,
           "date": "2026-03-19"
         }
       ]

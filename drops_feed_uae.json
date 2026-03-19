@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 4897,
+  "total_tracked": 4898,
   "total_drops": 53,
-  "total_new": 4897,
+  "total_new": 4898,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -770,6 +770,17 @@
       "size": "21301",
       "bedrooms": "",
       "price": 80000000,
+      "first_seen": "2026-03-19"
+    },
+    {
+      "id": "9808356",
+      "title": "3 partitions | Pantry | Unfurnished | Vacant",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/19/3-partitions-pantry-unfurnished-vacant-2-253724/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "1122",
+      "bedrooms": "",
+      "price": 2595000,
       "first_seen": "2026-03-19"
     },
     {
@@ -6237,17 +6248,6 @@
       "size": "852",
       "bedrooms": "3",
       "price": 2200000,
-      "first_seen": "2026-03-17"
-    },
-    {
-      "id": "17079857",
-      "title": "Terrace | Vacant | Close To Metro | Closed Kitchen",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/13/terrace-vacant-close-to-metro-closed-ki-2-292279/",
-      "area": "Al Furjan",
-      "category": "Apartment",
-      "size": "2103",
-      "bedrooms": "2",
-      "price": 1970000,
       "first_seen": "2026-03-17"
     }
   ],
