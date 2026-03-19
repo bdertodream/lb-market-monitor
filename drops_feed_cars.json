@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-19T17:56:11.847336",
-  "total_tracked": 4247,
+  "generated_at": "2026-03-19T18:50:38.818928",
+  "total_tracked": 4249,
   "total_drops": 242,
-  "total_new": 4247,
+  "total_new": 4249,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -12048,6 +12048,50 @@
       "price_history": [
         {
           "price": 4900,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116826076",
+      "title": "Mercedes-Benz SL-Class 2003 500",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-sl-class-2003-500-ID116826076.html",
+      "make": "Mercedes-Benz",
+      "model": "SL-Class",
+      "body_type": "Convertible",
+      "year": 2003,
+      "mileage": 190000,
+      "transmission": "Steptronic",
+      "location": "Other in Aley, Aley",
+      "original_price": 12500,
+      "current_price": 12500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 12500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116400367",
+      "title": "Infiniti G-Series 2012",
+      "url": "https://www.olx.com.lb/ad/infiniti-g-series-2012-ID116400367.html",
+      "make": "Infiniti",
+      "model": "G-Series",
+      "body_type": "Convertible",
+      "year": 2012,
+      "mileage": 139000,
+      "transmission": "Automatic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 12500,
+      "current_price": 12500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 12500,
           "date": "2026-03-19"
         }
       ]
