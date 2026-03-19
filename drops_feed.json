@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-19T04:19:47.118583",
-  "total_tracked": 25334,
+  "generated_at": "2026-03-19T05:58:56.231754",
+  "total_tracked": 25336,
   "total_drops": 159,
-  "total_new": 25334,
+  "total_new": 25336,
   "avg_drop_pct": 7.5,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -4593,6 +4593,42 @@
       "price_history": [
         {
           "price": 290000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116114463",
+      "title": "Brand new building- seaview - direct from owner",
+      "url": "https://www.olx.com.lb/ad/brand-new-building-seaview-ID116114463.html",
+      "type": "Building",
+      "location": "Batroun Town, Batroun",
+      "sqm": 180,
+      "original_price": 240000,
+      "current_price": 240000,
+      "posted_date": "2026-03-19",
+      "first_seen": "2026-03-19",
+      "price_history": [
+        {
+          "price": 240000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116790215",
+      "title": "Dbayeh 100m2 | Shop | New | PrimeLocation | PAN",
+      "url": "https://www.olx.com.lb/ad/dbayeh-100m2-shop-new-primelocation-pan-ID116790215.html",
+      "type": "Commercial",
+      "location": "Dbaye, Metn",
+      "sqm": 100,
+      "original_price": 300000,
+      "current_price": 300000,
+      "posted_date": "2026-03-19",
+      "first_seen": "2026-03-19",
+      "price_history": [
+        {
+          "price": 300000,
           "date": "2026-03-19"
         }
       ]

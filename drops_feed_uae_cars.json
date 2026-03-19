@@ -1,8 +1,8 @@
 {
-  "total_tracked": 2483,
-  "total_drops": 25,
-  "total_new": 2483,
-  "last_updated": "2026-03-19T04:22:17Z",
+  "total_tracked": 2484,
+  "total_drops": 28,
+  "total_new": 2484,
+  "last_updated": "2026-03-19T06:01:51Z",
   "drops": [
     {
       "id": "16770596",
@@ -353,9 +353,63 @@
       "year": "2012",
       "mileage": "170000",
       "date": "2026-03-18T18:02:39Z"
+    },
+    {
+      "id": "16771797",
+      "title": "Toyota Land Cruiser 2012 / GCC / 4.0L V6 / Original paint / Zero accident / Superb Condition",
+      "old_price": 59999,
+      "new_price": 54999,
+      "drop_pct": 8.3,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/3/11/toyota-land-cruiser-2012-gcc-40l-v6-origin-2-344---98b3a258026b45cab74eacf1ce8b8315/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "year": "2012",
+      "mileage": "318000",
+      "date": "2026-03-19T06:01:51Z"
+    },
+    {
+      "id": "16764639",
+      "title": "Infiniti Q50 2018 / GCC / 2.0L turbo / Great condition / Well maintained",
+      "old_price": 31999,
+      "new_price": 29999,
+      "drop_pct": 6.3,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/q50/2026/3/4/infiniti-q50-2018-gcc-20l-turbo-great-cond-2-410---0b6448bc76024b86a8193aa8ce205b9f/",
+      "category": "Used Cars",
+      "make": "Infiniti",
+      "model": "Q50",
+      "year": "2018",
+      "mileage": "162000",
+      "date": "2026-03-19T06:01:51Z"
+    },
+    {
+      "id": "16741274",
+      "title": "Dodge Ram 2018 / 5.7L V8 / GCC / Bighorn / Clean and well maintained",
+      "old_price": 59999,
+      "new_price": 54999,
+      "drop_pct": 8.3,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/ram/2026/2/12/dodge-ram-2018-57l-v8-gcc-bighorn-clean-an-2-658---47de55860da24436889806171e583b56/",
+      "category": "Used Cars",
+      "make": "Dodge",
+      "model": "Ram",
+      "year": "2018",
+      "mileage": "152000",
+      "date": "2026-03-19T06:01:51Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16774173",
+      "title": "AMG GLA 45 S SUPER CLEAN",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gla/2026/3/14/amg-gla-45-s-super-clean-2-243---6e6fd99b8039486387d1305c831c8528/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "year": "2022",
+      "mileage": "45000",
+      "price": 215000,
+      "first_seen": "2026-03-19T06:01:51Z"
+    },
     {
       "id": "16631295",
       "title": "2026 Mercedes-Benz C200 AMG Line | 1.5L | Warranty Included | GCC Specs Sedan",
@@ -6342,18 +6396,6 @@
       "year": "2022",
       "mileage": "89000",
       "price": 101000,
-      "first_seen": "2026-03-15T09:33:51Z"
-    },
-    {
-      "id": "16721037",
-      "title": "ISUZU D-Max GT 3.0 D/C DIESEL MANUAL MODEL 2026 GCC LIMITED {ONE UNIT AVAILABLE}",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/isuzu/d-max/2026/1/26/isuzu-d-max-gt-30-dc-diesel-manual-model-2-2-351---3ba327dee5154b35a89f6cbb00e0c0e2/",
-      "category": "Used Cars",
-      "make": "Isuzu",
-      "model": "D-Max",
-      "year": "2026",
-      "mileage": "0",
-      "price": 110000,
       "first_seen": "2026-03-15T09:33:51Z"
     }
   ]
