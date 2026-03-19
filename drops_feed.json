@@ -1,11 +1,36 @@
 {
-  "generated_at": "2026-03-19T05:58:56.231754",
-  "total_tracked": 25336,
-  "total_drops": 159,
-  "total_new": 25336,
-  "avg_drop_pct": 7.5,
+  "generated_at": "2026-03-19T06:51:49.514654",
+  "total_tracked": 25347,
+  "total_drops": 160,
+  "total_new": 25347,
+  "avg_drop_pct": 7.8,
   "biggest_drop_usd": 900000,
   "drops": [
+    {
+      "id": "116824750",
+      "title": "Land For Sale In Chabtine-Batroun For Sale - CPJGN21",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-chabtine-batroun-for-sale-cpjgn21-ID116824750.html",
+      "type": "Land",
+      "location": "Other in Batroun, Batroun",
+      "sqm": 988,
+      "original_price": 175000,
+      "current_price": 75000,
+      "drop_usd": 100000,
+      "drop_pct": 57.1,
+      "last_drop_date": "2026-03-19",
+      "posted_date": "2026-03-18",
+      "first_seen": "2026-03-18",
+      "price_history": [
+        {
+          "price": 175000,
+          "date": "2026-03-18"
+        },
+        {
+          "price": 75000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
     {
       "id": "116444424",
       "title": "Land For sale in Baskinta - CPKMF52",
@@ -4629,6 +4654,204 @@
       "price_history": [
         {
           "price": 300000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "115317153",
+      "title": "Ballouneh 110m2 | Perfect Condition | Calm Area | Killer View | TO",
+      "url": "https://www.olx.com.lb/ad/ballouneh-110m2-perfect-condition-calm-area-killer-view-to-ID115317153.html",
+      "type": "Apartment",
+      "location": "Ballouneh, Keserouan",
+      "sqm": 110,
+      "original_price": 100000,
+      "current_price": 100000,
+      "posted_date": "2026-03-19",
+      "first_seen": "2026-03-19",
+      "price_history": [
+        {
+          "price": 100000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "115837236",
+      "title": "Ballouneh 300m2 Duplex | Private Street | High-End | View | MY |",
+      "url": "https://www.olx.com.lb/ad/ballouneh-300m2-duplex-private-street-high-end-view-my-ID115837236.html",
+      "type": "Duplex",
+      "location": "Ballouneh, Keserouan",
+      "sqm": 300,
+      "original_price": 280000,
+      "current_price": 280000,
+      "posted_date": "2026-03-19",
+      "first_seen": "2026-03-19",
+      "price_history": [
+        {
+          "price": 280000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116629871",
+      "title": "Sheileh 285m2 | Terraces | Panoramic View | Quiet Street | GA",
+      "url": "https://www.olx.com.lb/ad/sheileh-285m2-terraces-panoramic-view-quiet-street-ga-ID116629871.html",
+      "type": "Apartment",
+      "location": "Sehayleh, Keserouan",
+      "sqm": 285,
+      "original_price": 245000,
+      "current_price": 245000,
+      "posted_date": "2026-03-19",
+      "first_seen": "2026-03-19",
+      "price_history": [
+        {
+          "price": 245000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116620461",
+      "title": "Apartment for Sale in Achrafieh شقة للبيع في الأشرفية",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-achrafieh-شقة-للبيع-في-الأشرفية-ID116620461.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 280,
+      "original_price": 950000,
+      "current_price": 950000,
+      "posted_date": "2026-03-19",
+      "first_seen": "2026-03-19",
+      "price_history": [
+        {
+          "price": 950000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116592227",
+      "title": "Apartment for Sale in Aley شقة للبيع في عاليه",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-aley-شقة-للبيع-في-عاليه-ID116592227.html",
+      "type": "Apartment",
+      "location": "Aley Town, Aley",
+      "sqm": 175,
+      "original_price": 195000,
+      "current_price": 195000,
+      "posted_date": "2026-03-19",
+      "first_seen": "2026-03-19",
+      "price_history": [
+        {
+          "price": 195000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116780844",
+      "title": "apartment for Sale in Aley Bchatiyeh شقة للبيع في عاليه بخشتاي",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-aley-bchatiyeh-شقة-للبيع-في-عاليه-بخشتاي-ID116780844.html",
+      "type": "Apartment",
+      "location": "Other in Aley, Aley",
+      "sqm": 165,
+      "original_price": 230000,
+      "current_price": 230000,
+      "posted_date": "2026-03-19",
+      "first_seen": "2026-03-19",
+      "price_history": [
+        {
+          "price": 230000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116403308",
+      "title": "3000m2 Furnished Villa+Garden/Terrace+Pool 4 Sale in Bhamdounبحمدون",
+      "url": "https://www.olx.com.lb/ad/3000m2-furnished-villagardenterracepool-4-sale-in-bhamdounبحمدون-ID116403308.html",
+      "type": "Villa",
+      "location": "Bhamdoun, Aley",
+      "sqm": 2300,
+      "original_price": 2700000,
+      "current_price": 2700000,
+      "posted_date": "2026-03-19",
+      "first_seen": "2026-03-19",
+      "price_history": [
+        {
+          "price": 2700000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116790004",
+      "title": "Jeita 1950m2 Land | Rare Opportunity | Panoramic Sea View | WA |",
+      "url": "https://www.olx.com.lb/ad/jeita-1950m2-land-rare-opportunity-panoramic-sea-view-wa-ID116790004.html",
+      "type": "Land",
+      "location": "Jeita, Keserouan",
+      "sqm": 1950,
+      "original_price": 1072500,
+      "current_price": 1072500,
+      "posted_date": "2026-03-19",
+      "first_seen": "2026-03-19",
+      "price_history": [
+        {
+          "price": 1072500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116789982",
+      "title": "Sheileh 1020m2 Land | Prime land | 30 / 75 | Sea & Mounatin View | WA",
+      "url": "https://www.olx.com.lb/ad/sheileh-1020m2-land-prime-land-30-75-sea-mounatin-view-wa-ID116789982.html",
+      "type": "Land",
+      "location": "Sehayleh, Keserouan",
+      "sqm": 1020,
+      "original_price": 612000,
+      "current_price": 612000,
+      "posted_date": "2026-03-19",
+      "first_seen": "2026-03-19",
+      "price_history": [
+        {
+          "price": 612000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116789964",
+      "title": "Sheileh 1200m2 Land | Perfect Investment | Open Sea View | 30/1 | WA |",
+      "url": "https://www.olx.com.lb/ad/sheileh-1200m2-land-perfect-investment-open-sea-view-301-wa-ID116789964.html",
+      "type": "Land",
+      "location": "Sehayleh, Keserouan",
+      "sqm": 1200,
+      "original_price": 700000,
+      "current_price": 700000,
+      "posted_date": "2026-03-19",
+      "first_seen": "2026-03-19",
+      "price_history": [
+        {
+          "price": 700000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116825252",
+      "title": "2 parking, terraces, storage room, Kfardebian/كفردبيان REF#SE01784",
+      "url": "https://www.olx.com.lb/ad/2-parking-terraces-storage-room-kfardebianكفردبيان-refse01784-ID116825252.html",
+      "type": "Apartment",
+      "location": "Kfardebian, Keserouan",
+      "sqm": 250,
+      "original_price": 600000,
+      "current_price": 600000,
+      "posted_date": "2026-03-19",
+      "first_seen": "2026-03-19",
+      "price_history": [
+        {
+          "price": 600000,
           "date": "2026-03-19"
         }
       ]
@@ -28877,13 +29100,17 @@
       "location": "Other in Batroun, Batroun",
       "sqm": 988,
       "original_price": 175000,
-      "current_price": 175000,
+      "current_price": 75000,
       "posted_date": "2026-03-18",
       "first_seen": "2026-03-18",
       "price_history": [
         {
           "price": 175000,
           "date": "2026-03-18"
+        },
+        {
+          "price": 75000,
+          "date": "2026-03-19"
         }
       ]
     },

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-19T06:00:53.206635",
-  "total_tracked": 4049,
+  "generated_at": "2026-03-19T06:53:50.145937",
+  "total_tracked": 4053,
   "total_drops": 236,
-  "total_new": 4049,
+  "total_new": 4053,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -7486,6 +7486,94 @@
       "price_history": [
         {
           "price": 15700,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116825255",
+      "title": "Honda Accord 2014",
+      "url": "https://www.olx.com.lb/ad/honda-accord-2014-ID116825255.html",
+      "make": "Honda",
+      "model": "Accord",
+      "body_type": "Sedan",
+      "year": 2014,
+      "mileage": 73000,
+      "transmission": "Steptronic",
+      "location": "Dbaye, Metn",
+      "original_price": 10500,
+      "current_price": 10500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 10500,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116825243",
+      "title": "Jeep Wrangler Rubicon Trail Rated 2019 black on black (clean carfax)",
+      "url": "https://www.olx.com.lb/ad/jeep-wrangler-rubicon-trail-rated-2019-black-on-black-clean-carfax-ID116825243.html",
+      "make": "Jeep",
+      "model": "Wrangler",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 43000,
+      "transmission": "Steptronic",
+      "location": "Antelias, Metn",
+      "original_price": 38000,
+      "current_price": 38000,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 38000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116825240",
+      "title": "Nissan X-Trail 2018 company source",
+      "url": "https://www.olx.com.lb/ad/nissan-x-trail-2018-company-source-ID116825240.html",
+      "make": "Nissan",
+      "model": "X-Trail",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 85000,
+      "transmission": "Automatic",
+      "location": "Jal El Dib, Metn",
+      "original_price": 17750,
+      "current_price": 17750,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 17750,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116825187",
+      "title": "Cadillac Escalade 2018",
+      "url": "https://www.olx.com.lb/ad/cadillac-escalade-2018-ID116825187.html",
+      "make": "Cadillac",
+      "model": "Escalade",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 112,
+      "transmission": "Automatic",
+      "location": "Beirut Port, Beirut",
+      "original_price": 38500,
+      "current_price": 38500,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 38500,
           "date": "2026-03-19"
         }
       ]
