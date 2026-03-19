@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 4895,
+  "total_tracked": 4897,
   "total_drops": 53,
-  "total_new": 4895,
+  "total_new": 4897,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -750,6 +750,28 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "9733230",
+      "title": "PREMIUM LOCATION | SEA & SKYLINE VIEW | FREEHOLD",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/1/16/premium-location-sea-skyline-view-freeh-2-318616/",
+      "area": "Jumeirah",
+      "category": "Land",
+      "size": "39834",
+      "bedrooms": "",
+      "price": 160000000,
+      "first_seen": "2026-03-19"
+    },
+    {
+      "id": "9733229",
+      "title": "FREEHOLD | EXCLUSIVE LOCATION | PREMIUM LAND",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/1/16/freehold-exclusive-location-premium-lan-2-181278/",
+      "area": "Jumeirah",
+      "category": "Land",
+      "size": "21301",
+      "bedrooms": "",
+      "price": 80000000,
+      "first_seen": "2026-03-19"
+    },
     {
       "id": "9784273",
       "title": "Freehold Office Space | Near Creek & Metro",
@@ -6227,30 +6249,8 @@
       "bedrooms": "2",
       "price": 1970000,
       "first_seen": "2026-03-17"
-    },
-    {
-      "id": "17199926",
-      "title": "3BR Townhouse for Sale | Internal Unit | Big Plot | Private Garden",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/14/3br-townhouse-for-sale-internal-unit-bi-2-119014/",
-      "area": "Jebel Ali",
-      "category": "Townhouse",
-      "size": "2588",
-      "bedrooms": "3",
-      "price": 5000000,
-      "first_seen": "2026-03-17"
-    },
-    {
-      "id": "17037727",
-      "title": "Lagoon Views | Luxury 1BHK | 2027 Handover",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/4/lagoon-views-luxury-1bhk-2027-handover-2-717000/",
-      "area": "DAMAC Lagoons",
-      "category": "Apartment",
-      "size": "757",
-      "bedrooms": "1",
-      "price": 1260000,
-      "first_seen": "2026-03-17"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-03-18"
+  "last_updated": "2026-03-19"
 }
