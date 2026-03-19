@@ -114168,7 +114168,7 @@
   },
   "116825077": {
     "id": "116825077",
-    "title": "Toyota Camry 2001",
+    "title": "Toyota Camry 2001“ست تبحث عن سيارة نضيفة  – معي 1350$ فقط”ا",
     "url": "https://www.olx.com.lb/ad/toyota-camry-2001-ID116825077.html",
     "make": "Toyota",
     "model": "Camry",
@@ -120775,10 +120775,14 @@
     "location": "Dekwaneh, Metn",
     "district": "Metn",
     "original_price": 7800,
-    "current_price": 7800,
+    "current_price": 6800,
     "price_history": [
       {
         "price": 7800,
+        "date": "2026-03-19"
+      },
+      {
+        "price": 6800,
         "date": "2026-03-19"
       }
     ],
@@ -120786,9 +120790,9 @@
     "last_seen": "2026-03-19",
     "last_updated": "2026-03-19",
     "posted_date": "2026-03-19",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 1000,
+    "drop_pct": 12.8,
+    "last_drop_date": "2026-03-19"
   },
   "116825964": {
     "id": "116825964",
@@ -122011,6 +122015,34 @@
     "price_history": [
       {
         "price": 14000,
+        "date": "2026-03-19"
+      }
+    ],
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19",
+    "last_updated": "2026-03-19",
+    "posted_date": "2026-03-19",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116656343": {
+    "id": "116656343",
+    "title": "Jaguar E-Pace 2019",
+    "url": "https://www.olx.com.lb/ad/jaguar-e-pace-2019-ID116656343.html",
+    "make": "Jaguar",
+    "model": "E-Pace",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 60000,
+    "transmission": "Steptronic",
+    "location": "Wadi Ed Deloum, Zahle",
+    "district": "Zahle",
+    "original_price": 18900,
+    "current_price": 18900,
+    "price_history": [
+      {
+        "price": 18900,
         "date": "2026-03-19"
       }
     ],
