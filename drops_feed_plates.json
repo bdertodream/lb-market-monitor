@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-19T21:35:23.182104",
-  "total_tracked": 277,
+  "generated_at": "2026-03-19T22:27:34.273926",
+  "total_tracked": 279,
   "total_drops": 17,
-  "total_new": 277,
-  "avg_drop_pct": 32.7,
+  "total_new": 279,
+  "avg_drop_pct": 32.6,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -292,9 +292,9 @@
       "plate_type": "Standard",
       "location": "Dekwaneh, Metn",
       "original_price": 3400,
-      "current_price": 3200,
-      "drop_usd": 500,
-      "drop_pct": 14.7,
+      "current_price": 3000,
+      "drop_usd": 400,
+      "drop_pct": 11.8,
       "last_drop_date": "2026-03-19",
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
@@ -345,6 +345,10 @@
         },
         {
           "price": 3200,
+          "date": "2026-03-19"
+        },
+        {
+          "price": 3000,
           "date": "2026-03-19"
         }
       ]
@@ -609,6 +613,42 @@
       "price_history": [
         {
           "price": 13000,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116810693",
+      "title": "plate number",
+      "url": "https://www.olx.com.lb/ad/plate-number-ID116810693.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Baabda Town, Baabda",
+      "original_price": 2900,
+      "current_price": 2900,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 2900,
+          "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116826272",
+      "title": "830840 B",
+      "url": "https://www.olx.com.lb/ad/830840-b-ID116826272.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Choueifat, Aley",
+      "original_price": 2999,
+      "current_price": 2999,
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 2999,
           "date": "2026-03-19"
         }
       ]
@@ -3367,7 +3407,7 @@
       "plate_type": "Standard",
       "location": "Dekwaneh, Metn",
       "original_price": 3400,
-      "current_price": 3200,
+      "current_price": 3000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -3417,6 +3457,10 @@
         },
         {
           "price": 3200,
+          "date": "2026-03-19"
+        },
+        {
+          "price": 3000,
           "date": "2026-03-19"
         }
       ]
