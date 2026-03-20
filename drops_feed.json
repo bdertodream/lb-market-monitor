@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T01:19:53.891455",
-  "total_tracked": 26958,
+  "generated_at": "2026-03-20T04:11:54.915674",
+  "total_tracked": 26959,
   "total_drops": 181,
-  "total_new": 26958,
+  "total_new": 26959,
   "avg_drop_pct": 8.0,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -4731,6 +4731,24 @@
       "price_history": [
         {
           "price": 99900,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116481742",
+      "title": "Apartment for Sale in Hazmiyeh   شقة للبيع في الحازمية",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-hazmiyeh-شقة-للبيع-في-الحازمية-ID116481742.html",
+      "type": "Apartment",
+      "location": "Hazmiyeh, Baabda",
+      "sqm": 85,
+      "original_price": 170000,
+      "current_price": 170000,
+      "posted_date": "2026-03-20",
+      "first_seen": "2026-03-20",
+      "price_history": [
+        {
+          "price": 170000,
           "date": "2026-03-20"
         }
       ]
