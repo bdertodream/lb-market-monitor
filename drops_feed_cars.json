@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T04:13:49.626471",
-  "total_tracked": 4290,
-  "total_drops": 245,
-  "total_new": 4290,
+  "generated_at": "2026-03-20T05:52:39.708722",
+  "total_tracked": 4293,
+  "total_drops": 246,
+  "total_new": 4293,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -1915,6 +1915,35 @@
         {
           "price": 5200,
           "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116507474",
+      "title": "Jeep Grand Cherokee 2017",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2017-ID116507474.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 78000,
+      "transmission": "Automatic",
+      "location": "Ghazir, Keserouan",
+      "original_price": 18500,
+      "current_price": 17500,
+      "drop_usd": 1000,
+      "drop_pct": 5.4,
+      "last_drop_date": "2026-03-20",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 18500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 17500,
+          "date": "2026-03-20"
         }
       ]
     },
@@ -7603,6 +7632,72 @@
       "price_history": [
         {
           "price": 22500,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116826411",
+      "title": "Subaru XV 2020 2.0",
+      "url": "https://www.olx.com.lb/ad/subaru-xv-2020-20-ID116826411.html",
+      "make": "Subaru",
+      "model": "XV",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 72000,
+      "transmission": "Automatic",
+      "location": "Rabweh, Metn",
+      "original_price": 19750,
+      "current_price": 19750,
+      "first_seen": "2026-03-20",
+      "posted_date": "2026-03-20",
+      "price_history": [
+        {
+          "price": 19750,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116826405",
+      "title": "Bentley Flying Spur - W12",
+      "url": "https://www.olx.com.lb/ad/nissan-maxima-2014-ID116826405.html",
+      "make": "Bentley",
+      "model": "Continental Flying Spur",
+      "body_type": "Sedan",
+      "year": 2008,
+      "mileage": 61000,
+      "transmission": "Automatic",
+      "location": "Rabieh, Metn",
+      "original_price": 32500,
+      "current_price": 32500,
+      "first_seen": "2026-03-20",
+      "posted_date": "2026-03-20",
+      "price_history": [
+        {
+          "price": 32500,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116668303",
+      "title": "Mazda MazdaSpeed3",
+      "url": "https://www.olx.com.lb/ad/mazda-mazdaspeed3-ID116668303.html",
+      "make": "Mazda",
+      "model": "MazdaSpeed3",
+      "body_type": "Hatchback",
+      "year": 2011,
+      "mileage": 110000,
+      "transmission": "Manual",
+      "location": "Sin El Fil, Metn",
+      "original_price": 10999,
+      "current_price": 10999,
+      "first_seen": "2026-03-20",
+      "posted_date": "2026-03-20",
+      "price_history": [
+        {
+          "price": 10999,
           "date": "2026-03-20"
         }
       ]
@@ -73147,13 +73242,17 @@
       "transmission": "Automatic",
       "location": "Ghazir, Keserouan",
       "original_price": 18500,
-      "current_price": 18500,
+      "current_price": 17500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 18500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 17500,
+          "date": "2026-03-20"
         }
       ]
     },
