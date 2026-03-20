@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T20:30:25.823577",
-  "total_tracked": 283,
+  "generated_at": "2026-03-20T21:30:45.372161",
+  "total_tracked": 285,
   "total_drops": 20,
-  "total_new": 283,
+  "total_new": 285,
   "avg_drop_pct": 28.4,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -213,7 +213,7 @@
       "plate_type": "Standard",
       "location": "Achrafieh, Beirut",
       "original_price": 6800,
-      "current_price": 4700,
+      "current_price": 4800,
       "drop_usd": 2100,
       "drop_pct": 30.9,
       "last_drop_date": "2026-03-18",
@@ -227,6 +227,10 @@
         {
           "price": 4700,
           "date": "2026-03-18"
+        },
+        {
+          "price": 4800,
+          "date": "2026-03-20"
         }
       ]
     },
@@ -664,6 +668,42 @@
       "price_history": [
         {
           "price": 4000,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116827211",
+      "title": "G 2822 for sale contact 70_733605",
+      "url": "https://www.olx.com.lb/ad/g-2822-for-sale-contact-70_733605-ID116827211.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Ain El Remmaneh, Baabda",
+      "original_price": 12500,
+      "current_price": 12500,
+      "first_seen": "2026-03-20",
+      "posted_date": "2026-03-20",
+      "price_history": [
+        {
+          "price": 12500,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116827201",
+      "title": "Eid Moubarak",
+      "url": "https://www.olx.com.lb/ad/eid-moubarak-ID116827201.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Adma w Dafnah, Keserouan",
+      "original_price": 2500,
+      "current_price": 2500,
+      "first_seen": "2026-03-20",
+      "posted_date": "2026-03-20",
+      "price_history": [
+        {
+          "price": 2500,
           "date": "2026-03-20"
         }
       ]
@@ -4926,7 +4966,7 @@
       "plate_type": "Standard",
       "location": "Achrafieh, Beirut",
       "original_price": 6800,
-      "current_price": 4700,
+      "current_price": 4800,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -4937,6 +4977,10 @@
         {
           "price": 4700,
           "date": "2026-03-18"
+        },
+        {
+          "price": 4800,
+          "date": "2026-03-20"
         }
       ]
     },
