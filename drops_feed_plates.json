@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T22:27:30.295397",
-  "total_tracked": 285,
+  "generated_at": "2026-03-20T23:28:20.758071",
+  "total_tracked": 287,
   "total_drops": 20,
-  "total_new": 285,
+  "total_new": 287,
   "avg_drop_pct": 28.4,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -704,6 +704,42 @@
       "price_history": [
         {
           "price": 2500,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116827265",
+      "title": "Z 7200 sak jehiz",
+      "url": "https://www.olx.com.lb/ad/z-7200-sak-jehiz-ID116827265.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Zalka, Metn",
+      "original_price": 12000,
+      "current_price": 12000,
+      "first_seen": "2026-03-20",
+      "posted_date": "2026-03-20",
+      "price_history": [
+        {
+          "price": 12000,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116827264",
+      "title": "for sale",
+      "url": "https://www.olx.com.lb/ad/for-sale-ID116827264.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Aabadiyeh, Baabda",
+      "original_price": 23000,
+      "current_price": 23000,
+      "first_seen": "2026-03-20",
+      "posted_date": "2026-03-20",
+      "price_history": [
+        {
+          "price": 23000,
           "date": "2026-03-20"
         }
       ]

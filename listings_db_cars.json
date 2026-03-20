@@ -51210,20 +51210,24 @@
     "location": "Zouk Mikael, Keserouan",
     "district": "Keserouan",
     "original_price": 5100,
-    "current_price": 5100,
+    "current_price": 4400,
     "price_history": [
       {
         "price": 5100,
         "date": "2026-03-08"
+      },
+      {
+        "price": 4400,
+        "date": "2026-03-20"
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-11",
-    "last_updated": "2026-03-08",
+    "last_seen": "2026-03-20",
+    "last_updated": "2026-03-20",
     "posted_date": "2026-03-08",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": 700,
+    "drop_pct": 13.7,
+    "last_drop_date": "2026-03-20",
     "stale": true
   },
   "116814288": {
@@ -128724,6 +128728,146 @@
     "price_history": [
       {
         "price": 18800,
+        "date": "2026-03-20"
+      }
+    ],
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20",
+    "last_updated": "2026-03-20",
+    "posted_date": "2026-03-20",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116459597": {
+    "id": "116459597",
+    "title": "Mercedes-Benz S-Class 1957",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-s-class-1957-ID116459597.html",
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "body_type": "Sedan",
+    "year": 1957,
+    "mileage": 1,
+    "transmission": "Manual",
+    "location": "Ras Beirut, Beirut",
+    "district": "Beirut",
+    "original_price": 34000,
+    "current_price": 34000,
+    "price_history": [
+      {
+        "price": 34000,
+        "date": "2026-03-20"
+      }
+    ],
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20",
+    "last_updated": "2026-03-20",
+    "posted_date": "2026-03-20",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116827282": {
+    "id": "116827282",
+    "title": "Suzuki Vitara 2023",
+    "url": "https://www.olx.com.lb/ad/suzuki-vitara-2023-ID116827282.html",
+    "make": "Suzuki",
+    "model": "Vitara",
+    "body_type": "SUV",
+    "year": 2023,
+    "mileage": 16000,
+    "transmission": "Automatic",
+    "location": "Hazmiyeh, Baabda",
+    "district": "Baabda",
+    "original_price": 20000,
+    "current_price": 20000,
+    "price_history": [
+      {
+        "price": 20000,
+        "date": "2026-03-20"
+      }
+    ],
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20",
+    "last_updated": "2026-03-20",
+    "posted_date": "2026-03-20",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116827278": {
+    "id": "116827278",
+    "title": "Renault Duster 4x4",
+    "url": "https://www.olx.com.lb/ad/renault-duster-4x4-ID116827278.html",
+    "make": "Renault",
+    "model": "Duster",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 110000,
+    "transmission": "Steptronic",
+    "location": "Zgharta Town, Zgharta",
+    "district": "Zgharta",
+    "original_price": 12900,
+    "current_price": 12900,
+    "price_history": [
+      {
+        "price": 12900,
+        "date": "2026-03-20"
+      }
+    ],
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20",
+    "last_updated": "2026-03-20",
+    "posted_date": "2026-03-20",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116730729": {
+    "id": "116730729",
+    "title": "PORSCHE CAYENNE GTS 2014",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-w124-e500-1992-ID116730729.html",
+    "make": "Porsche",
+    "model": "Cayenne",
+    "body_type": "Sedan",
+    "year": 2014,
+    "mileage": 58000,
+    "transmission": "Automatic",
+    "location": "Adma w Dafnah, Keserouan",
+    "district": "Keserouan",
+    "original_price": 28000,
+    "current_price": 28000,
+    "price_history": [
+      {
+        "price": 28000,
+        "date": "2026-03-20"
+      }
+    ],
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20",
+    "last_updated": "2026-03-20",
+    "posted_date": "2026-03-20",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116827272": {
+    "id": "116827272",
+    "title": "بيجو 208 2015",
+    "url": "https://www.olx.com.lb/ad/بيجو-208-2015-ID116827272.html",
+    "make": "Peugeot",
+    "model": "208",
+    "body_type": "Other",
+    "year": 2015,
+    "mileage": 0,
+    "transmission": "Manual",
+    "location": "Other in Akkar, Akkar",
+    "district": "Akkar",
+    "original_price": 6300,
+    "current_price": 6300,
+    "price_history": [
+      {
+        "price": 6300,
         "date": "2026-03-20"
       }
     ],
