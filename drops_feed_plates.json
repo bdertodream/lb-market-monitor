@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T16:46:41.389988",
-  "total_tracked": 282,
+  "generated_at": "2026-03-20T17:38:35.534107",
+  "total_tracked": 283,
   "total_drops": 20,
-  "total_new": 282,
+  "total_new": 283,
   "avg_drop_pct": 28.4,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -642,6 +642,24 @@
       "price_history": [
         {
           "price": 7000,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116827055",
+      "title": "دكوانة",
+      "url": "https://www.olx.com.lb/ad/دكوانة-ID116827055.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dekwaneh, Metn",
+      "original_price": 4000,
+      "current_price": 4000,
+      "first_seen": "2026-03-20",
+      "posted_date": "2026-03-20",
+      "price_history": [
+        {
+          "price": 4000,
           "date": "2026-03-20"
         }
       ]
