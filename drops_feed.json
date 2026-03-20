@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-20T05:50:50.525799",
-  "total_tracked": 26976,
+  "generated_at": "2026-03-20T06:48:58.948876",
+  "total_tracked": 26981,
   "total_drops": 181,
-  "total_new": 26976,
+  "total_new": 26981,
   "avg_drop_pct": 8.0,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -5055,6 +5055,96 @@
       "price_history": [
         {
           "price": 105000,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116697908",
+      "title": "Apartment For Sale in Antelias Mezher 269000$ شقة للبيع في مزهر",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-antelias-mezher-269000-شقة-للبيع-في-مزهر-ID116697908.html",
+      "type": "Apartment",
+      "location": "Mezher, Metn",
+      "sqm": 200,
+      "original_price": 269000,
+      "current_price": 269000,
+      "posted_date": "2026-03-20",
+      "first_seen": "2026-03-20",
+      "price_history": [
+        {
+          "price": 269000,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116453522",
+      "title": "Apartment For Sale in Zalka 180000$ شقة للبيع في الزلقا",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-zalka-180000-شقة-للبيع-في-الزلقا-ID116453522.html",
+      "type": "Apartment",
+      "location": "Zalka, Metn",
+      "sqm": 120,
+      "original_price": 180000,
+      "current_price": 180000,
+      "posted_date": "2026-03-20",
+      "first_seen": "2026-03-20",
+      "price_history": [
+        {
+          "price": 180000,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116793097",
+      "title": "Achkout 900m2 | 120m2 Villa | Mountain View | Lebanese Style | DA",
+      "url": "https://www.olx.com.lb/ad/achkout-900m2-120m2-villa-mountain-view-lebanese-style-da-ID116793097.html",
+      "type": "Villa",
+      "location": "Aachqout, Keserouan",
+      "sqm": 900,
+      "original_price": 250000,
+      "current_price": 250000,
+      "posted_date": "2026-03-20",
+      "first_seen": "2026-03-20",
+      "price_history": [
+        {
+          "price": 250000,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116826435",
+      "title": "Achrafieh 192m2 | Excellent Condition | Fully Furnished | Prime | WI",
+      "url": "https://www.olx.com.lb/ad/achrafieh-192m2-excellent-condition-fully-furnished-prime-wi-ID116826435.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 192,
+      "original_price": 400000,
+      "current_price": 400000,
+      "posted_date": "2026-03-20",
+      "first_seen": "2026-03-20",
+      "price_history": [
+        {
+          "price": 400000,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116826447",
+      "title": "HOT DEAL/ LAND TARCHICH PRIME / 1000SQ / VIEW",
+      "url": "https://www.olx.com.lb/ad/hot-deal-land-tarchich-prime-1000sq-view-ID116826447.html",
+      "type": "Land",
+      "location": "Tarchich, Baabda",
+      "sqm": 1000,
+      "original_price": 49000,
+      "current_price": 49000,
+      "posted_date": "2026-03-20",
+      "first_seen": "2026-03-20",
+      "price_history": [
+        {
+          "price": 49000,
           "date": "2026-03-20"
         }
       ]
@@ -138185,13 +138275,17 @@
       "location": "Achrafieh, Beirut",
       "sqm": 240,
       "original_price": 3500000,
-      "current_price": 3500000,
+      "current_price": 4000000,
       "posted_date": "2026-03-16",
       "first_seen": "2026-03-16",
       "price_history": [
         {
           "price": 3500000,
           "date": "2026-03-16"
+        },
+        {
+          "price": 4000000,
+          "date": "2026-03-20"
         }
       ]
     },
