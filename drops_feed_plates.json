@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-19T23:29:54.905719",
+  "generated_at": "2026-03-20T01:22:07.027494",
   "total_tracked": 279,
-  "total_drops": 17,
+  "total_drops": 18,
   "total_new": 279,
-  "avg_drop_pct": 32.6,
+  "avg_drop_pct": 31.1,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -404,6 +404,31 @@
       ]
     },
     {
+      "id": "116826272",
+      "title": "830840 B",
+      "url": "https://www.olx.com.lb/ad/830840-b-ID116826272.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Choueifat, Aley",
+      "original_price": 2999,
+      "current_price": 2799,
+      "drop_usd": 200,
+      "drop_pct": 6.7,
+      "last_drop_date": "2026-03-20",
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 2999,
+          "date": "2026-03-19"
+        },
+        {
+          "price": 2799,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
       "id": "116809774",
       "title": "4327 G",
       "url": "https://www.olx.com.lb/ad/4161-y-ID116809774.html",
@@ -643,13 +668,17 @@
       "plate_type": "Standard",
       "location": "Choueifat, Aley",
       "original_price": 2999,
-      "current_price": 2999,
+      "current_price": 2799,
       "first_seen": "2026-03-19",
       "posted_date": "2026-03-19",
       "price_history": [
         {
           "price": 2999,
           "date": "2026-03-19"
+        },
+        {
+          "price": 2799,
+          "date": "2026-03-20"
         }
       ]
     },
