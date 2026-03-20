@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-20T10:37:51.113822",
+  "generated_at": "2026-03-20T11:32:48.402595",
   "total_tracked": 281,
-  "total_drops": 19,
+  "total_drops": 20,
   "total_new": 281,
-  "avg_drop_pct": 29.6,
+  "avg_drop_pct": 28.4,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -454,6 +454,31 @@
       ]
     },
     {
+      "id": "116655685",
+      "title": "special 4 digits twin numbers Y 8866 offer for 48 hours",
+      "url": "https://www.olx.com.lb/ad/special-4-digits-ID116655685.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Downtown, Beirut",
+      "original_price": 14500,
+      "current_price": 13800,
+      "drop_usd": 700,
+      "drop_pct": 4.8,
+      "last_drop_date": "2026-03-20",
+      "first_seen": "2026-03-20",
+      "posted_date": "2026-03-20",
+      "price_history": [
+        {
+          "price": 14500,
+          "date": "2026-03-20"
+        },
+        {
+          "price": 13800,
+          "date": "2026-03-20"
+        }
+      ]
+    },
+    {
       "id": "116823583",
       "title": "4327 G",
       "url": "https://www.olx.com.lb/ad/4327-g-ID116823583.html",
@@ -567,12 +592,16 @@
       "plate_type": "Standard",
       "location": "Downtown, Beirut",
       "original_price": 14500,
-      "current_price": 14500,
+      "current_price": 13800,
       "first_seen": "2026-03-20",
       "posted_date": "2026-03-20",
       "price_history": [
         {
           "price": 14500,
+          "date": "2026-03-20"
+        },
+        {
+          "price": 13800,
           "date": "2026-03-20"
         }
       ]
