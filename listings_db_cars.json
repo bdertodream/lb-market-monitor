@@ -46946,19 +46946,23 @@
     "location": "Hadath, Baabda",
     "district": "Baabda",
     "original_price": 11500,
-    "current_price": 11500,
+    "current_price": 10900,
     "price_history": [
       {
         "price": 11500,
         "date": "2026-03-01"
+      },
+      {
+        "price": 10900,
+        "date": "2026-03-21"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-17",
-    "last_updated": "2026-03-07",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_seen": "2026-03-21",
+    "last_updated": "2026-03-21",
+    "drop_usd": 600,
+    "drop_pct": 5.2,
+    "last_drop_date": "2026-03-21",
     "posted_date": "2026-03-01"
   },
   "116771582": {
@@ -131165,10 +131169,14 @@
     "location": "Al Minie, Minieh-Denniye",
     "district": "Minieh-Denniye",
     "original_price": 1500,
-    "current_price": 1500,
+    "current_price": 1400,
     "price_history": [
       {
         "price": 1500,
+        "date": "2026-03-21"
+      },
+      {
+        "price": 1400,
         "date": "2026-03-21"
       }
     ],
@@ -131176,9 +131184,9 @@
     "last_seen": "2026-03-21",
     "last_updated": "2026-03-21",
     "posted_date": "2026-03-21",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 100,
+    "drop_pct": 6.7,
+    "last_drop_date": "2026-03-21"
   },
   "116214678": {
     "id": "116214678",
@@ -132769,6 +132777,286 @@
     "price_history": [
       {
         "price": 12345,
+        "date": "2026-03-21"
+      }
+    ],
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "last_updated": "2026-03-21",
+    "posted_date": "2026-03-21",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116794220": {
+    "id": "116794220",
+    "title": "Land Rover Defender 1980 Swiss Origin 61.000 km .",
+    "url": "https://www.olx.com.lb/ad/land-rover-defender-1980-swiss-origin-61000-km-ID116794220.html",
+    "make": "Land Rover",
+    "model": "Defender",
+    "body_type": "Classic Cars",
+    "year": 1980,
+    "mileage": 61000,
+    "transmission": "Automatic",
+    "location": "Sabtieh, Metn",
+    "district": "Metn",
+    "original_price": 30000,
+    "current_price": 30000,
+    "price_history": [
+      {
+        "price": 30000,
+        "date": "2026-03-21"
+      }
+    ],
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "last_updated": "2026-03-21",
+    "posted_date": "2026-03-21",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116794073": {
+    "id": "116794073",
+    "title": "Chevrolet Trailblazer limited 1 owner IMPEX Service history",
+    "url": "https://www.olx.com.lb/ad/chevrolet-trailblazer-limited-1-owner-impex-service-history-ID116794073.html",
+    "make": "Chevrolet",
+    "model": "Trailblazer",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 75000,
+    "transmission": "Automatic",
+    "location": "Sabtieh, Metn",
+    "district": "Metn",
+    "original_price": 19500,
+    "current_price": 19500,
+    "price_history": [
+      {
+        "price": 19500,
+        "date": "2026-03-21"
+      }
+    ],
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "last_updated": "2026-03-21",
+    "posted_date": "2026-03-21",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116793586": {
+    "id": "116793586",
+    "title": "Bentley Continental GT Speed Mulliner W12 Company source",
+    "url": "https://www.olx.com.lb/ad/bentley-continental-gt-speed-mulliner-w12-company-source-ID116793586.html",
+    "make": "Bentley",
+    "model": "Continental GT",
+    "body_type": "Sports / Coupe",
+    "year": 2013,
+    "mileage": 60000,
+    "transmission": "Automatic",
+    "location": "Sabtieh, Metn",
+    "district": "Metn",
+    "original_price": 85000,
+    "current_price": 85000,
+    "price_history": [
+      {
+        "price": 85000,
+        "date": "2026-03-21"
+      }
+    ],
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "last_updated": "2026-03-21",
+    "posted_date": "2026-03-21",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116791020": {
+    "id": "116791020",
+    "title": "Mercedes-Benz GLE-400 TgF gargour 1 Owner",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-gle-400-tgf-gargour-1-owner-ID116791020.html",
+    "make": "Mercedes-Benz",
+    "model": "GLE-Class",
+    "body_type": "SUV",
+    "year": 2016,
+    "mileage": 87000,
+    "transmission": "Automatic",
+    "location": "Sabtieh, Metn",
+    "district": "Metn",
+    "original_price": 27800,
+    "current_price": 27800,
+    "price_history": [
+      {
+        "price": 27800,
+        "date": "2026-03-21"
+      }
+    ],
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "last_updated": "2026-03-21",
+    "posted_date": "2026-03-21",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116757342": {
+    "id": "116757342",
+    "title": "BMW 7-Series 2009",
+    "url": "https://www.olx.com.lb/ad/bmw-7-series-2009-ID116757342.html",
+    "make": "BMW",
+    "model": "7-Series",
+    "body_type": "Sedan",
+    "year": 2009,
+    "mileage": 129000,
+    "transmission": "Steptronic",
+    "location": "Gemmayzeh, Beirut",
+    "district": "Beirut",
+    "original_price": 8000,
+    "current_price": 8000,
+    "price_history": [
+      {
+        "price": 8000,
+        "date": "2026-03-21"
+      }
+    ],
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "last_updated": "2026-03-21",
+    "posted_date": "2026-03-21",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116307585": {
+    "id": "116307585",
+    "title": "MINI Cooper S Countryman 2017",
+    "url": "https://www.olx.com.lb/ad/mini-cooper-s-countryman-2017-ID116307585.html",
+    "make": "MINI",
+    "model": "Cooper S Countryman",
+    "body_type": "Hatchback",
+    "year": 2017,
+    "mileage": 100000,
+    "transmission": "Automatic",
+    "location": "Sin El Fil, Metn",
+    "district": "Metn",
+    "original_price": 20000,
+    "current_price": 20000,
+    "price_history": [
+      {
+        "price": 20000,
+        "date": "2026-03-21"
+      }
+    ],
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "last_updated": "2026-03-21",
+    "posted_date": "2026-03-21",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116827862": {
+    "id": "116827862",
+    "title": "تويوتا كورولا 1989",
+    "url": "https://www.olx.com.lb/ad/تويوتا-كورولا-1989-ID116827862.html",
+    "make": "Toyota",
+    "model": "Corolla",
+    "body_type": "Estate",
+    "year": 1989,
+    "mileage": 1,
+    "transmission": "Automatic",
+    "location": "Jiyyeh, Chouf",
+    "district": "Chouf",
+    "original_price": 1400,
+    "current_price": 1400,
+    "price_history": [
+      {
+        "price": 1400,
+        "date": "2026-03-21"
+      }
+    ],
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "last_updated": "2026-03-21",
+    "posted_date": "2026-03-21",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115529754": {
+    "id": "115529754",
+    "title": "Audi Q5 2010",
+    "url": "https://www.olx.com.lb/ad/audi-q5-2010-ID115529754.html",
+    "make": "Audi",
+    "model": "Q5",
+    "body_type": "SUV",
+    "year": 2010,
+    "mileage": 175000,
+    "transmission": "Automatic",
+    "location": "Other in Keserouan, Keserouan",
+    "district": "Keserouan",
+    "original_price": 6000,
+    "current_price": 6000,
+    "price_history": [
+      {
+        "price": 6000,
+        "date": "2026-03-21"
+      }
+    ],
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "last_updated": "2026-03-21",
+    "posted_date": "2026-03-21",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116543878": {
+    "id": "116543878",
+    "title": "Audi A5 2009",
+    "url": "https://www.olx.com.lb/ad/audi-a5-2009-ID116543878.html",
+    "make": "Audi",
+    "model": "A5",
+    "body_type": "Sports / Coupe",
+    "year": 2009,
+    "mileage": 120000,
+    "transmission": "Steptronic",
+    "location": "Jal El Dib, Metn",
+    "district": "Metn",
+    "original_price": 7000,
+    "current_price": 7000,
+    "price_history": [
+      {
+        "price": 7000,
+        "date": "2026-03-21"
+      }
+    ],
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21",
+    "last_updated": "2026-03-21",
+    "posted_date": "2026-03-21",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116566900": {
+    "id": "116566900",
+    "title": "هوندا سي ار في مفول",
+    "url": "https://www.olx.com.lb/ad/مرسيدس-بنز-أيه-كلاس-2018-ID116566900.html",
+    "make": "Honda",
+    "model": "CR-V",
+    "body_type": "Other",
+    "year": 2021,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Al Bahsas, Tripoli",
+    "district": "Tripoli",
+    "original_price": 24000,
+    "current_price": 24000,
+    "price_history": [
+      {
+        "price": 24000,
         "date": "2026-03-21"
       }
     ],
