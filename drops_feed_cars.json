@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T01:17:26.890411",
-  "total_tracked": 4520,
+  "generated_at": "2026-03-21T04:04:28.245286",
+  "total_tracked": 4522,
   "total_drops": 262,
-  "total_new": 4520,
+  "total_new": 4522,
   "avg_drop_pct": 6.6,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -7980,6 +7980,50 @@
       "price_history": [
         {
           "price": 13000,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116793755",
+      "title": "Mercedes-Benz E-Class 2017",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2017-ID116793755.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 109000,
+      "transmission": "Automatic",
+      "location": "Ras Beirut, Beirut",
+      "original_price": 22500,
+      "current_price": 22500,
+      "first_seen": "2026-03-21",
+      "posted_date": "2026-03-21",
+      "price_history": [
+        {
+          "price": 22500,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116827309",
+      "title": "Toyota Corolla 2015",
+      "url": "https://www.olx.com.lb/ad/toyota-corolla-2015-ID116827309.html",
+      "make": "Toyota",
+      "model": "Corolla",
+      "body_type": "Sedan",
+      "year": 2015,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Downtown, Beirut",
+      "original_price": 11500,
+      "current_price": 11500,
+      "first_seen": "2026-03-21",
+      "posted_date": "2026-03-21",
+      "price_history": [
+        {
+          "price": 11500,
           "date": "2026-03-21"
         }
       ]
