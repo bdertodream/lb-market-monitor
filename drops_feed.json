@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T21:22:27.909901",
-  "total_tracked": 28700,
+  "generated_at": "2026-03-21T22:20:58.272693",
+  "total_tracked": 28702,
   "total_drops": 195,
-  "total_new": 28700,
+  "total_new": 28702,
   "avg_drop_pct": 8.0,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -12361,6 +12361,42 @@
       "price_history": [
         {
           "price": 750000,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116827998",
+      "title": "Land + villa for sale in Cornet chehwan",
+      "url": "https://www.olx.com.lb/ad/land-villa-for-sale-in-cornet-chehwan-ID116827998.html",
+      "type": "Villa",
+      "location": "Cornet Chahwan, Metn",
+      "sqm": 1500,
+      "original_price": 3000000,
+      "current_price": 3000000,
+      "posted_date": "2026-03-21",
+      "first_seen": "2026-03-21",
+      "price_history": [
+        {
+          "price": 3000000,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116828018",
+      "title": "2375m2 Land in Ain Aalak,metn",
+      "url": "https://www.olx.com.lb/ad/2375m2-land-in-ain-aalakmetn-ID116828018.html",
+      "type": "Land",
+      "location": "Ain Aalak, Metn",
+      "sqm": 2375,
+      "original_price": 625000,
+      "current_price": 625000,
+      "posted_date": "2026-03-21",
+      "first_seen": "2026-03-21",
+      "price_history": [
+        {
+          "price": 625000,
           "date": "2026-03-21"
         }
       ]
