@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T06:40:10.217458",
-  "total_tracked": 288,
+  "generated_at": "2026-03-21T07:35:41.581134",
+  "total_tracked": 289,
   "total_drops": 20,
-  "total_new": 288,
+  "total_new": 289,
   "avg_drop_pct": 28.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -614,6 +614,24 @@
       "price_history": [
         {
           "price": 22500,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116827377",
+      "title": "A-1889889",
+      "url": "https://www.olx.com.lb/ad/a-1889889-ID116827377.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 8000,
+      "current_price": 8000,
+      "first_seen": "2026-03-21",
+      "posted_date": "2026-03-21",
+      "price_history": [
+        {
+          "price": 8000,
           "date": "2026-03-21"
         }
       ]
