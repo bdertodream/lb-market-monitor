@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T20:22:18.458700",
-  "total_tracked": 28698,
+  "generated_at": "2026-03-21T21:22:27.909901",
+  "total_tracked": 28700,
   "total_drops": 195,
-  "total_new": 28698,
+  "total_new": 28700,
   "avg_drop_pct": 8.0,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -12325,6 +12325,42 @@
       "price_history": [
         {
           "price": 265000,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116752747",
+      "title": "apartment with terrace for sale in baabda - baabda town",
+      "url": "https://www.olx.com.lb/ad/apartment-with-terrace-for-sale-in-baabda-baabda-town-ID116752747.html",
+      "type": "Apartment",
+      "location": "Baabda Town, Baabda",
+      "sqm": 260,
+      "original_price": 290000,
+      "current_price": 290000,
+      "posted_date": "2026-03-21",
+      "first_seen": "2026-03-21",
+      "price_history": [
+        {
+          "price": 290000,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116827995",
+      "title": "1485m2 Land in cornet chehwan",
+      "url": "https://www.olx.com.lb/ad/1485m2-land-in-cornet-chehwan-ID116827995.html",
+      "type": "Land",
+      "location": "Cornet Chahwan, Metn",
+      "sqm": 1485,
+      "original_price": 750000,
+      "current_price": 750000,
+      "posted_date": "2026-03-21",
+      "first_seen": "2026-03-21",
+      "price_history": [
+        {
+          "price": 750000,
           "date": "2026-03-21"
         }
       ]
