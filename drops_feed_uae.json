@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 5199,
-  "total_drops": 60,
-  "total_new": 5199,
+  "total_tracked": 5203,
+  "total_drops": 61,
+  "total_new": 5203,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -845,6 +845,20 @@
       "bedrooms": "",
       "date": "2026-03-21",
       "first_seen": "2026-03-09"
+    },
+    {
+      "id": "17197857",
+      "title": "Corner Huge Villa | 5 Bed+Maids | Front and Backyard | Private Garden",
+      "old_price": 5400000,
+      "new_price": 4999999,
+      "drop_pct": 7.4,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/13/corner-huge-villa-5-bedmaids-front-and--2-303311/",
+      "area": "Al Quoz",
+      "category": "Villa",
+      "size": "4818",
+      "bedrooms": "5",
+      "date": "2026-03-21",
+      "first_seen": "2026-03-13"
     }
   ],
   "new_listings": [
@@ -1385,6 +1399,50 @@
       "size": "9530",
       "bedrooms": "6",
       "price": 25000000,
+      "first_seen": "2026-03-21"
+    },
+    {
+      "id": "17222633",
+      "title": "DISTRESS AND BEST DEAL IN DUBAI SILICON OASIS FOR 1 BR FOR SELL IN JUST 750K / WITH TOP CLASS EMINI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/21/distress-and-best-deal-in-dubai-silicon-2-233123/",
+      "area": "Dubai Silicon Oasis (DSO)",
+      "category": "Apartment",
+      "size": "656",
+      "bedrooms": "1",
+      "price": 750000,
+      "first_seen": "2026-03-21"
+    },
+    {
+      "id": "17183181",
+      "title": "Large Layout | Private Location | Viewable",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/10/large-layout-private-location-viewable-2-780861/",
+      "area": "Nad Al Sheba",
+      "category": "Villa",
+      "size": "5200",
+      "bedrooms": "4",
+      "price": 13800000,
+      "first_seen": "2026-03-21"
+    },
+    {
+      "id": "17159993",
+      "title": "Best Price I Exclusive I Stunning 1 BHK",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/5/best-price-i-exclusive-i-stunning-1-bhk-2-269637/",
+      "area": "Za'abeel",
+      "category": "Apartment",
+      "size": "855",
+      "bedrooms": "1",
+      "price": 5800000,
+      "first_seen": "2026-03-21"
+    },
+    {
+      "id": "9805697",
+      "title": "Rented Fitted Office for Sale Churchill Tower",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/25/rented-fitted-office-for-sale-churchill-2-120845/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "620",
+      "bedrooms": "",
+      "price": 1350000,
       "first_seen": "2026-03-21"
     },
     {
@@ -6302,50 +6360,6 @@
       "size": "44919",
       "bedrooms": "",
       "price": 10500000,
-      "first_seen": "2026-03-18"
-    },
-    {
-      "id": "9808318",
-      "title": "Best Deal I Prime Location I High ROI I Vacant I Lagoon View I Price Negiotiable",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/18/best-deal-i-prime-location-i-high-roi-i-2-341320/",
-      "area": "Meydan",
-      "category": "Shop",
-      "size": "791",
-      "bedrooms": "",
-      "price": 3591403,
-      "first_seen": "2026-03-18"
-    },
-    {
-      "id": "9808315",
-      "title": "1% Payment Plan | Skyline View | Premium Office",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/18/1-payment-plan-skyline-view-premium-off-2-185524/",
-      "area": "Al Sufouh",
-      "category": "Office",
-      "size": "569",
-      "bedrooms": "",
-      "price": 3121000,
-      "first_seen": "2026-03-18"
-    },
-    {
-      "id": "9712569",
-      "title": "Corner | G+4 | Premium Building Plot",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2025/10/13/corner-g-4-premium-building-plot-2-828110/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "13882",
-      "bedrooms": "",
-      "price": 10411740,
-      "first_seen": "2026-03-18"
-    },
-    {
-      "id": "9749037",
-      "title": "Luxury Living | Prime Investment| Exclusive Island",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/3/18/luxury-living-prime-investment-exclusiv-2-162025/",
-      "area": "DAMAC Islands",
-      "category": "Land",
-      "size": "1550",
-      "bedrooms": "",
-      "price": 2810000,
       "first_seen": "2026-03-18"
     }
   ],
