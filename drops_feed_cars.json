@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T04:04:28.245286",
-  "total_tracked": 4522,
+  "generated_at": "2026-03-21T05:12:04.717929",
+  "total_tracked": 4523,
   "total_drops": 262,
-  "total_new": 4522,
+  "total_new": 4523,
   "avg_drop_pct": 6.6,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -8024,6 +8024,28 @@
       "price_history": [
         {
           "price": 11500,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116699202",
+      "title": "MINI Cooper S 2010",
+      "url": "https://www.olx.com.lb/ad/mini-cooper-s-2010-ID116699202.html",
+      "make": "MINI",
+      "model": "Cooper S",
+      "body_type": "Convertible",
+      "year": 2010,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Kfar Roummane, Nabatieh",
+      "original_price": 5900,
+      "current_price": 5900,
+      "first_seen": "2026-03-21",
+      "posted_date": "2026-03-21",
+      "price_history": [
+        {
+          "price": 5900,
           "date": "2026-03-21"
         }
       ]
