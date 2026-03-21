@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 5180,
-  "total_drops": 59,
-  "total_new": 5180,
+  "total_tracked": 5183,
+  "total_drops": 60,
+  "total_new": 5183,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -831,6 +831,20 @@
       "bedrooms": "",
       "date": "2026-03-20",
       "first_seen": "2026-03-12"
+    },
+    {
+      "id": "9805577",
+      "title": "Shell and Core Retail | Vacant | Prime Location",
+      "old_price": 800000,
+      "new_price": 700000,
+      "drop_pct": 12.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/25/shell-and-core-retail-vacant-prime-loca-2-298234/",
+      "area": "DIFC",
+      "category": "Shop",
+      "size": "411",
+      "bedrooms": "",
+      "date": "2026-03-21",
+      "first_seen": "2026-03-09"
     }
   ],
   "new_listings": [
@@ -1162,6 +1176,39 @@
       "size": "1637",
       "bedrooms": "",
       "price": 6500000,
+      "first_seen": "2026-03-21"
+    },
+    {
+      "id": "17178760",
+      "title": "UNDER OP DEAL | EXCLUSIVE | PENTHOUSE",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/penthouse/2026/3/9/under-op-deal-exclusive-penthouse-2-116189/",
+      "area": "Palm Jumeirah",
+      "category": "Penthouse",
+      "size": "4910",
+      "bedrooms": "4",
+      "price": 24500000,
+      "first_seen": "2026-03-21"
+    },
+    {
+      "id": "17194361",
+      "title": "Exclusive | Fully Renovated | Customized Villa",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/12/exclusive-fully-renovated-customized-vi-2-329849/",
+      "area": "The Villa",
+      "category": "Villa",
+      "size": "6346",
+      "bedrooms": "5",
+      "price": 19999999,
+      "first_seen": "2026-03-21"
+    },
+    {
+      "id": "9742588",
+      "title": "Prime Residential Plot | Fountain Drive, Al Barari",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/2/18/prime-residential-plot-fountain-drive-a-2-327402/",
+      "area": "Al Barari",
+      "category": "Land",
+      "size": "32595",
+      "bedrooms": "",
+      "price": 84000000,
       "first_seen": "2026-03-21"
     },
     {
@@ -6299,39 +6346,6 @@
       "size": "877",
       "bedrooms": "1",
       "price": 2999500,
-      "first_seen": "2026-03-18"
-    },
-    {
-      "id": "17177572",
-      "title": "Maids Room I Sea View I High Floor",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/9/maids-room-i-sea-view-i-high-floor-2-268152/",
-      "area": "Bluewaters Island",
-      "category": "Apartment",
-      "size": "2898",
-      "bedrooms": "4",
-      "price": 17000000,
-      "first_seen": "2026-03-18"
-    },
-    {
-      "id": "16978602",
-      "title": "Beautiful Views I Spacious Living I High ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/22/beautiful-views-i-spacious-living-i-hig-2-675414/",
-      "area": "Dubai Harbour",
-      "category": "Apartment",
-      "size": "829",
-      "bedrooms": "1",
-      "price": 5999999,
-      "first_seen": "2026-03-18"
-    },
-    {
-      "id": "9808328",
-      "title": "Retail | Prime Location | Attractive Payment Plan",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/18/retail-prime-location-attractive-paymen-2-271170/",
-      "area": "Arjan",
-      "category": "Shop",
-      "size": "406",
-      "bedrooms": "",
-      "price": 1422540,
       "first_seen": "2026-03-18"
     }
   ],
