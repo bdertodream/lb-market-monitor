@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T08:29:43.332030",
+  "generated_at": "2026-03-21T09:31:22.313763",
   "total_tracked": 289,
   "total_drops": 20,
   "total_new": 289,
@@ -1324,13 +1324,17 @@
       "plate_type": "Standard",
       "location": "Verdun, Beirut",
       "original_price": 3000,
-      "current_price": 3000,
+      "current_price": 3150,
       "first_seen": "2026-03-16",
       "posted_date": "2026-03-16",
       "price_history": [
         {
           "price": 3000,
           "date": "2026-03-16"
+        },
+        {
+          "price": 3150,
+          "date": "2026-03-21"
         }
       ]
     },
@@ -5090,13 +5094,17 @@
       "plate_type": "Standard",
       "location": "Ras Beirut, Beirut",
       "original_price": 3000,
-      "current_price": 3000,
+      "current_price": 3350,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 3000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 3350,
+          "date": "2026-03-21"
         }
       ]
     },

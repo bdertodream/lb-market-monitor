@@ -3857,16 +3857,20 @@
     "location": "Ras Beirut, Beirut",
     "district": "Beirut",
     "original_price": 3000,
-    "current_price": 3000,
+    "current_price": 3350,
     "price_history": [
       {
         "price": 3000,
         "date": "2026-03-01"
+      },
+      {
+        "price": 3350,
+        "date": "2026-03-21"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-21",
-    "last_updated": "2026-03-07",
+    "last_updated": "2026-03-21",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
@@ -6288,16 +6292,20 @@
     "location": "Verdun, Beirut",
     "district": "Beirut",
     "original_price": 3000,
-    "current_price": 3000,
+    "current_price": 3150,
     "price_history": [
       {
         "price": 3000,
         "date": "2026-03-16"
+      },
+      {
+        "price": 3150,
+        "date": "2026-03-21"
       }
     ],
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-21",
-    "last_updated": "2026-03-16",
+    "last_updated": "2026-03-21",
     "posted_date": "2026-03-16",
     "drop_usd": 0,
     "drop_pct": 0,
