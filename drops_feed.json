@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T14:24:52.518528",
-  "total_tracked": 28574,
-  "total_drops": 193,
-  "total_new": 28574,
+  "generated_at": "2026-03-21T15:23:31.334470",
+  "total_tracked": 28580,
+  "total_drops": 194,
+  "total_new": 28580,
   "avg_drop_pct": 7.8,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -3151,6 +3151,31 @@
         {
           "price": 133000,
           "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116800920",
+      "title": "2300m land zone 25/50 Qobeih Suitable for Touristic or Bangallows",
+      "url": "https://www.olx.com.lb/ad/2300m-land-zone-2550-qobeih-suitable-for-touristic-or-bangallows-ID116800920.html",
+      "type": "Land",
+      "location": "Hammana, Baabda",
+      "sqm": 2300,
+      "original_price": 115000,
+      "current_price": 110000,
+      "drop_usd": 5000,
+      "drop_pct": 4.3,
+      "last_drop_date": "2026-03-21",
+      "posted_date": "2026-03-11",
+      "first_seen": "2026-03-11",
+      "price_history": [
+        {
+          "price": 115000,
+          "date": "2026-03-11"
+        },
+        {
+          "price": 110000,
+          "date": "2026-03-21"
         }
       ]
     },
@@ -10035,6 +10060,114 @@
       "price_history": [
         {
           "price": 1500000,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116827731",
+      "title": "Apartment for Sale – Fanar – SGHG204",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-fanar-sghg204-ID116827731.html",
+      "type": "Apartment",
+      "location": "Fanar, Metn",
+      "sqm": 80,
+      "original_price": 170000,
+      "current_price": 170000,
+      "posted_date": "2026-03-21",
+      "first_seen": "2026-03-21",
+      "price_history": [
+        {
+          "price": 170000,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116827724",
+      "title": "Apartment for Sale – Rabweh – SGHG202",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-rabweh-sghg202-ID116827724.html",
+      "type": "Apartment",
+      "location": "Rabweh, Metn",
+      "sqm": 226,
+      "original_price": 400000,
+      "current_price": 400000,
+      "posted_date": "2026-03-21",
+      "first_seen": "2026-03-21",
+      "price_history": [
+        {
+          "price": 400000,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116749137",
+      "title": "Smart Living Mansourieh - فرصة سكنية مميزة",
+      "url": "https://www.olx.com.lb/ad/smart-living-mansourieh-فرصة-سكنية-مميزة-ID116749137.html",
+      "type": "Apartment",
+      "location": "Mansourieh, Metn",
+      "sqm": 143,
+      "original_price": 180000,
+      "current_price": 180000,
+      "posted_date": "2026-03-21",
+      "first_seen": "2026-03-21",
+      "price_history": [
+        {
+          "price": 180000,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116827757",
+      "title": "Rachkida Lake View Land - أرض مطلة على بحيرة المسيلحة راشكيدا",
+      "url": "https://www.olx.com.lb/ad/rachkida-lake-view-land-أرض-مطلة-على-بحيرة-المسيلحة-راشكيدا-ID116827757.html",
+      "type": "Land",
+      "location": "Other in Batroun, Batroun",
+      "sqm": 10000,
+      "original_price": 500000,
+      "current_price": 500000,
+      "posted_date": "2026-03-21",
+      "first_seen": "2026-03-21",
+      "price_history": [
+        {
+          "price": 500000,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116827747",
+      "title": "Mazraat Yachouh 97m2 | Prime Area | Main Road | 2 Floors | EW",
+      "url": "https://www.olx.com.lb/ad/mazraat-yachouh-97m2-prime-area-main-road-2-floors-ew-ID116827747.html",
+      "type": "Apartment",
+      "location": "Mazraat Yachouh, Metn",
+      "sqm": 97,
+      "original_price": 126000,
+      "current_price": 126000,
+      "posted_date": "2026-03-21",
+      "first_seen": "2026-03-21",
+      "price_history": [
+        {
+          "price": 126000,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116102204",
+      "title": "3 buildings that include 41 apartments for sale and 10 shops",
+      "url": "https://www.olx.com.lb/ad/3-building-that-include-40-apartments-for-sale-and-10-shops-ID116102204.html",
+      "type": "Building",
+      "location": "Bourj Hammoud, Metn",
+      "sqm": 8000,
+      "original_price": 4000000,
+      "current_price": 4000000,
+      "posted_date": "2026-03-21",
+      "first_seen": "2026-03-21",
+      "price_history": [
+        {
+          "price": 4000000,
           "date": "2026-03-21"
         }
       ]
@@ -290887,13 +291020,17 @@
       "location": "Hammana, Baabda",
       "sqm": 2300,
       "original_price": 115000,
-      "current_price": 115000,
+      "current_price": 110000,
       "posted_date": "2026-03-11",
       "first_seen": "2026-03-11",
       "price_history": [
         {
           "price": 115000,
           "date": "2026-03-11"
+        },
+        {
+          "price": 110000,
+          "date": "2026-03-21"
         }
       ]
     },

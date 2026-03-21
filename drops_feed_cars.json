@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T14:26:50.944415",
-  "total_tracked": 4615,
+  "generated_at": "2026-03-21T15:25:24.070497",
+  "total_tracked": 4618,
   "total_drops": 270,
-  "total_new": 4615,
+  "total_new": 4618,
   "avg_drop_pct": 6.5,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -10310,6 +10310,72 @@
       "price_history": [
         {
           "price": 25000,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116827748",
+      "title": "03/274471 Mercedes-Benz E-Class 1996",
+      "url": "https://www.olx.com.lb/ad/03274471-mercedes-benz-e-class-1996-ID116827748.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sedan",
+      "year": 1996,
+      "mileage": 180000,
+      "transmission": "Automatic",
+      "location": "Antelias, Metn",
+      "original_price": 2500,
+      "current_price": 2500,
+      "first_seen": "2026-03-21",
+      "posted_date": "2026-03-21",
+      "price_history": [
+        {
+          "price": 2500,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116827730",
+      "title": "Jeep Cherokee 1988",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-1988-ID116827730.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "Other",
+      "year": 1988,
+      "mileage": 1,
+      "transmission": "Automatic",
+      "location": "Ain Saadeh, Metn",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-03-21",
+      "posted_date": "2026-03-21",
+      "price_history": [
+        {
+          "price": 6000,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116827727",
+      "title": "Dodge Ram 2010",
+      "url": "https://www.olx.com.lb/ad/dodge-ram-2010-ID116827727.html",
+      "make": "Dodge",
+      "model": "Ram",
+      "body_type": "Pickup",
+      "year": 2010,
+      "mileage": 127000,
+      "transmission": "Steptronic",
+      "location": "Amioun, Koura",
+      "original_price": 11000,
+      "current_price": 11000,
+      "first_seen": "2026-03-21",
+      "posted_date": "2026-03-21",
+      "price_history": [
+        {
+          "price": 11000,
           "date": "2026-03-21"
         }
       ]
