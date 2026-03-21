@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-21T22:22:41.832697",
-  "total_tracked": 4683,
+  "generated_at": "2026-03-21T23:23:46.736430",
+  "total_tracked": 4686,
   "total_drops": 282,
-  "total_new": 4683,
+  "total_new": 4686,
   "avg_drop_pct": 6.4,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -12170,6 +12170,72 @@
       "price_history": [
         {
           "price": 8500,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116750107",
+      "title": "Nissan Rogue 2015",
+      "url": "https://www.olx.com.lb/ad/nissan-rogue-2015-ID116750107.html",
+      "make": "Nissan",
+      "model": "Rogue",
+      "body_type": "SUV",
+      "year": 2015,
+      "mileage": 130000,
+      "transmission": "Automatic",
+      "location": "Ain El Remmaneh, Beirut",
+      "original_price": 11000,
+      "current_price": 11000,
+      "first_seen": "2026-03-21",
+      "posted_date": "2026-03-21",
+      "price_history": [
+        {
+          "price": 11000,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116821731",
+      "title": "Jeep Grand Cherokee 2019",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2019-ID116821731.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 88000,
+      "transmission": "Steptronic",
+      "location": "Damour, Chouf",
+      "original_price": 22000,
+      "current_price": 22000,
+      "first_seen": "2026-03-21",
+      "posted_date": "2026-03-21",
+      "price_history": [
+        {
+          "price": 22000,
+          "date": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "id": "116750783",
+      "title": "Jeep Grand Cherokee Limited!!",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-limited-ID116750783.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 90000,
+      "transmission": "Steptronic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 16800,
+      "current_price": 16800,
+      "first_seen": "2026-03-21",
+      "posted_date": "2026-03-21",
+      "price_history": [
+        {
+          "price": 16800,
           "date": "2026-03-21"
         }
       ]
