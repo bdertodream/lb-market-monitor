@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-22T04:17:01.942531",
-  "total_tracked": 28711,
+  "generated_at": "2026-03-22T05:52:39.183562",
+  "total_tracked": 28712,
   "total_drops": 195,
-  "total_new": 28711,
+  "total_new": 28712,
   "avg_drop_pct": 8.0,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -4977,6 +4977,24 @@
       "price_history": [
         {
           "price": 160000,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116644894",
+      "title": "Warehouse for sale in Tilal Ain Saadeh",
+      "url": "https://www.olx.com.lb/ad/warehouse-for-sale-in-tilal-ain-saadeh-ID116644894.html",
+      "type": "Villa",
+      "location": "Roumieh, Metn",
+      "sqm": 1100,
+      "original_price": 365000,
+      "current_price": 365000,
+      "posted_date": "2026-03-22",
+      "first_seen": "2026-03-22",
+      "price_history": [
+        {
+          "price": 365000,
           "date": "2026-03-22"
         }
       ]
