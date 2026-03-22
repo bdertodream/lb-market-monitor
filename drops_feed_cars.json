@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-22T01:26:15.915732",
-  "total_tracked": 4691,
+  "generated_at": "2026-03-22T04:18:49.590494",
+  "total_tracked": 4696,
   "total_drops": 282,
-  "total_new": 4691,
+  "total_new": 4696,
   "avg_drop_pct": 6.4,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -8524,6 +8524,116 @@
       "price_history": [
         {
           "price": 19870,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116828092",
+      "title": "Mercedes-Benz C-Class 2012",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2012-ID116828092.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Convertible",
+      "year": 2012,
+      "mileage": 1,
+      "transmission": "Automatic",
+      "location": "Saadnayel, Zahle",
+      "original_price": 10900,
+      "current_price": 10900,
+      "first_seen": "2026-03-22",
+      "posted_date": "2026-03-22",
+      "price_history": [
+        {
+          "price": 10900,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116795620",
+      "title": "Mazda 3 2017",
+      "url": "https://www.olx.com.lb/ad/mazda-3-2017-ID116795620.html",
+      "make": "Mazda",
+      "model": "3",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Ain El Remmaneh, Beirut",
+      "original_price": 14500,
+      "current_price": 14500,
+      "first_seen": "2026-03-22",
+      "posted_date": "2026-03-22",
+      "price_history": [
+        {
+          "price": 14500,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116625772",
+      "title": "GMC Yukon 2018",
+      "url": "https://www.olx.com.lb/ad/gmc-yukon-2018-ID116625772.html",
+      "make": "GMC",
+      "model": "Yukon",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 56000,
+      "transmission": "Automatic",
+      "location": "Jdaide, Metn",
+      "original_price": 36000,
+      "current_price": 36000,
+      "first_seen": "2026-03-22",
+      "posted_date": "2026-03-22",
+      "price_history": [
+        {
+          "price": 36000,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116472465",
+      "title": "Land Rover LR4 2013",
+      "url": "https://www.olx.com.lb/ad/land-rover-lr4-2013-ID116472465.html",
+      "make": "Land Rover",
+      "model": "LR4",
+      "body_type": "SUV",
+      "year": 2013,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Monteverde, Metn",
+      "original_price": 15000,
+      "current_price": 15000,
+      "first_seen": "2026-03-22",
+      "posted_date": "2026-03-22",
+      "price_history": [
+        {
+          "price": 15000,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116828079",
+      "title": "Land Rover Other 1995",
+      "url": "https://www.olx.com.lb/ad/land-rover-other-1995-ID116828079.html",
+      "make": "Land Rover",
+      "model": "Other",
+      "body_type": "Other",
+      "year": 1995,
+      "mileage": 100,
+      "transmission": "Automatic",
+      "location": "Jnah, Beirut",
+      "original_price": 3200,
+      "current_price": 3200,
+      "first_seen": "2026-03-22",
+      "posted_date": "2026-03-22",
+      "price_history": [
+        {
+          "price": 3200,
           "date": "2026-03-22"
         }
       ]
