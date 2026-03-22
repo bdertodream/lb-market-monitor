@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T19:27:29.876522",
+  "generated_at": "2026-03-22T20:25:14.903003",
   "total_tracked": 292,
   "total_drops": 20,
   "total_new": 292,
@@ -296,7 +296,7 @@
       "plate_type": "Standard",
       "location": "Dekwaneh, Metn",
       "original_price": 3400,
-      "current_price": 3000,
+      "current_price": 3200,
       "drop_usd": 400,
       "drop_pct": 11.8,
       "last_drop_date": "2026-03-20",
@@ -362,6 +362,10 @@
         {
           "price": 3000,
           "date": "2026-03-20"
+        },
+        {
+          "price": 3200,
+          "date": "2026-03-22"
         }
       ]
     },
@@ -3752,7 +3756,7 @@
       "plate_type": "Standard",
       "location": "Dekwaneh, Metn",
       "original_price": 3400,
-      "current_price": 3000,
+      "current_price": 3200,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -3815,6 +3819,10 @@
         {
           "price": 3000,
           "date": "2026-03-20"
+        },
+        {
+          "price": 3200,
+          "date": "2026-03-22"
         }
       ]
     },
