@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-22T14:25:57.642623",
-  "total_tracked": 28881,
-  "total_drops": 197,
-  "total_new": 28881,
+  "generated_at": "2026-03-22T15:23:58.445234",
+  "total_tracked": 28882,
+  "total_drops": 198,
+  "total_new": 28882,
   "avg_drop_pct": 8.0,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -2205,6 +2205,31 @@
         {
           "price": 1450000,
           "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116819144",
+      "title": "Apartment For Sale In Beit El Chaar With Terrace – CPTA96",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-beit-el-chaar-with-terrace-cpta96-ID116819144.html",
+      "type": "Apartment",
+      "location": "Beit El Chaar, Metn",
+      "sqm": 195,
+      "original_price": 155000,
+      "current_price": 145000,
+      "drop_usd": 10000,
+      "drop_pct": 6.5,
+      "last_drop_date": "2026-03-22",
+      "posted_date": "2026-03-13",
+      "first_seen": "2026-03-13",
+      "price_history": [
+        {
+          "price": 155000,
+          "date": "2026-03-13"
+        },
+        {
+          "price": 145000,
+          "date": "2026-03-22"
         }
       ]
     },
@@ -8087,6 +8112,24 @@
       "price_history": [
         {
           "price": 2600000,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116828432",
+      "title": "Apartment for Sale in Karakol El Druze شقة للبيع في كراكون الدروز",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-karakol-el-druze-شقة-للبيع-في-كراكون-الدروز-ID116828432.html",
+      "type": "Apartment",
+      "location": "Karakon Druze, Beirut",
+      "sqm": 350,
+      "original_price": 440000,
+      "current_price": 440000,
+      "posted_date": "2026-03-22",
+      "first_seen": "2026-03-22",
+      "price_history": [
+        {
+          "price": 440000,
           "date": "2026-03-22"
         }
       ]
@@ -202357,13 +202400,17 @@
       "location": "Beit El Chaar, Metn",
       "sqm": 195,
       "original_price": 155000,
-      "current_price": 155000,
+      "current_price": 145000,
       "posted_date": "2026-03-13",
       "first_seen": "2026-03-13",
       "price_history": [
         {
           "price": 155000,
           "date": "2026-03-13"
+        },
+        {
+          "price": 145000,
+          "date": "2026-03-22"
         }
       ]
     },
