@@ -23774,7 +23774,7 @@
   "16771670": {
     "id": "16771670",
     "title": "Mercedes Benz C-Class C200",
-    "price": 100000,
+    "price": 95000,
     "make": "Mercedes-Benz",
     "model": "C-Class",
     "year": "2019",
@@ -23789,6 +23789,10 @@
       {
         "price": 100000,
         "date": "2026-03-11T14:08:22Z"
+      },
+      {
+        "price": 95000,
+        "date": "2026-03-22T13:46:40Z"
       }
     ],
     "date": "2026-03-11"
@@ -60465,6 +60469,28 @@
       {
         "price": 86500,
         "date": "2026-03-22T12:38:11Z"
+      }
+    ],
+    "date": "2026-03-22"
+  },
+  "16741078": {
+    "id": "16741078",
+    "title": "GCC Longe Range",
+    "price": 97000,
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": "2023",
+    "kilometers": "44000",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Palm Jumeirah",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-3/2026/2/11/gcc-longe-range-2-737---280c11b98cd5409faffe64d8d7fbe55c/",
+    "first_seen": "2026-03-22T13:46:40Z",
+    "prices": [
+      {
+        "price": 97000,
+        "date": "2026-03-22T13:46:40Z"
       }
     ],
     "date": "2026-03-22"

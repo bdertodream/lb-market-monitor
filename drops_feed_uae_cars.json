@@ -1,8 +1,8 @@
 {
-  "total_tracked": 2717,
-  "total_drops": 35,
-  "total_new": 2717,
-  "last_updated": "2026-03-22T12:38:11Z",
+  "total_tracked": 2718,
+  "total_drops": 36,
+  "total_new": 2718,
+  "last_updated": "2026-03-22T13:46:40Z",
   "drops": [
     {
       "id": "16770596",
@@ -493,9 +493,35 @@
       "year": "2019",
       "mileage": "86000",
       "date": "2026-03-21T12:36:54Z"
+    },
+    {
+      "id": "16771670",
+      "title": "Mercedes Benz C-Class C200",
+      "old_price": 100000,
+      "new_price": 95000,
+      "drop_pct": 5.0,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/3/11/mercedes-benz-c-class-c200-2-244---f2a9c184f83144bf835299f3b496fb9c/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2019",
+      "mileage": "105000",
+      "date": "2026-03-22T13:46:40Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16741078",
+      "title": "GCC Longe Range",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-3/2026/2/11/gcc-longe-range-2-737---280c11b98cd5409faffe64d8d7fbe55c/",
+      "category": "Used Cars",
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": "2023",
+      "mileage": "44000",
+      "price": 97000,
+      "first_seen": "2026-03-22T13:46:40Z"
+    },
     {
       "id": "16735455",
       "title": "Volvo S90 R Design",
@@ -6482,18 +6508,6 @@
       "year": "2019",
       "mileage": "29385",
       "price": 600000,
-      "first_seen": "2026-03-16T19:00:15Z"
-    },
-    {
-      "id": "16481161",
-      "title": "ROLLS-ROYCE CULLINAN - 2019 - EUROPE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2025/7/11/rolls-royce-cullinan-2019-europe-2-567---bdce663929d64b5a8c04517a0996b081/",
-      "category": "Used Cars",
-      "make": "Rolls-Royce",
-      "model": "Cullinan",
-      "year": "2019",
-      "mileage": "52000",
-      "price": 1100000,
       "first_seen": "2026-03-16T19:00:15Z"
     }
   ]
