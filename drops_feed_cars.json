@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-22T22:23:51.705329",
-  "total_tracked": 4858,
+  "generated_at": "2026-03-22T23:26:44.933391",
+  "total_tracked": 4861,
   "total_drops": 291,
-  "total_new": 4858,
+  "total_new": 4861,
   "avg_drop_pct": 6.6,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -12491,6 +12491,72 @@
       "price_history": [
         {
           "price": 5500,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116793070",
+      "title": "BMW 5-Series 2009",
+      "url": "https://www.olx.com.lb/ad/bmw-5-series-2009-ID116793070.html",
+      "make": "BMW",
+      "model": "5-Series",
+      "body_type": "Sedan",
+      "year": 2009,
+      "mileage": 154000,
+      "transmission": "Manual",
+      "location": "Sanayeh, Beirut",
+      "original_price": 6300,
+      "current_price": 6300,
+      "first_seen": "2026-03-22",
+      "posted_date": "2026-03-22",
+      "price_history": [
+        {
+          "price": 6300,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116781354",
+      "title": "Mercedes-Benz E-Class 2017",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2017-ID116781354.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 140000,
+      "transmission": "Steptronic",
+      "location": "Borj El Chmali, Tyre",
+      "original_price": 22000,
+      "current_price": 22000,
+      "first_seen": "2026-03-22",
+      "posted_date": "2026-03-22",
+      "price_history": [
+        {
+          "price": 22000,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116828810",
+      "title": "Land Rover Defender 1981",
+      "url": "https://www.olx.com.lb/ad/land-rover-defender-1981-ID116828810.html",
+      "make": "Land Rover",
+      "model": "Defender",
+      "body_type": "Other",
+      "year": 1981,
+      "mileage": 0,
+      "transmission": "Manual",
+      "location": "Bteghrine, Metn",
+      "original_price": 1111,
+      "current_price": 1111,
+      "first_seen": "2026-03-22",
+      "posted_date": "2026-03-22",
+      "price_history": [
+        {
+          "price": 1111,
           "date": "2026-03-22"
         }
       ]

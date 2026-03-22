@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-22T22:24:09.371209",
-  "total_tracked": 292,
+  "generated_at": "2026-03-22T23:27:02.723832",
+  "total_tracked": 293,
   "total_drops": 20,
-  "total_new": 292,
+  "total_new": 293,
   "avg_drop_pct": 28.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -659,6 +659,24 @@
       ]
     },
     {
+      "id": "116828807",
+      "title": "very special number",
+      "url": "https://www.olx.com.lb/ad/very-special-number-ID116828807.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Basbina, Batroun",
+      "original_price": 3000,
+      "current_price": 3000,
+      "first_seen": "2026-03-22",
+      "posted_date": "2026-03-22",
+      "price_history": [
+        {
+          "price": 3000,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
       "id": "116827301",
       "title": "Golden plate number 6669/N",
       "url": "https://www.olx.com.lb/ad/golden-plate-number-6669n-ID116827301.html",
@@ -1086,13 +1104,17 @@
       "plate_type": "Standard",
       "location": "Beit Chabeb, Metn",
       "original_price": 3000,
-      "current_price": 3000,
+      "current_price": 3700,
       "first_seen": "2026-03-18",
       "posted_date": "2026-03-18",
       "price_history": [
         {
           "price": 3000,
           "date": "2026-03-18"
+        },
+        {
+          "price": 3700,
+          "date": "2026-03-22"
         }
       ]
     },
