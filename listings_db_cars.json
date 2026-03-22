@@ -5106,7 +5106,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-10",
+    "last_seen": "2026-03-22",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -11824,7 +11824,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-22",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -37216,7 +37216,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-17",
+    "last_seen": "2026-03-22",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -45676,7 +45676,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-18",
+    "last_seen": "2026-03-22",
     "last_updated": "2026-03-15",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -45704,7 +45704,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-18",
+    "last_seen": "2026-03-22",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -45732,7 +45732,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-18",
+    "last_seen": "2026-03-22",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -45788,7 +45788,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-18",
+    "last_seen": "2026-03-22",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -78666,7 +78666,7 @@
       }
     ],
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-03-22",
     "last_updated": "2026-03-13",
     "posted_date": "2026-03-13",
     "drop_usd": 0,
@@ -119553,7 +119553,7 @@
     "location": "Antelias, Metn",
     "district": "Metn",
     "original_price": 7000,
-    "current_price": 6999,
+    "current_price": 7000,
     "price_history": [
       {
         "price": 7000,
@@ -119562,11 +119562,15 @@
       {
         "price": 6999,
         "date": "2026-03-19"
+      },
+      {
+        "price": 7000,
+        "date": "2026-03-22"
       }
     ],
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-22",
-    "last_updated": "2026-03-19",
+    "last_updated": "2026-03-22",
     "posted_date": "2026-03-19",
     "drop_usd": 1,
     "drop_pct": 0.0,
@@ -135885,6 +135889,230 @@
     "price_history": [
       {
         "price": 7600,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116617045": {
+    "id": "116617045",
+    "title": "BMW 530i 2017 65000 Miles Only !",
+    "url": "https://www.olx.com.lb/ad/bmw-530i-2017-65000-miles-only-ID116617045.html",
+    "make": "BMW",
+    "model": "5-Series",
+    "body_type": "Sedan",
+    "year": 2017,
+    "mileage": 65000,
+    "transmission": "Automatic",
+    "location": "Sodeco, Beirut",
+    "district": "Beirut",
+    "original_price": 25800,
+    "current_price": 25800,
+    "price_history": [
+      {
+        "price": 25800,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116148542": {
+    "id": "116148542",
+    "title": "Hyundai Tucson Limited 2017",
+    "url": "https://www.olx.com.lb/ad/hyundai-tucson-2017-ID116148542.html",
+    "make": "Hyundai",
+    "model": "Tucson",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 130000,
+    "transmission": "Automatic",
+    "location": "Cornet Chahwan, Metn",
+    "district": "Metn",
+    "original_price": 15200,
+    "current_price": 15200,
+    "price_history": [
+      {
+        "price": 15200,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116371909": {
+    "id": "116371909",
+    "title": "Kia Picanto 2012",
+    "url": "https://www.olx.com.lb/ad/kia-picanto-2012-ID116371909.html",
+    "make": "Kia",
+    "model": "Picanto",
+    "body_type": "Small city car",
+    "year": 2012,
+    "mileage": 170000,
+    "transmission": "Automatic",
+    "location": "Baabdat, Metn",
+    "district": "Metn",
+    "original_price": 6000,
+    "current_price": 6000,
+    "price_history": [
+      {
+        "price": 6000,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116828251": {
+    "id": "116828251",
+    "title": "McLaren 570S Coupe 2016",
+    "url": "https://www.olx.com.lb/ad/mclaren-570s-coupe-2016-ID116828251.html",
+    "make": "McLaren",
+    "model": "570S Coupe",
+    "body_type": "Sports / Coupe",
+    "year": 2016,
+    "mileage": 30000,
+    "transmission": "Steptronic",
+    "location": "Sin El Fil, Metn",
+    "district": "Metn",
+    "original_price": 185000,
+    "current_price": 185000,
+    "price_history": [
+      {
+        "price": 185000,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116828250": {
+    "id": "116828250",
+    "title": "Mercedes-Benz GLE-Class 2017",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-gle-class-2017-ID116828250.html",
+    "make": "Mercedes-Benz",
+    "model": "GLE-Class",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 15000,
+    "transmission": "Steptronic",
+    "location": "Azmi, Tripoli",
+    "district": "Tripoli",
+    "original_price": 23800,
+    "current_price": 23800,
+    "price_history": [
+      {
+        "price": 23800,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116828246": {
+    "id": "116828246",
+    "title": "BMW 5-Series 2013",
+    "url": "https://www.olx.com.lb/ad/bmw-5-series-2013-ID116828246.html",
+    "make": "BMW",
+    "model": "5-Series",
+    "body_type": "Sedan",
+    "year": 2013,
+    "mileage": 106,
+    "transmission": "Steptronic",
+    "location": "Baabda Town, Baabda",
+    "district": "Baabda",
+    "original_price": 13000,
+    "current_price": 13000,
+    "price_history": [
+      {
+        "price": 13000,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116673323": {
+    "id": "116673323",
+    "title": "Mercedes-Benz E-Class 2011",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2011-ID116673323.html",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "body_type": "Sedan",
+    "year": 2011,
+    "mileage": 160000,
+    "transmission": "Steptronic",
+    "location": "Damour, Chouf",
+    "district": "Chouf",
+    "original_price": 11000,
+    "current_price": 11000,
+    "price_history": [
+      {
+        "price": 11000,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116828277": {
+    "id": "116828277",
+    "title": "Chevrolet Tahoe 2017 Impex source and maintenance",
+    "url": "https://www.olx.com.lb/ad/chevrolet-tahoe-2017-impex-source-and-maintenance-ID116828277.html",
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 106000,
+    "transmission": "Automatic",
+    "location": "Sodeco, Beirut",
+    "district": "Beirut",
+    "original_price": 30800,
+    "current_price": 30800,
+    "price_history": [
+      {
+        "price": 30800,
         "date": "2026-03-22"
       }
     ],
