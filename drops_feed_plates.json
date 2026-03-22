@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-22T15:26:09.221454",
-  "total_tracked": 289,
+  "generated_at": "2026-03-22T16:27:42.510453",
+  "total_tracked": 290,
   "total_drops": 20,
-  "total_new": 289,
+  "total_new": 290,
   "avg_drop_pct": 28.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -600,6 +600,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116828480",
+      "title": "car plate number",
+      "url": "https://www.olx.com.lb/ad/car-plate-number-ID116828480.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jbeil Town, Jbeil",
+      "original_price": 2500,
+      "current_price": 2500,
+      "first_seen": "2026-03-22",
+      "posted_date": "2026-03-22",
+      "price_history": [
+        {
+          "price": 2500,
+          "date": "2026-03-22"
+        }
+      ]
+    },
     {
       "id": "116827301",
       "title": "Golden plate number 6669/N",
