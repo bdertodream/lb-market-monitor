@@ -5340,7 +5340,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-12",
+    "last_seen": "2026-03-22",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -27676,12 +27676,13 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-05",
+    "last_seen": "2026-03-22",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
-    "stale": true
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "116808815": {
     "id": "116808815",
@@ -41848,19 +41849,23 @@
     "location": "Dbaye, Metn",
     "district": "Metn",
     "original_price": 39000,
-    "current_price": 39000,
+    "current_price": 37000,
     "price_history": [
       {
         "price": 39000,
         "date": "2026-03-01"
+      },
+      {
+        "price": 37000,
+        "date": "2026-03-22"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-16",
-    "last_updated": "2026-03-07",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "drop_usd": 2000,
+    "drop_pct": 5.1,
+    "last_drop_date": "2026-03-22",
     "posted_date": "2026-03-01"
   },
   "116433962": {
@@ -42279,7 +42284,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-20",
+    "last_seen": "2026-03-22",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -46808,7 +46813,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-20",
+    "last_seen": "2026-03-22",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -106922,7 +106927,7 @@
   },
   "116823856": {
     "id": "116823856",
-    "title": "Range Rover Sport 2019 HSE Super Charged 75000 Miles only",
+    "title": "Range Sport 2019 HSE dynamic Super Charged 75000 Miles only",
     "url": "https://www.olx.com.lb/ad/range-rover-sport-2019-hse-super-charged-75000-miles-only-ID116823856.html",
     "make": "Land Rover",
     "model": "Range Rover Sport",
@@ -132462,7 +132467,7 @@
   },
   "116827789": {
     "id": "116827789",
-    "title": "Mercedes-Benz G-Class 1985",
+    "title": "Mercedes-Benz E-class 1985",
     "url": "https://www.olx.com.lb/ad/mercedes-benz-g-class-1985-ID116827789.html",
     "make": "Mercedes-Benz",
     "model": "G-Class",
@@ -136765,6 +136770,482 @@
     "price_history": [
       {
         "price": 22800,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116828411": {
+    "id": "116828411",
+    "title": "Mercedes CLA 2016 Redline",
+    "url": "https://www.olx.com.lb/ad/mercedes-cla-2016-redline-ID116828411.html",
+    "make": "Mercedes-Benz",
+    "model": "CLA-Class",
+    "body_type": "Sedan",
+    "year": 2016,
+    "mileage": 100000,
+    "transmission": "Automatic",
+    "location": "Zalka, Metn",
+    "district": "Metn",
+    "original_price": 16200,
+    "current_price": 16200,
+    "price_history": [
+      {
+        "price": 16200,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116828414": {
+    "id": "116828414",
+    "title": "BYD Song plus Smart Drive 2025",
+    "url": "https://www.olx.com.lb/ad/byd-song-plus-smart-drive-2025-ID116828414.html",
+    "make": "BYD",
+    "model": "Other",
+    "body_type": "SUV",
+    "year": 2025,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Ballouneh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 25000,
+    "current_price": 25000,
+    "price_history": [
+      {
+        "price": 25000,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115431160": {
+    "id": "115431160",
+    "title": "2011 Audi a5 Cabrio",
+    "url": "https://www.olx.com.lb/ad/2011-audi-a5-cabrio-ID115431160.html",
+    "make": "Audi",
+    "model": "A5",
+    "body_type": "Convertible",
+    "year": 2011,
+    "mileage": 220000,
+    "transmission": "Automatic",
+    "location": "Bterram, Koura",
+    "district": "Koura",
+    "original_price": 9500,
+    "current_price": 9500,
+    "price_history": [
+      {
+        "price": 9500,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116828408": {
+    "id": "116828408",
+    "title": "Volkswagen Beetle 1971",
+    "url": "https://www.olx.com.lb/ad/volkswagen-beetle-1971-ID116828408.html",
+    "make": "Volkswagen",
+    "model": "Beetle",
+    "body_type": "Sports / Coupe",
+    "year": 1971,
+    "mileage": 1,
+    "transmission": "Manual",
+    "location": "Rmeileh, Chouf",
+    "district": "Chouf",
+    "original_price": 12700,
+    "current_price": 12700,
+    "price_history": [
+      {
+        "price": 12700,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116828407": {
+    "id": "116828407",
+    "title": "Mercedes-Benz GLE-Class 2018",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-gle-class-2018-ID116828407.html",
+    "make": "Mercedes-Benz",
+    "model": "GLE-Class",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 0,
+    "transmission": "Steptronic",
+    "location": "Al Minie, Minieh-Denniye",
+    "district": "Minieh-Denniye",
+    "original_price": 53000,
+    "current_price": 53000,
+    "price_history": [
+      {
+        "price": 53000,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116568138": {
+    "id": "116568138",
+    "title": "Mazda 3 2019",
+    "url": "https://www.olx.com.lb/ad/mazda-3-2019-ID116568138.html",
+    "make": "Mazda",
+    "model": "3",
+    "body_type": "Hatchback",
+    "year": 2019,
+    "mileage": 92000,
+    "transmission": "Steptronic",
+    "location": "Chekka, Batroun",
+    "district": "Batroun",
+    "original_price": 17500,
+    "current_price": 17500,
+    "price_history": [
+      {
+        "price": 17500,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116828399": {
+    "id": "116828399",
+    "title": "Suzuki Samurai 1982",
+    "url": "https://www.olx.com.lb/ad/suzuki-samurai-1982-ID116828399.html",
+    "make": "Suzuki",
+    "model": "Samurai",
+    "body_type": "SUV",
+    "year": 1982,
+    "mileage": 1,
+    "transmission": "Manual",
+    "location": "Aley Town, Aley",
+    "district": "Aley",
+    "original_price": 2500,
+    "current_price": 2500,
+    "price_history": [
+      {
+        "price": 2500,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116795855": {
+    "id": "116795855",
+    "title": "Bmw 320I Xdrive 2017",
+    "url": "https://www.olx.com.lb/ad/bmw-320i-xdrive-2017-ID116795855.html",
+    "make": "BMW",
+    "model": "3-Series",
+    "body_type": "Sedan",
+    "year": 2017,
+    "mileage": 92000,
+    "transmission": "Steptronic",
+    "location": "Chtoura, Zahle",
+    "district": "Zahle",
+    "original_price": 15500,
+    "current_price": 15500,
+    "price_history": [
+      {
+        "price": 15500,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116795849": {
+    "id": "116795849",
+    "title": "Grand Cherokee Altitude 2023 Black Edition",
+    "url": "https://www.olx.com.lb/ad/grand-cherokee-altitude-2023-black-edition-ID116795849.html",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "body_type": "SUV",
+    "year": 2023,
+    "mileage": 54000,
+    "transmission": "Steptronic",
+    "location": "Chtoura, Zahle",
+    "district": "Zahle",
+    "original_price": 45000,
+    "current_price": 45000,
+    "price_history": [
+      {
+        "price": 45000,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116795807": {
+    "id": "116795807",
+    "title": "Kia Sportage LX Awd 2020 “29000miles” Only!",
+    "url": "https://www.olx.com.lb/ad/kia-sportage-lx-awd-2020-29000miles-only-ID116795807.html",
+    "make": "Kia",
+    "model": "Sportage",
+    "body_type": "SUV",
+    "year": 2020,
+    "mileage": 29000,
+    "transmission": "Steptronic",
+    "location": "Chtoura, Zahle",
+    "district": "Zahle",
+    "original_price": 19800,
+    "current_price": 19800,
+    "price_history": [
+      {
+        "price": 19800,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115763364": {
+    "id": "115763364",
+    "title": "Range Rover Sport SVR 2022 0km Special Car With Free Registration !",
+    "url": "https://www.olx.com.lb/ad/range-rover-sport-svr-2022-special-car-ID115763364.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2022,
+    "mileage": 5000,
+    "transmission": "Steptronic",
+    "location": "Taalabaya, Zahle",
+    "district": "Zahle",
+    "original_price": 135000,
+    "current_price": 135000,
+    "price_history": [
+      {
+        "price": 135000,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116597883": {
+    "id": "116597883",
+    "title": "Range Rover SVR 2019 Special Car",
+    "url": "https://www.olx.com.lb/ad/range-rover-svr-2019-special-car-ID116597883.html",
+    "make": "Land Rover",
+    "model": "Range Rover SVR",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 32000,
+    "transmission": "Steptronic",
+    "location": "Chtoura, Zahle",
+    "district": "Zahle",
+    "original_price": 79000,
+    "current_price": 79000,
+    "price_history": [
+      {
+        "price": 79000,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116548191": {
+    "id": "116548191",
+    "title": "Range Rover Sport Supercharged 2017 Special Car",
+    "url": "https://www.olx.com.lb/ad/range-rover-sport-supercharged-2017-special-car-ID116548191.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 77000,
+    "transmission": "Steptronic",
+    "location": "Chtoura, Zahle",
+    "district": "Zahle",
+    "original_price": 34500,
+    "current_price": 34500,
+    "price_history": [
+      {
+        "price": 34500,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116548160": {
+    "id": "116548160",
+    "title": "Grand Cherokee Limited X 2019",
+    "url": "https://www.olx.com.lb/ad/grand-cherokee-limited-x-2019-ID116548160.html",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 90000,
+    "transmission": "Steptronic",
+    "location": "Chtoura, Zahle",
+    "district": "Zahle",
+    "original_price": 23800,
+    "current_price": 23800,
+    "price_history": [
+      {
+        "price": 23800,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116342153": {
+    "id": "116342153",
+    "title": "BMW 320i Sport Package 2016",
+    "url": "https://www.olx.com.lb/ad/bmw-320i-sport-package-2016-ID116342153.html",
+    "make": "BMW",
+    "model": "3-Series",
+    "body_type": "Sedan",
+    "year": 2016,
+    "mileage": 115000,
+    "transmission": "Steptronic",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "original_price": 16500,
+    "current_price": 16500,
+    "price_history": [
+      {
+        "price": 16500,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116140142": {
+    "id": "116140142",
+    "title": "Land Rover Evoque 2015 R Dynamic Tewtel Company Source!",
+    "url": "https://www.olx.com.lb/ad/land-rover-evoque-2015-r-dynamic-company-source-ID116140142.html",
+    "make": "Land Rover",
+    "model": "Evoque",
+    "body_type": "SUV",
+    "year": 2015,
+    "mileage": 70000,
+    "transmission": "Steptronic",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "original_price": 20500,
+    "current_price": 20500,
+    "price_history": [
+      {
+        "price": 20500,
+        "date": "2026-03-22"
+      }
+    ],
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22",
+    "last_updated": "2026-03-22",
+    "posted_date": "2026-03-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116828390": {
+    "id": "116828390",
+    "title": "Chevrolet Blazer 1992",
+    "url": "https://www.olx.com.lb/ad/chevrolet-blazer-1992-ID116828390.html",
+    "make": "Chevrolet",
+    "model": "Blazer",
+    "body_type": "SUV",
+    "year": 1992,
+    "mileage": 512000,
+    "transmission": "Automatic",
+    "location": "Jdaide, Metn",
+    "district": "Metn",
+    "original_price": 3000,
+    "current_price": 3000,
+    "price_history": [
+      {
+        "price": 3000,
         "date": "2026-03-22"
       }
     ],
