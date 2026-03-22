@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-22T07:40:41.012651",
-  "total_tracked": 4719,
+  "generated_at": "2026-03-22T08:31:35.185129",
+  "total_tracked": 4721,
   "total_drops": 284,
-  "total_new": 4719,
+  "total_new": 4721,
   "avg_drop_pct": 6.4,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -9198,6 +9198,50 @@
       "price_history": [
         {
           "price": 28900,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116810627",
+      "title": "Hyundai Tucson 2017",
+      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2017-ID116810627.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 120000,
+      "transmission": "Steptronic",
+      "location": "Aaraiya, Baabda",
+      "original_price": 4400,
+      "current_price": 4400,
+      "first_seen": "2026-03-22",
+      "posted_date": "2026-03-22",
+      "price_history": [
+        {
+          "price": 4400,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116828141",
+      "title": "Toyota Corolla 1990",
+      "url": "https://www.olx.com.lb/ad/toyota-corolla-1990-ID116828141.html",
+      "make": "Toyota",
+      "model": "Corolla",
+      "body_type": "Hatchback",
+      "year": 1990,
+      "mileage": 440000,
+      "transmission": "Automatic",
+      "location": "Kfar Him, Chouf",
+      "original_price": 1750,
+      "current_price": 1750,
+      "first_seen": "2026-03-22",
+      "posted_date": "2026-03-22",
+      "price_history": [
+        {
+          "price": 1750,
           "date": "2026-03-22"
         }
       ]
