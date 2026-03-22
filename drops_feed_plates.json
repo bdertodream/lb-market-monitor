@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-22T18:31:40.287664",
-  "total_tracked": 291,
+  "generated_at": "2026-03-22T19:27:29.876522",
+  "total_tracked": 292,
   "total_drops": 20,
-  "total_new": 291,
+  "total_new": 292,
   "avg_drop_pct": 28.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -632,6 +632,24 @@
       "price_history": [
         {
           "price": 3000,
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116828640",
+      "title": "plate number",
+      "url": "https://www.olx.com.lb/ad/plate-number-ID116828640.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Mkalles, Metn",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-03-22",
+      "posted_date": "2026-03-22",
+      "price_history": [
+        {
+          "price": 5000,
           "date": "2026-03-22"
         }
       ]
