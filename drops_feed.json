@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-23T20:35:17.127081",
-  "total_tracked": 31185,
-  "total_drops": 223,
-  "total_new": 31185,
+  "generated_at": "2026-03-23T21:33:43.433201",
+  "total_tracked": 31189,
+  "total_drops": 225,
+  "total_new": 31189,
   "avg_drop_pct": 8.2,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -1634,6 +1634,31 @@
       ]
     },
     {
+      "id": "116794339",
+      "title": "Land In Bhamdoun For Sale / أرض في بحمدون للبيع",
+      "url": "https://www.olx.com.lb/ad/land-in-bhamdoun-for-sale-أرض-في-بحمدون-للبيع-ID116794339.html",
+      "type": "Land",
+      "location": "Bhamdoun, Aley",
+      "sqm": 2220,
+      "original_price": 220000,
+      "current_price": 200000,
+      "drop_usd": 20000,
+      "drop_pct": 9.1,
+      "last_drop_date": "2026-03-23",
+      "posted_date": "2026-03-01",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 220000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 200000,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
       "id": "116560478",
       "title": "Panoramic Sea view -Investment Opportunity- Jbeil, Halat REF#DC125796",
       "url": "https://www.olx.com.lb/ad/panoramic-sea-view-investment-opportunity-jbeil-halat-refdc125796-ID116560478.html",
@@ -2717,6 +2742,31 @@
         {
           "price": 205000,
           "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "116818350",
+      "title": "OPEN VIEW/Heating system/elevator/balcony/Fanar/فنار/REF#GN133891.",
+      "url": "https://www.olx.com.lb/ad/open-viewheating-systemelevatorbalconyfanarفنارrefgn133891-ID116818350.html",
+      "type": "Apartment",
+      "location": "Fanar, Metn",
+      "sqm": 150,
+      "original_price": 219000,
+      "current_price": 205000,
+      "drop_usd": 14000,
+      "drop_pct": 6.4,
+      "last_drop_date": "2026-03-23",
+      "posted_date": "2026-03-12",
+      "first_seen": "2026-03-12",
+      "price_history": [
+        {
+          "price": 219000,
+          "date": "2026-03-12"
+        },
+        {
+          "price": 205000,
+          "date": "2026-03-23"
         }
       ]
     },
@@ -37149,18 +37199,22 @@
     },
     {
       "id": "116829257",
-      "title": "شقة مساحة 140 متر / اتوستراد سليم سلام خط عام",
+      "title": "شقة مساحة 140 متر / اتوستراد سليم سلام خط عام اتجاه وسط البلد",
       "url": "https://www.olx.com.lb/ad/شقة-مساحة-140-متر-اتوستراد-سليم-سلام-خط-عام-ID116829257.html",
       "type": "Apartment",
       "location": "Salim Slam, Beirut",
       "sqm": 140,
       "original_price": 170000,
-      "current_price": 170000,
+      "current_price": 175000,
       "posted_date": "2026-03-23",
       "first_seen": "2026-03-23",
       "price_history": [
         {
           "price": 170000,
+          "date": "2026-03-23"
+        },
+        {
+          "price": 175000,
           "date": "2026-03-23"
         }
       ]
@@ -44617,6 +44671,78 @@
       "price_history": [
         {
           "price": 500000,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116830040",
+      "title": "Apartment for sale in Rabweh 350,000$ شقة فاخرة في الربوة",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-rabweh-350000-شقة-فاخرة-في-الربوة-ID116830040.html",
+      "type": "Apartment",
+      "location": "Rabweh, Metn",
+      "sqm": 220,
+      "original_price": 350000,
+      "current_price": 350000,
+      "posted_date": "2026-03-23",
+      "first_seen": "2026-03-23",
+      "price_history": [
+        {
+          "price": 350000,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116830008",
+      "title": "Apartment for sale Mansourieh Ref#PV115",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-mansourieh-refpv115-ID116830008.html",
+      "type": "Apartment",
+      "location": "Mansourieh, Metn",
+      "sqm": 175,
+      "original_price": 210000,
+      "current_price": 210000,
+      "posted_date": "2026-03-23",
+      "first_seen": "2026-03-23",
+      "price_history": [
+        {
+          "price": 210000,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116829950",
+      "title": "Apartment for Sale | Kornet El Hamra – #RH101007",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-kornet-el-hamra-rh101007-ID116829950.html",
+      "type": "Apartment",
+      "location": "Qornet El Hamra, Metn",
+      "sqm": 90,
+      "original_price": 100000,
+      "current_price": 100000,
+      "posted_date": "2026-03-23",
+      "first_seen": "2026-03-23",
+      "price_history": [
+        {
+          "price": 100000,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116830017",
+      "title": "Bsalim Main Road Land - أرض ببصاليم على الطريق العام بإطلالة بحر",
+      "url": "https://www.olx.com.lb/ad/bsalim-main-road-land-أرض-ببصاليم-على-الطريق-العام-بإطلالة-بحر-ID116830017.html",
+      "type": "Land",
+      "location": "Bsalim, Metn",
+      "sqm": 940,
+      "original_price": 900000,
+      "current_price": 900000,
+      "posted_date": "2026-03-23",
+      "first_seen": "2026-03-23",
+      "price_history": [
+        {
+          "price": 900000,
           "date": "2026-03-23"
         }
       ]
@@ -301701,13 +301827,17 @@
       "location": "Fanar, Metn",
       "sqm": 150,
       "original_price": 219000,
-      "current_price": 219000,
+      "current_price": 205000,
       "posted_date": "2026-03-12",
       "first_seen": "2026-03-12",
       "price_history": [
         {
           "price": 219000,
           "date": "2026-03-12"
+        },
+        {
+          "price": 205000,
+          "date": "2026-03-23"
         }
       ]
     },
@@ -444125,13 +444255,17 @@
       "location": "Bhamdoun, Aley",
       "sqm": 2220,
       "original_price": 220000,
-      "current_price": 220000,
-      "posted_date": null,
+      "current_price": 200000,
+      "posted_date": "2026-03-01",
       "first_seen": "2026-03-01",
       "price_history": [
         {
           "price": 220000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 200000,
+          "date": "2026-03-23"
         }
       ]
     },
