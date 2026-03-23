@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-23T10:52:16.117267",
-  "total_tracked": 4936,
-  "total_drops": 300,
-  "total_new": 4936,
-  "avg_drop_pct": 6.5,
+  "generated_at": "2026-03-23T11:46:05.123380",
+  "total_tracked": 4941,
+  "total_drops": 302,
+  "total_new": 4941,
+  "avg_drop_pct": 6.6,
   "biggest_drop_usd": 426000,
   "drops": [
     {
@@ -1054,6 +1054,35 @@
       ]
     },
     {
+      "id": "116829041",
+      "title": "Citroen C3 2023",
+      "url": "https://www.olx.com.lb/ad/citroen-c3-2023-ID116829041.html",
+      "make": "Citroen",
+      "model": "C3",
+      "body_type": "Hatchback",
+      "year": 2023,
+      "mileage": 19700,
+      "transmission": "Steptronic",
+      "location": "Mazraat Yachouh, Metn",
+      "original_price": 15500,
+      "current_price": 14000,
+      "drop_usd": 1500,
+      "drop_pct": 9.7,
+      "last_drop_date": "2026-03-23",
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 15500,
+          "date": "2026-03-23"
+        },
+        {
+          "price": 14000,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
       "id": "116814458",
       "title": "Mercedes-Benz C-Class 2009",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2009-ID116814458.html",
@@ -1195,6 +1224,35 @@
         {
           "price": 5900,
           "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116825422",
+      "title": "Land Rover Evoque 2016",
+      "url": "https://www.olx.com.lb/ad/land-rover-evoque-2016-ID116825422.html",
+      "make": "Land Rover",
+      "model": "Evoque",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Naccache, Metn",
+      "original_price": 22000,
+      "current_price": 20000,
+      "drop_usd": 2000,
+      "drop_pct": 9.1,
+      "last_drop_date": "2026-03-23",
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 22000,
+          "date": "2026-03-19"
+        },
+        {
+          "price": 20000,
+          "date": "2026-03-23"
         }
       ]
     },
@@ -10312,12 +10370,16 @@
       "transmission": "Steptronic",
       "location": "Mazraat Yachouh, Metn",
       "original_price": 15500,
-      "current_price": 15500,
+      "current_price": 14000,
       "first_seen": "2026-03-23",
       "posted_date": "2026-03-23",
       "price_history": [
         {
           "price": 15500,
+          "date": "2026-03-23"
+        },
+        {
+          "price": 14000,
           "date": "2026-03-23"
         }
       ]
@@ -10626,6 +10688,116 @@
       "price_history": [
         {
           "price": 16400,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116829245",
+      "title": "Nissan Pathfinder 2015",
+      "url": "https://www.olx.com.lb/ad/nissan-pathfinder-2015-ID116829245.html",
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "body_type": "SUV",
+      "year": 2015,
+      "mileage": 119000,
+      "transmission": "Automatic",
+      "location": "Bsatine, Aley",
+      "original_price": 8500,
+      "current_price": 8500,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 8500,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116780147",
+      "title": "فورد فوكس 2012",
+      "url": "https://www.olx.com.lb/ad/فورد-فوكس-2012-ID116780147.html",
+      "make": "Ford",
+      "model": "Focus",
+      "body_type": "Estate",
+      "year": 2012,
+      "mileage": 169,
+      "transmission": "Automatic",
+      "location": "Zouk Mosbeh, Keserouan",
+      "original_price": 4300,
+      "current_price": 4300,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 4300,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116705402",
+      "title": "Mercedes C 300 black on black 2023 (clean carfax-35000 miles)",
+      "url": "https://www.olx.com.lb/ad/mercedes-c-300-black-on-black-2023-clean-carfax-35000-miles-ID116705402.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2023,
+      "mileage": 35000,
+      "transmission": "Steptronic",
+      "location": "Antelias, Metn",
+      "original_price": 52000,
+      "current_price": 52000,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 52000,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116829217",
+      "title": "Chevrolet Tahoe 2012",
+      "url": "https://www.olx.com.lb/ad/chevrolet-tahoe-2012-ID116829217.html",
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "body_type": "Estate",
+      "year": 2012,
+      "mileage": 250000,
+      "transmission": "Automatic",
+      "location": "Taanayel, Zahle",
+      "original_price": 12500,
+      "current_price": 12500,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 12500,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116794581",
+      "title": "Suzuki Swift GLX 2026 black on black (0 km)",
+      "url": "https://www.olx.com.lb/ad/suzuki-swift-glx-2026-black-on-black-0-km-ID116794581.html",
+      "make": "Suzuki",
+      "model": "Swift",
+      "body_type": "Hatchback",
+      "year": 2026,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Antelias, Metn",
+      "original_price": 16000,
+      "current_price": 16000,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 16000,
           "date": "2026-03-23"
         }
       ]
@@ -24832,13 +25004,17 @@
       "transmission": "Automatic",
       "location": "Naccache, Metn",
       "original_price": 22000,
-      "current_price": 22000,
+      "current_price": 20000,
       "first_seen": "2026-03-19",
       "posted_date": "2026-03-19",
       "price_history": [
         {
           "price": 22000,
           "date": "2026-03-19"
+        },
+        {
+          "price": 20000,
+          "date": "2026-03-23"
         }
       ]
     },
@@ -95952,7 +96128,7 @@
       "original_price": 26000,
       "current_price": 26000,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 26000,
