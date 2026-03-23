@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-23T22:30:06.341614",
-  "total_tracked": 5080,
+  "generated_at": "2026-03-23T23:31:11.849291",
+  "total_tracked": 5083,
   "total_drops": 319,
-  "total_new": 5080,
+  "total_new": 5083,
   "avg_drop_pct": 6.4,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -11775,12 +11775,16 @@
       "transmission": "Steptronic",
       "location": "Al Minie, Minieh-Denniye",
       "original_price": 5500,
-      "current_price": 5500,
+      "current_price": 5800,
       "first_seen": "2026-03-23",
       "posted_date": "2026-03-23",
       "price_history": [
         {
           "price": 5500,
+          "date": "2026-03-23"
+        },
+        {
+          "price": 5800,
           "date": "2026-03-23"
         }
       ]
@@ -14385,6 +14389,72 @@
       "price_history": [
         {
           "price": 10000,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116830082",
+      "title": "Mercedes-Benz C-Class 1991",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-1991-ID116830082.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sports / Coupe",
+      "year": 1991,
+      "mileage": 300000,
+      "transmission": "Automatic",
+      "location": "Bouar, Keserouan",
+      "original_price": 6900,
+      "current_price": 6900,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 6900,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116798629",
+      "title": "Honda Civic 2018",
+      "url": "https://www.olx.com.lb/ad/honda-civic-2018-ID116798629.html",
+      "make": "Honda",
+      "model": "Civic",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 28000,
+      "transmission": "Automatic",
+      "location": "Tallet el Khayat, Beirut",
+      "original_price": 17000,
+      "current_price": 17000,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 17000,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "115367927",
+      "title": "BMW X5 - 2011 (all new parts)",
+      "url": "https://www.olx.com.lb/ad/bmw-x5-2011-all-new-parts-ID115367927.html",
+      "make": "BMW",
+      "model": "X5",
+      "body_type": "SUV",
+      "year": 2011,
+      "mileage": 165000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 13500,
+      "current_price": 13500,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 13500,
           "date": "2026-03-23"
         }
       ]
