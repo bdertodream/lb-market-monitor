@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-23T12:51:21.889019",
-  "total_tracked": 294,
+  "generated_at": "2026-03-23T14:17:26.485436",
+  "total_tracked": 295,
   "total_drops": 20,
-  "total_new": 294,
+  "total_new": 295,
   "avg_drop_pct": 28.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -622,6 +622,24 @@
       "price_history": [
         {
           "price": 22,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116369284",
+      "title": "M 5005",
+      "url": "https://www.olx.com.lb/ad/صوى-صور-ID116369284.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Tyre Town, Tyre",
+      "original_price": 25000,
+      "current_price": 25000,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 25000,
           "date": "2026-03-23"
         }
       ]
