@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-23T21:33:43.433201",
-  "total_tracked": 31189,
-  "total_drops": 225,
-  "total_new": 31189,
+  "generated_at": "2026-03-23T22:28:11.431713",
+  "total_tracked": 31190,
+  "total_drops": 226,
+  "total_new": 31190,
   "avg_drop_pct": 8.2,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -3367,6 +3367,31 @@
         {
           "price": 280000,
           "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116819891",
+      "title": "Prime Location Land In Bhamdoun For Sale / أرض في بحمدون للبيع",
+      "url": "https://www.olx.com.lb/ad/prime-location-land-in-bhamdoun-for-sale-أرض-في-بحمدون-للبيع-ID116819891.html",
+      "type": "Land",
+      "location": "Bhamdoun, Aley",
+      "sqm": 1750,
+      "original_price": 295000,
+      "current_price": 280000,
+      "drop_usd": 15000,
+      "drop_pct": 5.1,
+      "last_drop_date": "2026-03-23",
+      "posted_date": "2026-03-13",
+      "first_seen": "2026-03-13",
+      "price_history": [
+        {
+          "price": 295000,
+          "date": "2026-03-13"
+        },
+        {
+          "price": 280000,
+          "date": "2026-03-23"
         }
       ]
     },
@@ -44743,6 +44768,24 @@
       "price_history": [
         {
           "price": 900000,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116830050",
+      "title": "Bolonia - Mrouj | 105m² Apart | Prime Rental Investment | Bldg Age 3",
+      "url": "https://www.olx.com.lb/ad/bolonia-mrouj-105m2-apart-prime-rental-investment-bldg-age-3-ID116830050.html",
+      "type": "Apartment",
+      "location": "Bolonia, Metn",
+      "sqm": 105,
+      "original_price": 88900,
+      "current_price": 88900,
+      "posted_date": "2026-03-23",
+      "first_seen": "2026-03-23",
+      "price_history": [
+        {
+          "price": 88900,
           "date": "2026-03-23"
         }
       ]
@@ -286175,13 +286218,17 @@
       "location": "Bhamdoun, Aley",
       "sqm": 1750,
       "original_price": 295000,
-      "current_price": 295000,
+      "current_price": 280000,
       "posted_date": "2026-03-13",
       "first_seen": "2026-03-13",
       "price_history": [
         {
           "price": 295000,
           "date": "2026-03-13"
+        },
+        {
+          "price": 280000,
+          "date": "2026-03-23"
         }
       ]
     },
@@ -411973,13 +412020,17 @@
       "location": "Sehayleh, Keserouan",
       "sqm": 250,
       "original_price": 170000,
-      "current_price": 170000,
+      "current_price": 175000,
       "posted_date": "2026-03-08",
       "first_seen": "2026-03-08",
       "price_history": [
         {
           "price": 170000,
           "date": "2026-03-08"
+        },
+        {
+          "price": 175000,
+          "date": "2026-03-23"
         }
       ]
     },
@@ -412333,7 +412384,7 @@
       "location": "Sehayleh, Keserouan",
       "sqm": 160,
       "original_price": 165000,
-      "current_price": 180000,
+      "current_price": 179000,
       "posted_date": "2026-03-08",
       "first_seen": "2026-03-08",
       "price_history": [
@@ -412344,6 +412395,10 @@
         {
           "price": 180000,
           "date": "2026-03-19"
+        },
+        {
+          "price": 179000,
+          "date": "2026-03-23"
         }
       ]
     },
