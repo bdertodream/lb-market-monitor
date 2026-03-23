@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-23T14:17:26.485436",
-  "total_tracked": 295,
+  "generated_at": "2026-03-23T16:01:25.671405",
+  "total_tracked": 296,
   "total_drops": 20,
-  "total_new": 295,
+  "total_new": 296,
   "avg_drop_pct": 28.5,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -640,6 +640,24 @@
       "price_history": [
         {
           "price": 25000,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116829545",
+      "title": "special plats number",
+      "url": "https://www.olx.com.lb/ad/special-plats-number-ID116829545.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Blat, Jbeil",
+      "original_price": 3000,
+      "current_price": 3000,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 3000,
           "date": "2026-03-23"
         }
       ]
