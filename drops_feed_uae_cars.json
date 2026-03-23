@@ -1,8 +1,8 @@
 {
-  "total_tracked": 2879,
+  "total_tracked": 2881,
   "total_drops": 40,
-  "total_new": 2879,
-  "last_updated": "2026-03-23T16:55:13Z",
+  "total_new": 2881,
+  "last_updated": "2026-03-23T17:52:44Z",
   "drops": [
     {
       "id": "16770596",
@@ -566,6 +566,30 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "16763355",
+      "title": "Dubai",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mini/cooper/2026/3/3/dubai-2-876---006b60bb491c40d89beefcf1a99b1508/",
+      "category": "Used Cars",
+      "make": "MINI",
+      "model": "Cooper",
+      "year": "2011",
+      "mileage": "100000",
+      "price": 16500,
+      "first_seen": "2026-03-23T17:52:44Z"
+    },
+    {
+      "id": "16781274",
+      "title": "2025 Cadillac Escalade V GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/3/23/2025-cadillac-escalade-v-gcc-specs-2-383---6269cf68266a4ed98d60c92098c27e02/",
+      "category": "Used Cars",
+      "make": "Cadillac",
+      "model": "Escalade",
+      "year": "2025",
+      "mileage": "4713",
+      "price": 630000,
+      "first_seen": "2026-03-23T17:52:44Z"
+    },
     {
       "id": "16738645",
       "title": "BMW 218i | Agency Warranty | Original Paint",
@@ -6541,30 +6565,6 @@
       "mileage": "15000",
       "price": 219000,
       "first_seen": "2026-03-17T23:32:26Z"
-    },
-    {
-      "id": "16778002",
-      "title": "SUZUKI | KIZASHI | 2016 | GCC | 2.4L 4-CYLINDERS",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/suzuki/kizashi/2026/3/17/suzuki-kizashi-2016-gcc-24l-4-cylinders-2-530---44a9913797534cdab3cc953e1acd6c25/",
-      "category": "Used Cars",
-      "make": "Suzuki",
-      "model": "Kizashi",
-      "year": "2014",
-      "mileage": "205000",
-      "price": 15100,
-      "first_seen": "2026-03-17T22:33:35Z"
-    },
-    {
-      "id": "16777987",
-      "title": "FORD | ESCAPE | XLT | 2.5L 4-CYLINDERS | 2009 | GCC | LOW MILAGE | WELL MAINTAINED",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/escape/2026/3/17/ford-escape-xlt-25l-4-cylinders-2009-gcc-l-2-232---7cdfca04c1f344efb4730ffd594a4997/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Escape",
-      "year": "2009",
-      "mileage": "167800",
-      "price": 8900,
-      "first_seen": "2026-03-17T22:33:35Z"
     }
   ]
 }
