@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-23T01:26:13.376568",
-  "total_tracked": 4867,
-  "total_drops": 291,
-  "total_new": 4867,
+  "generated_at": "2026-03-23T04:27:05.020296",
+  "total_tracked": 4870,
+  "total_drops": 292,
+  "total_new": 4870,
   "avg_drop_pct": 6.6,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -3723,6 +3723,35 @@
         {
           "price": 12000,
           "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116807845",
+      "title": "Cadillac XT5 2017",
+      "url": "https://www.olx.com.lb/ad/cadillac-xt5-2017-ID116807845.html",
+      "make": "Cadillac",
+      "model": "XT5",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "Bsalim, Metn",
+      "original_price": 25000,
+      "current_price": 24000,
+      "drop_usd": 1000,
+      "drop_pct": 4.0,
+      "last_drop_date": "2026-03-23",
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 25000,
+          "date": "2026-03-18"
+        },
+        {
+          "price": 24000,
+          "date": "2026-03-23"
         }
       ]
     },
@@ -8839,6 +8868,72 @@
       "price_history": [
         {
           "price": 13500,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116820104",
+      "title": "LEXUS IS350 2014 BUMC COMPANY SOURCE 88000KM",
+      "url": "https://www.olx.com.lb/ad/lexus-is350-2014-bumc-company-source-87000km-low-mileage-ID116820104.html",
+      "make": "Lexus",
+      "model": "IS-Series",
+      "body_type": "Sedan",
+      "year": 2014,
+      "mileage": 88000,
+      "transmission": "Automatic",
+      "location": "Baalbeck Town, Baalbeck",
+      "original_price": 19800,
+      "current_price": 19800,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 19800,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116759051",
+      "title": "Hyundai Tucson 2017",
+      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2017-ID116759051.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 155000,
+      "transmission": "Automatic",
+      "location": "Bikfaya, Metn",
+      "original_price": 13800,
+      "current_price": 13800,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 13800,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116828840",
+      "title": "GLC 300 -2018 4matic Full Options",
+      "url": "https://www.olx.com.lb/ad/glc-300-2018-4matic-full-options-ID116828840.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 127000,
+      "transmission": "Automatic",
+      "location": "Other in Saida, Saida",
+      "original_price": 24300,
+      "current_price": 24300,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 24300,
           "date": "2026-03-23"
         }
       ]
@@ -29589,13 +29684,17 @@
       "transmission": "Automatic",
       "location": "Bsalim, Metn",
       "original_price": 25000,
-      "current_price": 25000,
+      "current_price": 24000,
       "first_seen": "2026-03-18",
       "posted_date": "2026-03-18",
       "price_history": [
         {
           "price": 25000,
           "date": "2026-03-18"
+        },
+        {
+          "price": 24000,
+          "date": "2026-03-23"
         }
       ]
     },
