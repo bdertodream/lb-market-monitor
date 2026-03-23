@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-23T19:49:23.552580",
-  "total_tracked": 5066,
-  "total_drops": 316,
-  "total_new": 5066,
+  "generated_at": "2026-03-23T20:37:14.655020",
+  "total_tracked": 5070,
+  "total_drops": 317,
+  "total_new": 5070,
   "avg_drop_pct": 6.4,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -6039,6 +6039,35 @@
         },
         {
           "price": 19000,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116799698",
+      "title": "Honda CR-V 2018",
+      "url": "https://www.olx.com.lb/ad/honda-cr-v-2018-ID116799698.html",
+      "make": "Honda",
+      "model": "CR-V",
+      "body_type": "Estate",
+      "year": 2018,
+      "mileage": 120,
+      "transmission": "Automatic",
+      "location": "Riyaq, Zahle",
+      "original_price": 19500,
+      "current_price": 18999,
+      "drop_usd": 501,
+      "drop_pct": 2.6,
+      "last_drop_date": "2026-03-23",
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 19500,
+          "date": "2026-03-23"
+        },
+        {
+          "price": 18999,
           "date": "2026-03-23"
         }
       ]
@@ -13848,12 +13877,16 @@
       "transmission": "Automatic",
       "location": "Riyaq, Zahle",
       "original_price": 19500,
-      "current_price": 19500,
+      "current_price": 18999,
       "first_seen": "2026-03-23",
       "posted_date": "2026-03-23",
       "price_history": [
         {
           "price": 19500,
+          "date": "2026-03-23"
+        },
+        {
+          "price": 18999,
           "date": "2026-03-23"
         }
       ]
@@ -13986,6 +14019,94 @@
       "price_history": [
         {
           "price": 20427,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116829988",
+      "title": "Chevrolet Camaro 2015",
+      "url": "https://www.olx.com.lb/ad/chevrolet-camaro-2015-ID116829988.html",
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "body_type": "Sports / Coupe",
+      "year": 2015,
+      "mileage": 130000,
+      "transmission": "Steptronic",
+      "location": "Zouk Mosbeh, Keserouan",
+      "original_price": 10400,
+      "current_price": 10400,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 10400,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116829980",
+      "title": "Honda CR-V 2016 super clean",
+      "url": "https://www.olx.com.lb/ad/honda-cr-v-2016-super-clean-ID116829980.html",
+      "make": "Honda",
+      "model": "CR-V",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 118000,
+      "transmission": "Steptronic",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 14300,
+      "current_price": 14300,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 14300,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116664062",
+      "title": "Range Rover Sport - 2018 MY - V8 Supercharged - CLEAN CARFAX !!!",
+      "url": "https://www.olx.com.lb/ad/range-rover-sport-2018-my-v8-supercharged-clean-carfax-ID116664062.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 51000,
+      "current_price": 51000,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 51000,
+          "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116798476",
+      "title": "Land Rover Discovery 2017 - Clean carfax",
+      "url": "https://www.olx.com.lb/ad/land-rover-discovery-2017-clean-carfax-ID116798476.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 91000,
+      "transmission": "Automatic",
+      "location": "Bsalim, Metn",
+      "original_price": 24000,
+      "current_price": 24000,
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 24000,
           "date": "2026-03-23"
         }
       ]
