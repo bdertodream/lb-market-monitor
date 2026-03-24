@@ -64652,7 +64652,7 @@
   "16781745": {
     "id": "16781745",
     "title": "2013 Mitsubishi lancer ex good condition passed from RTA",
-    "price": 12900,
+    "price": 11900,
     "make": "Mitsubishi",
     "model": "Lancer EX",
     "year": "2013",
@@ -64667,6 +64667,10 @@
       {
         "price": 12900,
         "date": "2026-03-23T23:31:59Z"
+      },
+      {
+        "price": 11900,
+        "date": "2026-03-24T06:02:48Z"
       }
     ],
     "date": "2026-03-23"
@@ -64714,5 +64718,27 @@
       }
     ],
     "date": "2026-03-23"
+  },
+  "16664162": {
+    "id": "16664162",
+    "title": "Audi Q7 S-Line 45TSFI Supercharged 2014 GCC Specs (Full Service History / Accident Free / 2 Keys)",
+    "price": 33000,
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2014",
+    "kilometers": "142000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "France Cluster",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q7/2025/12/8/audi-q7-s-line-45tsfi-supercharged-2014-gc-2-637---d133d38ab39a4710930598e1c454d140/",
+    "first_seen": "2026-03-24T06:02:48Z",
+    "prices": [
+      {
+        "price": 33000,
+        "date": "2026-03-24T06:02:48Z"
+      }
+    ],
+    "date": "2026-03-24"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "total_tracked": 2896,
-  "total_drops": 40,
-  "total_new": 2896,
-  "last_updated": "2026-03-24T04:18:46Z",
+  "total_tracked": 2897,
+  "total_drops": 41,
+  "total_new": 2897,
+  "last_updated": "2026-03-24T06:02:48Z",
   "drops": [
     {
       "id": "16770596",
@@ -563,9 +563,35 @@
       "year": "2019",
       "mileage": "105000",
       "date": "2026-03-23T08:05:19Z"
+    },
+    {
+      "id": "16781745",
+      "title": "2013 Mitsubishi lancer ex good condition passed from RTA",
+      "old_price": 12900,
+      "new_price": 11900,
+      "drop_pct": 7.8,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/lancer-ex/2026/3/23/2013-mitsubishi-lancer-ex-good-condition-p-2-711---00088ab4c1e84cfab561cc92f6caf4f4/",
+      "category": "Used Cars",
+      "make": "Mitsubishi",
+      "model": "Lancer EX",
+      "year": "2013",
+      "mileage": "180000",
+      "date": "2026-03-24T06:02:48Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16664162",
+      "title": "Audi Q7 S-Line 45TSFI Supercharged 2014 GCC Specs (Full Service History / Accident Free / 2 Keys)",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q7/2025/12/8/audi-q7-s-line-45tsfi-supercharged-2014-gc-2-637---d133d38ab39a4710930598e1c454d140/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "Q7",
+      "year": "2014",
+      "mileage": "142000",
+      "price": 33000,
+      "first_seen": "2026-03-24T06:02:48Z"
+    },
     {
       "id": "16781457",
       "title": "2024 Honda City Sport - GCC Specs - Brand New!",
@@ -599,7 +625,7 @@
       "model": "Lancer EX",
       "year": "2013",
       "mileage": "180000",
-      "price": 12900,
+      "price": 11900,
       "first_seen": "2026-03-23T23:31:59Z"
     },
     {
@@ -6551,18 +6577,6 @@
       "model": "Model 3",
       "year": "2021",
       "mileage": "52700",
-      "price": 84500,
-      "first_seen": "2026-03-18T06:06:20Z"
-    },
-    {
-      "id": "16634892",
-      "title": "Tesla 2021 Model 3 Standard Range Plus (REF: 293648)",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-3/2025/11/13/cpo-event-nov-14th-16th-lower-prices-on-al-2-093---ee025d2235c44786ad9d43d8fddc564a/",
-      "category": "Used Cars",
-      "make": "Tesla",
-      "model": "Model 3",
-      "year": "2021",
-      "mileage": "49678",
       "price": 84500,
       "first_seen": "2026-03-18T06:06:20Z"
     }

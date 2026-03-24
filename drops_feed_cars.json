@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-24T04:17:52.584295",
-  "total_tracked": 5089,
+  "generated_at": "2026-03-24T06:01:57.669934",
+  "total_tracked": 5092,
   "total_drops": 321,
-  "total_new": 5089,
+  "total_new": 5092,
   "avg_drop_pct": 6.4,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -9737,6 +9737,72 @@
       "price_history": [
         {
           "price": 13500,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116830124",
+      "title": "Mercedes-Benz E-Class 2006",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2006-ID116830124.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sedan",
+      "year": 2006,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Antelias, Metn",
+      "original_price": 8500,
+      "current_price": 8500,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 8500,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116830112",
+      "title": "BYD LEOPARD 7 ULTRA (warrNty)",
+      "url": "https://www.olx.com.lb/ad/byd-other-2025-ID116830112.html",
+      "make": "BYD",
+      "model": "Other",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Zouk Mosbeh, Keserouan",
+      "original_price": 52000,
+      "current_price": 52000,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 52000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116428007",
+      "title": "Volkswagen Cabrio 2002. (Read Well the description)",
+      "url": "https://www.olx.com.lb/ad/volkswagen-cabrio-2002-ID116428007.html",
+      "make": "Volkswagen",
+      "model": "Cabrio",
+      "body_type": "Convertible",
+      "year": 2002,
+      "mileage": 200000,
+      "transmission": "Manual",
+      "location": "Al Maarad, Tripoli",
+      "original_price": 1000,
+      "current_price": 1000,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 1000,
           "date": "2026-03-24"
         }
       ]
