@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-24T14:22:49.131581",
-  "total_tracked": 302,
+  "generated_at": "2026-03-24T16:05:38.270431",
+  "total_tracked": 304,
   "total_drops": 22,
-  "total_new": 302,
+  "total_new": 304,
   "avg_drop_pct": 29.6,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -730,6 +730,42 @@
       "price_history": [
         {
           "price": 9499,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116830779",
+      "title": "S 48484",
+      "url": "https://www.olx.com.lb/ad/s-48484-ID116830779.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Tilal Ain Saade, Metn",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 6000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116830757",
+      "title": "399993 Car Plate Number",
+      "url": "https://www.olx.com.lb/ad/399993-car-plate-number-ID116830757.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Ras Beirut, Beirut",
+      "original_price": 6399,
+      "current_price": 6399,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 6399,
           "date": "2026-03-24"
         }
       ]
