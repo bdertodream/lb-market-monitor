@@ -1375,14 +1375,14 @@
   },
   "116596685": {
     "id": "116596685",
-    "title": "Special car number: M 8448",
+    "title": "Special car number: B 6510",
     "url": "https://www.olx.com.lb/ad/رقم-سيارة-مميز-n-9737-ID116596685.html",
     "plate_code": "",
     "plate_type": "Standard",
     "location": "Achrafieh, Beirut",
     "district": "Beirut",
     "original_price": 5800,
-    "current_price": 12500,
+    "current_price": 4800,
     "price_history": [
       {
         "price": 5800,
@@ -1399,14 +1399,18 @@
       {
         "price": 12500,
         "date": "2026-03-19"
+      },
+      {
+        "price": 4800,
+        "date": "2026-03-24"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-24",
-    "last_updated": "2026-03-19",
-    "drop_usd": 1900,
-    "drop_pct": 32.8,
-    "last_drop_date": "2026-03-18",
+    "last_updated": "2026-03-24",
+    "drop_usd": 1000,
+    "drop_pct": 17.2,
+    "last_drop_date": "2026-03-24",
     "posted_date": "2026-03-01"
   },
   "116392993": {
@@ -4168,19 +4172,23 @@
     "location": "Yarzeh, Baabda",
     "district": "Baabda",
     "original_price": 4500,
-    "current_price": 4500,
+    "current_price": 4200,
     "price_history": [
       {
         "price": 4500,
         "date": "2026-03-01"
+      },
+      {
+        "price": 4200,
+        "date": "2026-03-24"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-24",
-    "last_updated": "2026-03-07",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_updated": "2026-03-24",
+    "drop_usd": 300,
+    "drop_pct": 6.7,
+    "last_drop_date": "2026-03-24",
     "posted_date": "2026-03-01"
   },
   "116783749": {
