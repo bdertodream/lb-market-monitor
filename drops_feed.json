@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-24T19:54:05.626291",
-  "total_tracked": 32755,
-  "total_drops": 256,
-  "total_new": 32755,
-  "avg_drop_pct": 8.1,
+  "generated_at": "2026-03-24T20:38:16.561970",
+  "total_tracked": 32761,
+  "total_drops": 259,
+  "total_new": 32761,
+  "avg_drop_pct": 8.0,
   "biggest_drop_usd": 900000,
   "drops": [
     {
@@ -5282,6 +5282,31 @@
       ]
     },
     {
+      "id": "116543659",
+      "title": "Apartment for sale in Baabda DA3 شقة للبيع في",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-baabda-da3-شقة-للبيع-في-ID116543659.html",
+      "type": "Apartment",
+      "location": "Baabda Town, Baabda",
+      "sqm": 320,
+      "original_price": 650000,
+      "current_price": 630000,
+      "drop_usd": 20000,
+      "drop_pct": 3.1,
+      "last_drop_date": "2026-03-24",
+      "posted_date": "2026-03-10",
+      "first_seen": "2026-03-10",
+      "price_history": [
+        {
+          "price": 650000,
+          "date": "2026-03-10"
+        },
+        {
+          "price": 630000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
       "id": "116812545",
       "title": "prime area,2 parking, fireplace, storage, Hazmiyeh/حازميه REF#MU133672",
       "url": "https://www.olx.com.lb/ad/prime-area2-parking-fireplace-storage-hazmiyehحازميه-refmu133672-ID116812545.html",
@@ -5728,6 +5753,31 @@
         {
           "price": 83000,
           "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116622283",
+      "title": "Apartment for Sale in Verdun شقة للبيع في فردان",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-verdun-شقة-للبيع-في-فردان-ID116622283.html",
+      "type": "Apartment",
+      "location": "Verdun, Beirut",
+      "sqm": 370,
+      "original_price": 850000,
+      "current_price": 830000,
+      "drop_usd": 20000,
+      "drop_pct": 2.4,
+      "last_drop_date": "2026-03-24",
+      "posted_date": "2026-03-13",
+      "first_seen": "2026-03-13",
+      "price_history": [
+        {
+          "price": 850000,
+          "date": "2026-03-13"
+        },
+        {
+          "price": 830000,
+          "date": "2026-03-24"
         }
       ]
     },
@@ -6382,6 +6432,31 @@
         {
           "price": 99000,
           "date": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "id": "116791084",
+      "title": "Apartment for sale in jeita RB343 شقة للبيع في جعيتا",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-jeita-rb343-شقة-للبيع-في-جعيتا-ID116791084.html",
+      "type": "Apartment",
+      "location": "Jeita, Keserouan",
+      "sqm": 120,
+      "original_price": 120000,
+      "current_price": 119000,
+      "drop_usd": 1000,
+      "drop_pct": 0.8,
+      "last_drop_date": "2026-03-24",
+      "posted_date": "2026-03-19",
+      "first_seen": "2026-03-19",
+      "price_history": [
+        {
+          "price": 120000,
+          "date": "2026-03-19"
+        },
+        {
+          "price": 119000,
+          "date": "2026-03-24"
         }
       ]
     },
@@ -34593,6 +34668,114 @@
       ]
     },
     {
+      "id": "116831159",
+      "title": "Apartment for sale in Dekwaneh DW64 شقة  للبيع في دكوانة",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-dekwaneh-dw64-شقة-للبيع-في-دكوانة-ID116831159.html",
+      "type": "Apartment",
+      "location": "Dekwaneh, Metn",
+      "sqm": 120,
+      "original_price": 180000,
+      "current_price": 180000,
+      "posted_date": "2026-03-24",
+      "first_seen": "2026-03-24",
+      "price_history": [
+        {
+          "price": 180000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116803066",
+      "title": "Apartment for sale in Sabtiyeh DW62 شقة للبيع في سبتية",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-sabtiyeh-dw62-شقة-للبيع-في-سبتية-ID116803066.html",
+      "type": "Apartment",
+      "location": "Sabtieh, Metn",
+      "sqm": 130,
+      "original_price": 130000,
+      "current_price": 130000,
+      "posted_date": "2026-03-24",
+      "first_seen": "2026-03-24",
+      "price_history": [
+        {
+          "price": 130000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116806125",
+      "title": "GMZ121CS Apartment for sale in Zahle - شقة للبيع في زحلة",
+      "url": "https://www.olx.com.lb/ad/gmz121cs-apartment-for-sale-in-zahle-شقة-للبيع-في-زحلة-ID116806125.html",
+      "type": "Apartment",
+      "location": "Zahle Town, Zahle",
+      "sqm": 176,
+      "original_price": 200000,
+      "current_price": 200000,
+      "posted_date": "2026-03-24",
+      "first_seen": "2026-03-24",
+      "price_history": [
+        {
+          "price": 200000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116728330",
+      "title": "Apartment for sale in Louaize JT43  شقة للبيع في منطقة لويزي",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-louaize-jt43-شقة-للبيع-في-منطقة-لويزي-ID116728330.html",
+      "type": "Apartment",
+      "location": "Louaizeh, Baabda",
+      "sqm": 150,
+      "original_price": 150000,
+      "current_price": 150000,
+      "posted_date": "2026-03-24",
+      "first_seen": "2026-03-24",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116754052",
+      "title": "Antelias | 3 Bedrooms 180m² Apart | Sea & City View | Prime Investment",
+      "url": "https://www.olx.com.lb/ad/antelias-3-bedrooms-180m2-apart-sea-city-view-prime-investment-ID116754052.html",
+      "type": "Apartment",
+      "location": "Antelias, Metn",
+      "sqm": 180,
+      "original_price": 174900,
+      "current_price": 174900,
+      "posted_date": "2026-03-24",
+      "first_seen": "2026-03-24",
+      "price_history": [
+        {
+          "price": 174900,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116831143",
+      "title": "Faraya 90m2 | Chalet Duplex | Cozy | Mountain View | Calm Area | OH",
+      "url": "https://www.olx.com.lb/ad/faraya-90m2-chalet-duplex-cozy-mountain-view-calm-area-oh-ID116831143.html",
+      "type": "Chalet",
+      "location": "Faraya, Keserouan",
+      "sqm": 90,
+      "original_price": 120000,
+      "current_price": 120000,
+      "posted_date": "2026-03-24",
+      "first_seen": "2026-03-24",
+      "price_history": [
+        {
+          "price": 120000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
       "id": "116828854",
       "title": "High End Apartment For Sale شقة فخمة للبيع شارع بلس",
       "url": "https://www.olx.com.lb/ad/high-end-apartment-for-sale-شقة-فخمة-للبيع-شارع-بلس-ID116828854.html",
@@ -62438,8 +62621,8 @@
     },
     {
       "id": "116707467",
-      "title": "Apartment For Sale In Zahle Haouch El Omara  شقة للبيع في زحلة",
-      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-zahle-haouch-el-omara-شقة-للبيع-في-زحلة-ID116707467.html",
+      "title": "GMZ110CKApartment For Sale In Zahle Haouch El Omara  شقة للبيع في زحلة",
+      "url": "https://www.olx.com.lb/ad/gmz110ckapartment-for-sale-in-zahle-haouch-el-omara-شقة-للبيع-في-زحلة-ID116707467.html",
       "type": "Apartment",
       "location": "Haoush el Oumara, Zahle",
       "sqm": 120,
@@ -127408,13 +127591,17 @@
       "location": "Jeita, Keserouan",
       "sqm": 120,
       "original_price": 120000,
-      "current_price": 120000,
+      "current_price": 119000,
       "posted_date": "2026-03-19",
       "first_seen": "2026-03-19",
       "price_history": [
         {
           "price": 120000,
           "date": "2026-03-19"
+        },
+        {
+          "price": 119000,
+          "date": "2026-03-24"
         }
       ]
     },
@@ -273782,13 +273969,17 @@
       "location": "Bchamoun, Aley",
       "sqm": 152,
       "original_price": 144400,
-      "current_price": 144400,
+      "current_price": 149400,
       "posted_date": "2026-03-13",
       "first_seen": "2026-03-13",
       "price_history": [
         {
           "price": 144400,
           "date": "2026-03-13"
+        },
+        {
+          "price": 149400,
+          "date": "2026-03-24"
         }
       ]
     },
@@ -315006,13 +315197,17 @@
       "location": "Verdun, Beirut",
       "sqm": 370,
       "original_price": 850000,
-      "current_price": 850000,
+      "current_price": 830000,
       "posted_date": "2026-03-13",
       "first_seen": "2026-03-13",
       "price_history": [
         {
           "price": 850000,
           "date": "2026-03-13"
+        },
+        {
+          "price": 830000,
+          "date": "2026-03-24"
         }
       ]
     },
@@ -379060,13 +379255,17 @@
       "location": "Baabda Town, Baabda",
       "sqm": 320,
       "original_price": 650000,
-      "current_price": 650000,
+      "current_price": 630000,
       "posted_date": "2026-03-10",
       "first_seen": "2026-03-10",
       "price_history": [
         {
           "price": 650000,
           "date": "2026-03-10"
+        },
+        {
+          "price": 630000,
+          "date": "2026-03-24"
         }
       ]
     },
