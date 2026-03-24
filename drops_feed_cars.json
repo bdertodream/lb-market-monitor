@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-24T20:40:08.112805",
-  "total_tracked": 5284,
+  "generated_at": "2026-03-24T21:37:20.938656",
+  "total_tracked": 5289,
   "total_drops": 335,
-  "total_new": 5284,
+  "total_new": 5289,
   "avg_drop_pct": 6.4,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -13707,12 +13707,16 @@
       "transmission": "Steptronic",
       "location": "Zahle Town, Zahle",
       "original_price": 1111,
-      "current_price": 1111,
+      "current_price": 18000,
       "first_seen": "2026-03-24",
       "posted_date": "2026-03-24",
       "price_history": [
         {
           "price": 1111,
+          "date": "2026-03-24"
+        },
+        {
+          "price": 18000,
           "date": "2026-03-24"
         }
       ]
@@ -14461,6 +14465,116 @@
       "price_history": [
         {
           "price": 9700,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116799676",
+      "title": "Renault Sandero Stepway 2016",
+      "url": "https://www.olx.com.lb/ad/renault-sandero-stepway-2016-ID116799676.html",
+      "make": "Renault",
+      "model": "Sandero Stepway",
+      "body_type": "Hatchback",
+      "year": 2016,
+      "mileage": 59000,
+      "transmission": "Steptronic",
+      "location": "Tariq el Jdideh, Beirut",
+      "original_price": 7500,
+      "current_price": 7500,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 7500,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116831180",
+      "title": "Kia Picanto 2006",
+      "url": "https://www.olx.com.lb/ad/kia-picanto-2006-ID116831180.html",
+      "make": "Kia",
+      "model": "Picanto",
+      "body_type": "Hatchback",
+      "year": 2006,
+      "mileage": 245000,
+      "transmission": "Manual",
+      "location": "Kfardebian, Keserouan",
+      "original_price": 4200,
+      "current_price": 4200,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 4200,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116720893",
+      "title": "Mercedes-Benz E-Class 2010",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2010-ID116720893.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2010,
+      "mileage": 113721,
+      "transmission": "Automatic",
+      "location": "Tabarja, Keserouan",
+      "original_price": 10500,
+      "current_price": 10500,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 10500,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116831174",
+      "title": "BMW 5-Series 2002",
+      "url": "https://www.olx.com.lb/ad/bmw-5-series-2002-ID116831174.html",
+      "make": "BMW",
+      "model": "5-Series",
+      "body_type": "Sedan",
+      "year": 2002,
+      "mileage": 300000,
+      "transmission": "Steptronic",
+      "location": "Chtoura, Zahle",
+      "original_price": 3500,
+      "current_price": 3500,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 3500,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116755661",
+      "title": "Mercedes  C 180.2012",
+      "url": "https://www.olx.com.lb/ad/mercedes-c-1802012-ID116755661.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2012,
+      "mileage": 93000,
+      "transmission": "Automatic",
+      "location": "Khaldeh, Aley",
+      "original_price": 11499,
+      "current_price": 11499,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 11499,
           "date": "2026-03-24"
         }
       ]

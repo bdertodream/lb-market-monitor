@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-24T20:38:16.561970",
-  "total_tracked": 32761,
+  "generated_at": "2026-03-24T21:35:27.134026",
+  "total_tracked": 32766,
   "total_drops": 259,
-  "total_new": 32761,
+  "total_new": 32766,
   "avg_drop_pct": 8.0,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -34764,6 +34764,96 @@
       "type": "Chalet",
       "location": "Faraya, Keserouan",
       "sqm": 90,
+      "original_price": 120000,
+      "current_price": 120000,
+      "posted_date": "2026-03-24",
+      "first_seen": "2026-03-24",
+      "price_history": [
+        {
+          "price": 120000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116831195",
+      "title": "RWK193BA - Apartment For Sale In Kfarhbab in a Very Calm Area",
+      "url": "https://www.olx.com.lb/ad/rwk193ba-apartment-for-sale-in-kfarhbab-in-a-very-calm-area-ID116831195.html",
+      "type": "Apartment",
+      "location": "Kfar Hbab, Keserouan",
+      "sqm": 220,
+      "original_price": 410000,
+      "current_price": 410000,
+      "posted_date": "2026-03-24",
+      "first_seen": "2026-03-24",
+      "price_history": [
+        {
+          "price": 410000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116598825",
+      "title": "Apartment for sale in Chouit, Baabda شقة مميزة للبيع في شويت",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-chouit-baabda-شقة-مميزة-للبيع-في-شويت-ID116598825.html",
+      "type": "Apartment",
+      "location": "Chouit, Baabda",
+      "sqm": 145,
+      "original_price": 145000,
+      "current_price": 145000,
+      "posted_date": "2026-03-24",
+      "first_seen": "2026-03-24",
+      "price_history": [
+        {
+          "price": 145000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116831170",
+      "title": "110 SQM Apartment For Sale In Chekka شقة للبيع #CM257124",
+      "url": "https://www.olx.com.lb/ad/110-sqm-apartment-for-sale-in-chekka-شقة-للبيع-cm257124-ID116831170.html",
+      "type": "Apartment",
+      "location": "Chekka, Batroun",
+      "sqm": 110,
+      "original_price": 95000,
+      "current_price": 95000,
+      "posted_date": "2026-03-24",
+      "first_seen": "2026-03-24",
+      "price_history": [
+        {
+          "price": 95000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116831168",
+      "title": "Apartment for Sale in Waterfront Dbaye - شقة للإيجار في ضبية",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-waterfront-dbaye-شقة-للإيجار-في-ضبية-ID116831168.html",
+      "type": "Apartment",
+      "location": "Dbaye, Metn",
+      "sqm": 287,
+      "original_price": 1250000,
+      "current_price": 1250000,
+      "posted_date": "2026-03-24",
+      "first_seen": "2026-03-24",
+      "price_history": [
+        {
+          "price": 1250000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116831153",
+      "title": "Apartment for sale in Hosrayil - Jbeil | شقة للبيع في حصرايل- جبيل",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-hosrayil-jbeil-شقة-للبيع-في-حصرايل-جبيل-ID116831153.html",
+      "type": "Apartment",
+      "location": "Hosrayel, Jbeil",
+      "sqm": 120,
       "original_price": 120000,
       "current_price": 120000,
       "posted_date": "2026-03-24",
@@ -244661,13 +244751,17 @@
       "location": "Qennabet Broummana, Metn",
       "sqm": 155,
       "original_price": 220000,
-      "current_price": 220000,
+      "current_price": 230000,
       "posted_date": "2026-03-16",
       "first_seen": "2026-03-16",
       "price_history": [
         {
           "price": 220000,
           "date": "2026-03-16"
+        },
+        {
+          "price": 230000,
+          "date": "2026-03-24"
         }
       ]
     },
@@ -502223,13 +502317,17 @@
       "location": "Tabarja, Keserouan",
       "sqm": 65,
       "original_price": 450000,
-      "current_price": 450000,
+      "current_price": 500000,
       "posted_date": "2026-03-01",
       "first_seen": "2026-03-01",
       "price_history": [
         {
           "price": 450000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 500000,
+          "date": "2026-03-24"
         }
       ]
     },

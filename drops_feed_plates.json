@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-24T20:40:27.699694",
-  "total_tracked": 304,
+  "generated_at": "2026-03-24T21:37:40.311092",
+  "total_tracked": 305,
   "total_drops": 22,
-  "total_new": 304,
+  "total_new": 305,
   "avg_drop_pct": 29.6,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -766,6 +766,24 @@
       "price_history": [
         {
           "price": 6399,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116831189",
+      "title": "Twins A,B / O,O",
+      "url": "https://www.olx.com.lb/ad/twins-ab-oo-ID116831189.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Corniche El Baher, Saida",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 6000,
           "date": "2026-03-24"
         }
       ]
