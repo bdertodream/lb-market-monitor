@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-23T23:29:23.225418",
-  "total_tracked": 31195,
-  "total_drops": 226,
-  "total_new": 31195,
-  "avg_drop_pct": 8.2,
+  "generated_at": "2026-03-24T01:17:27.264374",
+  "total_tracked": 31196,
+  "total_drops": 227,
+  "total_new": 31196,
+  "avg_drop_pct": 8.1,
   "biggest_drop_usd": 900000,
   "drops": [
     {
@@ -4366,6 +4366,31 @@
       ]
     },
     {
+      "id": "116752747",
+      "title": "apartment with terrace for sale in baabda - baabda town",
+      "url": "https://www.olx.com.lb/ad/apartment-with-terrace-for-sale-in-baabda-baabda-town-ID116752747.html",
+      "type": "Apartment",
+      "location": "Baabda Town, Baabda",
+      "sqm": 260,
+      "original_price": 290000,
+      "current_price": 280000,
+      "drop_usd": 10000,
+      "drop_pct": 3.4,
+      "last_drop_date": "2026-03-24",
+      "posted_date": "2026-03-21",
+      "first_seen": "2026-03-21",
+      "price_history": [
+        {
+          "price": 290000,
+          "date": "2026-03-21"
+        },
+        {
+          "price": 280000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
       "id": "116748995",
       "title": "3 bedroom apartment+terrace+sea view 4sale in Kfar Aabida - كفر عبيدة",
       "url": "https://www.olx.com.lb/ad/3-bedroom-apartmentterracesea-view-4sale-in-kfar-aabida-كفر-عبيدة-ID116748995.html",
@@ -5750,6 +5775,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116830099",
+      "title": "Under Construction Apartments 199,000$شقق قيد الانشاء للبيع في الجديدة",
+      "url": "https://www.olx.com.lb/ad/under-construction-apartments-200000شقق-قيد-الانشاء-للبيع-في-الجديدة-ID116830099.html",
+      "type": "Apartment",
+      "location": "Jdaide, Metn",
+      "sqm": 120,
+      "original_price": 199000,
+      "current_price": 199000,
+      "posted_date": "2026-03-24",
+      "first_seen": "2026-03-24",
+      "price_history": [
+        {
+          "price": 199000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
     {
       "id": "116828854",
       "title": "High End Apartment For Sale شقة فخمة للبيع شارع بلس",
@@ -57870,13 +57913,17 @@
       "location": "Baabda Town, Baabda",
       "sqm": 260,
       "original_price": 290000,
-      "current_price": 290000,
+      "current_price": 280000,
       "posted_date": "2026-03-21",
       "first_seen": "2026-03-21",
       "price_history": [
         {
           "price": 290000,
           "date": "2026-03-21"
+        },
+        {
+          "price": 280000,
+          "date": "2026-03-24"
         }
       ]
     },
