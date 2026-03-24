@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-24T21:37:40.311092",
+  "generated_at": "2026-03-24T22:29:45.031816",
   "total_tracked": 305,
   "total_drops": 22,
   "total_new": 305,
-  "avg_drop_pct": 29.6,
+  "avg_drop_pct": 29.8,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -424,6 +424,39 @@
       ]
     },
     {
+      "id": "116825856",
+      "title": "7 8 6 5",
+      "url": "https://www.olx.com.lb/ad/5-digits-car-plate-ID116825856.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Kaslik, Keserouan",
+      "original_price": 3600,
+      "current_price": 3200,
+      "drop_usd": 400,
+      "drop_pct": 11.1,
+      "last_drop_date": "2026-03-24",
+      "first_seen": "2026-03-19",
+      "posted_date": "2026-03-19",
+      "price_history": [
+        {
+          "price": 3600,
+          "date": "2026-03-19"
+        },
+        {
+          "price": 3500,
+          "date": "2026-03-20"
+        },
+        {
+          "price": 3400,
+          "date": "2026-03-21"
+        },
+        {
+          "price": 3200,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
       "id": "116826272",
       "title": "830840 B",
       "url": "https://www.olx.com.lb/ad/830840-b-ID116826272.html",
@@ -524,35 +557,6 @@
         {
           "price": 4500,
           "date": "2026-03-17"
-        }
-      ]
-    },
-    {
-      "id": "116825856",
-      "title": "Special 4 Digits Car Plate",
-      "url": "https://www.olx.com.lb/ad/5-digits-car-plate-ID116825856.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Kaslik, Keserouan",
-      "original_price": 3600,
-      "current_price": 3400,
-      "drop_usd": 200,
-      "drop_pct": 5.6,
-      "last_drop_date": "2026-03-21",
-      "first_seen": "2026-03-19",
-      "posted_date": "2026-03-19",
-      "price_history": [
-        {
-          "price": 3600,
-          "date": "2026-03-19"
-        },
-        {
-          "price": 3500,
-          "date": "2026-03-20"
-        },
-        {
-          "price": 3400,
-          "date": "2026-03-21"
         }
       ]
     },
@@ -1198,13 +1202,13 @@
     },
     {
       "id": "116825856",
-      "title": "Special 4 Digits Car Plate",
+      "title": "7 8 6 5",
       "url": "https://www.olx.com.lb/ad/5-digits-car-plate-ID116825856.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Kaslik, Keserouan",
       "original_price": 3600,
-      "current_price": 3400,
+      "current_price": 3200,
       "first_seen": "2026-03-19",
       "posted_date": "2026-03-19",
       "price_history": [
@@ -1219,6 +1223,10 @@
         {
           "price": 3400,
           "date": "2026-03-21"
+        },
+        {
+          "price": 3200,
+          "date": "2026-03-24"
         }
       ]
     },
