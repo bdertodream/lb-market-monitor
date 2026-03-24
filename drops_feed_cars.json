@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-24T18:00:49.149690",
-  "total_tracked": 5267,
+  "generated_at": "2026-03-24T18:57:59.274241",
+  "total_tracked": 5274,
   "total_drops": 335,
-  "total_new": 5267,
+  "total_new": 5274,
   "avg_drop_pct": 6.4,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -36,6 +36,39 @@
         {
           "price": 4000,
           "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116822519",
+      "title": "Porsche Cayenne 2017 v6",
+      "url": "https://www.olx.com.lb/ad/porsche-cayenne-2017-v6-ID116822519.html",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 2017,
+      "transmission": "Automatic",
+      "location": "Hammana, Baabda",
+      "original_price": 111111,
+      "current_price": 1234,
+      "drop_usd": 109877,
+      "drop_pct": 98.9,
+      "last_drop_date": "2026-03-24",
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 111111,
+          "date": "2026-03-16"
+        },
+        {
+          "price": 12345,
+          "date": "2026-03-17"
+        },
+        {
+          "price": 1234,
+          "date": "2026-03-24"
         }
       ]
     },
@@ -94,35 +127,6 @@
         {
           "price": 4500,
           "date": "2026-03-15"
-        }
-      ]
-    },
-    {
-      "id": "116822519",
-      "title": "Porsche Cayenne 2017 v6",
-      "url": "https://www.olx.com.lb/ad/porsche-cayenne-2017-v6-ID116822519.html",
-      "make": "Porsche",
-      "model": "Cayenne",
-      "body_type": "SUV",
-      "year": 2017,
-      "mileage": 2017,
-      "transmission": "Automatic",
-      "location": "Hammana, Baabda",
-      "original_price": 111111,
-      "current_price": 12345,
-      "drop_usd": 98766,
-      "drop_pct": 88.9,
-      "last_drop_date": "2026-03-17",
-      "first_seen": "2026-03-16",
-      "posted_date": "2026-03-16",
-      "price_history": [
-        {
-          "price": 111111,
-          "date": "2026-03-16"
-        },
-        {
-          "price": 12345,
-          "date": "2026-03-17"
         }
       ]
     },
@@ -11555,7 +11559,7 @@
     },
     {
       "id": "116830460",
-      "title": "Mazda CX-5 2017 awd",
+      "title": "MAZDA CX-5 AWD 2017",
       "url": "https://www.olx.com.lb/ad/mazda-cx-5-2017-awd-ID116830460.html",
       "make": "Mazda",
       "model": "CX-5",
@@ -11577,7 +11581,7 @@
     },
     {
       "id": "116830457",
-      "title": "Nissan Rogue 2019 sv 2019",
+      "title": "NISSAN ROGUE SV 2019",
       "url": "https://www.olx.com.lb/ad/nissan-rogue-2019-sv-2019-ID116830457.html",
       "make": "Nissan",
       "model": "Rogue",
@@ -14079,6 +14083,160 @@
       "price_history": [
         {
           "price": 36000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116831054",
+      "title": "نيسان باثفايندر 2004",
+      "url": "https://www.olx.com.lb/ad/نيسان-باثفايندر-2004-ID116831054.html",
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "body_type": "Other",
+      "year": 2004,
+      "mileage": 13300,
+      "transmission": "Automatic",
+      "location": "Majdalaya, Zgharta",
+      "original_price": 8500,
+      "current_price": 8500,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 8500,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116778290",
+      "title": "Nissan 350Z 2004",
+      "url": "https://www.olx.com.lb/ad/nissan-350z-2004-ID116778290.html",
+      "make": "Nissan",
+      "model": "350Z",
+      "body_type": "Convertible",
+      "year": 2004,
+      "mileage": 120000,
+      "transmission": "Manual",
+      "location": "Kfarmelki, Saida",
+      "original_price": 4150,
+      "current_price": 4150,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 4150,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116799579",
+      "title": "Hyundai Tucson 2019",
+      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2019-ID116799579.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 79000,
+      "transmission": "Steptronic",
+      "location": "Aaraiya, Baabda",
+      "original_price": 19000,
+      "current_price": 19000,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 19000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116831024",
+      "title": "2018 Grand Cherokee Altitude",
+      "url": "https://www.olx.com.lb/ad/2018-grand-cherokee-altitude-ID116831024.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 185000,
+      "transmission": "Steptronic",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 18500,
+      "current_price": 18500,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 18500,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116831018",
+      "title": "Grand Cherokee 2018 LIMITED PLUS (clean carfax)",
+      "url": "https://www.olx.com.lb/ad/grand-cherokee-2018-limited-plus-clean-carfax-ID116831018.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 125,
+      "transmission": "Automatic",
+      "location": "Bsalim, Metn",
+      "original_price": 22800,
+      "current_price": 22800,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 22800,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116831017",
+      "title": "Audi Q5 2009 2.0T",
+      "url": "https://www.olx.com.lb/ad/audi-q5-2009-20t-ID116831017.html",
+      "make": "Audi",
+      "model": "Q5",
+      "body_type": "Other",
+      "year": 2009,
+      "mileage": 170000,
+      "transmission": "Automatic",
+      "location": "Adlieh, Beirut",
+      "original_price": 8000,
+      "current_price": 8000,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 8000,
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116831014",
+      "title": "Cadillac SRX 2012 Company Source and One Owner",
+      "url": "https://www.olx.com.lb/ad/cadillac-srx-2012-company-source-and-one-owner-ID116831014.html",
+      "make": "Cadillac",
+      "model": "SRX",
+      "body_type": "Other",
+      "year": 2012,
+      "mileage": 130000,
+      "transmission": "Automatic",
+      "location": "Adlieh, Beirut",
+      "original_price": 10500,
+      "current_price": 10500,
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 10500,
           "date": "2026-03-24"
         }
       ]
@@ -51375,7 +51533,7 @@
       "transmission": "Automatic",
       "location": "Hammana, Baabda",
       "original_price": 111111,
-      "current_price": 12345,
+      "current_price": 1234,
       "first_seen": "2026-03-16",
       "posted_date": "2026-03-16",
       "price_history": [
@@ -51386,6 +51544,10 @@
         {
           "price": 12345,
           "date": "2026-03-17"
+        },
+        {
+          "price": 1234,
+          "date": "2026-03-24"
         }
       ]
     },
