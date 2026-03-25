@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-25T08:46:55.499670",
-  "total_tracked": 305,
+  "generated_at": "2026-03-25T09:52:04.255693",
+  "total_tracked": 307,
   "total_drops": 23,
-  "total_new": 305,
+  "total_new": 307,
   "avg_drop_pct": 28.2,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -695,6 +695,42 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116635928",
+      "title": "special plate number",
+      "url": "https://www.olx.com.lb/ad/special-plate-number-ID116635928.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Broummana, Metn",
+      "original_price": 15000,
+      "current_price": 15000,
+      "first_seen": "2026-03-25",
+      "posted_date": "2026-03-25",
+      "price_history": [
+        {
+          "price": 15000,
+          "date": "2026-03-25"
+        }
+      ]
+    },
+    {
+      "id": "116831560",
+      "title": "رقم سيارة مميز للبيع S 6085",
+      "url": "https://www.olx.com.lb/ad/رقم-سيارة-مميز-للبيع-s-6085-ID116831560.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Yarzeh, Baabda",
+      "original_price": 3999,
+      "current_price": 3999,
+      "first_seen": "2026-03-25",
+      "posted_date": "2026-03-25",
+      "price_history": [
+        {
+          "price": 3999,
+          "date": "2026-03-25"
+        }
+      ]
+    },
     {
       "id": "116755059",
       "title": "Special car plate for sale 4 digits",
