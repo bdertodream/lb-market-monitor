@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-25T21:37:34.409055",
+  "generated_at": "2026-03-25T22:34:40.916393",
   "total_tracked": 309,
-  "total_drops": 23,
+  "total_drops": 24,
   "total_new": 309,
-  "avg_drop_pct": 28.2,
+  "avg_drop_pct": 27.1,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -640,6 +640,31 @@
       ]
     },
     {
+      "id": "116830427",
+      "title": "Special 6 Digits Car Plate Number",
+      "url": "https://www.olx.com.lb/ad/special-6-digits-car-plate-number-ID116830427.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dekwaneh, Metn",
+      "original_price": 3500,
+      "current_price": 3400,
+      "drop_usd": 100,
+      "drop_pct": 2.9,
+      "last_drop_date": "2026-03-25",
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 3500,
+          "date": "2026-03-24"
+        },
+        {
+          "price": 3400,
+          "date": "2026-03-25"
+        }
+      ]
+    },
+    {
       "id": "116807143",
       "title": "3000$",
       "url": "https://www.olx.com.lb/ad/n-42942-ID116807143.html",
@@ -811,13 +836,17 @@
       "plate_type": "Standard",
       "location": "Dekwaneh, Metn",
       "original_price": 3500,
-      "current_price": 3500,
+      "current_price": 3400,
       "first_seen": "2026-03-24",
       "posted_date": "2026-03-24",
       "price_history": [
         {
           "price": 3500,
           "date": "2026-03-24"
+        },
+        {
+          "price": 3400,
+          "date": "2026-03-25"
         }
       ]
     },
