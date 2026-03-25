@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-25T22:32:32.179391",
-  "total_tracked": 33640,
+  "generated_at": "2026-03-25T23:31:32.509606",
+  "total_tracked": 33641,
   "total_drops": 275,
-  "total_new": 33640,
+  "total_new": 33641,
   "avg_drop_pct": 8.0,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -22267,12 +22267,16 @@
       "location": "Mastita, Jbeil",
       "sqm": 57,
       "original_price": 86000,
-      "current_price": 86000,
+      "current_price": 88000,
       "posted_date": "2026-03-25",
       "first_seen": "2026-03-25",
       "price_history": [
         {
           "price": 86000,
+          "date": "2026-03-25"
+        },
+        {
+          "price": 88000,
           "date": "2026-03-25"
         }
       ]
@@ -22435,6 +22439,24 @@
       "price_history": [
         {
           "price": 185000,
+          "date": "2026-03-25"
+        }
+      ]
+    },
+    {
+      "id": "116655189",
+      "title": "A 250 m2 apartment with 80m2 terrace for sale or rent in Monteverde",
+      "url": "https://www.olx.com.lb/ad/a-250-m2-apartment-with-80m2-terrace-for-sale-or-rent-in-monteverde-ID116655189.html",
+      "type": "Apartment",
+      "location": "Monteverde, Metn",
+      "sqm": 320,
+      "original_price": 690000,
+      "current_price": 690000,
+      "posted_date": "2026-03-25",
+      "first_seen": "2026-03-25",
+      "price_history": [
+        {
+          "price": 690000,
           "date": "2026-03-25"
         }
       ]
@@ -345781,13 +345803,17 @@
       "location": "Ain Najm, Metn",
       "sqm": 140,
       "original_price": 175000,
-      "current_price": 175000,
+      "current_price": 198000,
       "posted_date": "2026-03-12",
       "first_seen": "2026-03-12",
       "price_history": [
         {
           "price": 175000,
           "date": "2026-03-12"
+        },
+        {
+          "price": 198000,
+          "date": "2026-03-25"
         }
       ]
     },
