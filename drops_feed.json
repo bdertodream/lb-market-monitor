@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-24T23:28:51.038111",
-  "total_tracked": 32782,
-  "total_drops": 259,
-  "total_new": 32782,
+  "generated_at": "2026-03-25T01:22:59.362340",
+  "total_tracked": 32785,
+  "total_drops": 260,
+  "total_new": 32785,
   "avg_drop_pct": 8.0,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -4158,6 +4158,31 @@
       ]
     },
     {
+      "id": "116765747",
+      "title": "Ghadir | 799$/m² | 3 Bedrooms | 2 Balconies | Great Building Condition",
+      "url": "https://www.olx.com.lb/ad/ghadir-799m2-3-bedrooms-2-balconies-great-building-condition-ID116765747.html",
+      "type": "Building",
+      "location": "Ghadir, Keserouan",
+      "sqm": 150,
+      "original_price": 114900,
+      "current_price": 109900,
+      "drop_usd": 5000,
+      "drop_pct": 4.4,
+      "last_drop_date": "2026-03-25",
+      "posted_date": "2026-03-01",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 114900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 109900,
+          "date": "2026-03-25"
+        }
+      ]
+    },
+    {
       "id": "116490704",
       "title": "Waterfront City Dbayeh ! Direct Marina View Modern Apartment for sale",
       "url": "https://www.olx.com.lb/ad/waterfront-city-dbayeh-direct-marina-view-modern-apartment-for-sale-ID116490704.html",
@@ -6587,6 +6612,60 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116831286",
+      "title": "RWK101JG - Brand new apartment for sale in Sehayleh",
+      "url": "https://www.olx.com.lb/ad/rwk101jg-brand-new-apartment-for-sale-in-sehayleh-ID116831286.html",
+      "type": "Apartment",
+      "location": "Sehayleh, Keserouan",
+      "sqm": 173,
+      "original_price": 275000,
+      "current_price": 275000,
+      "posted_date": "2026-03-25",
+      "first_seen": "2026-03-25",
+      "price_history": [
+        {
+          "price": 275000,
+          "date": "2026-03-25"
+        }
+      ]
+    },
+    {
+      "id": "116831279",
+      "title": "Apartment For Sale In The heart of Horch Tabet شقة للبيع في حرش تابت",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-the-heart-of-horch-tabet-شقة-للبيع-في-حرش-تابت-ID116831279.html",
+      "type": "Apartment",
+      "location": "Horsh Tabet, Metn",
+      "sqm": 400,
+      "original_price": 750000,
+      "current_price": 750000,
+      "posted_date": "2026-03-25",
+      "first_seen": "2026-03-25",
+      "price_history": [
+        {
+          "price": 750000,
+          "date": "2026-03-25"
+        }
+      ]
+    },
+    {
+      "id": "116831287",
+      "title": "RWK142MF - Land for sale in Ajaltoun with open panoramic view",
+      "url": "https://www.olx.com.lb/ad/rwk142mf-land-for-sale-in-ajaltoun-with-open-panoramic-view-ID116831287.html",
+      "type": "Land",
+      "location": "Ajaltoun, Keserouan",
+      "sqm": 1280,
+      "original_price": 340000,
+      "current_price": 340000,
+      "posted_date": "2026-03-25",
+      "first_seen": "2026-03-25",
+      "price_history": [
+        {
+          "price": 340000,
+          "date": "2026-03-25"
+        }
+      ]
+    },
     {
       "id": "116830099",
       "title": "Under Construction Apartments 199,000$شقق قيد الانشاء للبيع في الجديدة",
@@ -546163,13 +546242,17 @@
       "location": "Ghadir, Keserouan",
       "sqm": 150,
       "original_price": 114900,
-      "current_price": 114900,
+      "current_price": 109900,
       "posted_date": "2026-03-01",
       "first_seen": "2026-03-01",
       "price_history": [
         {
           "price": 114900,
           "date": "2026-03-01"
+        },
+        {
+          "price": 109900,
+          "date": "2026-03-25"
         }
       ]
     },
