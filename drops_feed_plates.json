@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-25T17:59:07.649438",
-  "total_tracked": 308,
+  "generated_at": "2026-03-25T18:52:16.982270",
+  "total_tracked": 309,
   "total_drops": 23,
-  "total_new": 308,
+  "total_new": 309,
   "avg_drop_pct": 28.2,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -745,6 +745,24 @@
       "price_history": [
         {
           "price": 3500,
+          "date": "2026-03-25"
+        }
+      ]
+    },
+    {
+      "id": "116832292",
+      "title": "T 117700",
+      "url": "https://www.olx.com.lb/ad/t-117700-ID116832292.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Mazraat Yachouh, Metn",
+      "original_price": 1650,
+      "current_price": 1650,
+      "first_seen": "2026-03-25",
+      "posted_date": "2026-03-25",
+      "price_history": [
+        {
+          "price": 1650,
           "date": "2026-03-25"
         }
       ]

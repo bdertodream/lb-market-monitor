@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 6237,
-  "total_drops": 81,
-  "total_new": 6237,
+  "total_tracked": 6238,
+  "total_drops": 82,
+  "total_new": 6238,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1139,6 +1139,20 @@
       "bedrooms": "4",
       "date": "2026-03-25",
       "first_seen": "2026-03-18"
+    },
+    {
+      "id": "17014145",
+      "title": "Best Unit | Community Expert | Handover Soon",
+      "old_price": 7500000,
+      "new_price": 7000000,
+      "drop_pct": 6.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/1/30/best-unit-community-expert-handover-soo-2-966819/",
+      "area": "Mohammed Bin Rashid City",
+      "category": "Villa",
+      "size": "4656",
+      "bedrooms": "4",
+      "date": "2026-03-25",
+      "first_seen": "2026-03-24"
     }
   ],
   "new_listings": [
@@ -3791,6 +3805,17 @@
       "size": "392",
       "bedrooms": "",
       "price": 980000,
+      "first_seen": "2026-03-25"
+    },
+    {
+      "id": "9750111",
+      "title": "High ROI | Investment Opportunity | Main Road Access",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/3/25/high-roi-investment-opportunity-main-ro-2-168314/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "9687",
+      "bedrooms": "",
+      "price": 3500000,
       "first_seen": "2026-03-25"
     },
     {
@@ -6629,17 +6654,6 @@
       "size": "1578",
       "bedrooms": "2",
       "price": 1789000,
-      "first_seen": "2026-03-24"
-    },
-    {
-      "id": "17234615",
-      "title": "NEW \\ 50-50PP \\ LIMITED \\",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/24/new-50-50pp-limited-2-581639/",
-      "area": "International City",
-      "category": "Apartment",
-      "size": "1025",
-      "bedrooms": "2",
-      "price": 1100000,
       "first_seen": "2026-03-24"
     }
   ],

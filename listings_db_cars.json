@@ -104525,7 +104525,7 @@
       }
     ],
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-03-25",
     "last_updated": "2026-03-17",
     "posted_date": "2026-03-17",
     "drop_usd": 0,
@@ -137112,16 +137112,20 @@
     "location": "Sodeco, Beirut",
     "district": "Beirut",
     "original_price": 30800,
-    "current_price": 30800,
+    "current_price": 31500,
     "price_history": [
       {
         "price": 30800,
         "date": "2026-03-22"
+      },
+      {
+        "price": 31500,
+        "date": "2026-03-25"
       }
     ],
     "first_seen": "2026-03-22",
     "last_seen": "2026-03-25",
-    "last_updated": "2026-03-22",
+    "last_updated": "2026-03-25",
     "posted_date": "2026-03-22",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -158528,6 +158532,230 @@
     "price_history": [
       {
         "price": 2500,
+        "date": "2026-03-25"
+      }
+    ],
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "last_updated": "2026-03-25",
+    "posted_date": "2026-03-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116832317": {
+    "id": "116832317",
+    "title": "Fiat 500X 2017",
+    "url": "https://www.olx.com.lb/ad/fiat-500x-2017-ID116832317.html",
+    "make": "Fiat",
+    "model": "500X",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 117000,
+    "transmission": "Automatic",
+    "location": "Jdaide, Metn",
+    "district": "Metn",
+    "original_price": 11600,
+    "current_price": 11600,
+    "price_history": [
+      {
+        "price": 11600,
+        "date": "2026-03-25"
+      }
+    ],
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "last_updated": "2026-03-25",
+    "posted_date": "2026-03-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116832306": {
+    "id": "116832306",
+    "title": "بورشه كايين 2009",
+    "url": "https://www.olx.com.lb/ad/بورشه-كايين-2009-ID116832306.html",
+    "make": "Porsche",
+    "model": "Cayenne",
+    "body_type": "Estate",
+    "year": 2009,
+    "mileage": 166000,
+    "transmission": "Automatic",
+    "location": "Haret Sakher, Keserouan",
+    "district": "Keserouan",
+    "original_price": 9000,
+    "current_price": 9000,
+    "price_history": [
+      {
+        "price": 9000,
+        "date": "2026-03-25"
+      }
+    ],
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "last_updated": "2026-03-25",
+    "posted_date": "2026-03-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116797085": {
+    "id": "116797085",
+    "title": "Mercedes-Benz E-Class 350 model 2010",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2010-ID116797085.html",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "body_type": "Sedan",
+    "year": 2010,
+    "mileage": 126000,
+    "transmission": "Automatic",
+    "location": "Jdaide, Metn",
+    "district": "Metn",
+    "original_price": 10800,
+    "current_price": 10800,
+    "price_history": [
+      {
+        "price": 10800,
+        "date": "2026-03-25"
+      }
+    ],
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "last_updated": "2026-03-25",
+    "posted_date": "2026-03-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116582977": {
+    "id": "116582977",
+    "title": "Mercedes-Benz C-Class 2017",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2017-ID116582977.html",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Sports / Coupe",
+    "year": 2017,
+    "mileage": 103000,
+    "transmission": "Steptronic",
+    "location": "Beiteddine, Chouf",
+    "district": "Chouf",
+    "original_price": 24500,
+    "current_price": 24500,
+    "price_history": [
+      {
+        "price": 24500,
+        "date": "2026-03-25"
+      }
+    ],
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "last_updated": "2026-03-25",
+    "posted_date": "2026-03-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116642368": {
+    "id": "116642368",
+    "title": "Polestar 2 ( By Volvo )",
+    "url": "https://www.olx.com.lb/ad/polestar-2-ID116642368.html",
+    "make": "Volvo",
+    "model": "Polestar 2",
+    "body_type": "Sedan",
+    "year": 2022,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Khaldeh, Aley",
+    "district": "Aley",
+    "original_price": 25500,
+    "current_price": 25500,
+    "price_history": [
+      {
+        "price": 25500,
+        "date": "2026-03-25"
+      }
+    ],
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "last_updated": "2026-03-25",
+    "posted_date": "2026-03-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116832278": {
+    "id": "116832278",
+    "title": "Nissan Rogue 2015 SL",
+    "url": "https://www.olx.com.lb/ad/nissan-rogue-2015-sl-ID116832278.html",
+    "make": "Nissan",
+    "model": "Rogue",
+    "body_type": "SUV",
+    "year": 2015,
+    "mileage": 97000,
+    "transmission": "Automatic",
+    "location": "Zahrieh, Tripoli",
+    "district": "Tripoli",
+    "original_price": 11500,
+    "current_price": 11500,
+    "price_history": [
+      {
+        "price": 11500,
+        "date": "2026-03-25"
+      }
+    ],
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "last_updated": "2026-03-25",
+    "posted_date": "2026-03-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116832276": {
+    "id": "116832276",
+    "title": "Hyundai Accent 2012",
+    "url": "https://www.olx.com.lb/ad/hyundai-accent-2012-ID116832276.html",
+    "make": "Hyundai",
+    "model": "Accent",
+    "body_type": "Hatchback",
+    "year": 2012,
+    "mileage": 150000,
+    "transmission": "Automatic",
+    "location": "Summerland, Beirut",
+    "district": "Beirut",
+    "original_price": 8000,
+    "current_price": 8000,
+    "price_history": [
+      {
+        "price": 8000,
+        "date": "2026-03-25"
+      }
+    ],
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "last_updated": "2026-03-25",
+    "posted_date": "2026-03-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116611965": {
+    "id": "116611965",
+    "title": "Land Rover Evoque 2014",
+    "url": "https://www.olx.com.lb/ad/land-rover-evoque-2014-ID116611965.html",
+    "make": "Land Rover",
+    "model": "Evoque",
+    "body_type": "Sports / Coupe",
+    "year": 2014,
+    "mileage": 120000,
+    "transmission": "Automatic",
+    "location": "Zouq El Kharab, Metn",
+    "district": "Metn",
+    "original_price": 13000,
+    "current_price": 13000,
+    "price_history": [
+      {
+        "price": 13000,
         "date": "2026-03-25"
       }
     ],
