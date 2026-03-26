@@ -69526,7 +69526,7 @@
   "16783089": {
     "id": "16783089",
     "title": "2014 Volkswagen jetta 2.0 good condition well maintained.",
-    "price": 8900,
+    "price": 9900,
     "make": "Volkswagen",
     "model": "Jetta",
     "year": "2014",
@@ -69545,6 +69545,10 @@
       {
         "price": 8900,
         "date": "2026-03-26T08:05:11Z"
+      },
+      {
+        "price": 9900,
+        "date": "2026-03-26T08:53:44Z"
       }
     ],
     "date": "2026-03-25"
@@ -71404,5 +71408,49 @@
       }
     ],
     "date": "2026-03-25"
+  },
+  "16783779": {
+    "id": "16783779",
+    "title": "2026 MG ZS Standard - GCC Specs - Brand New! / EMI AED 875PM / DEALER WARRANTY",
+    "price": 56900,
+    "make": "MG",
+    "model": "ZS",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Crossover",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/3/26/2026-mg-zs-standard-gcc-specs-brand-new-em-2-644---9d7a8e551542461991a5a1a02d766227/",
+    "first_seen": "2026-03-26T08:53:44Z",
+    "prices": [
+      {
+        "price": 56900,
+        "date": "2026-03-26T08:53:44Z"
+      }
+    ],
+    "date": "2026-03-26"
+  },
+  "16699255": {
+    "id": "16699255",
+    "title": "Chery Tiggo 8 Pro \u2013 Full Option \u2013 For Sale",
+    "price": 78000,
+    "make": "Chery",
+    "model": "Tiggo 8 Pro",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chery/tiggo-8-pro/2026/1/8/chery-tiggo-8-pro-full-option-for-sale-2-604---ff75cb88e0d746cd8f1d6e8a3c434c7b/",
+    "first_seen": "2026-03-26T08:53:44Z",
+    "prices": [
+      {
+        "price": 78000,
+        "date": "2026-03-26T08:53:44Z"
+      }
+    ],
+    "date": "2026-03-26"
   }
 }

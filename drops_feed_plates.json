@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-26T08:04:38.862705",
-  "total_tracked": 312,
+  "generated_at": "2026-03-26T08:53:09.582044",
+  "total_tracked": 313,
   "total_drops": 24,
-  "total_new": 312,
+  "total_new": 313,
   "avg_drop_pct": 28.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -756,6 +756,24 @@
       "price_history": [
         {
           "price": 4200,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116832752",
+      "title": "nomra hamra taxi",
+      "url": "https://www.olx.com.lb/ad/nomra-hamra-taxi-ID116832752.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Al Madina as Sinaiya, Zahle",
+      "original_price": 17500,
+      "current_price": 17500,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 17500,
           "date": "2026-03-26"
         }
       ]
