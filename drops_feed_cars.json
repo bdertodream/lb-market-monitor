@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-26T19:58:55.576986",
-  "total_tracked": 5827,
+  "generated_at": "2026-03-26T20:35:45.944731",
+  "total_tracked": 5830,
   "total_drops": 387,
-  "total_new": 5827,
+  "total_new": 5830,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -17139,6 +17139,72 @@
       "price_history": [
         {
           "price": 6200,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116833631",
+      "title": "MINI Countryman 2014",
+      "url": "https://www.olx.com.lb/ad/mini-countryman-2014-ID116833631.html",
+      "make": "MINI",
+      "model": "Countryman",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 125000,
+      "transmission": "Steptronic",
+      "location": "Zahle Town, Zahle",
+      "original_price": 12000,
+      "current_price": 12000,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 12000,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116833621",
+      "title": "Mercedes-Benz c230 2006",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c230-2006-ID116833621.html",
+      "make": "Mercedes-Benz",
+      "model": "Other",
+      "body_type": "Convertible",
+      "year": 2006,
+      "mileage": 15000,
+      "transmission": "Steptronic",
+      "location": "Khaldeh, Aley",
+      "original_price": 5500,
+      "current_price": 5500,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116833618",
+      "title": "Mazda CX-5 2018",
+      "url": "https://www.olx.com.lb/ad/mazda-cx-5-2018-ID116833618.html",
+      "make": "Mazda",
+      "model": "CX-5",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 91000,
+      "transmission": "Automatic",
+      "location": "Kahaleh, Aley",
+      "original_price": 18900,
+      "current_price": 18900,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 18900,
           "date": "2026-03-26"
         }
       ]

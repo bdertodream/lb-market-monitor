@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-26T19:59:15.299262",
-  "total_tracked": 318,
+  "generated_at": "2026-03-26T20:36:04.782190",
+  "total_tracked": 319,
   "total_drops": 24,
-  "total_new": 318,
+  "total_new": 319,
   "avg_drop_pct": 28.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -864,6 +864,24 @@
       "price_history": [
         {
           "price": 18000,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116833606",
+      "title": "6 digits",
+      "url": "https://www.olx.com.lb/ad/6-digits-ID116833606.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Chekka, Batroun",
+      "original_price": 2000,
+      "current_price": 2000,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 2000,
           "date": "2026-03-26"
         }
       ]
