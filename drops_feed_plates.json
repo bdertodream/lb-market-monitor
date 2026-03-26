@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-26T11:51:00.254809",
-  "total_tracked": 313,
+  "generated_at": "2026-03-26T13:00:59.865071",
+  "total_tracked": 316,
   "total_drops": 24,
-  "total_new": 313,
+  "total_new": 316,
   "avg_drop_pct": 28.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -774,6 +774,60 @@
       "price_history": [
         {
           "price": 17500,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116833188",
+      "title": "6316/B",
+      "url": "https://www.olx.com.lb/ad/6316b-ID116833188.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jal El Dib, Metn",
+      "original_price": 5300,
+      "current_price": 5300,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 5300,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116772399",
+      "title": "B 1831",
+      "url": "https://www.olx.com.lb/ad/b-1831-ID116772399.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 6500,
+      "current_price": 6500,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 6500,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116772398",
+      "title": "G 3271",
+      "url": "https://www.olx.com.lb/ad/g-3271-ID116772398.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Aaramoun, Aley",
+      "original_price": 3800,
+      "current_price": 3800,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 3800,
           "date": "2026-03-26"
         }
       ]
