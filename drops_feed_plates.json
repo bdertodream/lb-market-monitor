@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-26T20:36:04.782190",
-  "total_tracked": 319,
+  "generated_at": "2026-03-26T21:31:50.744122",
+  "total_tracked": 322,
   "total_drops": 24,
-  "total_new": 319,
+  "total_new": 322,
   "avg_drop_pct": 28.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -876,12 +876,70 @@
       "plate_type": "Standard",
       "location": "Chekka, Batroun",
       "original_price": 2000,
-      "current_price": 2000,
+      "current_price": 2700,
       "first_seen": "2026-03-26",
       "posted_date": "2026-03-26",
       "price_history": [
         {
           "price": 2000,
+          "date": "2026-03-26"
+        },
+        {
+          "price": 2700,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116756720",
+      "title": "Car plate special number",
+      "url": "https://www.olx.com.lb/ad/car-plate-luxury-ID116756720.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Verdun, Beirut",
+      "original_price": 3750,
+      "current_price": 3750,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 3750,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116833663",
+      "title": "B 13005",
+      "url": "https://www.olx.com.lb/ad/b-13005-ID116833663.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Zgharta Town, Zgharta",
+      "original_price": 3500,
+      "current_price": 3500,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 3500,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116833648",
+      "title": "B 8911",
+      "url": "https://www.olx.com.lb/ad/number-plate-ID116833648.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 6000,
           "date": "2026-03-26"
         }
       ]
