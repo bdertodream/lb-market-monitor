@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-26T14:29:45.765239",
-  "total_tracked": 316,
+  "generated_at": "2026-03-26T16:11:54.611791",
+  "total_tracked": 318,
   "total_drops": 24,
-  "total_new": 316,
+  "total_new": 318,
   "avg_drop_pct": 28.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -828,6 +828,42 @@
       "price_history": [
         {
           "price": 3800,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116833327",
+      "title": "4 3 4 4",
+      "url": "https://www.olx.com.lb/ad/4-3-4-4-ID116833327.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dbaye, Metn",
+      "original_price": 11200,
+      "current_price": 11200,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 11200,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116833373",
+      "title": "twin plates صك جاهز",
+      "url": "https://www.olx.com.lb/ad/twin-plates-صك-جاهز-ID116833373.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Chtoura, Zahle",
+      "original_price": 18000,
+      "current_price": 18000,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 18000,
           "date": "2026-03-26"
         }
       ]
