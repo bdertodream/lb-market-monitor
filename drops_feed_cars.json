@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-26T22:26:53.647609",
-  "total_tracked": 5844,
+  "generated_at": "2026-03-26T23:30:42.852278",
+  "total_tracked": 5847,
   "total_drops": 390,
-  "total_new": 5844,
+  "total_new": 5847,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -17604,6 +17604,72 @@
       "price_history": [
         {
           "price": 9400,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116815863",
+      "title": "Hyundai Elantra GT 2013",
+      "url": "https://www.olx.com.lb/ad/hyundai-elantra-gt-2013-ID116815863.html",
+      "make": "Hyundai",
+      "model": "Elantra GT",
+      "body_type": "Hatchback",
+      "year": 2013,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Zouk Mosbeh, Keserouan",
+      "original_price": 9000,
+      "current_price": 9000,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 9000,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116829995",
+      "title": "Hyundai Elantra 2018",
+      "url": "https://www.olx.com.lb/ad/hyundai-elantra-2018-ID116829995.html",
+      "make": "Hyundai",
+      "model": "Elantra",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 148000,
+      "transmission": "Steptronic",
+      "location": "Tabarja, Keserouan",
+      "original_price": 15500,
+      "current_price": 15500,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 15500,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "110952130",
+      "title": "Camaro 2019",
+      "url": "https://www.olx.com.lb/ad/camaro-2019-ID110952130.html",
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "body_type": "Sports / Coupe",
+      "year": 2019,
+      "mileage": 70000,
+      "transmission": "Steptronic",
+      "location": "Choueifat, Aley",
+      "original_price": 22500,
+      "current_price": 22500,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 22500,
           "date": "2026-03-26"
         }
       ]
