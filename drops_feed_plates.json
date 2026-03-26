@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-26T06:15:14.678153",
-  "total_tracked": 311,
+  "generated_at": "2026-03-26T08:04:38.862705",
+  "total_tracked": 312,
   "total_drops": 24,
-  "total_new": 311,
-  "avg_drop_pct": 27.1,
+  "total_new": 312,
+  "avg_drop_pct": 28.3,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -28,6 +28,35 @@
         {
           "price": 123,
           "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116828807",
+      "title": "very special numbers",
+      "url": "https://www.olx.com.lb/ad/very-special-number-ID116828807.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Basbina, Batroun",
+      "original_price": 3000,
+      "current_price": 120,
+      "drop_usd": 2880,
+      "drop_pct": 96.0,
+      "last_drop_date": "2026-03-26",
+      "first_seen": "2026-03-22",
+      "posted_date": "2026-03-22",
+      "price_history": [
+        {
+          "price": 3000,
+          "date": "2026-03-22"
+        },
+        {
+          "price": 1000,
+          "date": "2026-03-24"
+        },
+        {
+          "price": 120,
+          "date": "2026-03-26"
         }
       ]
     },
@@ -78,31 +107,6 @@
         {
           "price": 2900,
           "date": "2026-03-18"
-        }
-      ]
-    },
-    {
-      "id": "116828807",
-      "title": "very special numbers",
-      "url": "https://www.olx.com.lb/ad/very-special-number-ID116828807.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Basbina, Batroun",
-      "original_price": 3000,
-      "current_price": 1000,
-      "drop_usd": 2000,
-      "drop_pct": 66.7,
-      "last_drop_date": "2026-03-24",
-      "first_seen": "2026-03-22",
-      "posted_date": "2026-03-22",
-      "price_history": [
-        {
-          "price": 3000,
-          "date": "2026-03-22"
-        },
-        {
-          "price": 1000,
-          "date": "2026-03-24"
         }
       ]
     },
@@ -739,6 +743,24 @@
       ]
     },
     {
+      "id": "116832667",
+      "title": "4 digit",
+      "url": "https://www.olx.com.lb/ad/4-digit-ID116832667.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jounieh, Keserouan",
+      "original_price": 4200,
+      "current_price": 4200,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 4200,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
       "id": "116635928",
       "title": "special plate number",
       "url": "https://www.olx.com.lb/ad/special-plate-number-ID116635928.html",
@@ -1114,7 +1136,7 @@
       "plate_type": "Standard",
       "location": "Basbina, Batroun",
       "original_price": 3000,
-      "current_price": 1000,
+      "current_price": 120,
       "first_seen": "2026-03-22",
       "posted_date": "2026-03-22",
       "price_history": [
@@ -1125,6 +1147,10 @@
         {
           "price": 1000,
           "date": "2026-03-24"
+        },
+        {
+          "price": 120,
+          "date": "2026-03-26"
         }
       ]
     },
@@ -4492,19 +4518,23 @@
     },
     {
       "id": "116622657",
-      "title": "Rare super plate—  A 4473 — special price",
+      "title": "Rare super plate  —  A 4473 —",
       "url": "https://www.olx.com.lb/ad/super-plate-a-4473-ID116622657.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Naccache, Metn",
       "original_price": 7000,
-      "current_price": 7000,
+      "current_price": 8000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 7000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 8000,
+          "date": "2026-03-26"
         }
       ]
     },
