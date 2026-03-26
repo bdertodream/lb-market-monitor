@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-26T21:31:50.744122",
-  "total_tracked": 322,
+  "generated_at": "2026-03-26T22:27:14.986085",
+  "total_tracked": 323,
   "total_drops": 24,
-  "total_new": 322,
+  "total_new": 323,
   "avg_drop_pct": 28.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -940,6 +940,24 @@
       "price_history": [
         {
           "price": 6000,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116833676",
+      "title": "O 4413",
+      "url": "https://www.olx.com.lb/ad/o-4413-ID116833676.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Kaslik, Keserouan",
+      "original_price": 4800,
+      "current_price": 4800,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 4800,
           "date": "2026-03-26"
         }
       ]
@@ -4314,19 +4332,23 @@
     },
     {
       "id": "115524161",
-      "title": "S   9800",
+      "title": "0   736",
       "url": "https://www.olx.com.lb/ad/y-77667-ID115524161.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Downtown, Beirut",
       "original_price": 14800,
-      "current_price": 14800,
+      "current_price": 25000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 14800,
           "date": "2026-03-01"
+        },
+        {
+          "price": 25000,
+          "date": "2026-03-26"
         }
       ]
     },
