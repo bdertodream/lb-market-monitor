@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-26T04:33:30.388506",
-  "total_tracked": 5580,
-  "total_drops": 366,
-  "total_new": 5580,
-  "avg_drop_pct": 6.7,
+  "generated_at": "2026-03-26T06:14:54.721665",
+  "total_tracked": 5581,
+  "total_drops": 367,
+  "total_new": 5581,
+  "avg_drop_pct": 6.6,
   "biggest_drop_usd": 426000,
   "drops": [
     {
@@ -9388,6 +9388,35 @@
       ]
     },
     {
+      "id": "116804018",
+      "title": "Jeep Grand Cherokee 2012",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2012-ID116804018.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2012,
+      "mileage": 250000,
+      "transmission": "Automatic",
+      "location": "Ain Saadeh, Metn",
+      "original_price": 13000,
+      "current_price": 12800,
+      "drop_usd": 200,
+      "drop_pct": 1.5,
+      "last_drop_date": "2026-03-26",
+      "first_seen": "2026-03-25",
+      "posted_date": "2026-03-25",
+      "price_history": [
+        {
+          "price": 13000,
+          "date": "2026-03-25"
+        },
+        {
+          "price": 12800,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
       "id": "116779769",
       "title": "Mercedes-Benz GLC 300 2020  clean car fax",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-300-2020-clean-car-fax-ID116779769.html",
@@ -11072,6 +11101,28 @@
       "price_history": [
         {
           "price": 23500,
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116813296",
+      "title": "Land Rover Discovery 2019",
+      "url": "https://www.olx.com.lb/ad/land-rover-discovery-2019-ID116813296.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 47000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 32000,
+      "current_price": 32000,
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 32000,
           "date": "2026-03-26"
         }
       ]
@@ -14144,13 +14195,17 @@
       "transmission": "Automatic",
       "location": "Ain Saadeh, Metn",
       "original_price": 13000,
-      "current_price": 13000,
+      "current_price": 12800,
       "first_seen": "2026-03-25",
       "posted_date": "2026-03-25",
       "price_history": [
         {
           "price": 13000,
           "date": "2026-03-25"
+        },
+        {
+          "price": 12800,
+          "date": "2026-03-26"
         }
       ]
     },
@@ -20218,13 +20273,17 @@
       "transmission": "Steptronic",
       "location": "Broummana, Metn",
       "original_price": 1000,
-      "current_price": 1000,
+      "current_price": 4999,
       "first_seen": "2026-03-24",
       "posted_date": "2026-03-24",
       "price_history": [
         {
           "price": 1000,
           "date": "2026-03-24"
+        },
+        {
+          "price": 4999,
+          "date": "2026-03-26"
         }
       ]
     },
@@ -112016,7 +112075,7 @@
       "transmission": "Automatic",
       "location": "Zouk Mosbeh, Keserouan",
       "original_price": 160000,
-      "current_price": 165000,
+      "current_price": 160000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -112027,6 +112086,10 @@
         {
           "price": 165000,
           "date": "2026-03-07"
+        },
+        {
+          "price": 160000,
+          "date": "2026-03-26"
         }
       ]
     },
