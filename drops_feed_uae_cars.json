@@ -1,8 +1,8 @@
 {
   "total_tracked": 3173,
-  "total_drops": 49,
+  "total_drops": 50,
   "total_new": 3173,
-  "last_updated": "2026-03-26T01:30:46Z",
+  "last_updated": "2026-03-26T04:34:19Z",
   "drops": [
     {
       "id": "16770596",
@@ -689,6 +689,20 @@
       "year": "2025",
       "mileage": "22000",
       "date": "2026-03-25T12:53:03Z"
+    },
+    {
+      "id": "16748368",
+      "title": "\u062f\u0628\u064a \u0627\u0644\u0642\u0631\u0647\u0648\u062f",
+      "old_price": 31000,
+      "new_price": 28500,
+      "drop_pct": 8.1,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/maxima/2026/2/18/-2-973---0908cb65c9f74102891f620c36216213/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Maxima",
+      "year": "2020",
+      "mileage": "129000",
+      "date": "2026-03-26T04:34:19Z"
     }
   ],
   "new_listings": [
@@ -1421,7 +1435,7 @@
       "model": "Maxima",
       "year": "2020",
       "mileage": "129000",
-      "price": 31000,
+      "price": 28500,
       "first_seen": "2026-03-25T12:53:03Z"
     },
     {
