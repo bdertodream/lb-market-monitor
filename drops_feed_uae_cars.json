@@ -1,8 +1,8 @@
 {
-  "total_tracked": 3325,
-  "total_drops": 63,
-  "total_new": 3325,
-  "last_updated": "2026-03-27T14:13:53Z",
+  "total_tracked": 3326,
+  "total_drops": 64,
+  "total_new": 3326,
+  "last_updated": "2026-03-27T15:51:28Z",
   "drops": [
     {
       "id": "16770596",
@@ -885,9 +885,35 @@
       "year": "2020",
       "mileage": "94000",
       "date": "2026-03-27T14:13:53Z"
+    },
+    {
+      "id": "16771763",
+      "title": "Nissan Altima 2017",
+      "old_price": 36000,
+      "new_price": 30000,
+      "drop_pct": 16.7,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/altima/2026/3/11/nissan-altima-2017-2-598---c75482b233534eada316deacad05f016/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": "2017",
+      "mileage": "160000",
+      "date": "2026-03-27T15:51:28Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16784709",
+      "title": "2026 Mercedes-Benz C200 AMG Premium EQ Boost RWD GCC 0Km With 2 Years Unlimited Mileage Warranty",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/3/27/2026-mercedes-benz-c200-amg-premium-eq-boo-2-768---78defe1ebb964c2c8c1aea94b4514ca9/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2026",
+      "mileage": "6",
+      "price": 205999,
+      "first_seen": "2026-03-27T15:51:28Z"
+    },
     {
       "id": "16782510",
       "title": "Infiniti QX50 2024 GCC Specs",
@@ -2865,7 +2891,7 @@
       "model": "Pegas",
       "year": "2020",
       "mileage": "94000",
-      "price": 17999,
+      "price": 19999,
       "first_seen": "2026-03-25T17:59:36Z"
     },
     {
@@ -6874,18 +6900,6 @@
       "year": "2025",
       "mileage": "0",
       "price": 67500,
-      "first_seen": "2026-03-23T10:03:23Z"
-    },
-    {
-      "id": "16704526",
-      "title": "HYUNDAI ELANTRA 1.5 CHINESE SPECS  MODEL  2025",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/elantra/2026/1/13/hyundai-elantra-15-chinese-specs-model-202-2-393---6a1a92bfa8be476da79d3599e52abed5/",
-      "category": "Used Cars",
-      "make": "Hyundai",
-      "model": "Elantra",
-      "year": "2025",
-      "mileage": "0",
-      "price": 45000,
       "first_seen": "2026-03-23T10:03:23Z"
     }
   ]
