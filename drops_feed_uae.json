@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 6460,
+  "total_tracked": 6461,
   "total_drops": 93,
-  "total_new": 6460,
+  "total_new": 6461,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1310,6 +1310,17 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "9808330",
+      "title": "Shop for Sale | Al Safa | 2027 Handover | Retail",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/18/shop-for-sale-al-safa-2027-handover-ret-2-128133/",
+      "area": "Mohammed Bin Rashid City",
+      "category": "Shop",
+      "size": "835",
+      "bedrooms": "",
+      "price": 4500000,
+      "first_seen": "2026-03-27"
+    },
     {
       "id": "17237964",
       "title": "Geuine Listing | Best Deal | VOT | Call now",
@@ -6798,19 +6809,8 @@
       "bedrooms": "",
       "price": 5048129,
       "first_seen": "2026-03-24"
-    },
-    {
-      "id": "9803076",
-      "title": "Investor Deal | Luxury Office with Pool View | Symphony Tower",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/9/investor-deal-luxury-office-with-pool-v-2-337596/",
-      "area": "Meydan Horizon",
-      "category": "Office",
-      "size": "1954",
-      "bedrooms": "",
-      "price": 5095278,
-      "first_seen": "2026-03-24"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-03-26"
+  "last_updated": "2026-03-27"
 }
