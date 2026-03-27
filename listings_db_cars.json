@@ -33884,7 +33884,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-22",
+    "last_seen": "2026-03-27",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -34469,7 +34469,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-22",
+    "last_seen": "2026-03-27",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -55897,20 +55897,24 @@
     "location": "Nabatieh Town, Nabatieh",
     "district": "Nabatieh",
     "original_price": 4950,
-    "current_price": 4950,
+    "current_price": 4900,
     "price_history": [
       {
         "price": 4950,
         "date": "2026-03-09"
+      },
+      {
+        "price": 4900,
+        "date": "2026-03-27"
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-20",
-    "last_updated": "2026-03-09",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
     "posted_date": "2026-03-09",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 50,
+    "drop_pct": 1.0,
+    "last_drop_date": "2026-03-27"
   },
   "116790314": {
     "id": "116790314",
@@ -55925,20 +55929,24 @@
     "location": "Nabatieh Town, Nabatieh",
     "district": "Nabatieh",
     "original_price": 4950,
-    "current_price": 4950,
+    "current_price": 4900,
     "price_history": [
       {
         "price": 4950,
         "date": "2026-03-09"
+      },
+      {
+        "price": 4900,
+        "date": "2026-03-27"
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-20",
-    "last_updated": "2026-03-09",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
     "posted_date": "2026-03-09",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 50,
+    "drop_pct": 1.0,
+    "last_drop_date": "2026-03-27"
   },
   "116692631": {
     "id": "116692631",
@@ -55961,7 +55969,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-20",
+    "last_seen": "2026-03-27",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -55989,7 +55997,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-20",
+    "last_seen": "2026-03-27",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -56017,7 +56025,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-20",
+    "last_seen": "2026-03-27",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -56045,7 +56053,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-20",
+    "last_seen": "2026-03-27",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -63789,16 +63797,20 @@
     "location": "Baouchriye, Metn",
     "district": "Metn",
     "original_price": 11800,
-    "current_price": 11800,
+    "current_price": 110800,
     "price_history": [
       {
         "price": 11800,
         "date": "2026-03-10"
+      },
+      {
+        "price": 110800,
+        "date": "2026-03-27"
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-22",
-    "last_updated": "2026-03-10",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -96307,7 +96319,7 @@
       }
     ],
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-03-27",
     "last_updated": "2026-03-15",
     "posted_date": "2026-03-15",
     "drop_usd": 0,
@@ -105042,20 +105054,24 @@
     "location": "Jouret Al Ballout, Metn",
     "district": "Metn",
     "original_price": 10500,
-    "current_price": 10500,
+    "current_price": 10000,
     "price_history": [
       {
         "price": 10500,
         "date": "2026-03-17"
+      },
+      {
+        "price": 10000,
+        "date": "2026-03-27"
       }
     ],
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-27",
-    "last_updated": "2026-03-17",
+    "last_updated": "2026-03-27",
     "posted_date": "2026-03-17",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 500,
+    "drop_pct": 4.8,
+    "last_drop_date": "2026-03-27"
   },
   "116627445": {
     "id": "116627445",
@@ -106417,16 +106433,20 @@
     "location": "Jdaide, Metn",
     "district": "Metn",
     "original_price": 29500,
-    "current_price": 29500,
+    "current_price": 31000,
     "price_history": [
       {
         "price": 29500,
         "date": "2026-03-17"
+      },
+      {
+        "price": 31000,
+        "date": "2026-03-27"
       }
     ],
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-20",
-    "last_updated": "2026-03-17",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
     "posted_date": "2026-03-17",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -132507,7 +132527,7 @@
       }
     ],
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-03-27",
     "last_updated": "2026-03-21",
     "posted_date": "2026-03-21",
     "drop_usd": 0,
@@ -136703,20 +136723,24 @@
     "location": "Dam wa Farz, Tripoli",
     "district": "Tripoli",
     "original_price": 10500,
-    "current_price": 10500,
+    "current_price": 10000,
     "price_history": [
       {
         "price": 10500,
         "date": "2026-03-22"
+      },
+      {
+        "price": 10000,
+        "date": "2026-03-27"
       }
     ],
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-24",
-    "last_updated": "2026-03-22",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
     "posted_date": "2026-03-22",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 500,
+    "drop_pct": 4.8,
+    "last_drop_date": "2026-03-27"
   },
   "116625298": {
     "id": "116625298",
@@ -140359,7 +140383,7 @@
       }
     ],
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-03-27",
     "last_updated": "2026-03-22",
     "posted_date": "2026-03-22",
     "drop_usd": 0,
@@ -144527,7 +144551,7 @@
       }
     ],
     "first_seen": "2026-03-23",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-03-27",
     "last_updated": "2026-03-23",
     "posted_date": "2026-03-23",
     "drop_usd": 0,
@@ -148747,7 +148771,7 @@
       }
     ],
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-03-27",
     "last_updated": "2026-03-24",
     "posted_date": "2026-03-24",
     "drop_usd": 0,
@@ -164327,20 +164351,24 @@
     "location": "Bourj Hammoud, Metn",
     "district": "Metn",
     "original_price": 5000,
-    "current_price": 5000,
+    "current_price": 4900,
     "price_history": [
       {
         "price": 5000,
         "date": "2026-03-26"
+      },
+      {
+        "price": 4900,
+        "date": "2026-03-27"
       }
     ],
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-27",
-    "last_updated": "2026-03-26",
+    "last_updated": "2026-03-27",
     "posted_date": "2026-03-26",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 100,
+    "drop_pct": 2.0,
+    "last_drop_date": "2026-03-27"
   },
   "116801292": {
     "id": "116801292",
@@ -169123,6 +169151,286 @@
     "price_history": [
       {
         "price": 5100,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116833874": {
+    "id": "116833874",
+    "title": "BMW Other 2007",
+    "url": "https://www.olx.com.lb/ad/bmw-other-2007-ID116833874.html",
+    "make": "BMW",
+    "model": "Other",
+    "body_type": "Convertible",
+    "year": 2007,
+    "mileage": 12,
+    "transmission": "Automatic",
+    "location": "Bikfaya, Metn",
+    "district": "Metn",
+    "original_price": 5800,
+    "current_price": 5800,
+    "price_history": [
+      {
+        "price": 5800,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116833869": {
+    "id": "116833869",
+    "title": "Toyota Tacoma 2019",
+    "url": "https://www.olx.com.lb/ad/toyota-tacoma-2019-ID116833869.html",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "body_type": "Pickup",
+    "year": 2019,
+    "mileage": 90000,
+    "transmission": "Automatic",
+    "location": "Ehden, Zgharta",
+    "district": "Zgharta",
+    "original_price": 29500,
+    "current_price": 29500,
+    "price_history": [
+      {
+        "price": 29500,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116748582": {
+    "id": "116748582",
+    "title": "Hyundai Creta 2019",
+    "url": "https://www.olx.com.lb/ad/hyundai-creta-2019-ID116748582.html",
+    "make": "Hyundai",
+    "model": "Creta",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 98000,
+    "transmission": "Automatic",
+    "location": "Other in Koura, Koura",
+    "district": "Koura",
+    "original_price": 13500,
+    "current_price": 13500,
+    "price_history": [
+      {
+        "price": 13500,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116785689": {
+    "id": "116785689",
+    "title": "Seat Arona 2019",
+    "url": "https://www.olx.com.lb/ad/seat-arona-2019-ID116785689.html",
+    "make": "Seat",
+    "model": "Arona",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 90000,
+    "transmission": "Steptronic",
+    "location": "Mansourieh, Metn",
+    "district": "Metn",
+    "original_price": 15000,
+    "current_price": 15000,
+    "price_history": [
+      {
+        "price": 15000,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116663890": {
+    "id": "116663890",
+    "title": "Mercedes-Benz GLC300 AMG Coupe 4-Matic",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-glc300-amg-coupe-4-matic-ID116663890.html",
+    "make": "Mercedes-Benz",
+    "model": "GLC-Class",
+    "body_type": "Sports / Coupe",
+    "year": 2017,
+    "mileage": 130000,
+    "transmission": "Automatic",
+    "location": "Safra, Keserouan",
+    "district": "Keserouan",
+    "original_price": 32500,
+    "current_price": 32500,
+    "price_history": [
+      {
+        "price": 32500,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116833844": {
+    "id": "116833844",
+    "title": "مرسيدس بنز 240/260/280 1900",
+    "url": "https://www.olx.com.lb/ad/مرسيدس-بنز-240260280-1900-ID116833844.html",
+    "make": "Mercedes-Benz",
+    "model": "240/260/280",
+    "body_type": "Estate",
+    "year": 1900,
+    "mileage": 40000,
+    "transmission": "Automatic",
+    "location": "Zahrieh, Tripoli",
+    "district": "Tripoli",
+    "original_price": 1900,
+    "current_price": 1900,
+    "price_history": [
+      {
+        "price": 1900,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116799820": {
+    "id": "116799820",
+    "title": "Mercedes-Benz GLA-Class 2019",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-gla-class-2019-ID116799820.html",
+    "make": "Mercedes-Benz",
+    "model": "GLA-Class",
+    "body_type": "Hatchback",
+    "year": 2019,
+    "mileage": 40000,
+    "transmission": "Automatic",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 27000,
+    "current_price": 27000,
+    "price_history": [
+      {
+        "price": 27000,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116801735": {
+    "id": "116801735",
+    "title": "BYD TANG L AWD (1000) hp",
+    "url": "https://www.olx.com.lb/ad/byd-tang-l-awd-ID116801735.html",
+    "make": "BYD",
+    "model": "Tang L",
+    "body_type": "SUV",
+    "year": 2025,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 48000,
+    "current_price": 48000,
+    "price_history": [
+      {
+        "price": 48000,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116833811": {
+    "id": "116833811",
+    "title": "Mercedes-Benz E-Class 2003",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2003-ID116833811.html",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "body_type": "Sedan",
+    "year": 2003,
+    "mileage": 145000,
+    "transmission": "Automatic",
+    "location": "Other in Akkar, Akkar",
+    "district": "Akkar",
+    "original_price": 7900,
+    "current_price": 7900,
+    "price_history": [
+      {
+        "price": 7900,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116632487": {
+    "id": "116632487",
+    "title": "Mercedes-Benz GLC-Class 2021",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-class-2021-ID116632487.html",
+    "make": "Mercedes-Benz",
+    "model": "GLC-Class",
+    "body_type": "SUV",
+    "year": 2021,
+    "mileage": 30000,
+    "transmission": "Steptronic",
+    "location": "Mansourieh, Metn",
+    "district": "Metn",
+    "original_price": 49000,
+    "current_price": 49000,
+    "price_history": [
+      {
+        "price": 49000,
         "date": "2026-03-27"
       }
     ],

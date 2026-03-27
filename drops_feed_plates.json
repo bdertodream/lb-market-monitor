@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-27T06:15:20.581875",
-  "total_tracked": 323,
+  "generated_at": "2026-03-27T08:02:34.057008",
+  "total_tracked": 324,
   "total_drops": 24,
-  "total_new": 323,
+  "total_new": 324,
   "avg_drop_pct": 28.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -724,6 +724,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "115999484",
+      "title": "6122 O",
+      "url": "https://www.olx.com.lb/ad/6122-o-ID115999484.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Antelias, Metn",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 6000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
     {
       "id": "116674701",
       "title": "Collection Of Special Numbers",
