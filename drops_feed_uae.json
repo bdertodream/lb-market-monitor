@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 6461,
+  "total_tracked": 6464,
   "total_drops": 93,
-  "total_new": 6461,
+  "total_new": 6464,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1319,6 +1319,39 @@
       "size": "835",
       "bedrooms": "",
       "price": 4500000,
+      "first_seen": "2026-03-27"
+    },
+    {
+      "id": "17235825",
+      "title": "Vacant | High Floor | Golf View | Powder Room",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/25/vacant-high-floor-golf-view-powder-room-2-257105/",
+      "area": "The Views",
+      "category": "Apartment",
+      "size": "1556",
+      "bedrooms": "2",
+      "price": 3000000,
+      "first_seen": "2026-03-27"
+    },
+    {
+      "id": "17235827",
+      "title": "Vacant | Marina Views | View Today",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/25/vacant-on-transfer-motivated-marina-vie-2-292796/",
+      "area": "Dubai Marina",
+      "category": "Apartment",
+      "size": "1256",
+      "bedrooms": "2",
+      "price": 3000000,
+      "first_seen": "2026-03-27"
+    },
+    {
+      "id": "17186351",
+      "title": "3 Bedrooms | Type A2 | Large Plot",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/11/3-bedrooms-type-a2-large-plot-2-320489/",
+      "area": "Arabian Ranches",
+      "category": "Villa",
+      "size": "8404",
+      "bedrooms": "3",
+      "price": 10950000,
       "first_seen": "2026-03-27"
     },
     {
@@ -6775,39 +6808,6 @@
       "size": "670",
       "bedrooms": "",
       "price": 3346000,
-      "first_seen": "2026-03-24"
-    },
-    {
-      "id": "9803087",
-      "title": "Lagoon View Shop | Motivated Seller | Ready",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/9/lagoon-view-shop-motivated-seller-ready-2-179848/",
-      "area": "Meydan",
-      "category": "Shop",
-      "size": "438",
-      "bedrooms": "",
-      "price": 2500000,
-      "first_seen": "2026-03-24"
-    },
-    {
-      "id": "9803085",
-      "title": "Spacious | Good Location | Business Oriented",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/9/spacious-good-location-business-oriente-2-696704/",
-      "area": "International City",
-      "category": "Shop",
-      "size": "927",
-      "bedrooms": "",
-      "price": 1740000,
-      "first_seen": "2026-03-24"
-    },
-    {
-      "id": "9803082",
-      "title": "High Yield Potential | Office Space | Symphony Tower",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/9/high-yield-potential-office-space-symph-2-506782/",
-      "area": "Meydan Horizon",
-      "category": "Office",
-      "size": "1942",
-      "bedrooms": "",
-      "price": 5048129,
       "first_seen": "2026-03-24"
     }
   ],
