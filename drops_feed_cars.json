@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-27T17:50:33.555379",
-  "total_tracked": 5963,
+  "generated_at": "2026-03-27T18:51:35.291463",
+  "total_tracked": 5968,
   "total_drops": 407,
-  "total_new": 5963,
+  "total_new": 5968,
   "avg_drop_pct": 6.6,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -14744,6 +14744,116 @@
       ]
     },
     {
+      "id": "116834658",
+      "title": "Fiat 500 Abarth 2012",
+      "url": "https://www.olx.com.lb/ad/fiat-500-abarth-2012-ID116834658.html",
+      "make": "Fiat",
+      "model": "500 Abarth",
+      "body_type": "Convertible",
+      "year": 2012,
+      "mileage": 69000,
+      "transmission": "Steptronic",
+      "location": "Al Nakhle, Koura",
+      "original_price": 12500,
+      "current_price": 12500,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 12500,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116820876",
+      "title": "E63S AMG 2018",
+      "url": "https://www.olx.com.lb/ad/e63s-amg-2018-ID116820876.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 56000,
+      "transmission": "Automatic",
+      "location": "Other in West-Bekaa, West Bekaa",
+      "original_price": 85000,
+      "current_price": 85000,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 85000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116788431",
+      "title": "Kia Sportage 2014",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-2013-ID116788431.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2013,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Dora, Metn",
+      "original_price": 12600,
+      "current_price": 12600,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 12600,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116834636",
+      "title": "Mitsubishi Lancer 2015",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-lancer-2015-ID116834636.html",
+      "make": "Mitsubishi",
+      "model": "Lancer",
+      "body_type": "Sedan",
+      "year": 2015,
+      "mileage": 144000,
+      "transmission": "Automatic",
+      "location": "Bikfaya, Metn",
+      "original_price": 11500,
+      "current_price": 11500,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 11500,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116834628",
+      "title": "Toyota Camry 2009",
+      "url": "https://www.olx.com.lb/ad/toyota-camry-2009-ID116834628.html",
+      "make": "Toyota",
+      "model": "Camry",
+      "body_type": "Classic Cars",
+      "year": 2009,
+      "mileage": 176000,
+      "transmission": "Automatic",
+      "location": "Abou Samra, Tripoli",
+      "original_price": 8000,
+      "current_price": 8000,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 8000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
       "id": "116832556",
       "title": "Infiniti G-Series 2008",
       "url": "https://www.olx.com.lb/ad/infiniti-g-series-2008-ID116832556.html",
@@ -26171,13 +26281,17 @@
       "transmission": "Steptronic",
       "location": "Bouar, Keserouan",
       "original_price": 15500,
-      "current_price": 15500,
+      "current_price": 16900,
       "first_seen": "2026-03-25",
       "posted_date": "2026-03-25",
       "price_history": [
         {
           "price": 15500,
           "date": "2026-03-25"
+        },
+        {
+          "price": 16900,
+          "date": "2026-03-27"
         }
       ]
     },
