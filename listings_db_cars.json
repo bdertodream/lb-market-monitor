@@ -1360,7 +1360,7 @@
     "location": "Sodeco, Beirut",
     "district": "Beirut",
     "original_price": 29000,
-    "current_price": 30000,
+    "current_price": 28000,
     "price_history": [
       {
         "price": 29000,
@@ -1369,14 +1369,18 @@
       {
         "price": 30000,
         "date": "2026-03-07"
+      },
+      {
+        "price": 28000,
+        "date": "2026-03-27"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-11",
-    "last_updated": "2026-03-07",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "drop_usd": 1000,
+    "drop_pct": 3.4,
+    "last_drop_date": "2026-03-27",
     "posted_date": "2026-03-01",
     "stale": true
   },
@@ -122732,7 +122736,7 @@
       }
     ],
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-22",
+    "last_seen": "2026-03-27",
     "last_updated": "2026-03-19",
     "posted_date": "2026-03-19",
     "drop_usd": 0,
@@ -168448,16 +168452,20 @@
     "location": "Sodeco, Beirut",
     "district": "Beirut",
     "original_price": 31000,
-    "current_price": 31000,
+    "current_price": 32000,
     "price_history": [
       {
         "price": 31000,
         "date": "2026-03-26"
+      },
+      {
+        "price": 32000,
+        "date": "2026-03-27"
       }
     ],
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-27",
-    "last_updated": "2026-03-26",
+    "last_updated": "2026-03-27",
     "posted_date": "2026-03-26",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -172372,6 +172380,258 @@
     "price_history": [
       {
         "price": 7000,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116834771": {
+    "id": "116834771",
+    "title": "Land Rover Range Rover 2004",
+    "url": "https://www.olx.com.lb/ad/land-rover-range-rover-2004-ID116834771.html",
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "body_type": "Other",
+    "year": 2004,
+    "mileage": 1200,
+    "transmission": "Automatic",
+    "location": "Zouk Mikael, Keserouan",
+    "district": "Keserouan",
+    "original_price": 3600,
+    "current_price": 3600,
+    "price_history": [
+      {
+        "price": 3600,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116834765": {
+    "id": "116834765",
+    "title": "Hyundai I10 2015",
+    "url": "https://www.olx.com.lb/ad/hyundai-i10-2015-ID116834765.html",
+    "make": "Hyundai",
+    "model": "I10",
+    "body_type": "Small city car",
+    "year": 2015,
+    "mileage": 1,
+    "transmission": "Manual",
+    "location": "Other in Akkar, Akkar",
+    "district": "Akkar",
+    "original_price": 5500,
+    "current_price": 5500,
+    "price_history": [
+      {
+        "price": 5500,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116834762": {
+    "id": "116834762",
+    "title": "Mercedes-Benz 190 1990",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-190-1990-ID116834762.html",
+    "make": "Mercedes-Benz",
+    "model": "190",
+    "body_type": "Sedan",
+    "year": 1990,
+    "mileage": 150000,
+    "transmission": "Automatic",
+    "location": "Baabda Town, Baabda",
+    "district": "Baabda",
+    "original_price": 10111,
+    "current_price": 10111,
+    "price_history": [
+      {
+        "price": 10111,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116578236": {
+    "id": "116578236",
+    "title": "Porsche Cayenne 2017",
+    "url": "https://www.olx.com.lb/ad/porsche-cayenne-2017-ID116578236.html",
+    "make": "Porsche",
+    "model": "Cayenne",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 90000,
+    "transmission": "Automatic",
+    "location": "Ras Maska, Koura",
+    "district": "Koura",
+    "original_price": 31400,
+    "current_price": 31400,
+    "price_history": [
+      {
+        "price": 31400,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116834753": {
+    "id": "116834753",
+    "title": "Land Rover Range Rover Sport 2016",
+    "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2016-ID116834753.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2016,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Wadi el Aarayesh, Zahle",
+    "district": "Zahle",
+    "original_price": 24999,
+    "current_price": 24999,
+    "price_history": [
+      {
+        "price": 24999,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116834750": {
+    "id": "116834750",
+    "title": "تاكوما زغرتا مجدليه 71961793",
+    "url": "https://www.olx.com.lb/ad/دايو-أخرى-1996-ID116834750.html",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "body_type": "Pickup",
+    "year": 2001,
+    "mileage": 258,
+    "transmission": "Manual",
+    "location": "Majdalaya, Zgharta",
+    "district": "Zgharta",
+    "original_price": 5500,
+    "current_price": 5500,
+    "price_history": [
+      {
+        "price": 5500,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116834550": {
+    "id": "116834550",
+    "title": "Nissan Kicks  2019 low miles !",
+    "url": "https://www.olx.com.lb/ad/nissan-kicks-2019-ID116834550.html",
+    "make": "Nissan",
+    "model": "Kicks ",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Beirut Port, Beirut",
+    "district": "Beirut",
+    "original_price": 13700,
+    "current_price": 13700,
+    "price_history": [
+      {
+        "price": 13700,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116834738": {
+    "id": "116834738",
+    "title": "RANGE ROVER VELAR R-DYNAMIC 2020 !!!",
+    "url": "https://www.olx.com.lb/ad/range-rover-velar-r-dynamic-2020-ID116834738.html",
+    "make": "Land Rover",
+    "model": "Velar",
+    "body_type": "SUV",
+    "year": 2020,
+    "mileage": 75000,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 39900,
+    "current_price": 39900,
+    "price_history": [
+      {
+        "price": 39900,
+        "date": "2026-03-27"
+      }
+    ],
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "last_updated": "2026-03-27",
+    "posted_date": "2026-03-27",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116834734": {
+    "id": "116834734",
+    "title": "Mercedes-Benz E-Class 2017",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2017-ID116834734.html",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "body_type": "Sedan",
+    "year": 2017,
+    "mileage": 87000,
+    "transmission": "Steptronic",
+    "location": "Halba, Akkar",
+    "district": "Akkar",
+    "original_price": 22500,
+    "current_price": 22500,
+    "price_history": [
+      {
+        "price": 22500,
         "date": "2026-03-27"
       }
     ],
