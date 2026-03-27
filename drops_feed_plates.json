@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-27T16:51:06.273950",
-  "total_tracked": 325,
+  "generated_at": "2026-03-27T17:50:52.513404",
+  "total_tracked": 326,
   "total_drops": 24,
-  "total_new": 325,
+  "total_new": 326,
   "avg_drop_pct": 28.4,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -760,6 +760,24 @@
       "price_history": [
         {
           "price": 4500,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116834620",
+      "title": "1526 G",
+      "url": "https://www.olx.com.lb/ad/1526-g-ID116834620.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Kaslik, Keserouan",
+      "original_price": 4800,
+      "current_price": 4800,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 4800,
           "date": "2026-03-27"
         }
       ]
