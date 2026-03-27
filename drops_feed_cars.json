@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-27T10:46:58.501577",
-  "total_tracked": 5902,
+  "generated_at": "2026-03-27T11:43:36.023819",
+  "total_tracked": 5910,
   "total_drops": 399,
-  "total_new": 5902,
+  "total_new": 5910,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -3917,6 +3917,43 @@
       ]
     },
     {
+      "id": "116807806",
+      "title": "Land Rover Discovery 2019 59000 Miles only",
+      "url": "https://www.olx.com.lb/ad/land-rover-discovery-2019-59000-miles-only-ID116807806.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 59000,
+      "transmission": "Steptronic",
+      "location": "Zalka, Metn",
+      "original_price": 26800,
+      "current_price": 25500,
+      "drop_usd": 1300,
+      "drop_pct": 4.9,
+      "last_drop_date": "2026-03-27",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 26800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 26300,
+          "date": "2026-03-08"
+        },
+        {
+          "price": 25800,
+          "date": "2026-03-19"
+        },
+        {
+          "price": 25500,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
       "id": "116799303",
       "title": "Hyundai Elantra 2022",
       "url": "https://www.olx.com.lb/ad/hyundai-elantra-2022-ID116799303.html",
@@ -5699,39 +5736,6 @@
         },
         {
           "price": 13000,
-          "date": "2026-03-19"
-        }
-      ]
-    },
-    {
-      "id": "116807806",
-      "title": "Land Rover Discovery 2019 59000 Miles only",
-      "url": "https://www.olx.com.lb/ad/land-rover-discovery-2019-59000-miles-only-ID116807806.html",
-      "make": "Land Rover",
-      "model": "Discovery",
-      "body_type": "SUV",
-      "year": 2019,
-      "mileage": 59000,
-      "transmission": "Steptronic",
-      "location": "Zalka, Metn",
-      "original_price": 26800,
-      "current_price": 25800,
-      "drop_usd": 1000,
-      "drop_pct": 3.7,
-      "last_drop_date": "2026-03-19",
-      "first_seen": "2026-03-01",
-      "posted_date": "2026-03-01",
-      "price_history": [
-        {
-          "price": 26800,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 26300,
-          "date": "2026-03-08"
-        },
-        {
-          "price": 25800,
           "date": "2026-03-19"
         }
       ]
@@ -13157,6 +13161,182 @@
       "price_history": [
         {
           "price": 64000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116834192",
+      "title": "BMW X5 2003",
+      "url": "https://www.olx.com.lb/ad/bmw-x5-2003-ID116834192.html",
+      "make": "BMW",
+      "model": "X5",
+      "body_type": "Sedan",
+      "year": 2003,
+      "mileage": 180000,
+      "transmission": "Steptronic",
+      "location": "Zgharta Town, Zgharta",
+      "original_price": 4800,
+      "current_price": 4800,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 4800,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116763265",
+      "title": "فورد إكسبلورر 2017",
+      "url": "https://www.olx.com.lb/ad/فورد-إكسبلورر-2017-ID116763265.html",
+      "make": "Ford",
+      "model": "Explorer",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Minieh-Denniye, Minieh-Denniye",
+      "original_price": 20000,
+      "current_price": 20000,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 20000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116834171",
+      "title": "2025 GMC Yukon AT4, Warranty till 2028 ! , 2,000 km only !",
+      "url": "https://www.olx.com.lb/ad/2025-gmc-yukon-at4-warranty-till-2028-2000-km-only-ID116834171.html",
+      "make": "GMC",
+      "model": "Yukon",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 2000,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 112000,
+      "current_price": 112000,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 112000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116803282",
+      "title": "تويوتا كورولا",
+      "url": "https://www.olx.com.lb/ad/فولكسفاغن-ا-غولف-1992-ID116803282.html",
+      "make": "Toyota",
+      "model": "Corolla",
+      "body_type": "Estate",
+      "year": 1987,
+      "mileage": 42500,
+      "transmission": "Automatic",
+      "location": "Riyaq, Zahle",
+      "original_price": 1100,
+      "current_price": 1100,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 1100,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116834166",
+      "title": "Mercedes-Benz E-Class 2006",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2006-ID116834166.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sedan",
+      "year": 2006,
+      "mileage": 1,
+      "transmission": "Automatic",
+      "location": "Ghosta, Keserouan",
+      "original_price": 8000,
+      "current_price": 8000,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 8000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116834160",
+      "title": "Toyota Corolla 2020",
+      "url": "https://www.olx.com.lb/ad/toyota-corolla-2020-ID116834160.html",
+      "make": "Toyota",
+      "model": "Corolla",
+      "body_type": "Sedan",
+      "year": 2020,
+      "mileage": 100,
+      "transmission": "Automatic",
+      "location": "Baouchriye, Metn",
+      "original_price": 16000,
+      "current_price": 16000,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 16000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116834151",
+      "title": "Porsche Cayenne 2017",
+      "url": "https://www.olx.com.lb/ad/porsche-cayenne-2017-ID116834151.html",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 250000,
+      "transmission": "Automatic",
+      "location": "Antelias, Metn",
+      "original_price": 30000,
+      "current_price": 30000,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 30000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116748324",
+      "title": "Maserati Quattroporte 2010",
+      "url": "https://www.olx.com.lb/ad/maserati-quattroporte-2010-ID116748324.html",
+      "make": "Maserati",
+      "model": "Quattroporte",
+      "body_type": "Sports / Coupe",
+      "year": 2010,
+      "mileage": 66000,
+      "transmission": "Automatic",
+      "location": "Anfeh, Koura",
+      "original_price": 500,
+      "current_price": 500,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 500,
           "date": "2026-03-27"
         }
       ]
@@ -116615,7 +116795,7 @@
       "transmission": "Steptronic",
       "location": "Zalka, Metn",
       "original_price": 26800,
-      "current_price": 25800,
+      "current_price": 25500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -116630,6 +116810,10 @@
         {
           "price": 25800,
           "date": "2026-03-19"
+        },
+        {
+          "price": 25500,
+          "date": "2026-03-27"
         }
       ]
     },
