@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-27T08:02:15.901843",
-  "total_tracked": 5874,
+  "generated_at": "2026-03-27T08:48:19.102592",
+  "total_tracked": 5880,
   "total_drops": 399,
-  "total_new": 5874,
+  "total_new": 5880,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -5368,10 +5368,10 @@
       "transmission": "Steptronic",
       "location": "Sin El Fil, Metn",
       "original_price": 51500,
-      "current_price": 50500,
+      "current_price": 49500,
       "drop_usd": 2000,
       "drop_pct": 3.9,
-      "last_drop_date": "2026-03-23",
+      "last_drop_date": "2026-03-27",
       "first_seen": "2026-03-09",
       "posted_date": "2026-03-09",
       "price_history": [
@@ -5390,6 +5390,10 @@
         {
           "price": 50500,
           "date": "2026-03-23"
+        },
+        {
+          "price": 49500,
+          "date": "2026-03-27"
         }
       ]
     },
@@ -12537,6 +12541,138 @@
       "price_history": [
         {
           "price": 49000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116833942",
+      "title": "Land Rover Defender 1986",
+      "url": "https://www.olx.com.lb/ad/land-rover-defender-1986-ID116833942.html",
+      "make": "Land Rover",
+      "model": "Defender",
+      "body_type": "Pickup",
+      "year": 1997,
+      "mileage": 60000,
+      "transmission": "Manual",
+      "location": "Dekwaneh, Metn",
+      "original_price": 100000,
+      "current_price": 100000,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 100000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116833933",
+      "title": "Toyota Carina 1983",
+      "url": "https://www.olx.com.lb/ad/toyota-carina-1983-ID116833933.html",
+      "make": "Toyota",
+      "model": "Corolla",
+      "body_type": "Estate",
+      "year": 1983,
+      "mileage": 40000,
+      "transmission": "Manual",
+      "location": "Other in Chouf, Chouf",
+      "original_price": 1900,
+      "current_price": 1900,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 1900,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116833926",
+      "title": "مرسيدس بنز سي-كلاس 2010",
+      "url": "https://www.olx.com.lb/ad/مرسيدس-بنز-سي-كلاس-2010-ID116833926.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2010,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Batroun Town, Batroun",
+      "original_price": 10500,
+      "current_price": 10500,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 10500,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116833909",
+      "title": "Land Rover Defender P 400 HSE 2020 Eiger gray on black (clean carfax)",
+      "url": "https://www.olx.com.lb/ad/land-rover-defender-p-400-hse-2020-eiger-gray-on-black-clean-carfax-ID116833909.html",
+      "make": "Land Rover",
+      "model": "Defender",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 55000,
+      "transmission": "Steptronic",
+      "location": "Antelias, Metn",
+      "original_price": 73000,
+      "current_price": 73000,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 73000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116833904",
+      "title": "Land Rover Discovery HSE Luxury 2018 1 Owner (Clean Carfax)",
+      "url": "https://www.olx.com.lb/ad/land-rover-discovery-hse-luxury-2018-1-owner-clean-carfax-ID116833904.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 86000,
+      "transmission": "Steptronic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 32000,
+      "current_price": 32000,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 32000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116833903",
+      "title": "مرسيدس بنز سي ال-كلاس 2016",
+      "url": "https://www.olx.com.lb/ad/مرسيدس-بنز-سي-ال-كلاس-2016-ID116833903.html",
+      "make": "Mercedes-Benz",
+      "model": "CL-Class",
+      "body_type": "Sedan",
+      "year": 2016,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Batroun Town, Batroun",
+      "original_price": 11111,
+      "current_price": 11111,
+      "first_seen": "2026-03-27",
+      "posted_date": "2026-03-27",
+      "price_history": [
+        {
+          "price": 11111,
           "date": "2026-03-27"
         }
       ]
@@ -97177,7 +97313,7 @@
       "transmission": "Steptronic",
       "location": "Sin El Fil, Metn",
       "original_price": 51500,
-      "current_price": 50500,
+      "current_price": 49500,
       "first_seen": "2026-03-09",
       "posted_date": "2026-03-09",
       "price_history": [
@@ -97196,6 +97332,10 @@
         {
           "price": 50500,
           "date": "2026-03-23"
+        },
+        {
+          "price": 49500,
+          "date": "2026-03-27"
         }
       ]
     },
