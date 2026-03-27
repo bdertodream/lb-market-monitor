@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-27T22:28:41.288654",
-  "total_tracked": 36229,
+  "generated_at": "2026-03-27T23:29:53.346490",
+  "total_tracked": 36231,
   "total_drops": 326,
-  "total_new": 36229,
+  "total_new": 36231,
   "avg_drop_pct": 8.0,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -1729,6 +1729,39 @@
       ]
     },
     {
+      "id": "116810691",
+      "title": "Ultra prime location , Fully furnished , Adma /أدما REF#RS133584",
+      "url": "https://www.olx.com.lb/ad/ultra-prime-location-fully-furnished-adma-أدما-refrs133584-ID116810691.html",
+      "type": "Apartment",
+      "location": "Adma w Dafnah, Keserouan",
+      "sqm": 160,
+      "original_price": 185000,
+      "current_price": 165000,
+      "drop_usd": 20000,
+      "drop_pct": 10.8,
+      "last_drop_date": "2026-03-27",
+      "posted_date": "2026-03-01",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 185000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 179000,
+          "date": "2026-03-16"
+        },
+        {
+          "price": 169000,
+          "date": "2026-03-25"
+        },
+        {
+          "price": 165000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
       "id": "116783553",
       "title": "Furnished Apartment for sale in Sid El Bauchrieh 150 sqm",
       "url": "https://www.olx.com.lb/ad/furnished-apartment-for-sale-in-sid-el-bauchrieh-150-sqm-ID116783553.html",
@@ -2587,35 +2620,6 @@
         {
           "price": 64000,
           "date": "2026-03-19"
-        }
-      ]
-    },
-    {
-      "id": "116810691",
-      "title": "Ultra prime location , Fully furnished , Adma /أدما REF#RS133584",
-      "url": "https://www.olx.com.lb/ad/ultra-prime-location-fully-furnished-adma-أدما-refrs133584-ID116810691.html",
-      "type": "Apartment",
-      "location": "Adma w Dafnah, Keserouan",
-      "sqm": 160,
-      "original_price": 185000,
-      "current_price": 169000,
-      "drop_usd": 16000,
-      "drop_pct": 8.6,
-      "last_drop_date": "2026-03-25",
-      "posted_date": "2026-03-01",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 185000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 179000,
-          "date": "2026-03-16"
-        },
-        {
-          "price": 169000,
-          "date": "2026-03-25"
         }
       ]
     },
@@ -26990,6 +26994,42 @@
       "price_history": [
         {
           "price": 650000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116658246",
+      "title": "Mazraat Yashouh | High End Building Status | Brand New 110m² | Balcony",
+      "url": "https://www.olx.com.lb/ad/mazraat-yashouh-high-end-building-status-brand-new-110m2-balcony-ID116658246.html",
+      "type": "Building",
+      "location": "Mazraat Yachouh, Metn",
+      "sqm": 110,
+      "original_price": 139900,
+      "current_price": 139900,
+      "posted_date": "2026-03-27",
+      "first_seen": "2026-03-27",
+      "price_history": [
+        {
+          "price": 139900,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116834843",
+      "title": "Duplex for sale in Beit Mery Ref#BK125 دوبلكس للبيع في بيت مري",
+      "url": "https://www.olx.com.lb/ad/duplex-for-sale-in-beit-mery-refbk125-دوبلكس-للبيع-في-بيت-مري-ID116834843.html",
+      "type": "Villa",
+      "location": "Beit Mery, Metn",
+      "sqm": 566,
+      "original_price": 750000,
+      "current_price": 750000,
+      "posted_date": "2026-03-27",
+      "first_seen": "2026-03-27",
+      "price_history": [
+        {
+          "price": 750000,
           "date": "2026-03-27"
         }
       ]
@@ -366772,8 +366812,8 @@
     },
     {
       "id": "116819469",
-      "title": "Apartment for Sale in Kfaryassine - شقة للإيجار في كفرياسين",
-      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-kfaryassine-شقة-للإيجار-في-كفرياسين-ID116819469.html",
+      "title": "Apartment for Sale in Kfaryassine - شقة للبيع في كفرياسين",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-kfaryassine-شقة-للبيع-في-كفرياسين-ID116819469.html",
       "type": "Apartment",
       "location": "Kfaryassine, Keserouan",
       "sqm": 180,
@@ -623118,7 +623158,7 @@
       "location": "Adma w Dafnah, Keserouan",
       "sqm": 160,
       "original_price": 185000,
-      "current_price": 169000,
+      "current_price": 165000,
       "posted_date": "2026-03-01",
       "first_seen": "2026-03-01",
       "price_history": [
@@ -623133,6 +623173,10 @@
         {
           "price": 169000,
           "date": "2026-03-25"
+        },
+        {
+          "price": 165000,
+          "date": "2026-03-27"
         }
       ]
     },
