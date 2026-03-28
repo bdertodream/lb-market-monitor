@@ -3179,7 +3179,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -3791,7 +3791,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "last_updated": "2026-03-15",
     "drop_usd": 300,
     "drop_pct": 1.9,
@@ -16560,7 +16560,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -17958,7 +17958,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -24233,7 +24233,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -56220,7 +56220,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "last_updated": "2026-03-27",
     "posted_date": "2026-03-09",
     "drop_usd": 2000,
@@ -105458,16 +105458,20 @@
     "location": "Corniche El Baher, Saida",
     "district": "Saida",
     "original_price": 5000,
-    "current_price": 5000,
+    "current_price": 5300,
     "price_history": [
       {
         "price": 5000,
         "date": "2026-03-17"
+      },
+      {
+        "price": 5300,
+        "date": "2026-03-28"
       }
     ],
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-19",
-    "last_updated": "2026-03-17",
+    "last_seen": "2026-03-28",
+    "last_updated": "2026-03-28",
     "posted_date": "2026-03-17",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -109639,7 +109643,7 @@
       }
     ],
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "last_updated": "2026-03-17",
     "posted_date": "2026-03-17",
     "drop_usd": 0,
@@ -123778,7 +123782,7 @@
       }
     ],
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "last_updated": "2026-03-19",
     "posted_date": "2026-03-19",
     "drop_usd": 0,
@@ -132891,7 +132895,7 @@
       }
     ],
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "last_updated": "2026-03-21",
     "posted_date": "2026-03-21",
     "drop_usd": 0,
@@ -155111,7 +155115,7 @@
       }
     ],
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-27",
+    "last_seen": "2026-03-28",
     "last_updated": "2026-03-25",
     "posted_date": "2026-03-25",
     "drop_usd": 0,
@@ -173959,6 +173963,118 @@
     "price_history": [
       {
         "price": 45000,
+        "date": "2026-03-28"
+      }
+    ],
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "last_updated": "2026-03-28",
+    "posted_date": "2026-03-28",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "114902787": {
+    "id": "114902787",
+    "title": "good condition 76594737",
+    "url": "https://www.olx.com.lb/ad/good-condition-76594737-ID114902787.html",
+    "make": "Subaru",
+    "model": "Outback",
+    "body_type": "Sedan",
+    "year": 2005,
+    "mileage": 0,
+    "transmission": "Steptronic",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 6200,
+    "current_price": 6200,
+    "price_history": [
+      {
+        "price": 6200,
+        "date": "2026-03-28"
+      }
+    ],
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "last_updated": "2026-03-28",
+    "posted_date": "2026-03-28",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "111595677": {
+    "id": "111595677",
+    "title": "chevrolet",
+    "url": "https://www.olx.com.lb/ad/chevrolet-ID111595677.html",
+    "make": "Chevrolet",
+    "model": "Trailblazer",
+    "body_type": "Other",
+    "year": 2013,
+    "mileage": 72000,
+    "transmission": "Automatic",
+    "location": "Mhatreh, Tripoli",
+    "district": "Tripoli",
+    "original_price": 9500,
+    "current_price": 9500,
+    "price_history": [
+      {
+        "price": 9500,
+        "date": "2026-03-28"
+      }
+    ],
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "last_updated": "2026-03-28",
+    "posted_date": "2026-03-28",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116834903": {
+    "id": "116834903",
+    "title": "بي ام دبليو أخرى 1990",
+    "url": "https://www.olx.com.lb/ad/بي-ام-دبليو-أخرى-1990-ID116834903.html",
+    "make": "BMW",
+    "model": "Other",
+    "body_type": "Other",
+    "year": 1990,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Jnah, Beirut",
+    "district": "Beirut",
+    "original_price": 1100,
+    "current_price": 1100,
+    "price_history": [
+      {
+        "price": 1100,
+        "date": "2026-03-28"
+      }
+    ],
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "last_updated": "2026-03-28",
+    "posted_date": "2026-03-28",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116795670": {
+    "id": "116795670",
+    "title": "Land Rover Range Rover Sport 2017",
+    "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2017-ID116795670.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 0,
+    "transmission": "Steptronic",
+    "location": "Amioun, Koura",
+    "district": "Koura",
+    "original_price": 27700,
+    "current_price": 27700,
+    "price_history": [
+      {
+        "price": 27700,
         "date": "2026-03-28"
       }
     ],

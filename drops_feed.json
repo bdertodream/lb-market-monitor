@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-28T04:16:42.625177",
+  "generated_at": "2026-03-28T05:56:46.404188",
   "total_tracked": 36251,
-  "total_drops": 327,
+  "total_drops": 328,
   "total_new": 36251,
   "avg_drop_pct": 8.0,
   "biggest_drop_usd": 900000,
@@ -2949,6 +2949,31 @@
         {
           "price": 115000,
           "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116807714",
+      "title": "Family share for sale at La Marina Club -Dbayeh",
+      "url": "https://www.olx.com.lb/ad/family-share-for-sale-at-la-marina-club-dbayeh-ID116807714.html",
+      "type": "Apartment",
+      "location": "Dbaye, Metn",
+      "sqm": 5,
+      "original_price": 25000,
+      "current_price": 23000,
+      "drop_usd": 2000,
+      "drop_pct": 8.0,
+      "last_drop_date": "2026-03-28",
+      "posted_date": "2026-03-13",
+      "first_seen": "2026-03-13",
+      "price_history": [
+        {
+          "price": 25000,
+          "date": "2026-03-13"
+        },
+        {
+          "price": 23000,
+          "date": "2026-03-28"
         }
       ]
     },
@@ -368713,13 +368738,17 @@
       "location": "Dbaye, Metn",
       "sqm": 5,
       "original_price": 25000,
-      "current_price": 25000,
+      "current_price": 23000,
       "posted_date": "2026-03-13",
       "first_seen": "2026-03-13",
       "price_history": [
         {
           "price": 25000,
           "date": "2026-03-13"
+        },
+        {
+          "price": 23000,
+          "date": "2026-03-28"
         }
       ]
     },
