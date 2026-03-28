@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 6636,
+  "total_tracked": 6638,
   "total_drops": 93,
-  "total_new": 6636,
+  "total_new": 6638,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1310,6 +1310,28 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "17248549",
+      "title": "Furnished Studio | Balcony | Downtown City View | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/28/furnished-studio-balcony-downtown-city--2-140282/",
+      "area": "Jumeirah Village Triangle (JVT)",
+      "category": "Apartment",
+      "size": "469",
+      "bedrooms": "0",
+      "price": 520000,
+      "first_seen": "2026-03-28"
+    },
+    {
+      "id": "9800164",
+      "title": "Vacant on Transfer | Grade A Tower | End Unit",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/21/grade-a-tower-fully-fitted-unit-burj-vi-2-183670/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1395",
+      "bedrooms": "",
+      "price": 7200000,
+      "first_seen": "2026-03-28"
+    },
     {
       "id": "9808330",
       "title": "Shop for Sale | Al Safa | 2027 Handover | Retail",
@@ -6787,30 +6809,8 @@
       "bedrooms": "1",
       "price": 3000000,
       "first_seen": "2026-03-25"
-    },
-    {
-      "id": "17229076",
-      "title": "High Floor | Spacious 1 Bed | Motivated Seller",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/23/high-floor-spacious-1-bed-motivated-sel-2-836110/",
-      "area": "Dubai Hills Estate",
-      "category": "Apartment",
-      "size": "943",
-      "bedrooms": "1",
-      "price": 2120000,
-      "first_seen": "2026-03-25"
-    },
-    {
-      "id": "17198403",
-      "title": "Golf Course View | Building Expert | Maids Room",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/13/golf-course-view-building-expert-maids--2-195539/",
-      "area": "Dubai Hills Estate",
-      "category": "Apartment",
-      "size": "1741",
-      "bedrooms": "3",
-      "price": 6150000,
-      "first_seen": "2026-03-25"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-28"
 }

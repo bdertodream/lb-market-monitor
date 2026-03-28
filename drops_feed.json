@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-27T23:29:53.346490",
-  "total_tracked": 36231,
-  "total_drops": 326,
-  "total_new": 36231,
+  "generated_at": "2026-03-28T01:22:07.915545",
+  "total_tracked": 36244,
+  "total_drops": 327,
+  "total_new": 36244,
   "avg_drop_pct": 8.0,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -4894,6 +4894,35 @@
       ]
     },
     {
+      "id": "116625702",
+      "title": "Apartment for Sale in Wata el Msaytbeh",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-wata-el-msaytbeh-ID116625702.html",
+      "type": "Apartment",
+      "location": "Msaytbeh, Beirut",
+      "sqm": 170,
+      "original_price": 375000,
+      "current_price": 355000,
+      "drop_usd": 20000,
+      "drop_pct": 5.3,
+      "last_drop_date": "2026-03-28",
+      "posted_date": "2026-03-25",
+      "first_seen": "2026-03-25",
+      "price_history": [
+        {
+          "price": 375000,
+          "date": "2026-03-25"
+        },
+        {
+          "price": 360000,
+          "date": "2026-03-27"
+        },
+        {
+          "price": 355000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
       "id": "116132896",
       "title": "HOLIDAY BEACH | OPEN SEA VIEW | FURNISHED | HIGH FLOOR",
       "url": "https://www.olx.com.lb/ad/holiday-beach-open-sea-view-high-floor-ID116132896.html",
@@ -5910,31 +5939,6 @@
       ]
     },
     {
-      "id": "116625702",
-      "title": "Furnished Apartment for Sale in Wata el Msaytbeh",
-      "url": "https://www.olx.com.lb/ad/furnished-apartment-for-sale-in-wata-el-msaytbeh-ID116625702.html",
-      "type": "Apartment",
-      "location": "Msaytbeh, Beirut",
-      "sqm": 170,
-      "original_price": 375000,
-      "current_price": 360000,
-      "drop_usd": 15000,
-      "drop_pct": 4.0,
-      "last_drop_date": "2026-03-27",
-      "posted_date": "2026-03-25",
-      "first_seen": "2026-03-25",
-      "price_history": [
-        {
-          "price": 375000,
-          "date": "2026-03-25"
-        },
-        {
-          "price": 360000,
-          "date": "2026-03-27"
-        }
-      ]
-    },
-    {
       "id": "116645145",
       "title": "Modern Building ! Prime Location Apartment for sale in Sanayeh",
       "url": "https://www.olx.com.lb/ad/modern-building-prime-location-apartment-for-sale-in-sanayeh-ID116645145.html",
@@ -6081,6 +6085,31 @@
         {
           "price": 625000,
           "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116830277",
+      "title": "3 parking, elevator, fully furnished, Mar Elias/مار الياس REF#TD134253",
+      "url": "https://www.olx.com.lb/ad/3-parking-elevator-fully-furnished-mar-eliasمار-الياس-reftd134253-ID116830277.html",
+      "type": "Apartment",
+      "location": "Mar Elias, Beirut",
+      "sqm": 200,
+      "original_price": 520000,
+      "current_price": 500000,
+      "drop_usd": 20000,
+      "drop_pct": 3.8,
+      "last_drop_date": "2026-03-28",
+      "posted_date": "2026-03-24",
+      "first_seen": "2026-03-24",
+      "price_history": [
+        {
+          "price": 520000,
+          "date": "2026-03-24"
+        },
+        {
+          "price": 500000,
+          "date": "2026-03-28"
         }
       ]
     },
@@ -8310,6 +8339,240 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116393548",
+      "title": "Batroun | New Building | Brand New 175m² | Prime Location | 3 Bedrooms",
+      "url": "https://www.olx.com.lb/ad/batroun-new-building-brand-new-175m2-prime-location-3-bedrooms-ID116393548.html",
+      "type": "Building",
+      "location": "Batroun Town, Batroun",
+      "sqm": 175,
+      "original_price": 227000,
+      "current_price": 227000,
+      "posted_date": "2026-03-28",
+      "first_seen": "2026-03-28",
+      "price_history": [
+        {
+          "price": 227000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116128925",
+      "title": "Ghadir | 40% DOWNPAYMENT , 2 YEARS PAYMENT FACILITIES | Brand New GF",
+      "url": "https://www.olx.com.lb/ad/ghadir-40-downpayment-2-years-payment-facilities-brand-new-gf-ID116128925.html",
+      "type": "Apartment",
+      "location": "Ghadir, Keserouan",
+      "sqm": 270,
+      "original_price": 240000,
+      "current_price": 240000,
+      "posted_date": "2026-03-28",
+      "first_seen": "2026-03-28",
+      "price_history": [
+        {
+          "price": 240000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116676814",
+      "title": "Ain Saadeh | Brand New 210m² Ap | 2 Balconies | Open Sea-Mountain View",
+      "url": "https://www.olx.com.lb/ad/ain-saadeh-brand-new-210m2-ap-2-balconies-open-sea-mountain-view-ID116676814.html",
+      "type": "Apartment",
+      "location": "Ain Saadeh, Metn",
+      "sqm": 210,
+      "original_price": 315000,
+      "current_price": 315000,
+      "posted_date": "2026-03-28",
+      "first_seen": "2026-03-28",
+      "price_history": [
+        {
+          "price": 315000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116321054",
+      "title": "Elissar | Brand New 160m² + 90m² Terrace | Prime Location | 2nd Floor",
+      "url": "https://www.olx.com.lb/ad/elissar-brand-new-160m2-90m2-terrace-prime-location-2nd-floor-ID116321054.html",
+      "type": "Apartment",
+      "location": "Mtayleb, Metn",
+      "sqm": 240,
+      "original_price": 210000,
+      "current_price": 210000,
+      "posted_date": "2026-03-28",
+      "first_seen": "2026-03-28",
+      "price_history": [
+        {
+          "price": 210000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116162452",
+      "title": "Halat | Signature | High End 165m² + 200m² Terrace | Open Sea View",
+      "url": "https://www.olx.com.lb/ad/halat-signature-high-end-165m2-200m2-terrace-open-sea-view-ID116162452.html",
+      "type": "Apartment",
+      "location": "Halat, Jbeil",
+      "sqm": 365,
+      "original_price": 250000,
+      "current_price": 250000,
+      "posted_date": "2026-03-28",
+      "first_seen": "2026-03-28",
+      "price_history": [
+        {
+          "price": 250000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116676827",
+      "title": "Ain Saadeh | Brand New 260m² Ap | 3 Balconies | Open Sea-Mountain View",
+      "url": "https://www.olx.com.lb/ad/ain-saadeh-brand-new-260m2-ap-3-balconies-open-sea-mountain-view-ID116676827.html",
+      "type": "Apartment",
+      "location": "Ain Saadeh, Metn",
+      "sqm": 260,
+      "original_price": 389900,
+      "current_price": 389900,
+      "posted_date": "2026-03-28",
+      "first_seen": "2026-03-28",
+      "price_history": [
+        {
+          "price": 389900,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116629554",
+      "title": "Rabweh | Prime 180m² + 210m² Terrace | Floor 1 | Building Age 15",
+      "url": "https://www.olx.com.lb/ad/rabweh-prime-180m2-210m2-terrace-floor-1-building-age-15-ID116629554.html",
+      "type": "Building",
+      "location": "Rabweh, Metn",
+      "sqm": 390,
+      "original_price": 364900,
+      "current_price": 364900,
+      "posted_date": "2026-03-28",
+      "first_seen": "2026-03-28",
+      "price_history": [
+        {
+          "price": 364900,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116267149",
+      "title": "Sahel Alma | 130m² + 60m² Terrace | 2 Master Bedrooms | Open Sea View",
+      "url": "https://www.olx.com.lb/ad/sahel-alma-130m2-60m2-terrace-2-master-bedrooms-open-sea-view-ID116267149.html",
+      "type": "Apartment",
+      "location": "Sahel Alma, Keserouan",
+      "sqm": 190,
+      "original_price": 185000,
+      "current_price": 185000,
+      "posted_date": "2026-03-28",
+      "first_seen": "2026-03-28",
+      "price_history": [
+        {
+          "price": 185000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116834864",
+      "title": "Fatka | Brand New 135m² + 180m² Terrace | 3 Bedrooms Apt | Prime Area",
+      "url": "https://www.olx.com.lb/ad/fatka-brand-new-135m2-180m2-terrace-3-bedrooms-apt-prime-area-ID116834864.html",
+      "type": "Apartment",
+      "location": "Fatqa, Keserouan",
+      "sqm": 215,
+      "original_price": 209900,
+      "current_price": 209900,
+      "posted_date": "2026-03-28",
+      "first_seen": "2026-03-28",
+      "price_history": [
+        {
+          "price": 209900,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116834862",
+      "title": "Fatka | Brand New 3 Bedrooms + 180m² Terrace | 2 Underground Parking",
+      "url": "https://www.olx.com.lb/ad/fatka-brand-new-3-bedrooms-180m2-terrace-2-underground-parking-ID116834862.html",
+      "type": "Apartment",
+      "location": "Fatqa, Keserouan",
+      "sqm": 210,
+      "original_price": 199900,
+      "current_price": 199900,
+      "posted_date": "2026-03-28",
+      "first_seen": "2026-03-28",
+      "price_history": [
+        {
+          "price": 199900,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116834861",
+      "title": "Fatka | Brand New 3 Bedrooms Apartment | 2 Underground Parking | View",
+      "url": "https://www.olx.com.lb/ad/fatka-brand-new-3-bedrooms-apartment-2-underground-parking-view-ID116834861.html",
+      "type": "Apartment",
+      "location": "Fatqa, Keserouan",
+      "sqm": 130,
+      "original_price": 149900,
+      "current_price": 149900,
+      "posted_date": "2026-03-28",
+      "first_seen": "2026-03-28",
+      "price_history": [
+        {
+          "price": 149900,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116532924",
+      "title": "Kfarehbab | One of a Kind |  Signature 300m² + 700m² Terrace & Garden",
+      "url": "https://www.olx.com.lb/ad/kfarehbab-one-of-a-kind-signature-300m2-700m2-terrace-garden-ID116532924.html",
+      "type": "Apartment",
+      "location": "Kfar Hbab, Keserouan",
+      "sqm": 1000,
+      "original_price": 599900,
+      "current_price": 599900,
+      "posted_date": "2026-03-28",
+      "first_seen": "2026-03-28",
+      "price_history": [
+        {
+          "price": 599900,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116532911",
+      "title": "Bnabil | 89$/m² | 1,120m² Land | Road Access | Zone 30 | Mountain View",
+      "url": "https://www.olx.com.lb/ad/bnabil-89m2-1120m2-land-road-access-zone-30-mountain-view-ID116532911.html",
+      "type": "Land",
+      "location": "El Mtein, Metn",
+      "sqm": 1120,
+      "original_price": 99900,
+      "current_price": 99900,
+      "posted_date": "2026-03-28",
+      "first_seen": "2026-03-28",
+      "price_history": [
+        {
+          "price": 99900,
+          "date": "2026-03-28"
+        }
+      ]
+    },
     {
       "id": "116833760",
       "title": "شقة لقطة للبيع بشارع الحمراApartment for Sale Hamra",
@@ -62838,13 +63101,13 @@
     },
     {
       "id": "116625702",
-      "title": "Furnished Apartment for Sale in Wata el Msaytbeh",
-      "url": "https://www.olx.com.lb/ad/furnished-apartment-for-sale-in-wata-el-msaytbeh-ID116625702.html",
+      "title": "Apartment for Sale in Wata el Msaytbeh",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-wata-el-msaytbeh-ID116625702.html",
       "type": "Apartment",
       "location": "Msaytbeh, Beirut",
       "sqm": 170,
       "original_price": 375000,
-      "current_price": 360000,
+      "current_price": 355000,
       "posted_date": "2026-03-25",
       "first_seen": "2026-03-25",
       "price_history": [
@@ -62855,6 +63118,10 @@
         {
           "price": 360000,
           "date": "2026-03-27"
+        },
+        {
+          "price": 355000,
+          "date": "2026-03-28"
         }
       ]
     },
@@ -73620,13 +73887,17 @@
       "location": "Mar Elias, Beirut",
       "sqm": 200,
       "original_price": 520000,
-      "current_price": 520000,
+      "current_price": 500000,
       "posted_date": "2026-03-24",
       "first_seen": "2026-03-24",
       "price_history": [
         {
           "price": 520000,
           "date": "2026-03-24"
+        },
+        {
+          "price": 500000,
+          "date": "2026-03-28"
         }
       ]
     },
