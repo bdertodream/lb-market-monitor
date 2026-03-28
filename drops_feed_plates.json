@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-28T14:35:07.246201",
+  "generated_at": "2026-03-28T15:29:54.175004",
   "total_tracked": 328,
-  "total_drops": 24,
+  "total_drops": 25,
   "total_new": 328,
-  "avg_drop_pct": 28.4,
+  "avg_drop_pct": 27.9,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -326,6 +326,31 @@
         {
           "price": 5500,
           "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116833663",
+      "title": "B 13005",
+      "url": "https://www.olx.com.lb/ad/b-13005-ID116833663.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Zgharta Town, Zgharta",
+      "original_price": 3500,
+      "current_price": 3000,
+      "drop_usd": 500,
+      "drop_pct": 14.3,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 3500,
+          "date": "2026-03-26"
+        },
+        {
+          "price": 3000,
+          "date": "2026-03-28"
         }
       ]
     },
@@ -1014,13 +1039,17 @@
       "plate_type": "Standard",
       "location": "Zgharta Town, Zgharta",
       "original_price": 3500,
-      "current_price": 3500,
+      "current_price": 3000,
       "first_seen": "2026-03-26",
       "posted_date": "2026-03-26",
       "price_history": [
         {
           "price": 3500,
           "date": "2026-03-26"
+        },
+        {
+          "price": 3000,
+          "date": "2026-03-28"
         }
       ]
     },
