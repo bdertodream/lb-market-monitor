@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-28T18:40:33.146396",
-  "total_tracked": 6160,
+  "generated_at": "2026-03-28T19:32:31.339674",
+  "total_tracked": 6168,
   "total_drops": 424,
-  "total_new": 6160,
+  "total_new": 6168,
   "avg_drop_pct": 6.6,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -15556,7 +15556,7 @@
     },
     {
       "id": "116835554",
-      "title": "Nissan GT-R 1994",
+      "title": "Nissan Pulsar GTI-R",
       "url": "https://www.olx.com.lb/ad/nissan-gt-r-1994-ID116835554.html",
       "make": "Nissan",
       "model": "GT-R",
@@ -16254,6 +16254,182 @@
       "price_history": [
         {
           "price": 289900,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835584",
+      "title": "Honda CR-V 2009",
+      "url": "https://www.olx.com.lb/ad/honda-cr-v-2009-ID116835584.html",
+      "make": "Honda",
+      "model": "CR-V",
+      "body_type": "Sedan",
+      "year": 2009,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Ain El Remmaneh, Beirut",
+      "original_price": 9800,
+      "current_price": 9800,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 9800,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835581",
+      "title": "Jeep Cherokee 2018",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-2018-ID116835581.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "Other",
+      "year": 2018,
+      "mileage": 110,
+      "transmission": "Automatic",
+      "location": "Other in Becharre, Becharre",
+      "original_price": 18500,
+      "current_price": 18500,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 18500,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835578",
+      "title": "Suzuki Celerio 2012",
+      "url": "https://www.olx.com.lb/ad/suzuki-celerio-2012-ID116835578.html",
+      "make": "Suzuki",
+      "model": "Celerio",
+      "body_type": "Hatchback",
+      "year": 2012,
+      "mileage": 109,
+      "transmission": "Automatic",
+      "location": "chehim, Chouf",
+      "original_price": 4900,
+      "current_price": 4900,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 4900,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116760429",
+      "title": "BMW 3-Series 2006",
+      "url": "https://www.olx.com.lb/ad/bmw-3-series-2006-ID116760429.html",
+      "make": "BMW",
+      "model": "3-Series",
+      "body_type": "Sedan",
+      "year": 2006,
+      "mileage": 130000,
+      "transmission": "Steptronic",
+      "location": "Nahr Ibrahim, Jbeil",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116397855",
+      "title": "Mercedes-Benz CLA-Class 2014",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-cla-class-2014-ID116397855.html",
+      "make": "Mercedes-Benz",
+      "model": "CLA-Class",
+      "body_type": "Sedan",
+      "year": 2014,
+      "mileage": 110000,
+      "transmission": "Steptronic",
+      "location": "Nahr Ibrahim, Jbeil",
+      "original_price": 12800,
+      "current_price": 12800,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 12800,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116760399",
+      "title": "Honda Civic 2009",
+      "url": "https://www.olx.com.lb/ad/honda-civic-2009-ID116760399.html",
+      "make": "Honda",
+      "model": "Civic",
+      "body_type": "Sedan",
+      "year": 2009,
+      "mileage": 110000,
+      "transmission": "Steptronic",
+      "location": "Nahr Ibrahim, Jbeil",
+      "original_price": 8000,
+      "current_price": 8000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 8000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116736539",
+      "title": "Mercedes-Benz Citan 2018 112",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-citan-2018-112-ID116736539.html",
+      "make": "Mercedes-Benz",
+      "model": "Citan",
+      "body_type": "Van / Bus",
+      "year": 2018,
+      "mileage": 41000,
+      "transmission": "Manual",
+      "location": "Antelias, Metn",
+      "original_price": 9900,
+      "current_price": 9900,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 9900,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835561",
+      "title": "Jeep Wrangler 2008",
+      "url": "https://www.olx.com.lb/ad/jeep-wrangler-2008-ID116835561.html",
+      "make": "Jeep",
+      "model": "Wrangler",
+      "body_type": "SUV",
+      "year": 2008,
+      "mileage": 200000,
+      "transmission": "Automatic",
+      "location": "Aley Town, Aley",
+      "original_price": 12000,
+      "current_price": 12000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 12000,
           "date": "2026-03-28"
         }
       ]
