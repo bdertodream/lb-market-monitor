@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-28T21:36:45.127241",
-  "total_tracked": 329,
+  "generated_at": "2026-03-28T22:28:23.229316",
+  "total_tracked": 330,
   "total_drops": 25,
-  "total_new": 329,
+  "total_new": 330,
   "avg_drop_pct": 28.0,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -775,6 +775,24 @@
       "price_history": [
         {
           "price": 16500,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835686",
+      "title": "5 DIGITS",
+      "url": "https://www.olx.com.lb/ad/5-digits-ID116835686.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dekwaneh, Metn",
+      "original_price": 1900,
+      "current_price": 1900,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 1900,
           "date": "2026-03-28"
         }
       ]
