@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-28T16:30:35.366147",
+  "generated_at": "2026-03-28T17:34:41.752587",
   "total_tracked": 328,
   "total_drops": 25,
   "total_new": 328,
-  "avg_drop_pct": 27.9,
+  "avg_drop_pct": 28.0,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -337,9 +337,9 @@
       "plate_type": "Standard",
       "location": "Zgharta Town, Zgharta",
       "original_price": 3500,
-      "current_price": 3000,
-      "drop_usd": 500,
-      "drop_pct": 14.3,
+      "current_price": 2900,
+      "drop_usd": 600,
+      "drop_pct": 17.1,
       "last_drop_date": "2026-03-28",
       "first_seen": "2026-03-26",
       "posted_date": "2026-03-26",
@@ -350,6 +350,10 @@
         },
         {
           "price": 3000,
+          "date": "2026-03-28"
+        },
+        {
+          "price": 2900,
           "date": "2026-03-28"
         }
       ]
@@ -1039,7 +1043,7 @@
       "plate_type": "Standard",
       "location": "Zgharta Town, Zgharta",
       "original_price": 3500,
-      "current_price": 3000,
+      "current_price": 2900,
       "first_seen": "2026-03-26",
       "posted_date": "2026-03-26",
       "price_history": [
@@ -1049,6 +1053,10 @@
         },
         {
           "price": 3000,
+          "date": "2026-03-28"
+        },
+        {
+          "price": 2900,
           "date": "2026-03-28"
         }
       ]

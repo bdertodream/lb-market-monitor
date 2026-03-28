@@ -8076,7 +8076,7 @@
     "location": "Zgharta Town, Zgharta",
     "district": "Zgharta",
     "original_price": 3500,
-    "current_price": 3000,
+    "current_price": 2900,
     "price_history": [
       {
         "price": 3500,
@@ -8085,14 +8085,18 @@
       {
         "price": 3000,
         "date": "2026-03-28"
+      },
+      {
+        "price": 2900,
+        "date": "2026-03-28"
       }
     ],
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-28",
     "last_updated": "2026-03-28",
     "posted_date": "2026-03-26",
-    "drop_usd": 500,
-    "drop_pct": 14.3,
+    "drop_usd": 600,
+    "drop_pct": 17.1,
     "last_drop_date": "2026-03-28"
   },
   "116833648": {

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-28T16:29:33.736563",
-  "total_tracked": 6121,
-  "total_drops": 422,
-  "total_new": 6121,
+  "generated_at": "2026-03-28T17:33:46.636734",
+  "total_tracked": 6128,
+  "total_drops": 423,
+  "total_new": 6128,
   "avg_drop_pct": 6.6,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -1017,6 +1017,35 @@
         {
           "price": 6800,
           "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116835400",
+      "title": "Seat Cordoba 1999",
+      "url": "https://www.olx.com.lb/ad/seat-cordoba-1999-ID116835400.html",
+      "make": "Seat",
+      "model": "Cordoba",
+      "body_type": "Sedan",
+      "year": 1999,
+      "mileage": 247000,
+      "transmission": "Automatic",
+      "location": "Sabtieh, Metn",
+      "original_price": 4000,
+      "current_price": 3500,
+      "drop_usd": 500,
+      "drop_pct": 12.5,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 4000,
+          "date": "2026-03-28"
+        },
+        {
+          "price": 3500,
+          "date": "2026-03-28"
         }
       ]
     },
@@ -15284,12 +15313,16 @@
       "transmission": "Automatic",
       "location": "Sabtieh, Metn",
       "original_price": 4000,
-      "current_price": 4000,
+      "current_price": 3500,
       "first_seen": "2026-03-28",
       "posted_date": "2026-03-28",
       "price_history": [
         {
           "price": 4000,
+          "date": "2026-03-28"
+        },
+        {
+          "price": 3500,
           "date": "2026-03-28"
         }
       ]
@@ -15334,6 +15367,160 @@
       "price_history": [
         {
           "price": 26500,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835484",
+      "title": "MINI COOPER S COUNTRYMAN 2016 FULL PERFECT CONDITION",
+      "url": "https://www.olx.com.lb/ad/mini-cooper-s-countryman-2016-full-perfect-condition-ID116835484.html",
+      "make": "MINI",
+      "model": "Cooper S Countryman",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 129000,
+      "transmission": "Steptronic",
+      "location": "Baouchriye, Metn",
+      "original_price": 11500,
+      "current_price": 11500,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 11500,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116469831",
+      "title": "MINI Cooper S 2007",
+      "url": "https://www.olx.com.lb/ad/mini-cooper-s-2007-ID116469831.html",
+      "make": "MINI",
+      "model": "Cooper S",
+      "body_type": "Convertible",
+      "year": 2007,
+      "mileage": 120,
+      "transmission": "Steptronic",
+      "location": "Zalka, Metn",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 6000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835470",
+      "title": "Land Rover Range Rover Sport 2013",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2013-ID116835470.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2013,
+      "mileage": 125000,
+      "transmission": "Steptronic",
+      "location": "Other in West-Bekaa, West Bekaa",
+      "original_price": 13500,
+      "current_price": 13500,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 13500,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116726449",
+      "title": "Range Rover Evoque HSE 2018",
+      "url": "https://www.olx.com.lb/ad/range-rover-evoque-hse-2018-ID116726449.html",
+      "make": "Land Rover",
+      "model": "Evoque",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 85000,
+      "transmission": "Automatic",
+      "location": "Sodeco, Beirut",
+      "original_price": 21000,
+      "current_price": 21000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 21000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835461",
+      "title": "Land Rover Discovery HSE LUXURY",
+      "url": "https://www.olx.com.lb/ad/land-rover-discovery-hse-luxury-ID116835461.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 102000,
+      "transmission": "Steptronic",
+      "location": "Saida",
+      "original_price": 28500,
+      "current_price": 28500,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 28500,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835449",
+      "title": "Land Rover Evoque 2014",
+      "url": "https://www.olx.com.lb/ad/land-rover-evoque-2014-ID116835449.html",
+      "make": "Land Rover",
+      "model": "Evoque",
+      "body_type": "Hatchback",
+      "year": 2014,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Other in Akkar, Akkar",
+      "original_price": 11111,
+      "current_price": 11111,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 11111,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116793994",
+      "title": "Audi A5 3.2",
+      "url": "https://www.olx.com.lb/ad/audi-a5-32-ID116793994.html",
+      "make": "Audi",
+      "model": "A5",
+      "body_type": "Sports / Coupe",
+      "year": 2010,
+      "mileage": 124000,
+      "transmission": "Automatic",
+      "location": "Tilal Ain Saade, Metn",
+      "original_price": 8000,
+      "current_price": 8000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 8000,
           "date": "2026-03-28"
         }
       ]
