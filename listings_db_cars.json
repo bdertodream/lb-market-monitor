@@ -1360,7 +1360,7 @@
     "location": "Sodeco, Beirut",
     "district": "Beirut",
     "original_price": 29000,
-    "current_price": 28000,
+    "current_price": 29000,
     "price_history": [
       {
         "price": 29000,
@@ -1373,11 +1373,15 @@
       {
         "price": 28000,
         "date": "2026-03-27"
+      },
+      {
+        "price": 29000,
+        "date": "2026-03-28"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-28",
-    "last_updated": "2026-03-27",
+    "last_updated": "2026-03-28",
     "drop_usd": 1000,
     "drop_pct": 3.4,
     "last_drop_date": "2026-03-27",
@@ -28380,19 +28384,23 @@
     "location": "Baouchriye, Metn",
     "district": "Metn",
     "original_price": 26800,
-    "current_price": 26800,
+    "current_price": 26500,
     "price_history": [
       {
         "price": 26800,
         "date": "2026-03-01"
+      },
+      {
+        "price": 26500,
+        "date": "2026-03-28"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-03-28",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_updated": "2026-03-28",
+    "drop_usd": 300,
+    "drop_pct": 1.1,
+    "last_drop_date": "2026-03-28",
     "stale": true,
     "posted_date": "2026-03-01"
   },
@@ -175439,6 +175447,258 @@
     "price_history": [
       {
         "price": 34000,
+        "date": "2026-03-28"
+      }
+    ],
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "last_updated": "2026-03-28",
+    "posted_date": "2026-03-28",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116835216": {
+    "id": "116835216",
+    "title": "Peugeot 308 2011",
+    "url": "https://www.olx.com.lb/ad/peugeot-308-2011-ID116835216.html",
+    "make": "Peugeot",
+    "model": "308",
+    "body_type": "Hatchback",
+    "year": 2011,
+    "mileage": 65000,
+    "transmission": "Automatic",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "original_price": 6000,
+    "current_price": 6000,
+    "price_history": [
+      {
+        "price": 6000,
+        "date": "2026-03-28"
+      }
+    ],
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "last_updated": "2026-03-28",
+    "posted_date": "2026-03-28",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116835213": {
+    "id": "116835213",
+    "title": "Hyundai Veloster 2017 f. o ABS AIRBAG RIMS rear camera",
+    "url": "https://www.olx.com.lb/ad/hyundai-veloster-2017-f-o-abs-airbag-rims-rear-camera-ID116835213.html",
+    "make": "Hyundai",
+    "model": "Veloster",
+    "body_type": "Hatchback",
+    "year": 2017,
+    "mileage": 120000,
+    "transmission": "Steptronic",
+    "location": "Jdaide, Metn",
+    "district": "Metn",
+    "original_price": 10000,
+    "current_price": 10000,
+    "price_history": [
+      {
+        "price": 10000,
+        "date": "2026-03-28"
+      }
+    ],
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "last_updated": "2026-03-28",
+    "posted_date": "2026-03-28",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116835208": {
+    "id": "116835208",
+    "title": "Land Rover Vogue 2016",
+    "url": "https://www.olx.com.lb/ad/land-rover-vogue-2016-ID116835208.html",
+    "make": "Land Rover",
+    "model": "Vogue",
+    "body_type": "SUV",
+    "year": 2016,
+    "mileage": 180000,
+    "transmission": "Automatic",
+    "location": "Adlieh, Beirut",
+    "district": "Beirut",
+    "original_price": 37000,
+    "current_price": 37000,
+    "price_history": [
+      {
+        "price": 37000,
+        "date": "2026-03-28"
+      }
+    ],
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "last_updated": "2026-03-28",
+    "posted_date": "2026-03-28",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116835205": {
+    "id": "116835205",
+    "title": "Mitsubishi ASX 2014 4WD 2.0L",
+    "url": "https://www.olx.com.lb/ad/mitsubishi-asx-2014-4wd-20l-ID116835205.html",
+    "make": "Mitsubishi",
+    "model": "ASX",
+    "body_type": "SUV",
+    "year": 2014,
+    "mileage": 110000,
+    "transmission": "Steptronic",
+    "location": "Fanar, Metn",
+    "district": "Metn",
+    "original_price": 120000,
+    "current_price": 120000,
+    "price_history": [
+      {
+        "price": 120000,
+        "date": "2026-03-28"
+      }
+    ],
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "last_updated": "2026-03-28",
+    "posted_date": "2026-03-28",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116835203": {
+    "id": "116835203",
+    "title": "Mercedes-Benz C-Class 2014",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2014-ID116835203.html",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Sedan",
+    "year": 2014,
+    "mileage": 180000,
+    "transmission": "Steptronic",
+    "location": "Halba, Akkar",
+    "district": "Akkar",
+    "original_price": 12000,
+    "current_price": 12000,
+    "price_history": [
+      {
+        "price": 12000,
+        "date": "2026-03-28"
+      }
+    ],
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "last_updated": "2026-03-28",
+    "posted_date": "2026-03-28",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116736489": {
+    "id": "116736489",
+    "title": "Mercedes-Benz E-Class 2018",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2014-ID116736489.html",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "body_type": "Sedan",
+    "year": 2018,
+    "mileage": 83000,
+    "transmission": "Automatic",
+    "location": "Al Bahsas, Tripoli",
+    "district": "Tripoli",
+    "original_price": 24500,
+    "current_price": 24500,
+    "price_history": [
+      {
+        "price": 24500,
+        "date": "2026-03-28"
+      }
+    ],
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "last_updated": "2026-03-28",
+    "posted_date": "2026-03-28",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116801421": {
+    "id": "116801421",
+    "title": "Chevrolet Cavalier 2025",
+    "url": "https://www.olx.com.lb/ad/chevrolet-cavalier-2025-ID116801421.html",
+    "make": "Chevrolet",
+    "model": "Cavalier",
+    "body_type": "Sedan",
+    "year": 2025,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Hamra, Beirut",
+    "district": "Beirut",
+    "original_price": 19000,
+    "current_price": 19000,
+    "price_history": [
+      {
+        "price": 19000,
+        "date": "2026-03-28"
+      }
+    ],
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "last_updated": "2026-03-28",
+    "posted_date": "2026-03-28",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116835190": {
+    "id": "116835190",
+    "title": "Nissan Rogue 2017",
+    "url": "https://www.olx.com.lb/ad/nissan-rogue-2017-ID116835190.html",
+    "make": "Nissan",
+    "model": "Rogue",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 17000,
+    "transmission": "Automatic",
+    "location": "Baabda Town, Baabda",
+    "district": "Baabda",
+    "original_price": 14500,
+    "current_price": 14500,
+    "price_history": [
+      {
+        "price": 14500,
+        "date": "2026-03-28"
+      }
+    ],
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28",
+    "last_updated": "2026-03-28",
+    "posted_date": "2026-03-28",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116835170": {
+    "id": "116835170",
+    "title": "Infiniti Fx series 2009",
+    "url": "https://www.olx.com.lb/ad/infiniti-fx-series-2009-ID116835170.html",
+    "make": "Infiniti",
+    "model": "Fx series",
+    "body_type": "SUV",
+    "year": 2009,
+    "mileage": 124000,
+    "transmission": "Steptronic",
+    "location": "Tabarja, Keserouan",
+    "district": "Keserouan",
+    "original_price": 9900,
+    "current_price": 9900,
+    "price_history": [
+      {
+        "price": 9900,
         "date": "2026-03-28"
       }
     ],
