@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-28T20:25:25.908610",
-  "total_tracked": 6175,
-  "total_drops": 425,
-  "total_new": 6175,
+  "generated_at": "2026-03-28T21:36:04.179631",
+  "total_tracked": 6204,
+  "total_drops": 427,
+  "total_new": 6204,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -4211,6 +4211,35 @@
       ]
     },
     {
+      "id": "116714746",
+      "title": "Mercedes-Benz E-Class 2018",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2018-ID116714746.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2018,
+      "mileage": 54000,
+      "transmission": "Steptronic",
+      "location": "sakiet al janzeer, Beirut",
+      "original_price": 41000,
+      "current_price": 39000,
+      "drop_usd": 2000,
+      "drop_pct": 4.9,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 41000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 39000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
       "id": "116807806",
       "title": "Land Rover Discovery 2019 59000 Miles only",
       "url": "https://www.olx.com.lb/ad/land-rover-discovery-2019-59000-miles-only-ID116807806.html",
@@ -6983,6 +7012,35 @@
         {
           "price": 14000,
           "date": "2026-03-25"
+        }
+      ]
+    },
+    {
+      "id": "116714711",
+      "title": "Land Rover Range Rover Sport 2020",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2020-ID116714711.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 92000,
+      "transmission": "Steptronic",
+      "location": "sakiet al janzeer, Beirut",
+      "original_price": 61000,
+      "current_price": 59000,
+      "drop_usd": 2000,
+      "drop_pct": 3.3,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 61000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 59000,
+          "date": "2026-03-28"
         }
       ]
     },
@@ -16617,6 +16675,644 @@
       "price_history": [
         {
           "price": 24800,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835660",
+      "title": "Nissan Rogue 2017, 4WD, Super clean",
+      "url": "https://www.olx.com.lb/ad/nissan-rogue-2017-4wd-super-clean-ID116835660.html",
+      "make": "Nissan",
+      "model": "Rogue",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 16300,
+      "transmission": "Automatic",
+      "location": "Mar Elias, Beirut",
+      "original_price": 13800,
+      "current_price": 13800,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 13800,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116726576",
+      "title": "Jaguar XF 2009",
+      "url": "https://www.olx.com.lb/ad/jaguar-xf-2009-ID116726576.html",
+      "make": "Jaguar",
+      "model": "XF",
+      "body_type": "Sedan",
+      "year": 2009,
+      "mileage": 140000,
+      "transmission": "Steptronic",
+      "location": "Mazraat Yachouh, Metn",
+      "original_price": 8000,
+      "current_price": 8000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 8000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835659",
+      "title": "Mitsubishi Lancer 2009",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-lancer-2009-ID116835659.html",
+      "make": "Mitsubishi",
+      "model": "Lancer",
+      "body_type": "Sedan",
+      "year": 2009,
+      "mileage": 441000,
+      "transmission": "Automatic",
+      "location": "Jnah, Beirut",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116608363",
+      "title": "Mercedes-Benz Viano 2019",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-viano-2019-ID116608363.html",
+      "make": "Mercedes-Benz",
+      "model": "Viano",
+      "body_type": "Van / Bus",
+      "year": 2019,
+      "mileage": 115000,
+      "transmission": "Automatic",
+      "location": "Antelias, Metn",
+      "original_price": 42000,
+      "current_price": 42000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 42000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116805742",
+      "title": "Kia Sportage 2018 AWD 55000 mile",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-2018-awd-55000-mile-ID116805742.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 55000,
+      "transmission": "Automatic",
+      "location": "Jdaide, Metn",
+      "original_price": 16500,
+      "current_price": 16500,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 16500,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116803040",
+      "title": "Kia Sportage 2017 From NATCO Lebanon",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-2017-from-natco-lebanon-ID116803040.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 199000,
+      "transmission": "Automatic",
+      "location": "Zalka, Metn",
+      "original_price": 16000,
+      "current_price": 16000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 16000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116802988",
+      "title": "MINI Cooper S Countryman 4WD 2014 From Bassoul Heneine  149000 km only",
+      "url": "https://www.olx.com.lb/ad/mini-cooper-s-countryman-4wd-2014-from-bassoul-heneine-149000-km-only-ID116802988.html",
+      "make": "MINI",
+      "model": "Cooper S Countryman",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 149000,
+      "transmission": "Automatic",
+      "location": "Zalka, Metn",
+      "original_price": 11000,
+      "current_price": 11000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 11000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116803082",
+      "title": "Land Rover Vogue Supercharged 2014",
+      "url": "https://www.olx.com.lb/ad/land-rover-vogue-supercharged-2014-ID116803082.html",
+      "make": "Land Rover",
+      "model": "Vogue",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 69000,
+      "transmission": "Automatic",
+      "location": "Zalka, Metn",
+      "original_price": 32000,
+      "current_price": 32000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 32000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116802378",
+      "title": "MINI Cooper S Countryman 4WD 2017 From Bassoul - heneine 86000 km",
+      "url": "https://www.olx.com.lb/ad/mini-cooper-s-countryman-2017-from-bassoul-heneine-86000-km-ID116802378.html",
+      "make": "MINI",
+      "model": "Cooper S Countryman",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 86000,
+      "transmission": "Automatic",
+      "location": "Zalka, Metn",
+      "original_price": 23000,
+      "current_price": 23000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 23000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835642",
+      "title": "Land Rover Defender HSE P400 2020 ( 7 Seat ) From USA 41000 miles",
+      "url": "https://www.olx.com.lb/ad/land-rover-defender-hse-p400-2020-7-seat-from-usa-41000-miles-ID116835642.html",
+      "make": "Land Rover",
+      "model": "Defender",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 41000,
+      "transmission": "Automatic",
+      "location": "Zalka, Metn",
+      "original_price": 82000,
+      "current_price": 82000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 82000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835639",
+      "title": "Mitsubishi Pajero 2010 in Perfect condition",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-pajero-2010-in-perfect-condition-ID116835639.html",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "body_type": "SUV",
+      "year": 2010,
+      "mileage": 76000,
+      "transmission": "Steptronic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 12500,
+      "current_price": 12500,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 12500,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116680227",
+      "title": "Jeep Grand Cherokee 2017",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2017-ID116680227.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 132000,
+      "transmission": "Automatic",
+      "location": "Ar Rassieh, Zahle",
+      "original_price": 20500,
+      "current_price": 20500,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 20500,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835637",
+      "title": "Mercedes GLA-Class 2018 (CLEAN CARFAX 68000 miles)",
+      "url": "https://www.olx.com.lb/ad/mercedes-gla-class-2018-clean-carfax-68000-miles-ID116835637.html",
+      "make": "Mercedes-Benz",
+      "model": "GLA-Class",
+      "body_type": "Hatchback",
+      "year": 2018,
+      "mileage": 68000,
+      "transmission": "Steptronic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 23000,
+      "current_price": 23000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 23000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835636",
+      "title": "Mercedes-Benz E-Class 2018 E63s Edition 1 AMG",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2018-e63s-edition-1-amg-ID116835636.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 45000,
+      "transmission": "Automatic",
+      "location": "Beirut Port, Beirut",
+      "original_price": 86000,
+      "current_price": 86000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 86000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116629532",
+      "title": "Maserati Ghibli 2015",
+      "url": "https://www.olx.com.lb/ad/maserati-ghibli-2015-ID116629532.html",
+      "make": "Maserati",
+      "model": "Ghibli",
+      "body_type": "Sedan",
+      "year": 2015,
+      "mileage": 50000,
+      "transmission": "Steptronic",
+      "location": "Hamra, Beirut",
+      "original_price": 35000,
+      "current_price": 35000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 35000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116703660",
+      "title": "90 SQM Terrace, panoramic view, baabda, Yarzeh REF#KS130036",
+      "url": "https://www.olx.com.lb/ad/90-sqm-terrace-panoramic-view-baabda-yarzeh-refks130036-ID116703660.html",
+      "make": "Unknown",
+      "model": "",
+      "body_type": "Other",
+      "year": null,
+      "mileage": null,
+      "transmission": "",
+      "location": "Yarzeh, Baabda",
+      "original_price": 1180000,
+      "current_price": 1180000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 1180000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116469425",
+      "title": "Compact red brown Toy poodle puppies available! We Deliver! كلب",
+      "url": "https://www.olx.com.lb/ad/compact-size-red-brown-toy-poodle-available-we-deliver-dog-كلب-ID116469425.html",
+      "make": "Unknown",
+      "model": "",
+      "body_type": "Other",
+      "year": null,
+      "mileage": null,
+      "transmission": "",
+      "location": "Antelias, Metn",
+      "original_price": 1300,
+      "current_price": 1300,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 1300,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116768429",
+      "title": "UNDER CONSTRUCTION CHALETS IN FAQRA PRIME + GARDENS , (KFA-242)",
+      "url": "https://www.olx.com.lb/ad/under-construction-chalets-in-faqra-prime-gardens-kfa-242-ID116768429.html",
+      "make": "Unknown",
+      "model": "",
+      "body_type": "Other",
+      "year": null,
+      "mileage": null,
+      "transmission": "",
+      "location": "Faqra, Keserouan",
+      "original_price": 270000,
+      "current_price": 270000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 270000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116825820",
+      "title": "RAO26-4861 Office 100 sqm for Rent in Beirut",
+      "url": "https://www.olx.com.lb/ad/rao26-4861-office-100-sqm-for-rent-in-beirut-ID116825820.html",
+      "make": "Unknown",
+      "model": "",
+      "body_type": "Other",
+      "year": null,
+      "mileage": null,
+      "transmission": "",
+      "location": "Sin El Fil, Metn",
+      "original_price": 1666,
+      "current_price": 1666,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 1666,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116826352",
+      "title": "Refrigerator Sharp 4Doors Inverter SJ-FH560",
+      "url": "https://www.olx.com.lb/ad/refrigerator-sharp-4doors-inverter-sj-fh560-ID116826352.html",
+      "make": "Unknown",
+      "model": "",
+      "body_type": "Other",
+      "year": null,
+      "mileage": null,
+      "transmission": "",
+      "location": "Mansourieh, Metn",
+      "original_price": 699,
+      "current_price": 699,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 699,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116151473",
+      "title": "Apartment for sale in Mtayleb/ Garden",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-mtayleb-garden-ID116151473.html",
+      "make": "Unknown",
+      "model": "",
+      "body_type": "Other",
+      "year": null,
+      "mileage": null,
+      "transmission": "",
+      "location": "Mtayleb, Metn",
+      "original_price": 525000,
+      "current_price": 525000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 525000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "115908789",
+      "title": "Apartment For Sale In Jdeideh | شقة للبيع في الجديدة",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-jdeideh-شقة-للبيع-في-الجديدة-ID115908789.html",
+      "make": "Unknown",
+      "model": "",
+      "body_type": "Other",
+      "year": null,
+      "mileage": null,
+      "transmission": "",
+      "location": "Jdaide, Metn",
+      "original_price": 140000,
+      "current_price": 140000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 140000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116832480",
+      "title": "Duplex Apartment for sale in Tilal Ain Saade 280,000$ تلال عين سعادة",
+      "url": "https://www.olx.com.lb/ad/duplex-apartment-for-sale-in-tilal-ain-saade-280000-تلال-عين-سعادة-ID116832480.html",
+      "make": "Unknown",
+      "model": "",
+      "body_type": "Other",
+      "year": null,
+      "mileage": null,
+      "transmission": "",
+      "location": "Tilal Ain Saade, Metn",
+      "original_price": 280000,
+      "current_price": 280000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 280000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116532509",
+      "title": "LAST UNIT! 50SQM shop in Jourret Ballout Prime Location",
+      "url": "https://www.olx.com.lb/ad/last-unit-50sqm-shop-in-jourret-ballout-prime-location-ID116532509.html",
+      "make": "Unknown",
+      "model": "",
+      "body_type": "Other",
+      "year": null,
+      "mileage": null,
+      "transmission": "",
+      "location": "Jouret Al Ballout, Metn",
+      "original_price": 108000,
+      "current_price": 108000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 108000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116790142",
+      "title": "Baochriyeh | Building Age 10 | 3 Bedrooms Apartment | Open Sea View",
+      "url": "https://www.olx.com.lb/ad/baochriyeh-building-age-10-3-bedrooms-apartment-open-sea-view-ID116790142.html",
+      "make": "Unknown",
+      "model": "",
+      "body_type": "Other",
+      "year": null,
+      "mileage": null,
+      "transmission": "",
+      "location": "Baouchriye, Metn",
+      "original_price": 750,
+      "current_price": 750,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 750,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116408271",
+      "title": "Nintendo Switch 2 Mario Kart World",
+      "url": "https://www.olx.com.lb/ad/nintendo-switch-2-ID116408271.html",
+      "make": "Nintendo",
+      "model": "",
+      "body_type": "Other",
+      "year": null,
+      "mileage": null,
+      "transmission": "",
+      "location": "Mazraa, Beirut",
+      "original_price": 500,
+      "current_price": 500,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 500,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116835667",
+      "title": "she2a lal be3",
+      "url": "https://www.olx.com.lb/ad/she2a-lal-be3-ID116835667.html",
+      "make": "Unknown",
+      "model": "",
+      "body_type": "Other",
+      "year": null,
+      "mileage": null,
+      "transmission": "",
+      "location": "Fanar, Metn",
+      "original_price": 300000,
+      "current_price": 300000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 300000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "115603339",
+      "title": "عاليه بخشتيه مفروشه",
+      "url": "https://www.olx.com.lb/ad/عاليه-بخشتيه-ID115603339.html",
+      "make": "Unknown",
+      "model": "",
+      "body_type": "Other",
+      "year": null,
+      "mileage": null,
+      "transmission": "",
+      "location": "Aley Town, Aley",
+      "original_price": 600,
+      "current_price": 600,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 600,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "116826254",
+      "title": "Apartment for sale in bsalim شقة للبيع في بصاليم",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-bsalim-شقة-للبيع-في-بصاليم-ID116826254.html",
+      "make": "Unknown",
+      "model": "",
+      "body_type": "Other",
+      "year": null,
+      "mileage": null,
+      "transmission": "",
+      "location": "Bsalim, Metn",
+      "original_price": 145000,
+      "current_price": 145000,
+      "first_seen": "2026-03-28",
+      "posted_date": "2026-03-28",
+      "price_history": [
+        {
+          "price": 145000,
           "date": "2026-03-28"
         }
       ]
@@ -113343,7 +114039,7 @@
       "original_price": 38000,
       "current_price": 38000,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 38000,
@@ -119107,13 +119803,17 @@
       "transmission": "Steptronic",
       "location": "sakiet al janzeer, Beirut",
       "original_price": 41000,
-      "current_price": 41000,
+      "current_price": 39000,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 41000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 39000,
+          "date": "2026-03-28"
         }
       ]
     },
@@ -120977,13 +121677,17 @@
       "transmission": "Steptronic",
       "location": "sakiet al janzeer, Beirut",
       "original_price": 61000,
-      "current_price": 61000,
+      "current_price": 59000,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 61000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 59000,
+          "date": "2026-03-28"
         }
       ]
     },
