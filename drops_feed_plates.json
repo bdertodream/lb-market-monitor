@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-29T12:41:35.698040",
-  "total_tracked": 331,
+  "generated_at": "2026-03-29T13:53:29.317570",
+  "total_tracked": 332,
   "total_drops": 25,
-  "total_new": 331,
+  "total_new": 332,
   "avg_drop_pct": 28.0,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -775,6 +775,24 @@
       "price_history": [
         {
           "price": 5900,
+          "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116836100",
+      "title": "رقم مميز للبيع",
+      "url": "https://www.olx.com.lb/ad/رقم-مميز-للبيع-ID116836100.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 6500,
+      "current_price": 6500,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 6500,
           "date": "2026-03-29"
         }
       ]
