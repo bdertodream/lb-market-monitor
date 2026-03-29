@@ -1,8 +1,8 @@
 {
-  "total_tracked": 3519,
-  "total_drops": 116,
-  "total_new": 3519,
-  "last_updated": "2026-03-29T14:35:15Z",
+  "total_tracked": 3525,
+  "total_drops": 119,
+  "total_new": 3525,
+  "last_updated": "2026-03-29T15:31:55Z",
   "drops": [
     {
       "id": "16770596",
@@ -1627,9 +1627,123 @@
       "year": "2018",
       "mileage": "134000",
       "date": "2026-03-29T14:35:15Z"
+    },
+    {
+      "id": "16714232",
+      "title": "\u2b50\ufe0f EXTENDED MEGA OFFERS!! \u2b50\ufe0f 90 Days warranty | 641 AED per month | Fully Serviced by Ford |",
+      "old_price": 29999,
+      "new_price": 26999,
+      "drop_pct": 10.0,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/lincoln/mkc/2026/1/20/641-aed-per-month-fully-serviced-by-ford-a-2-883---33dfaeb692c04e2899d75395bc3fdb87/",
+      "category": "Used Cars",
+      "make": "Lincoln",
+      "model": "MKC",
+      "year": "2017",
+      "mileage": "138000",
+      "date": "2026-03-29T15:31:55Z"
+    },
+    {
+      "id": "16767876",
+      "title": "90 Days Warranty \u2b50\ufe0f EXTENDED MEGA OFFERS!! \u2b50\ufe0f 740 AED per month | Full Option",
+      "old_price": 39999,
+      "new_price": 37999,
+      "drop_pct": 5.0,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/eclipsecross/2026/3/7/90-days-warranty-enjoy-ramadan-mega-offers-2-105---45099537ea7d4078a23a23ed0c7facc9/",
+      "category": "Used Cars",
+      "make": "Mitsubishi",
+      "model": "EclipseCross",
+      "year": "2018",
+      "mileage": "142000",
+      "date": "2026-03-29T15:31:55Z"
+    },
+    {
+      "id": "16606783",
+      "title": "AED 1,750 monthly No down payment | 2019 Model | 2.0L 4CYL engine | AMG body kit",
+      "old_price": 60000,
+      "new_price": 54000,
+      "drop_pct": 10.0,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2025/10/22/aed-1750-monthly-2019-model-20l-4cyl-engin-2-311---f831747cc6414b3ea9b04c21349c59f4/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2019",
+      "mileage": "105000",
+      "date": "2026-03-29T15:31:55Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16767189",
+      "title": "AED 700 monthly | 2.7L 4cyl engine | 2020 Model | GCC Specs | Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/innova/2026/3/7/aed-780-monthly-27l-4cyl-engine-2020-model-2-658---52b7f86a4054453986e31c49de2e8945/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Innova",
+      "year": "2020",
+      "mileage": "700000",
+      "price": 27500,
+      "first_seen": "2026-03-29T15:31:55Z"
+    },
+    {
+      "id": "16786140",
+      "title": "Jeep Grand Cherokee Limited V6 3.6L",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/3/29/jeep-grand-cherokee-limited-v6-36l-2-125---a73ad896b08942b78d33ff6f2416e74f/",
+      "category": "Used Cars",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "year": "2020",
+      "mileage": "139000",
+      "price": 74500,
+      "first_seen": "2026-03-29T15:31:55Z"
+    },
+    {
+      "id": "16775277",
+      "title": "AED 614 per month \u2b50\ufe0f EXTENDED MEGA OFFERS!! \u2b50\ufe0f",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mini/cooper/2026/3/15/aed-614-per-month-enjoy-ramadan-mega-offer-2-691---30439f8213964e57872082ebb292a7ca/",
+      "category": "Used Cars",
+      "make": "MINI",
+      "model": "Cooper",
+      "year": "2023",
+      "mileage": "27000",
+      "price": 39999,
+      "first_seen": "2026-03-29T15:31:55Z"
+    },
+    {
+      "id": "16775276",
+      "title": "Two Years Warranty \u2b50\ufe0f EXTENDED MEGA OFFERS!! \u2b50\ufe0f AED 920 Per month",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/dashing/2026/3/15/two-years-warranty-enjoy-ramadan-mega-offe-2-353---981160e8de4141308f4234c9e0c77c59/",
+      "category": "Used Cars",
+      "make": "Jetour",
+      "model": "Dashing",
+      "year": "2024",
+      "mileage": "41000",
+      "price": 59999,
+      "first_seen": "2026-03-29T15:31:55Z"
+    },
+    {
+      "id": "16786113",
+      "title": "GCC SPECS ULTIMATE MOTORS WARRANTY - 2023 LAMBORGHINI HURACAN TECNICA V10",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/huracan/2026/3/29/gcc-specs-ultimate-motors-warranty-2023-la-2-961---fb8356fca35f4efdabf9eaf729fc2303/",
+      "category": "Used Cars",
+      "make": "Lamborghini",
+      "model": "Huracan",
+      "year": "2023",
+      "mileage": "5600",
+      "price": 995000,
+      "first_seen": "2026-03-29T15:31:55Z"
+    },
+    {
+      "id": "16786114",
+      "title": "Land Rover Range Rover Velar P250 HSE 2018 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-velar/2026/3/29/land-rover-range-rover-velar-p250-hse-2018-2-336---9bc9f42e23b844cf94ab4689140f93d6/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Range Rover Velar",
+      "year": "2018",
+      "mileage": "115000",
+      "price": 89000,
+      "first_seen": "2026-03-29T15:31:55Z"
+    },
     {
       "id": "16786082",
       "title": "ONE YEAR WARRANTY | AED 1,040 PM FOR 24 MONTH |",
@@ -6036,14 +6150,14 @@
     },
     {
       "id": "16767876",
-      "title": "90 Days Warranty \u2b50\ufe0f ENJOY RAMADAN MEGA OFFERS NOW \u2b50\ufe0f 740 AED per month | Full Option",
+      "title": "90 Days Warranty \u2b50\ufe0f EXTENDED MEGA OFFERS!! \u2b50\ufe0f 740 AED per month | Full Option",
       "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/eclipsecross/2026/3/7/90-days-warranty-enjoy-ramadan-mega-offers-2-105---45099537ea7d4078a23a23ed0c7facc9/",
       "category": "Used Cars",
       "make": "Mitsubishi",
       "model": "EclipseCross",
       "year": "2018",
       "mileage": "142000",
-      "price": 39999,
+      "price": 37999,
       "first_seen": "2026-03-25T16:10:01Z"
     },
     {
@@ -7556,78 +7670,6 @@
       "year": "2015",
       "mileage": "185000",
       "price": 59500,
-      "first_seen": "2026-03-24T18:01:38Z"
-    },
-    {
-      "id": "16767848",
-      "title": "2015 MERCEDES BENZ S400 JAPANESE SPEC CLEAN CAR WITHOUT ACCIDENT WARRANTY AVAILABLE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/3/7/2015-mercedes-benz-s400-japanese-spec-clea-2-235---539e288bb4cc428692073066d7513d07/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "S-Class",
-      "year": "2015",
-      "mileage": "180000",
-      "price": 59500,
-      "first_seen": "2026-03-24T18:01:38Z"
-    },
-    {
-      "id": "16737957",
-      "title": "JAGUAR FTYPE V6 SUPERCHARGED 2015 GCC SPECS FULL SERVICE HISTORY FULL ORIGINAL PAINT",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/f-type/2026/2/9/jaguar-ftype-v6-supercharged-2015-gcc-spec-2-308---cc4e1009c7ca4ea5b576e5e5f32f8d90/",
-      "category": "Used Cars",
-      "make": "Jaguar",
-      "model": "F-Type",
-      "year": "2015",
-      "mileage": "116000",
-      "price": 69000,
-      "first_seen": "2026-03-24T18:01:38Z"
-    },
-    {
-      "id": "16772792",
-      "title": "MERCEDES C300 2021 FULL OPTION WITH ONE YEAR WARRANTY FOR 69k AED",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/3/12/mercedes-c300-2021-full-option-with-one-ye-2-797---2f8d025d5b02488aae34df31f7d3d3dc/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "C-Class",
-      "year": "2021",
-      "mileage": "84000",
-      "price": 69000,
-      "first_seen": "2026-03-24T18:01:38Z"
-    },
-    {
-      "id": "16628103",
-      "title": "2021 GCC INFINITY QX50 FULLY SERVICED MIND CONDITION WITH WARRANTY AND FINANCE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx50/2025/11/7/2021-gcc-infinity-qx50-fully-serviced-mind-2-767---75bd283ebd8d4da5b15f921df0880481/",
-      "category": "Used Cars",
-      "make": "Infiniti",
-      "model": "QX50",
-      "year": "2021",
-      "mileage": "140000",
-      "price": 54500,
-      "first_seen": "2026-03-24T18:01:38Z"
-    },
-    {
-      "id": "16782585",
-      "title": "Trax primer 2018 Model Gcc First owner and full option Just buy and drive well maintained",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/trax/2026/3/24/trax-primer-2018-model-gcc-first-owner-and-2-183---0f44dd9ddbe448dda3c8f2a3d6193b02/",
-      "category": "Used Cars",
-      "make": "Chevrolet",
-      "model": "Trax",
-      "year": "2018",
-      "mileage": "122000",
-      "price": 18600,
-      "first_seen": "2026-03-24T18:01:38Z"
-    },
-    {
-      "id": "16699279",
-      "title": "2018 BMW 750Li, WARRANTY, FULL BMW SERVICE HISTORY, FULLY LOADED, WARRANTY AND FINANCE AVAILABLE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/1/8/2018-gcc-bmw-750li-x-drive-fully-loaded-wi-2-760---e6370e8b06474dfa84b6a6b3163a3a39/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "7-Series",
-      "year": "2018",
-      "mileage": "83000",
-      "price": 89000,
       "first_seen": "2026-03-24T18:01:38Z"
     }
   ]
