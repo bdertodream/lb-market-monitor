@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-29T04:39:54.655327",
-  "total_tracked": 330,
+  "generated_at": "2026-03-29T06:14:46.545722",
+  "total_tracked": 331,
   "total_drops": 25,
-  "total_new": 330,
+  "total_new": 331,
   "avg_drop_pct": 28.0,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -761,6 +761,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116623856",
+      "title": "For Mbz G63 - Rare and Special - G 6376",
+      "url": "https://www.olx.com.lb/ad/for-mbz-g63-special-plate-g6376-ID116623856.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Beit Mery, Metn",
+      "original_price": 5900,
+      "current_price": 5900,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 5900,
+          "date": "2026-03-29"
+        }
+      ]
+    },
     {
       "id": "116835651",
       "title": "For Sale Special Plate Number  0 30003",
@@ -4257,13 +4275,17 @@
       "plate_type": "Standard",
       "location": "Mkalles, Metn",
       "original_price": 4900,
-      "current_price": 4900,
+      "current_price": 5300,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 4900,
           "date": "2026-03-01"
+        },
+        {
+          "price": 5300,
+          "date": "2026-03-29"
         }
       ]
     },
@@ -4909,7 +4931,7 @@
       "plate_type": "Standard",
       "location": "Naccache, Metn",
       "original_price": 7000,
-      "current_price": 8000,
+      "current_price": 7500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -4920,6 +4942,10 @@
         {
           "price": 8000,
           "date": "2026-03-26"
+        },
+        {
+          "price": 7500,
+          "date": "2026-03-29"
         }
       ]
     },

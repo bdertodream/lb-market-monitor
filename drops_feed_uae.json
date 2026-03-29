@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 6824,
+  "total_tracked": 6826,
   "total_drops": 94,
-  "total_new": 6824,
+  "total_new": 6826,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1454,6 +1454,28 @@
       "size": "742",
       "bedrooms": "1",
       "price": 2500000,
+      "first_seen": "2026-03-29"
+    },
+    {
+      "id": "17245478",
+      "title": "Renovation Opportunity | Meadows 2 | Type 12",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/26/renovation-opportunity-meadows-2-type-1-2-340194/",
+      "area": "The Meadows",
+      "category": "Villa",
+      "size": "4170",
+      "bedrooms": "4",
+      "price": 12400000,
+      "first_seen": "2026-03-29"
+    },
+    {
+      "id": "9808756",
+      "title": "Boulevard View | High Foot Traffic | Payment Plan",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/25/boulevard-view-high-foot-traffic-paymen-2-136725/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Shop",
+      "size": "703",
+      "bedrooms": "",
+      "price": 2103660,
       "first_seen": "2026-03-29"
     },
     {
@@ -6800,28 +6822,6 @@
       "size": "227",
       "bedrooms": "",
       "price": 1200000,
-      "first_seen": "2026-03-26"
-    },
-    {
-      "id": "9808970",
-      "title": "Furnished Retail Shop | Binghatti Hillcrest | Amenity & City Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/26/furnished-retail-shop-binghatti-hillcre-2-302552/",
-      "area": "Arjan",
-      "category": "Shop",
-      "size": "2112",
-      "bedrooms": "",
-      "price": 8043837,
-      "first_seen": "2026-03-26"
-    },
-    {
-      "id": "9750320",
-      "title": "Available Commercial Plot | Frond K Palm Jebel Ali | Beachfront & Water Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/3/26/available-commercial-plot-frond-k-palm--2-679328/",
-      "area": "Palm Jebel Ali",
-      "category": "Land",
-      "size": "25716",
-      "bedrooms": "",
-      "price": 67000000,
       "first_seen": "2026-03-26"
     }
   ],

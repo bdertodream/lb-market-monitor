@@ -12656,7 +12656,7 @@
   "16769617": {
     "id": "16769617",
     "title": "Toyota Yaris 2018 SE 1.5L FULLAUTO",
-    "price": 23000,
+    "price": 22500,
     "make": "Toyota",
     "model": "Yaris",
     "year": "{'label': 'Year', 'value': 2018}",
@@ -12671,6 +12671,10 @@
       {
         "price": 23000,
         "date": "2026-03-09T16:56:15Z"
+      },
+      {
+        "price": 22500,
+        "date": "2026-03-29T06:15:23Z"
       }
     ],
     "date": "2026-03-09"
@@ -77849,6 +77853,50 @@
       {
         "price": 104000,
         "date": "2026-03-29T04:40:39Z"
+      }
+    ],
+    "date": "2026-03-29"
+  },
+  "16784276": {
+    "id": "16784276",
+    "title": "Perfect condition Volkswagen Passat",
+    "price": 19950,
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": "2014",
+    "kilometers": "199000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Polo Residence",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/passat/2026/3/26/perfect-condition-volkswagen-passat-2-825---a66a265c35904f359132fe1ac12d9729/",
+    "first_seen": "2026-03-29T06:15:23Z",
+    "prices": [
+      {
+        "price": 19950,
+        "date": "2026-03-29T06:15:23Z"
+      }
+    ],
+    "date": "2026-03-29"
+  },
+  "16761999": {
+    "id": "16761999",
+    "title": "Nissan Altima 2014 SL 2.5L V4 Full-option sunroof",
+    "price": 15500,
+    "make": "Nissan",
+    "model": "Altima",
+    "year": "2014",
+    "kilometers": "201000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Nad Al Hamar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/altima/2026/3/2/nissan-altima-2014-sl-25l-v4-full-option-s-2-719---f63330e6ec344680831751b0e964ccbc/",
+    "first_seen": "2026-03-29T06:15:23Z",
+    "prices": [
+      {
+        "price": 15500,
+        "date": "2026-03-29T06:15:23Z"
       }
     ],
     "date": "2026-03-29"
