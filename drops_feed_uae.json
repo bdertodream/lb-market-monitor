@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 6866,
-  "total_drops": 95,
-  "total_new": 6866,
+  "total_tracked": 6868,
+  "total_drops": 96,
+  "total_new": 6868,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1335,6 +1335,20 @@
       "bedrooms": "",
       "date": "2026-03-29",
       "first_seen": "2026-03-17"
+    },
+    {
+      "id": "17212734",
+      "title": "LUXURY LIVING | HIGH ROI | SMART INVESTMENT",
+      "old_price": 1179999,
+      "new_price": 1079999,
+      "drop_pct": 8.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/17/luxury-living-high-roi-smart-investment-2-434299/",
+      "area": "Arjan",
+      "category": "Apartment",
+      "size": "871",
+      "bedrooms": "1",
+      "date": "2026-03-29",
+      "first_seen": "2026-03-28"
     }
   ],
   "new_listings": [
@@ -1930,6 +1944,28 @@
       "size": "974",
       "bedrooms": "",
       "price": 5700000,
+      "first_seen": "2026-03-29"
+    },
+    {
+      "id": "17102936",
+      "title": "large specious 1bedroom hall for sale in silicon oasis",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/18/large-specious-1bedroom-hall-for-sale-i-2-278042/",
+      "area": "Dubai Silicon Oasis (DSO)",
+      "category": "Apartment",
+      "size": "981",
+      "bedrooms": "1",
+      "price": 875000,
+      "first_seen": "2026-03-29"
+    },
+    {
+      "id": "9809296",
+      "title": "Maybach 2BR | Mercedes-Benz Binghatti | Meydan Horizon",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/29/maybach-2br-mercedes-benz-binghatti-mey-2-205133/",
+      "area": "Meydan",
+      "category": "Office",
+      "size": "973",
+      "bedrooms": "",
+      "price": 3215000,
       "first_seen": "2026-03-29"
     },
     {
@@ -3150,7 +3186,7 @@
       "category": "Apartment",
       "size": "871",
       "bedrooms": "1",
-      "price": 1179999,
+      "price": 1079999,
       "first_seen": "2026-03-28"
     },
     {
@@ -6814,28 +6850,6 @@
       "size": "709",
       "bedrooms": "1",
       "price": 975000,
-      "first_seen": "2026-03-26"
-    },
-    {
-      "id": "15518708",
-      "title": "Investor's Opportunity | Exquisite Studio | Unique Design | Premium Finishes | Book Now!",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/3/17/investor-s-opportunity-exquisite-studio-2-903252/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "389",
-      "bedrooms": "0",
-      "price": 750000,
-      "first_seen": "2026-03-26"
-    },
-    {
-      "id": "16992067",
-      "title": "EXCLUSIVE | High ROI | Luxury Living Investor Deal",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/26/high-roi-luxury-living-investor-deal-2-353155/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "400",
-      "bedrooms": "0",
-      "price": 1025000,
       "first_seen": "2026-03-26"
     }
   ],
