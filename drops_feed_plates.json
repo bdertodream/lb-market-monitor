@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-29T18:36:25.925390",
-  "total_tracked": 333,
+  "generated_at": "2026-03-29T19:33:55.009637",
+  "total_tracked": 334,
   "total_drops": 25,
-  "total_new": 333,
+  "total_new": 334,
   "avg_drop_pct": 28.0,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -811,6 +811,24 @@
       "price_history": [
         {
           "price": 5000,
+          "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116836353",
+      "title": "O 2988 for sale 3100$",
+      "url": "https://www.olx.com.lb/ad/o-2988-for-sale-3100-ID116836353.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Baabda Town, Baabda",
+      "original_price": 3100,
+      "current_price": 3100,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 3100,
           "date": "2026-03-29"
         }
       ]
@@ -2015,13 +2033,13 @@
     },
     {
       "id": "116825142",
-      "title": "very special number",
+      "title": "very special number year 2026",
       "url": "https://www.olx.com.lb/ad/very-special-number-ID116825142.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Beit Chabeb, Metn",
       "original_price": 3000,
-      "current_price": 3700,
+      "current_price": 4300,
       "first_seen": "2026-03-18",
       "posted_date": "2026-03-18",
       "price_history": [
@@ -2032,6 +2050,10 @@
         {
           "price": 3700,
           "date": "2026-03-22"
+        },
+        {
+          "price": 4300,
+          "date": "2026-03-29"
         }
       ]
     },
@@ -3209,13 +3231,17 @@
       "plate_type": "Standard",
       "location": "Downtown, Beirut",
       "original_price": 9600,
-      "current_price": 9600,
+      "current_price": 10200,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 9600,
           "date": "2026-03-01"
+        },
+        {
+          "price": 10200,
+          "date": "2026-03-29"
         }
       ]
     },
@@ -3651,13 +3677,17 @@
       "plate_type": "Standard",
       "location": "Downtown, Beirut",
       "original_price": 8500,
-      "current_price": 8500,
+      "current_price": 9000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 8500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 9000,
+          "date": "2026-03-29"
         }
       ]
     },
@@ -3905,13 +3935,17 @@
       "plate_type": "Standard",
       "location": "Downtown, Beirut",
       "original_price": 17500,
-      "current_price": 17500,
+      "current_price": 21000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 17500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 21000,
+          "date": "2026-03-29"
         }
       ]
     },
@@ -5549,7 +5583,7 @@
       "plate_type": "Standard",
       "location": "Downtown, Beirut",
       "original_price": 10600,
-      "current_price": 17500,
+      "current_price": 21000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -5564,6 +5598,10 @@
         {
           "price": 17500,
           "date": "2026-03-20"
+        },
+        {
+          "price": 21000,
+          "date": "2026-03-29"
         }
       ]
     },
