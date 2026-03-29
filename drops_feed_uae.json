@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 6835,
-  "total_drops": 94,
-  "total_new": 6835,
+  "total_tracked": 6839,
+  "total_drops": 95,
+  "total_new": 6839,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1321,6 +1321,20 @@
       "bedrooms": "",
       "date": "2026-03-28",
       "first_seen": "2026-03-16"
+    },
+    {
+      "id": "9807787",
+      "title": "Rented ROI 8% | Metro 100m | Facing Main Road",
+      "old_price": 2000000,
+      "new_price": 1900000,
+      "drop_pct": 5.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/13/facing-main-road-100m-to-the-metro-rent-2-232809/",
+      "area": "Culture Village (Jaddaf Waterfront)",
+      "category": "Shop",
+      "size": "510",
+      "bedrooms": "",
+      "date": "2026-03-29",
+      "first_seen": "2026-03-17"
     }
   ],
   "new_listings": [
@@ -1575,6 +1589,50 @@
       "size": "742",
       "bedrooms": "1",
       "price": 1000000,
+      "first_seen": "2026-03-29"
+    },
+    {
+      "id": "17251266",
+      "title": "UNIQUE LIVING EXPERIENCE SALVA THE HEIGHTS BY EMAAR",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/28/unique-living-experience-salva-the-heig-2-313358/",
+      "area": "Dubailand",
+      "category": "Villa",
+      "size": "4840",
+      "bedrooms": "3",
+      "price": 6746888,
+      "first_seen": "2026-03-29"
+    },
+    {
+      "id": "9809238",
+      "title": "High ROI Commercial | Piazza Roma | DAMAC Lagoons",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/29/high-roi-commercial-piazza-roma-damac-l-2-340112/",
+      "area": "DAMAC Lagoons",
+      "category": "Office",
+      "size": "2519",
+      "bedrooms": "",
+      "price": 7760000,
+      "first_seen": "2026-03-29"
+    },
+    {
+      "id": "9809237",
+      "title": "Investor Deal - High ROI | Lagoon Facing | Multiple Options",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/29/investor-deal-high-roi-lagoon-facing-mu-2-290695/",
+      "area": "Meydan",
+      "category": "Shop",
+      "size": "1932",
+      "bedrooms": "",
+      "price": 12000000,
+      "first_seen": "2026-03-29"
+    },
+    {
+      "id": "9809236",
+      "title": "Vacant | Low Rise Building | DED License",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/29/vacant-low-rise-building-ded-license-2-319254/",
+      "area": "Motor City",
+      "category": "Office",
+      "size": "460",
+      "bedrooms": "",
+      "price": 828000,
       "first_seen": "2026-03-29"
     },
     {
@@ -6778,50 +6836,6 @@
       "size": "880",
       "bedrooms": "1",
       "price": 2600000,
-      "first_seen": "2026-03-26"
-    },
-    {
-      "id": "17221099",
-      "title": "Motivated Seller I Pool View I Brand New",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/19/motivated-seller-i-pool-view-i-brand-ne-2-252155/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "794",
-      "bedrooms": "1",
-      "price": 1200000,
-      "first_seen": "2026-03-26"
-    },
-    {
-      "id": "17243820",
-      "title": "Guaranteed ROI | Good investment | Cash offer",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/26/guaranteed-roi-good-investment-cash-off-2-874451/",
-      "area": "Dubai Investment Park (DIP)",
-      "category": "Townhouse",
-      "size": "1279",
-      "bedrooms": "2",
-      "price": 990000,
-      "first_seen": "2026-03-26"
-    },
-    {
-      "id": "17182401",
-      "title": "VOT | Close to Pool and Park | Well Maintained",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/10/vot-close-to-pool-and-park-well-maintai-2-337036/",
-      "area": "Town Square",
-      "category": "Townhouse",
-      "size": "2131",
-      "bedrooms": "3",
-      "price": 2775000,
-      "first_seen": "2026-03-26"
-    },
-    {
-      "id": "16414258",
-      "title": "Wellness-Inspired | Jade at Verdes | Smart Home",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/9/25/wellness-inspired-jade-at-verdes-smart--2-184350/",
-      "area": "Haven by Aldar",
-      "category": "Apartment",
-      "size": "802",
-      "bedrooms": "1",
-      "price": 1350000,
       "first_seen": "2026-03-26"
     }
   ],
