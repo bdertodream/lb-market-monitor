@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-28T23:30:23.374731",
-  "total_tracked": 6217,
+  "generated_at": "2026-03-29T01:33:07.433365",
+  "total_tracked": 6220,
   "total_drops": 428,
-  "total_new": 6217,
+  "total_new": 6220,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -12828,6 +12828,72 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116835766",
+      "title": "BMW X1 2016 Hatchback",
+      "url": "https://www.olx.com.lb/ad/bmw-x1-2016-hatchback-ID116835766.html",
+      "make": "BMW",
+      "model": "X1",
+      "body_type": "Hatchback",
+      "year": 2016,
+      "mileage": 101000,
+      "transmission": "Automatic",
+      "location": "Amioun, Koura",
+      "original_price": 15700,
+      "current_price": 15700,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 15700,
+          "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116749324",
+      "title": "Mercedes-Benz GLA 250 4matic 2018",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-gla-250-4matic-2018-ID116749324.html",
+      "make": "Mercedes-Benz",
+      "model": "GLA-Class",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 73000,
+      "transmission": "Automatic",
+      "location": "Rawche, Beirut",
+      "original_price": 22500,
+      "current_price": 22500,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 22500,
+          "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116759376",
+      "title": "MINI Cooper S Countryman 2011",
+      "url": "https://www.olx.com.lb/ad/mini-cooper-s-countryman-2011-ID116759376.html",
+      "make": "MINI",
+      "model": "Cooper S Countryman",
+      "body_type": "Hatchback",
+      "year": 2011,
+      "mileage": 50000,
+      "transmission": "Manual",
+      "location": "Chahtoul, Keserouan",
+      "original_price": 6500,
+      "current_price": 6500,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 6500,
+          "date": "2026-03-29"
+        }
+      ]
+    },
     {
       "id": "116799050",
       "title": "Land Rover Range Rover Sport 2015",
