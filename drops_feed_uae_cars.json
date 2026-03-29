@@ -1,8 +1,8 @@
 {
-  "total_tracked": 3540,
-  "total_drops": 120,
-  "total_new": 3540,
-  "last_updated": "2026-03-29T21:32:25Z",
+  "total_tracked": 3541,
+  "total_drops": 121,
+  "total_new": 3541,
+  "last_updated": "2026-03-29T22:29:38Z",
   "drops": [
     {
       "id": "16770596",
@@ -1683,9 +1683,35 @@
       "year": "2013",
       "mileage": "105000",
       "date": "2026-03-29T19:34:41Z"
+    },
+    {
+      "id": "16768810",
+      "title": "2024 Rolls-Royce Spectre GCC | Like New | Full PPF | Highest Specification | Dubai dealer",
+      "old_price": 1650000,
+      "new_price": 1489900,
+      "drop_pct": 9.7,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/spectre/2026/3/9/2024-rolls-royce-spectre-like-new-full-ppf-2-778---41465b01af5c4b8faba4ec56384877ab/",
+      "category": "Used Cars",
+      "make": "Rolls-Royce",
+      "model": "Spectre",
+      "year": "2024",
+      "mileage": "19500",
+      "date": "2026-03-29T22:29:38Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16783206",
+      "title": "2024 Land Rover Range Rover P300 SE - American Specs - Brand New!",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/3/25/2024-land-rover-range-rover-p300-se-americ-2-285---9d31042dd3034ea881d41e90cb97a095/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "year": "2024",
+      "mileage": "45000",
+      "price": 300000,
+      "first_seen": "2026-03-29T22:29:38Z"
+    },
     {
       "id": "16786303",
       "title": "Ford Edge SE 2022 - GCC warranty and free service - Not negotiable",
@@ -7673,18 +7699,6 @@
       "mileage": "79000",
       "price": 89999,
       "first_seen": "2026-03-25T06:04:17Z"
-    },
-    {
-      "id": "16782782",
-      "title": "Bentley Bentayga Standard 2022 - GCC Specs - Pristine Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/bentayga/2026/3/25/bentley-bentayga-standard-2022-gcc-specs-p-2-579---460d91e7be194d149a7150eaffbba72c/",
-      "category": "Used Cars",
-      "make": "Bentley",
-      "model": "Bentayga",
-      "year": "2022",
-      "mileage": "121000",
-      "price": 430000,
-      "first_seen": "2026-03-25T04:19:29Z"
     }
   ]
 }
