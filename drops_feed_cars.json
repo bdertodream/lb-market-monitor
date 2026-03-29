@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-29T20:29:22.171933",
-  "total_tracked": 6373,
-  "total_drops": 434,
-  "total_new": 6373,
+  "generated_at": "2026-03-29T21:31:26.623152",
+  "total_tracked": 6378,
+  "total_drops": 435,
+  "total_new": 6378,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -8038,6 +8038,35 @@
         {
           "price": 6800,
           "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116809719",
+      "title": "Mercedes C300 4matic 2017 panoramic led",
+      "url": "https://www.olx.com.lb/ad/mercedes-c300-4matic-2017-panoramic-led-ID116809719.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Zgharta Town, Zgharta",
+      "original_price": 18000,
+      "current_price": 17500,
+      "drop_usd": 500,
+      "drop_pct": 2.8,
+      "last_drop_date": "2026-03-29",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 18000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 17500,
+          "date": "2026-03-29"
         }
       ]
     },
@@ -16438,6 +16467,116 @@
       "price_history": [
         {
           "price": 39900,
+          "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116836436",
+      "title": "Jeep Cherokee 2004",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-2004-ID116836436.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "Other",
+      "year": 2004,
+      "mileage": 93000,
+      "transmission": "Automatic",
+      "location": "Tariq el Jdideh, Beirut",
+      "original_price": 4500,
+      "current_price": 4500,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 4500,
+          "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116614153",
+      "title": "BMW 5-Series 2007",
+      "url": "https://www.olx.com.lb/ad/bmw-5-series-2007-ID116614153.html",
+      "make": "BMW",
+      "model": "5-Series",
+      "body_type": "Sedan",
+      "year": 2007,
+      "mileage": 230000,
+      "transmission": "Steptronic",
+      "location": "Borj el Barajneh, Beirut",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116836433",
+      "title": "Land Rover Velar 2018",
+      "url": "https://www.olx.com.lb/ad/land-rover-velar-2018-ID116836433.html",
+      "make": "Land Rover",
+      "model": "Velar",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 19000,
+      "transmission": "Automatic",
+      "location": "Abou Samra, Tripoli",
+      "original_price": 34000,
+      "current_price": 34000,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 34000,
+          "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116836428",
+      "title": "MINI  Countryman Cooper S 2015",
+      "url": "https://www.olx.com.lb/ad/mini-countryman-cooper-s-2015-ID116836428.html",
+      "make": "MINI",
+      "model": "Cooper S Countryman",
+      "body_type": "Hatchback",
+      "year": 2015,
+      "mileage": 139000,
+      "transmission": "Steptronic",
+      "location": "Fanar, Metn",
+      "original_price": 13000,
+      "current_price": 13000,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 13000,
+          "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116636740",
+      "title": "Jeep Wrangler  JL 1 Owner 75.000 km like new",
+      "url": "https://www.olx.com.lb/ad/jeep-wrangler-jl-1-owner-75000-km-like-new-ID116636740.html",
+      "make": "Jeep",
+      "model": "Wrangler",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 75000,
+      "transmission": "Automatic",
+      "location": "Sabtieh, Metn",
+      "original_price": 35500,
+      "current_price": 35500,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 35500,
           "date": "2026-03-29"
         }
       ]
@@ -121836,7 +121975,7 @@
       "original_price": 14500,
       "current_price": 14500,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 14500,
@@ -124568,7 +124707,7 @@
       "original_price": 27800,
       "current_price": 27800,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 27800,
@@ -133848,13 +133987,17 @@
       "transmission": "Automatic",
       "location": "Zgharta Town, Zgharta",
       "original_price": 18000,
-      "current_price": 18000,
+      "current_price": 17500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 18000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 17500,
+          "date": "2026-03-29"
         }
       ]
     },
