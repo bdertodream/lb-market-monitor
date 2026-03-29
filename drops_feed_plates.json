@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-29T17:31:01.754903",
-  "total_tracked": 332,
+  "generated_at": "2026-03-29T18:36:25.925390",
+  "total_tracked": 333,
   "total_drops": 25,
-  "total_new": 332,
+  "total_new": 333,
   "avg_drop_pct": 28.0,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -793,6 +793,24 @@
       "price_history": [
         {
           "price": 6500,
+          "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116836282",
+      "title": "76344476",
+      "url": "https://www.olx.com.lb/ad/76344476-ID116836282.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Other in Akkar, Akkar",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 5000,
           "date": "2026-03-29"
         }
       ]
