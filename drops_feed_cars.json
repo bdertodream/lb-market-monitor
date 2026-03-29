@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-29T13:53:09.638074",
-  "total_tracked": 6316,
+  "generated_at": "2026-03-29T14:34:20.017470",
+  "total_tracked": 6320,
   "total_drops": 430,
-  "total_new": 6316,
+  "total_new": 6320,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -15069,6 +15069,94 @@
       ]
     },
     {
+      "id": "116836136",
+      "title": "Subaru XV Crosstrek 2018",
+      "url": "https://www.olx.com.lb/ad/subaru-xv-crosstrek-2018-ID116836136.html",
+      "make": "Subaru",
+      "model": "XV Crosstrek",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 120000,
+      "transmission": "Steptronic",
+      "location": "Ainab, Aley",
+      "original_price": 1740,
+      "current_price": 1740,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 1740,
+          "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116836131",
+      "title": "Mercedes-Benz GLC-Class 2018",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-class-2018-ID116836131.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 105000,
+      "transmission": "Automatic",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 23800,
+      "current_price": 23800,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 23800,
+          "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116740405",
+      "title": "Kia Sportage 2017",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-2017-ID116740405.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Jnah, Beirut",
+      "original_price": 13900,
+      "current_price": 13900,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 13900,
+          "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116836115",
+      "title": "Mercedes-Benz CLS-Class 2008",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-cls-class-2008-ID116836115.html",
+      "make": "Mercedes-Benz",
+      "model": "CLS-Class",
+      "body_type": "Sedan",
+      "year": 2008,
+      "mileage": 216000,
+      "transmission": "Automatic",
+      "location": "Majdel Anjar, Zahle",
+      "original_price": 3900,
+      "current_price": 3900,
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 3900,
+          "date": "2026-03-29"
+        }
+      ]
+    },
+    {
       "id": "116799050",
       "title": "Land Rover Range Rover Sport 2015",
       "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2015-ID116799050.html",
@@ -16914,13 +17002,17 @@
       "transmission": "Automatic",
       "location": "Hamra, Beirut",
       "original_price": 19000,
-      "current_price": 19000,
+      "current_price": 19800,
       "first_seen": "2026-03-28",
       "posted_date": "2026-03-28",
       "price_history": [
         {
           "price": 19000,
           "date": "2026-03-28"
+        },
+        {
+          "price": 19800,
+          "date": "2026-03-29"
         }
       ]
     },
