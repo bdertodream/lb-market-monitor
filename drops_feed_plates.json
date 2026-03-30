@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-30T13:03:37.267367",
-  "total_tracked": 336,
+  "generated_at": "2026-03-30T14:31:09.791320",
+  "total_tracked": 337,
   "total_drops": 25,
-  "total_new": 336,
+  "total_new": 337,
   "avg_drop_pct": 28.0,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -793,6 +793,24 @@
       "price_history": [
         {
           "price": 9999,
+          "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116837116",
+      "title": "نمره عمومي TAXi plate",
+      "url": "https://www.olx.com.lb/ad/نمره-عمومي-taxi-plate-ID116837116.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dekwaneh, Metn",
+      "original_price": 16700,
+      "current_price": 16700,
+      "first_seen": "2026-03-30",
+      "posted_date": "2026-03-30",
+      "price_history": [
+        {
+          "price": 16700,
           "date": "2026-03-30"
         }
       ]
