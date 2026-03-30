@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 7199,
-  "total_drops": 98,
-  "total_new": 7199,
+  "total_tracked": 7201,
+  "total_drops": 99,
+  "total_new": 7201,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1377,6 +1377,20 @@
       "bedrooms": "3",
       "date": "2026-03-30",
       "first_seen": "2026-03-26"
+    },
+    {
+      "id": "9806798",
+      "title": "Investor Deal | High ROI | Prime Location",
+      "old_price": 850000,
+      "new_price": 800000,
+      "drop_pct": 5.9,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/5/investor-deal-high-roi-prime-location-2-690626/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "314",
+      "bedrooms": "",
+      "date": "2026-03-30",
+      "first_seen": "2026-03-08"
     }
   ],
   "new_listings": [
@@ -4406,6 +4420,28 @@
       "first_seen": "2026-03-30"
     },
     {
+      "id": "17260645",
+      "title": "Prime Location | Single Row I Opp Pool & Park",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/30/best-deal-4br-maid-modern-layout-gated--2-242061/",
+      "area": "Town Square",
+      "category": "Townhouse",
+      "size": "2804",
+      "bedrooms": "4",
+      "price": 3750000,
+      "first_seen": "2026-03-30"
+    },
+    {
+      "id": "9809439",
+      "title": "Rented Office | Investor Deal | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/30/burj-khalifa-view-office-tamani-arts-sh-2-105335/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "314",
+      "bedrooms": "",
+      "price": 825000,
+      "first_seen": "2026-03-30"
+    },
+    {
       "id": "9805862",
       "title": "Fresh Renovated | High Floor | Prime Deal",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/26/fresh-renovated-high-floor-prime-deal-2-228640/",
@@ -6856,28 +6892,6 @@
       "size": "871",
       "bedrooms": "1",
       "price": 1079999,
-      "first_seen": "2026-03-28"
-    },
-    {
-      "id": "17251531",
-      "title": "NEAR TO LAGOON | GOOD DEAL | BELOW MARKET PRICE",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/28/near-to-lagoon-good-deal-below-market-p-2-169960/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "2073",
-      "bedrooms": "3",
-      "price": 2570000,
-      "first_seen": "2026-03-28"
-    },
-    {
-      "id": "9808694",
-      "title": "Vacant | Furnished | Upgraded | Corner Unit",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/24/vacant-furnished-upgraded-corner-unit-2-264308/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1129",
-      "bedrooms": "",
-      "price": 4000000,
       "first_seen": "2026-03-28"
     }
   ],

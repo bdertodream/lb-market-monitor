@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-30T17:52:52.136615",
+  "generated_at": "2026-03-30T18:55:03.846137",
   "total_tracked": 338,
-  "total_drops": 27,
+  "total_drops": 28,
   "total_new": 338,
-  "avg_drop_pct": 27.6,
+  "avg_drop_pct": 27.2,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -548,6 +548,31 @@
       ]
     },
     {
+      "id": "116833373",
+      "title": "twin plates صك جاهز",
+      "url": "https://www.olx.com.lb/ad/twin-plates-صك-جاهز-ID116833373.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Chtoura, Zahle",
+      "original_price": 18000,
+      "current_price": 16000,
+      "drop_usd": 2000,
+      "drop_pct": 11.1,
+      "last_drop_date": "2026-03-30",
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 18000,
+          "date": "2026-03-26"
+        },
+        {
+          "price": 16000,
+          "date": "2026-03-30"
+        }
+      ]
+    },
+    {
       "id": "116826272",
       "title": "830840 B",
       "url": "https://www.olx.com.lb/ad/830840-b-ID116826272.html",
@@ -598,6 +623,35 @@
         {
           "price": 4500,
           "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116823583",
+      "title": "4327 G",
+      "url": "https://www.olx.com.lb/ad/4327-g-ID116823583.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Sarba, Keserouan",
+      "original_price": 4400,
+      "current_price": 4000,
+      "drop_usd": 400,
+      "drop_pct": 9.1,
+      "last_drop_date": "2026-03-30",
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 4400,
+          "date": "2026-03-17"
+        },
+        {
+          "price": 4200,
+          "date": "2026-03-18"
+        },
+        {
+          "price": 4000,
+          "date": "2026-03-30"
         }
       ]
     },
@@ -731,31 +785,6 @@
         {
           "price": 13800,
           "date": "2026-03-20"
-        }
-      ]
-    },
-    {
-      "id": "116823583",
-      "title": "4327 G",
-      "url": "https://www.olx.com.lb/ad/4327-g-ID116823583.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Sarba, Keserouan",
-      "original_price": 4400,
-      "current_price": 4200,
-      "drop_usd": 200,
-      "drop_pct": 4.5,
-      "last_drop_date": "2026-03-18",
-      "first_seen": "2026-03-17",
-      "posted_date": "2026-03-17",
-      "price_history": [
-        {
-          "price": 4400,
-          "date": "2026-03-17"
-        },
-        {
-          "price": 4200,
-          "date": "2026-03-18"
         }
       ]
     },
@@ -1223,13 +1252,17 @@
       "plate_type": "Standard",
       "location": "Chtoura, Zahle",
       "original_price": 18000,
-      "current_price": 18000,
+      "current_price": 16000,
       "first_seen": "2026-03-26",
       "posted_date": "2026-03-26",
       "price_history": [
         {
           "price": 18000,
           "date": "2026-03-26"
+        },
+        {
+          "price": 16000,
+          "date": "2026-03-30"
         }
       ]
     },
@@ -2307,7 +2340,7 @@
       "plate_type": "Standard",
       "location": "Sarba, Keserouan",
       "original_price": 4400,
-      "current_price": 4200,
+      "current_price": 4000,
       "first_seen": "2026-03-17",
       "posted_date": "2026-03-17",
       "price_history": [
@@ -2318,6 +2351,10 @@
         {
           "price": 4200,
           "date": "2026-03-18"
+        },
+        {
+          "price": 4000,
+          "date": "2026-03-30"
         }
       ]
     },
