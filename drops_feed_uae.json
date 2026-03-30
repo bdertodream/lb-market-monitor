@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
   "total_tracked": 7216,
-  "total_drops": 99,
+  "total_drops": 100,
   "total_new": 7216,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
@@ -1388,6 +1388,20 @@
       "area": "Business Bay",
       "category": "Office",
       "size": "314",
+      "bedrooms": "",
+      "date": "2026-03-30",
+      "first_seen": "2026-03-08"
+    },
+    {
+      "id": "9800867",
+      "title": "Fully Fitted | Vacant | Prime Location | DIFC View",
+      "old_price": 5000000,
+      "new_price": 4500000,
+      "drop_pct": 10.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/26/fully-fitted-vacant-prime-location-difc-2-189651/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "2030",
       "bedrooms": "",
       "date": "2026-03-30",
       "first_seen": "2026-03-08"
