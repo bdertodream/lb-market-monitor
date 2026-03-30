@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-30T11:57:13.357090",
-  "total_tracked": 334,
+  "generated_at": "2026-03-30T13:03:37.267367",
+  "total_tracked": 336,
   "total_drops": 25,
-  "total_new": 334,
+  "total_new": 336,
   "avg_drop_pct": 28.0,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -761,6 +761,42 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116837028",
+      "title": "2178 A for sale",
+      "url": "https://www.olx.com.lb/ad/2178-a-for-sale-ID116837028.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Beirut Port, Beirut",
+      "original_price": 8000,
+      "current_price": 8000,
+      "first_seen": "2026-03-30",
+      "posted_date": "2026-03-30",
+      "price_history": [
+        {
+          "price": 8000,
+          "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116837027",
+      "title": "number plates",
+      "url": "https://www.olx.com.lb/ad/number-plates-ID116837027.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Antelias, Metn",
+      "original_price": 9999,
+      "current_price": 9999,
+      "first_seen": "2026-03-30",
+      "posted_date": "2026-03-30",
+      "price_history": [
+        {
+          "price": 9999,
+          "date": "2026-03-30"
+        }
+      ]
+    },
     {
       "id": "116623856",
       "title": "For Mbz G63 - Rare and Special - G 6376",
