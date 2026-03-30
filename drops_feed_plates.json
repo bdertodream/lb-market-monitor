@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T10:17:31.299371",
+  "generated_at": "2026-03-30T11:57:13.357090",
   "total_tracked": 334,
   "total_drops": 25,
   "total_new": 334,
@@ -3569,13 +3569,17 @@
       "plate_type": "Standard",
       "location": "Downtown, Beirut",
       "original_price": 7500,
-      "current_price": 7500,
+      "current_price": 8000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 7500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 8000,
+          "date": "2026-03-30"
         }
       ]
     },
@@ -4367,13 +4371,17 @@
       "plate_type": "Standard",
       "location": "Downtown, Beirut",
       "original_price": 7500,
-      "current_price": 7500,
+      "current_price": 8000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 7500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 8000,
+          "date": "2026-03-30"
         }
       ]
     },
