@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-29T23:31:34.506117",
-  "total_tracked": 6387,
+  "generated_at": "2026-03-30T01:34:16.785629",
+  "total_tracked": 6390,
   "total_drops": 435,
-  "total_new": 6387,
+  "total_new": 6390,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -10257,7 +10257,7 @@
     },
     {
       "id": "116798765",
-      "title": "Land Rover Velar V6 2018 380 HP Super Clean",
+      "title": "Land Rover Velar V6 2018 380 HP Dynamic Super Clean",
       "url": "https://www.olx.com.lb/ad/land-rover-velar-v6-2018-380-hp-super-clean-ID116798765.html",
       "make": "Land Rover",
       "model": "Velar",
@@ -13035,6 +13035,72 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116385376",
+      "title": "Nissan Sentra 2020",
+      "url": "https://www.olx.com.lb/ad/nissan-sentra-2020-ID116385376.html",
+      "make": "Nissan",
+      "model": "Sentra",
+      "body_type": "Sedan",
+      "year": 2020,
+      "mileage": 69000,
+      "transmission": "Automatic",
+      "location": "Mezher, Metn",
+      "original_price": 16000,
+      "current_price": 16000,
+      "first_seen": "2026-03-30",
+      "posted_date": "2026-03-30",
+      "price_history": [
+        {
+          "price": 16000,
+          "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116578855",
+      "title": "Mercedes-Benz CLA-Class 2016",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-cla-class-2016-ID116578855.html",
+      "make": "Mercedes-Benz",
+      "model": "CLA-Class",
+      "body_type": "Sedan",
+      "year": 2016,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 15700,
+      "current_price": 15700,
+      "first_seen": "2026-03-30",
+      "posted_date": "2026-03-30",
+      "price_history": [
+        {
+          "price": 15700,
+          "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116806240",
+      "title": "Jeep Wrangler JK 2008",
+      "url": "https://www.olx.com.lb/ad/jeep-wrangler-jk-2008-ID116806240.html",
+      "make": "Jeep",
+      "model": "Wrangler JK",
+      "body_type": "Sports / Coupe",
+      "year": 2008,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Majdalaya, Zgharta",
+      "original_price": 12000,
+      "current_price": 12000,
+      "first_seen": "2026-03-30",
+      "posted_date": "2026-03-30",
+      "price_history": [
+        {
+          "price": 12000,
+          "date": "2026-03-30"
+        }
+      ]
+    },
     {
       "id": "116835766",
       "title": "BMW X1 2016 Hatchback",
@@ -16483,13 +16549,17 @@
       "transmission": "Automatic",
       "location": "Tariq el Jdideh, Beirut",
       "original_price": 4500,
-      "current_price": 4500,
+      "current_price": 4800,
       "first_seen": "2026-03-29",
       "posted_date": "2026-03-29",
       "price_history": [
         {
           "price": 4500,
           "date": "2026-03-29"
+        },
+        {
+          "price": 4800,
+          "date": "2026-03-30"
         }
       ]
     },
@@ -128549,7 +128619,7 @@
     },
     {
       "id": "116798765",
-      "title": "Land Rover Velar V6 2018 380 HP Super Clean",
+      "title": "Land Rover Velar V6 2018 380 HP Dynamic Super Clean",
       "url": "https://www.olx.com.lb/ad/land-rover-velar-v6-2018-380-hp-super-clean-ID116798765.html",
       "make": "Land Rover",
       "model": "Velar",
