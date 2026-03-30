@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-30T20:44:28.303031",
-  "total_tracked": 339,
+  "generated_at": "2026-03-30T21:42:38.736290",
+  "total_tracked": 340,
   "total_drops": 28,
-  "total_new": 339,
+  "total_new": 340,
   "avg_drop_pct": 27.2,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -934,6 +934,24 @@
       "price_history": [
         {
           "price": 3700,
+          "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116830317",
+      "title": "Car Plate A 39593",
+      "url": "https://www.olx.com.lb/ad/car-plate-a-39593-ID116830317.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Verdun, Beirut",
+      "original_price": 3250,
+      "current_price": 3250,
+      "first_seen": "2026-03-30",
+      "posted_date": "2026-03-30",
+      "price_history": [
+        {
+          "price": 3250,
           "date": "2026-03-30"
         }
       ]
