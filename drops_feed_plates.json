@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-31T13:02:39.385696",
-  "total_tracked": 342,
+  "generated_at": "2026-03-31T14:32:27.383583",
+  "total_tracked": 343,
   "total_drops": 29,
-  "total_new": 342,
+  "total_new": 343,
   "avg_drop_pct": 26.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -901,6 +901,24 @@
       "price_history": [
         {
           "price": 17000,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "115397876",
+      "title": "T200220",
+      "url": "https://www.olx.com.lb/ad/t200220-ID115397876.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Other in Koura, Koura",
+      "original_price": 4000,
+      "current_price": 4000,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 4000,
           "date": "2026-03-31"
         }
       ]
