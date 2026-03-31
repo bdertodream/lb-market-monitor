@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-31T21:37:39.278843",
-  "total_tracked": 6823,
-  "total_drops": 474,
-  "total_new": 6823,
+  "generated_at": "2026-03-31T22:33:50.192354",
+  "total_tracked": 6827,
+  "total_drops": 476,
+  "total_new": 6827,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -13431,6 +13431,35 @@
       ]
     },
     {
+      "id": "116699719",
+      "title": "Mercedes-Benz A-Class 2019 For Sale",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-a-class-2019-for-sale-ID116699719.html",
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "body_type": "Other",
+      "year": 2019,
+      "mileage": 82000,
+      "transmission": "Steptronic",
+      "location": "Sahel Alma, Keserouan",
+      "original_price": 22900,
+      "current_price": 22700,
+      "drop_usd": 200,
+      "drop_pct": 0.9,
+      "last_drop_date": "2026-03-31",
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 22900,
+          "date": "2026-03-18"
+        },
+        {
+          "price": 22700,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
       "id": "116825320",
       "title": "Mazda 2 2016",
       "url": "https://www.olx.com.lb/ad/mazda-2-2016-ID116825320.html",
@@ -13576,6 +13605,35 @@
         {
           "price": 23800,
           "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116786998",
+      "title": "Range Rover Sport HSE V6 2014 Company Source",
+      "url": "https://www.olx.com.lb/ad/range-rover-sport-v6-2014-company-source-ID116786998.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 150000,
+      "transmission": "Steptronic",
+      "location": "Kaslik, Keserouan",
+      "original_price": 24000,
+      "current_price": 23800,
+      "drop_usd": 200,
+      "drop_pct": 0.8,
+      "last_drop_date": "2026-03-31",
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 24000,
+          "date": "2026-03-16"
+        },
+        {
+          "price": 23800,
+          "date": "2026-03-31"
         }
       ]
     },
@@ -18974,6 +19032,94 @@
       "price_history": [
         {
           "price": 16500,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "116838910",
+      "title": "Jeep Grand Cherokee 2018",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2018-ID116838910.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 170000,
+      "transmission": "Automatic",
+      "location": "Klayaat, Keserouan",
+      "original_price": 21500,
+      "current_price": 21500,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 21500,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "116835335",
+      "title": "c200 model 2008 4cylindres full options germany source",
+      "url": "https://www.olx.com.lb/ad/c200-model-2008-4cylindres-full-options-germany-source-ID116835335.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2008,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Zgharta Town, Zgharta",
+      "original_price": 9600,
+      "current_price": 9600,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 9600,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "116799083",
+      "title": "Renault Kangoo 2012",
+      "url": "https://www.olx.com.lb/ad/renault-kangoo-2012-ID116799083.html",
+      "make": "Renault",
+      "model": "Kangoo",
+      "body_type": "Van / Bus",
+      "year": 2012,
+      "mileage": 200000,
+      "transmission": "Manual",
+      "location": "Ksara, Zahle",
+      "original_price": 6800,
+      "current_price": 6800,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 6800,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "116796013",
+      "title": "Toyota Hilux 2021",
+      "url": "https://www.olx.com.lb/ad/toyota-hilux-2021-ID116796013.html",
+      "make": "Toyota",
+      "model": "Hilux",
+      "body_type": "Pickup",
+      "year": 2021,
+      "mileage": 65000,
+      "transmission": "Automatic",
+      "location": "Jnah, Beirut",
+      "original_price": 33000,
+      "current_price": 33000,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 33000,
           "date": "2026-03-31"
         }
       ]
@@ -80024,13 +80170,17 @@
       "transmission": "Steptronic",
       "location": "Sahel Alma, Keserouan",
       "original_price": 22900,
-      "current_price": 22900,
+      "current_price": 22700,
       "first_seen": "2026-03-18",
       "posted_date": "2026-03-18",
       "price_history": [
         {
           "price": 22900,
           "date": "2026-03-18"
+        },
+        {
+          "price": 22700,
+          "date": "2026-03-31"
         }
       ]
     },
@@ -90436,13 +90586,17 @@
       "transmission": "Steptronic",
       "location": "Kaslik, Keserouan",
       "original_price": 24000,
-      "current_price": 24000,
+      "current_price": 23800,
       "first_seen": "2026-03-16",
       "posted_date": "2026-03-16",
       "price_history": [
         {
           "price": 24000,
           "date": "2026-03-16"
+        },
+        {
+          "price": 23800,
+          "date": "2026-03-31"
         }
       ]
     },
