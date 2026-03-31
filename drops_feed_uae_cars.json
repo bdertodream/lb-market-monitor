@@ -1,8 +1,8 @@
 {
-  "total_tracked": 3810,
-  "total_drops": 144,
-  "total_new": 3810,
-  "last_updated": "2026-03-31T19:58:05Z",
+  "total_tracked": 3811,
+  "total_drops": 145,
+  "total_new": 3811,
+  "last_updated": "2026-03-31T20:43:31Z",
   "drops": [
     {
       "id": "16770596",
@@ -2019,9 +2019,35 @@
       "year": "2016",
       "mileage": "198000",
       "date": "2026-03-31T19:58:05Z"
+    },
+    {
+      "id": "16769367",
+      "title": "Ford Shelby GT500",
+      "old_price": 130000,
+      "new_price": 120000,
+      "drop_pct": 7.7,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/3/9/ford-shelby-gt500-2-786---e35163fcf31a42adbfcd0318478b46ca/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "Mustang",
+      "year": "2012",
+      "mileage": "78000",
+      "date": "2026-03-31T20:43:31Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16684060",
+      "title": "Chevrolet Malibu 2016 LT  ||Gcc specs || Well maintained",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/malibu/2025/12/25/chevrolet-malibu-2016-lt-gcc-specs-well-ma-2-204---83aaf51e175a42bb975d483631d7a815/",
+      "category": "Used Cars",
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": "2016",
+      "mileage": "170000",
+      "price": 17500,
+      "first_seen": "2026-03-31T20:43:31Z"
+    },
     {
       "id": "16769367",
       "title": "Ford Shelby GT500",
@@ -2031,7 +2057,7 @@
       "model": "Mustang",
       "year": "2012",
       "mileage": "78000",
-      "price": 130000,
+      "price": 120000,
       "first_seen": "2026-03-31T19:58:05Z"
     },
     {
@@ -2043,7 +2069,7 @@
       "model": "Carrera / 911",
       "year": "2021",
       "mileage": "45000",
-      "price": 720000,
+      "price": 700000,
       "first_seen": "2026-03-31T19:58:05Z"
     },
     {
@@ -2144,14 +2170,14 @@
     },
     {
       "id": "16771749",
-      "title": "GCC \u2022 X7 M60 \u2022 IMMACULATE CONDITION",
+      "title": "GCC \u2022 X7 M60 V8 \u2022 IMMACULATE CONDITION",
       "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x7/2026/3/11/gcc-x7-m60-immaculate-condition-2-748---1ee72bae242649cb8dbf994907fdb3fb/",
       "category": "Used Cars",
       "make": "BMW",
       "model": "X7",
       "year": "2024",
       "mileage": "32000",
-      "price": 389999,
+      "price": 375000,
       "first_seen": "2026-03-31T16:08:50Z"
     },
     {
@@ -8009,18 +8035,6 @@
       "mileage": "180000",
       "price": 10000,
       "first_seen": "2026-03-27T10:47:48Z"
-    },
-    {
-      "id": "16693721",
-      "title": "Nissan Murano SL (Top trim) 3.5L (V6) SUV (AWD) in perfect condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/murano/2026/1/4/nissan-murano-sl-top-trim-in-mint-conditio-2-905---d8fd3da00c6d425d95f6c84aa6d079c6/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Murano",
-      "year": "2015",
-      "mileage": "153000",
-      "price": 23500,
-      "first_seen": "2026-03-27T09:53:28Z"
     }
   ]
 }
