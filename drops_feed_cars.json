@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-31T16:07:54.591320",
-  "total_tracked": 6756,
-  "total_drops": 469,
-  "total_new": 6756,
+  "generated_at": "2026-03-31T17:07:07.755729",
+  "total_tracked": 6765,
+  "total_drops": 470,
+  "total_new": 6765,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -512,6 +512,35 @@
         {
           "price": 2000,
           "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116836363",
+      "title": "Honda CR-V 2005",
+      "url": "https://www.olx.com.lb/ad/honda-cr-v-2005-ID116836363.html",
+      "make": "Honda",
+      "model": "CR-V",
+      "body_type": "SUV",
+      "year": 2005,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Khaldeh, Aley",
+      "original_price": 7500,
+      "current_price": 6000,
+      "drop_usd": 1500,
+      "drop_pct": 20.0,
+      "last_drop_date": "2026-03-31",
+      "first_seen": "2026-03-29",
+      "posted_date": "2026-03-29",
+      "price_history": [
+        {
+          "price": 7500,
+          "date": "2026-03-29"
+        },
+        {
+          "price": 6000,
+          "date": "2026-03-31"
         }
       ]
     },
@@ -17348,6 +17377,204 @@
       ]
     },
     {
+      "id": "116838659",
+      "title": "Infiniti G-Series 2005",
+      "url": "https://www.olx.com.lb/ad/infiniti-g-series-2005-ID116838659.html",
+      "make": "Infiniti",
+      "model": "G-Series",
+      "body_type": "Sports / Coupe",
+      "year": 2005,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Sarba, Keserouan",
+      "original_price": 4400,
+      "current_price": 4400,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 4400,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "116838658",
+      "title": "Mitsubishi Mirage 2018",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-mirage-2018-ID116838658.html",
+      "make": "Mitsubishi",
+      "model": "Mirage",
+      "body_type": "Hatchback",
+      "year": 2018,
+      "mileage": 82000,
+      "transmission": "Steptronic",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 7699,
+      "current_price": 7699,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 7699,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "116838655",
+      "title": "BMW X5 2019 4.0 xiDrive ! 80,000 Km ! company source",
+      "url": "https://www.olx.com.lb/ad/bmw-x5-2019-40-xidrive-80000-km-company-source-ID116838655.html",
+      "make": "BMW",
+      "model": "X5",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Baabda Town, Baabda",
+      "original_price": 49000,
+      "current_price": 49000,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 49000,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "116838647",
+      "title": "Mercedes-Benz C-Class 2012",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2012-ID116838647.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2012,
+      "mileage": 200000,
+      "transmission": "Automatic",
+      "location": "Mansourieh, Metn",
+      "original_price": 11500,
+      "current_price": 11500,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 11500,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "116838617",
+      "title": "Tucson 2.5 2025 [1500km] company source full zaweyid",
+      "url": "https://www.olx.com.lb/ad/tucson-25-2025-1500km-company-source-full-zaweyid-ID116838617.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 1500,
+      "transmission": "Steptronic",
+      "location": "Jdaide, Metn",
+      "original_price": 39500,
+      "current_price": 39500,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 39500,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "116838610",
+      "title": "Nissan Juke 2013",
+      "url": "https://www.olx.com.lb/ad/nissan-juke-2013-ID116838610.html",
+      "make": "Nissan",
+      "model": "Juke",
+      "body_type": "SUV",
+      "year": 2013,
+      "mileage": 100000,
+      "transmission": "Steptronic",
+      "location": "Jbeil Town, Jbeil",
+      "original_price": 9500,
+      "current_price": 9500,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 9500,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "116838391",
+      "title": "Mercedes-Benz C-Class 2018 Clean title36200 Miles",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2018-clean-title-36500-miles-ID116838391.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 36200,
+      "transmission": "Steptronic",
+      "location": "Amioun, Koura",
+      "original_price": 25500,
+      "current_price": 25500,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 25500,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "116742005",
+      "title": "Mazda CX-5 2017",
+      "url": "https://www.olx.com.lb/ad/mazda-cx-5-2017-ID116742005.html",
+      "make": "Mazda",
+      "model": "CX-5",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 59000,
+      "transmission": "Steptronic",
+      "location": "Blat, Jbeil",
+      "original_price": 20500,
+      "current_price": 20500,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 20500,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "116838602",
+      "title": "RANGE ROVER SPORT AUTOBIOGRAPHY V8 2018 MINT CONDITION",
+      "url": "https://www.olx.com.lb/ad/range-rover-sport-autobiography-v8-2018-mint-condition-ID116838602.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 46000,
+      "transmission": "Steptronic",
+      "location": "Baouchriye, Metn",
+      "original_price": 53000,
+      "current_price": 53000,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 53000,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
       "id": "116385376",
       "title": "Nissan Sentra 2020",
       "url": "https://www.olx.com.lb/ad/nissan-sentra-2020-ID116385376.html",
@@ -19473,13 +19700,17 @@
       "transmission": "Steptronic",
       "location": "Jdaide, Metn",
       "original_price": 38700,
-      "current_price": 38700,
+      "current_price": 39500,
       "first_seen": "2026-03-30",
       "posted_date": "2026-03-30",
       "price_history": [
         {
           "price": 38700,
           "date": "2026-03-30"
+        },
+        {
+          "price": 39500,
+          "date": "2026-03-31"
         }
       ]
     },
@@ -25251,13 +25482,17 @@
       "transmission": "Automatic",
       "location": "Khaldeh, Aley",
       "original_price": 7500,
-      "current_price": 7500,
+      "current_price": 6000,
       "first_seen": "2026-03-29",
       "posted_date": "2026-03-29",
       "price_history": [
         {
           "price": 7500,
           "date": "2026-03-29"
+        },
+        {
+          "price": 6000,
+          "date": "2026-03-31"
         }
       ]
     },
