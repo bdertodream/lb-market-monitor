@@ -2828,7 +2828,7 @@
     "location": "Tabaris, Beirut",
     "district": "Beirut",
     "original_price": 18000,
-    "current_price": 23000,
+    "current_price": 18000,
     "price_history": [
       {
         "price": 18000,
@@ -2837,14 +2837,18 @@
       {
         "price": 23000,
         "date": "2026-03-09"
+      },
+      {
+        "price": 18000,
+        "date": "2026-03-31"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-23",
-    "last_updated": "2026-03-09",
+    "last_seen": "2026-03-31",
+    "last_updated": "2026-03-31",
     "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_pct": 0.0,
+    "last_drop_date": "2026-03-31",
     "posted_date": "2026-03-01",
     "stale": true
   },

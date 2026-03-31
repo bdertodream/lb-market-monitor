@@ -11581,20 +11581,25 @@
     "location": "Hazmiyeh, Baabda",
     "district": "Baabda",
     "original_price": 14800,
-    "current_price": 14800,
+    "current_price": 13800,
     "price_history": [
       {
         "price": 14800,
         "date": "2026-03-01"
+      },
+      {
+        "price": 13800,
+        "date": "2026-03-31"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
-    "stale": true
+    "last_seen": "2026-03-31",
+    "last_updated": "2026-03-31",
+    "drop_usd": 1000,
+    "drop_pct": 6.8,
+    "last_drop_date": "2026-03-31",
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "116798165": {
     "id": "116798165",
@@ -19442,7 +19447,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-28",
+    "last_seen": "2026-03-31",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -170367,20 +170372,24 @@
     "location": "Ghazze, West Bekaa",
     "district": "West Bekaa",
     "original_price": 5100,
-    "current_price": 5100,
+    "current_price": 4800,
     "price_history": [
       {
         "price": 5100,
         "date": "2026-03-27"
+      },
+      {
+        "price": 4800,
+        "date": "2026-03-31"
       }
     ],
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-30",
-    "last_updated": "2026-03-27",
+    "last_seen": "2026-03-31",
+    "last_updated": "2026-03-31",
     "posted_date": "2026-03-27",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 300,
+    "drop_pct": 5.9,
+    "last_drop_date": "2026-03-31"
   },
   "116833874": {
     "id": "116833874",
@@ -183951,20 +183960,24 @@
     "location": "Hotel Dieu, Beirut",
     "district": "Beirut",
     "original_price": 6000,
-    "current_price": 6000,
+    "current_price": 5500,
     "price_history": [
       {
         "price": 6000,
         "date": "2026-03-29"
+      },
+      {
+        "price": 5500,
+        "date": "2026-03-31"
       }
     ],
     "first_seen": "2026-03-29",
     "last_seen": "2026-03-31",
-    "last_updated": "2026-03-29",
+    "last_updated": "2026-03-31",
     "posted_date": "2026-03-29",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 500,
+    "drop_pct": 8.3,
+    "last_drop_date": "2026-03-31"
   },
   "116836299": {
     "id": "116836299",
@@ -189547,16 +189560,20 @@
     "location": "Majdalaya, Zgharta",
     "district": "Zgharta",
     "original_price": 1234,
-    "current_price": 1234,
+    "current_price": 17700,
     "price_history": [
       {
         "price": 1234,
         "date": "2026-03-30"
+      },
+      {
+        "price": 17700,
+        "date": "2026-03-31"
       }
     ],
     "first_seen": "2026-03-30",
     "last_seen": "2026-03-31",
-    "last_updated": "2026-03-30",
+    "last_updated": "2026-03-31",
     "posted_date": "2026-03-30",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -190387,16 +190404,20 @@
     "location": "Jdaide, Metn",
     "district": "Metn",
     "original_price": 67000,
-    "current_price": 67000,
+    "current_price": 69000,
     "price_history": [
       {
         "price": 67000,
         "date": "2026-03-30"
+      },
+      {
+        "price": 69000,
+        "date": "2026-03-31"
       }
     ],
     "first_seen": "2026-03-30",
     "last_seen": "2026-03-31",
-    "last_updated": "2026-03-30",
+    "last_updated": "2026-03-31",
     "posted_date": "2026-03-30",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -193275,6 +193296,342 @@
     "price_history": [
       {
         "price": 9800,
+        "date": "2026-03-31"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31",
+    "last_updated": "2026-03-31",
+    "posted_date": "2026-03-31",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116838241": {
+    "id": "116838241",
+    "title": "BMW E30 1988",
+    "url": "https://www.olx.com.lb/ad/bmw-e30-1988-ID116838241.html",
+    "make": "BMW",
+    "model": "3-Series",
+    "body_type": "Sedan",
+    "year": 1988,
+    "mileage": 0,
+    "transmission": "Manual",
+    "location": "Other in Jbeil, Jbeil",
+    "district": "Jbeil",
+    "original_price": 3000,
+    "current_price": 3000,
+    "price_history": [
+      {
+        "price": 3000,
+        "date": "2026-03-31"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31",
+    "last_updated": "2026-03-31",
+    "posted_date": "2026-03-31",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116433810": {
+    "id": "116433810",
+    "title": "MINI Cooper S Countryman 2017",
+    "url": "https://www.olx.com.lb/ad/mini-cooper-s-countryman-2017-ID116433810.html",
+    "make": "MINI",
+    "model": "Cooper S Countryman",
+    "body_type": "Small city car",
+    "year": 2017,
+    "mileage": 70000,
+    "transmission": "Steptronic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 26000,
+    "current_price": 26000,
+    "price_history": [
+      {
+        "price": 26000,
+        "date": "2026-03-31"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31",
+    "last_updated": "2026-03-31",
+    "posted_date": "2026-03-31",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116838238": {
+    "id": "116838238",
+    "title": "BMW M3 2007",
+    "url": "https://www.olx.com.lb/ad/bmw-m3-2007-ID116838238.html",
+    "make": "BMW",
+    "model": "M3",
+    "body_type": "Sedan",
+    "year": 2007,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Mazraat Yachouh, Metn",
+    "district": "Metn",
+    "original_price": 27000,
+    "current_price": 27000,
+    "price_history": [
+      {
+        "price": 27000,
+        "date": "2026-03-31"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31",
+    "last_updated": "2026-03-31",
+    "posted_date": "2026-03-31",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116696191": {
+    "id": "116696191",
+    "title": "Land Rover Velar R-DYNAMIC 2019",
+    "url": "https://www.olx.com.lb/ad/land-rover-velar-r-dynamic-2019-ID116696191.html",
+    "make": "Land Rover",
+    "model": "Velar",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 60000,
+    "transmission": "Steptronic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 45000,
+    "current_price": 45000,
+    "price_history": [
+      {
+        "price": 45000,
+        "date": "2026-03-31"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31",
+    "last_updated": "2026-03-31",
+    "posted_date": "2026-03-31",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116607967": {
+    "id": "116607967",
+    "title": "Porsche 911 Carrera   2012",
+    "url": "https://www.olx.com.lb/ad/porsche-911-carrera-2012-ID116607967.html",
+    "make": "Porsche",
+    "model": "911",
+    "body_type": "Convertible",
+    "year": 2012,
+    "mileage": 70000,
+    "transmission": "Steptronic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 74000,
+    "current_price": 74000,
+    "price_history": [
+      {
+        "price": 74000,
+        "date": "2026-03-31"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31",
+    "last_updated": "2026-03-31",
+    "posted_date": "2026-03-31",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116557816": {
+    "id": "116557816",
+    "title": "Land Rover Range Rover Sport V6 2014 7 seater",
+    "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2014-ID116557816.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "Sports / Coupe",
+    "year": 2014,
+    "mileage": 76000,
+    "transmission": "Steptronic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 27500,
+    "current_price": 27500,
+    "price_history": [
+      {
+        "price": 27500,
+        "date": "2026-03-31"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31",
+    "last_updated": "2026-03-31",
+    "posted_date": "2026-03-31",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116384121": {
+    "id": "116384121",
+    "title": "MINI Countryman 2019",
+    "url": "https://www.olx.com.lb/ad/mini-countryman-2019-ID116384121.html",
+    "make": "MINI",
+    "model": "Countryman",
+    "body_type": "Other",
+    "year": 2019,
+    "mileage": 23000,
+    "transmission": "Steptronic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 27000,
+    "current_price": 27000,
+    "price_history": [
+      {
+        "price": 27000,
+        "date": "2026-03-31"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31",
+    "last_updated": "2026-03-31",
+    "posted_date": "2026-03-31",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116781068": {
+    "id": "116781068",
+    "title": "Alfa Romeo 145/146/147 2003",
+    "url": "https://www.olx.com.lb/ad/alfa-romeo-145146147-2003-ID116781068.html",
+    "make": "Alfa Romeo",
+    "model": "145/146/147",
+    "body_type": "Sedan",
+    "year": 2003,
+    "mileage": 150000,
+    "transmission": "Steptronic",
+    "location": "Aannaya, Jbeil",
+    "district": "Jbeil",
+    "original_price": 2000,
+    "current_price": 2000,
+    "price_history": [
+      {
+        "price": 2000,
+        "date": "2026-03-31"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31",
+    "last_updated": "2026-03-31",
+    "posted_date": "2026-03-31",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116671249": {
+    "id": "116671249",
+    "title": "Low mileage Mercedes-Benz C300 2018 4Matic Vin: WDDWF4KB6JR410237",
+    "url": "https://www.olx.com.lb/ad/low-mileage-mercedes-benz-c-class-2018-4matic-ID116671249.html",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Sedan",
+    "year": 2018,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Jdaide, Metn",
+    "district": "Metn",
+    "original_price": 23000,
+    "current_price": 23000,
+    "price_history": [
+      {
+        "price": 23000,
+        "date": "2026-03-31"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31",
+    "last_updated": "2026-03-31",
+    "posted_date": "2026-03-31",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116838225": {
+    "id": "116838225",
+    "title": "2017 Toyota Tacoma TRD Off road 4X4",
+    "url": "https://www.olx.com.lb/ad/2017-toyota-tacoma-trd-off-road-4x4-ID116838225.html",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "body_type": "Pickup",
+    "year": 2017,
+    "mileage": 100000,
+    "transmission": "Steptronic",
+    "location": "Other in Rachaya, Rachaya",
+    "district": "Rachaya",
+    "original_price": 27999,
+    "current_price": 27999,
+    "price_history": [
+      {
+        "price": 27999,
+        "date": "2026-03-31"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31",
+    "last_updated": "2026-03-31",
+    "posted_date": "2026-03-31",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116838206": {
+    "id": "116838206",
+    "title": "MINI Cooper S Countryman 2011",
+    "url": "https://www.olx.com.lb/ad/mini-cooper-s-countryman-2011-ID116838206.html",
+    "make": "MINI",
+    "model": "Cooper S Countryman",
+    "body_type": "Sedan",
+    "year": 2011,
+    "mileage": 113000,
+    "transmission": "Automatic",
+    "location": "Sabtieh, Metn",
+    "district": "Metn",
+    "original_price": 7500,
+    "current_price": 7500,
+    "price_history": [
+      {
+        "price": 7500,
+        "date": "2026-03-31"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31",
+    "last_updated": "2026-03-31",
+    "posted_date": "2026-03-31",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116629821": {
+    "id": "116629821",
+    "title": "RENAULT DUSTER 4WD 2. O L MODEL 2018 BLACK IN BLACK COMPANY SOURCE",
+    "url": "https://www.olx.com.lb/ad/renault-duster-4wd-2-o-l-model-2018-black-in-black-company-source-ID116629821.html",
+    "make": "Renault",
+    "model": "Duster",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 84000,
+    "transmission": "Automatic",
+    "location": "Dekwaneh, Metn",
+    "district": "Metn",
+    "original_price": 13000,
+    "current_price": 13000,
+    "price_history": [
+      {
+        "price": 13000,
         "date": "2026-03-31"
       }
     ],
