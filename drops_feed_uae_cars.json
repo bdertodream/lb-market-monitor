@@ -1,8 +1,8 @@
 {
-  "total_tracked": 3808,
-  "total_drops": 143,
-  "total_new": 3808,
-  "last_updated": "2026-03-31T19:01:51Z",
+  "total_tracked": 3810,
+  "total_drops": 144,
+  "total_new": 3810,
+  "last_updated": "2026-03-31T19:58:05Z",
   "drops": [
     {
       "id": "16770596",
@@ -2005,9 +2005,47 @@
       "year": "2015",
       "mileage": "127000",
       "date": "2026-03-31T19:01:51Z"
+    },
+    {
+      "id": "16756366",
+      "title": "BMW 135i M 2016 GCC SPECS EXCELLENT CONDITION",
+      "old_price": 39000,
+      "new_price": 34000,
+      "drop_pct": 12.8,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/1-series/2026/2/24/bmw-135i-m-2016-gcc-specs-excellent-condit-2-644---99fb446449984af6b11a9d5dd9d2616b/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "1-Series",
+      "year": "2016",
+      "mileage": "198000",
+      "date": "2026-03-31T19:58:05Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16769367",
+      "title": "Ford Shelby GT500",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/3/9/ford-shelby-gt500-2-786---e35163fcf31a42adbfcd0318478b46ca/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "Mustang",
+      "year": "2012",
+      "mileage": "78000",
+      "price": 130000,
+      "first_seen": "2026-03-31T19:58:05Z"
+    },
+    {
+      "id": "16767967",
+      "title": "Porsche turbo S",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/carrera/2026/3/8/porsche-turbo-s-2-140---e0d3359fd2b64333ab2b4120fe37117f/",
+      "category": "Used Cars",
+      "make": "Porsche",
+      "model": "Carrera / 911",
+      "year": "2021",
+      "mileage": "45000",
+      "price": 720000,
+      "first_seen": "2026-03-31T19:58:05Z"
+    },
     {
       "id": "16788372",
       "title": "Expat driven 2015 GMC Terrain. 4x4. 4 cylinder. GCC.  155000.km. RTA passed. Good Tyres.",
@@ -2629,7 +2667,7 @@
       "model": "1-Series",
       "year": "2016",
       "mileage": "198000",
-      "price": 39000,
+      "price": 34000,
       "first_seen": "2026-03-31T13:03:08Z"
     },
     {
@@ -7982,30 +8020,6 @@
       "year": "2015",
       "mileage": "153000",
       "price": 23500,
-      "first_seen": "2026-03-27T09:53:28Z"
-    },
-    {
-      "id": "16784471",
-      "title": "2026 Mercedes-Benz CLE 200 AMG COUPE EQ Boost RWD GCC 0Km With 2 Years Unlimited Mileage Warranty",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/cle-class/2026/3/27/2026-mercedes-benz-cle-200-amg-coupe-eq-bo-2-328---3e50176804b745cba12ceb75cb5dd210/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "CLE-Class",
-      "year": "2026",
-      "mileage": "6",
-      "price": 266999,
-      "first_seen": "2026-03-27T09:53:28Z"
-    },
-    {
-      "id": "16779610",
-      "title": "5,680 P.M | Sport Platinum | 0% Downpayment | Cadillac Warranty + Service Contract (Al Ghandi)",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/escalade/2026/3/20/5875-pm-escalade-sport-platinum-0-downpaym-2-380---bc598904a9eb4c1e8e19d6fe158b9a62/",
-      "category": "Used Cars",
-      "make": "Cadillac",
-      "model": "Escalade",
-      "year": "2022",
-      "mileage": "39000",
-      "price": 289999,
       "first_seen": "2026-03-27T09:53:28Z"
     }
   ]
