@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-31T10:04:27.991173",
-  "total_tracked": 340,
+  "generated_at": "2026-03-31T10:53:50.209506",
+  "total_tracked": 341,
   "total_drops": 29,
-  "total_new": 340,
+  "total_new": 341,
   "avg_drop_pct": 26.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -869,6 +869,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116838147",
+      "title": "plate number",
+      "url": "https://www.olx.com.lb/ad/plate-number-ID116838147.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Anfeh, Koura",
+      "original_price": 70000,
+      "current_price": 70000,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 70000,
+          "date": "2026-03-31"
+        }
+      ]
+    },
     {
       "id": "116837028",
       "title": "2178 A for sale",
