@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-31T18:05:08.330981",
-  "total_tracked": 343,
+  "generated_at": "2026-03-31T19:01:20.962362",
+  "total_tracked": 344,
   "total_drops": 29,
-  "total_new": 343,
+  "total_new": 344,
   "avg_drop_pct": 26.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -919,6 +919,24 @@
       "price_history": [
         {
           "price": 4000,
+          "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "116838763",
+      "title": "A 42808",
+      "url": "https://www.olx.com.lb/ad/a-42808-ID116838763.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Mtayleb, Metn",
+      "original_price": 2300,
+      "current_price": 2300,
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 2300,
           "date": "2026-03-31"
         }
       ]
