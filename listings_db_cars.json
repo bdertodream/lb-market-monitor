@@ -21420,12 +21420,13 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
+    "last_seen": "2026-04-01",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
-    "stale": true
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "116728203": {
     "id": "116728203",
@@ -205051,6 +205052,62 @@
     "price_history": [
       {
         "price": 1600,
+        "date": "2026-04-01"
+      }
+    ],
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-01",
+    "last_updated": "2026-04-01",
+    "posted_date": "2026-04-01",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116755305": {
+    "id": "116755305",
+    "title": "بيجو 505 1984",
+    "url": "https://www.olx.com.lb/ad/بيجو-505-1984-ID116755305.html",
+    "make": "Peugeot",
+    "model": "505",
+    "body_type": "Sedan",
+    "year": 1984,
+    "mileage": 400000,
+    "transmission": "Manual",
+    "location": "Zouk Mikael, Keserouan",
+    "district": "Keserouan",
+    "original_price": 1100,
+    "current_price": 1100,
+    "price_history": [
+      {
+        "price": 1100,
+        "date": "2026-04-01"
+      }
+    ],
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-01",
+    "last_updated": "2026-04-01",
+    "posted_date": "2026-04-01",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116420028": {
+    "id": "116420028",
+    "title": "Mercedes-Benz SL-Class AMG/BRABUS KIT",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-sl-class-amgbrabus-kit-ID116420028.html",
+    "make": "Mercedes-Benz",
+    "model": "SL-Class",
+    "body_type": "Convertible",
+    "year": 2013,
+    "mileage": 50000,
+    "transmission": "Steptronic",
+    "location": "Downtown, Beirut",
+    "district": "Beirut",
+    "original_price": 36000,
+    "current_price": 36000,
+    "price_history": [
+      {
+        "price": 36000,
         "date": "2026-04-01"
       }
     ],
