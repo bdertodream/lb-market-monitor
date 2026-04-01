@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-01T13:04:46.135970",
-  "total_tracked": 345,
+  "generated_at": "2026-04-01T14:34:18.950598",
+  "total_tracked": 346,
   "total_drops": 29,
-  "total_new": 345,
+  "total_new": 346,
   "avg_drop_pct": 26.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -887,6 +887,24 @@
       "price_history": [
         {
           "price": 5800,
+          "date": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "id": "116835721",
+      "title": "S 48484",
+      "url": "https://www.olx.com.lb/ad/s-48484-ID116835721.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Ain Saadeh, Metn",
+      "original_price": 6500,
+      "current_price": 6500,
+      "first_seen": "2026-04-01",
+      "posted_date": "2026-04-01",
+      "price_history": [
+        {
+          "price": 6500,
           "date": "2026-04-01"
         }
       ]
