@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-31T23:34:03.841360",
-  "total_tracked": 6830,
+  "generated_at": "2026-04-01T01:38:01.163897",
+  "total_tracked": 6831,
   "total_drops": 476,
-  "total_new": 6830,
+  "total_new": 6831,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -14264,6 +14264,28 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116838955",
+      "title": "BMW X5 2003",
+      "url": "https://www.olx.com.lb/ad/bmw-x5-2003-ID116838955.html",
+      "make": "BMW",
+      "model": "X5",
+      "body_type": "Sedan",
+      "year": 2003,
+      "mileage": 160000,
+      "transmission": "Steptronic",
+      "location": "Bqosta, Saida",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-04-01",
+      "posted_date": "2026-04-01",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-04-01"
+        }
+      ]
+    },
     {
       "id": "116837747",
       "title": "Toyota C-HR 2020",
@@ -151204,7 +151226,7 @@
       "original_price": 6300,
       "current_price": 6300,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 6300,
