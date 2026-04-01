@@ -7665,7 +7665,7 @@
     "location": "Dekwaneh, Metn",
     "district": "Metn",
     "original_price": 3500,
-    "current_price": 3200,
+    "current_price": 3300,
     "price_history": [
       {
         "price": 3500,
@@ -7682,11 +7682,15 @@
       {
         "price": 3200,
         "date": "2026-03-30"
+      },
+      {
+        "price": 3300,
+        "date": "2026-04-01"
       }
     ],
     "first_seen": "2026-03-24",
     "last_seen": "2026-04-01",
-    "last_updated": "2026-03-30",
+    "last_updated": "2026-04-01",
     "posted_date": "2026-03-24",
     "drop_usd": 300,
     "drop_pct": 8.6,
