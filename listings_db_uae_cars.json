@@ -77442,7 +77442,7 @@
   "16783016": {
     "id": "16783016",
     "title": "SUNNY 2016 ACCIDENT FREE - GCC LOW MILEAGE PERSONAL CAR",
-    "price": 16500,
+    "price": 16000,
     "make": "Nissan",
     "model": "Sunny",
     "year": "2016",
@@ -77461,6 +77461,10 @@
       {
         "price": 16500,
         "date": "2026-03-29T14:35:15Z"
+      },
+      {
+        "price": 16000,
+        "date": "2026-04-01T20:44:09Z"
       }
     ],
     "date": "2026-03-28"
@@ -88123,8 +88127,8 @@
   },
   "16757909": {
     "id": "16757909",
-    "title": "2020 Lamborghini Urus GCC | 85k km | Clean | Well Maintained",
-    "price": 615000,
+    "title": "2020 Lamborghini Urus GCC | 94k km | Clean | Well Maintained price:590.000",
+    "price": 590000,
     "make": "Lamborghini",
     "model": "Urus",
     "year": "2020",
@@ -88139,6 +88143,10 @@
       {
         "price": 615000,
         "date": "2026-04-01T20:02:00Z"
+      },
+      {
+        "price": 590000,
+        "date": "2026-04-01T20:44:09Z"
       }
     ],
     "date": "2026-04-01"
@@ -88249,6 +88257,50 @@
       {
         "price": 57000,
         "date": "2026-04-01T20:02:00Z"
+      }
+    ],
+    "date": "2026-04-01"
+  },
+  "16789528": {
+    "id": "16789528",
+    "title": "Audi Q5 45 TFSI quattro S line 2012 - GCC Specs",
+    "price": 20000,
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2012",
+    "kilometers": "137000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Barsha 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q5/2026/4/1/audi-q5-45-tfsi-quattro-s-line-2012-gcc-sp-2-670---4e9246caa0d04b2eba33915291e3a2a8/",
+    "first_seen": "2026-04-01T20:44:09Z",
+    "prices": [
+      {
+        "price": 20000,
+        "date": "2026-04-01T20:44:09Z"
+      }
+    ],
+    "date": "2026-04-01"
+  },
+  "16789504": {
+    "id": "16789504",
+    "title": "2017 BMW X5 xDrive35i M Sport GCC Specs",
+    "price": 53000,
+    "make": "BMW",
+    "model": "X5",
+    "year": "2017",
+    "kilometers": "157000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Barsha Heights (Tecom)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/4/1/2017-bmw-x5-xdrive35i-m-sport-gcc-specs-2-053---7eb5e2c6fbb4410d87806eb44bfcf39a/",
+    "first_seen": "2026-04-01T20:44:09Z",
+    "prices": [
+      {
+        "price": 53000,
+        "date": "2026-04-01T20:44:09Z"
       }
     ],
     "date": "2026-04-01"

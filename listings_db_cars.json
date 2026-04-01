@@ -1365,7 +1365,7 @@
     "location": "Sodeco, Beirut",
     "district": "Beirut",
     "original_price": 29000,
-    "current_price": 29000,
+    "current_price": 28000,
     "price_history": [
       {
         "price": 29000,
@@ -1382,14 +1382,18 @@
       {
         "price": 29000,
         "date": "2026-03-28"
+      },
+      {
+        "price": 28000,
+        "date": "2026-04-01"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-04-01",
-    "last_updated": "2026-03-28",
+    "last_updated": "2026-04-01",
     "drop_usd": 1000,
     "drop_pct": 3.4,
-    "last_drop_date": "2026-03-27",
+    "last_drop_date": "2026-04-01",
     "posted_date": "2026-03-01",
     "stale": true
   },
@@ -3274,7 +3278,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-28",
+    "last_seen": "2026-04-01",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -3302,7 +3306,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-28",
+    "last_seen": "2026-04-01",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -3358,7 +3362,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-28",
+    "last_seen": "2026-04-01",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -4708,7 +4712,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-28",
+    "last_seen": "2026-04-01",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -4764,7 +4768,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-28",
+    "last_seen": "2026-04-01",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -53346,7 +53350,7 @@
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-04-01",
     "last_updated": "2026-03-08",
     "posted_date": "2026-03-08",
     "drop_usd": 0,
@@ -117190,7 +117194,7 @@
       }
     ],
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-28",
+    "last_seen": "2026-04-01",
     "last_updated": "2026-03-18",
     "posted_date": "2026-03-18",
     "drop_usd": 0,
@@ -130419,7 +130423,7 @@
     "location": "Mkalles, Metn",
     "district": "Metn",
     "original_price": 41000,
-    "current_price": 44444,
+    "current_price": 44000,
     "price_history": [
       {
         "price": 41000,
@@ -130428,15 +130432,19 @@
       {
         "price": 44444,
         "date": "2026-04-01"
+      },
+      {
+        "price": 44000,
+        "date": "2026-04-01"
       }
     ],
     "first_seen": "2026-03-20",
     "last_seen": "2026-04-01",
     "last_updated": "2026-04-01",
     "posted_date": "2026-03-20",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": -3000,
+    "drop_pct": -7.3,
+    "last_drop_date": "2026-04-01",
     "stale": true
   },
   "116656472": {
@@ -204726,6 +204734,202 @@
     "price_history": [
       {
         "price": 4500,
+        "date": "2026-04-01"
+      }
+    ],
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-01",
+    "last_updated": "2026-04-01",
+    "posted_date": "2026-04-01",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116185234": {
+    "id": "116185234",
+    "title": "Peugeot 307 2004",
+    "url": "https://www.olx.com.lb/ad/peugeot-307-2004-ID116185234.html",
+    "make": "Peugeot",
+    "model": "307",
+    "body_type": "Other",
+    "year": 2004,
+    "mileage": 1111,
+    "transmission": "Steptronic",
+    "location": "Douar, Metn",
+    "district": "Metn",
+    "original_price": 3500,
+    "current_price": 3500,
+    "price_history": [
+      {
+        "price": 3500,
+        "date": "2026-04-01"
+      }
+    ],
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-01",
+    "last_updated": "2026-04-01",
+    "posted_date": "2026-04-01",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116840056": {
+    "id": "116840056",
+    "title": "Mercedes-Benz C-Class 2016",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2016-ID116840056.html",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Sedan",
+    "year": 2016,
+    "mileage": 52,
+    "transmission": "Steptronic",
+    "location": "Zgharta Town, Zgharta",
+    "district": "Zgharta",
+    "original_price": 17999,
+    "current_price": 17999,
+    "price_history": [
+      {
+        "price": 17999,
+        "date": "2026-04-01"
+      }
+    ],
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-01",
+    "last_updated": "2026-04-01",
+    "posted_date": "2026-04-01",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116840053": {
+    "id": "116840053",
+    "title": "Nissan 350Z 2004",
+    "url": "https://www.olx.com.lb/ad/nissan-350z-2004-ID116840053.html",
+    "make": "Nissan",
+    "model": "350Z",
+    "body_type": "Sports / Coupe",
+    "year": 2004,
+    "mileage": 130,
+    "transmission": "Automatic",
+    "location": "Dora, Metn",
+    "district": "Metn",
+    "original_price": 5500,
+    "current_price": 5500,
+    "price_history": [
+      {
+        "price": 5500,
+        "date": "2026-04-01"
+      }
+    ],
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-01",
+    "last_updated": "2026-04-01",
+    "posted_date": "2026-04-01",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116784877": {
+    "id": "116784877",
+    "title": "Nissan Altima 2017",
+    "url": "https://www.olx.com.lb/ad/nissan-altima-2017-ID116784877.html",
+    "make": "Nissan",
+    "model": "Altima",
+    "body_type": "Sedan",
+    "year": 2017,
+    "mileage": 124500,
+    "transmission": "Automatic",
+    "location": "Aabra, Saida",
+    "district": "Saida",
+    "original_price": 9800,
+    "current_price": 9800,
+    "price_history": [
+      {
+        "price": 9800,
+        "date": "2026-04-01"
+      }
+    ],
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-01",
+    "last_updated": "2026-04-01",
+    "posted_date": "2026-04-01",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116840042": {
+    "id": "116840042",
+    "title": "Chevrolet Tahoe 2018",
+    "url": "https://www.olx.com.lb/ad/chevrolet-tahoe-2018-ID116840042.html",
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 100000,
+    "transmission": "Automatic",
+    "location": "Zouk Mosbeh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 36000,
+    "current_price": 36000,
+    "price_history": [
+      {
+        "price": 36000,
+        "date": "2026-04-01"
+      }
+    ],
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-01",
+    "last_updated": "2026-04-01",
+    "posted_date": "2026-04-01",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116840037": {
+    "id": "116840037",
+    "title": "Hyundai Sonata 2013",
+    "url": "https://www.olx.com.lb/ad/hyundai-sonata-2013-ID116840037.html",
+    "make": "Hyundai",
+    "model": "Sonata",
+    "body_type": "Sedan",
+    "year": 2013,
+    "mileage": 183500,
+    "transmission": "Steptronic",
+    "location": "Saida Downtown, Saida",
+    "district": "Saida",
+    "original_price": 7500,
+    "current_price": 7500,
+    "price_history": [
+      {
+        "price": 7500,
+        "date": "2026-04-01"
+      }
+    ],
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-01",
+    "last_updated": "2026-04-01",
+    "posted_date": "2026-04-01",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116840036": {
+    "id": "116840036",
+    "title": "Kia Cerato 2016",
+    "url": "https://www.olx.com.lb/ad/kia-cerato-2016-ID116840036.html",
+    "make": "Kia",
+    "model": "Cerato",
+    "body_type": "Sedan",
+    "year": 2016,
+    "mileage": 88000,
+    "transmission": "Steptronic",
+    "location": "Adma w Dafnah, Keserouan",
+    "district": "Keserouan",
+    "original_price": 11800,
+    "current_price": 11800,
+    "price_history": [
+      {
+        "price": 11800,
         "date": "2026-04-01"
       }
     ],
