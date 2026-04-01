@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-01T04:49:15.628802",
-  "total_tracked": 344,
+  "generated_at": "2026-04-01T06:31:01.554251",
+  "total_tracked": 345,
   "total_drops": 29,
-  "total_new": 344,
+  "total_new": 345,
   "avg_drop_pct": 26.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -873,6 +873,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116839012",
+      "title": "Y 5686",
+      "url": "https://www.olx.com.lb/ad/y-5686-ID116839012.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Other in Saida, Saida",
+      "original_price": 5800,
+      "current_price": 5800,
+      "first_seen": "2026-04-01",
+      "posted_date": "2026-04-01",
+      "price_history": [
+        {
+          "price": 5800,
+          "date": "2026-04-01"
+        }
+      ]
+    },
     {
       "id": "116838147",
       "title": "plate number",
