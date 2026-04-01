@@ -11676,7 +11676,7 @@
   "16748110": {
     "id": "16748110",
     "title": "2012 Jeep Wrangler Sport Jeepers Edition | No Paint | G.C.C | First Owner",
-    "price": 50000,
+    "price": 45000,
     "make": "Jeep",
     "model": "Wrangler",
     "year": "{'label': 'Year', 'value': 2012}",
@@ -11691,6 +11691,10 @@
       {
         "price": 50000,
         "date": "2026-03-09T11:37:45Z"
+      },
+      {
+        "price": 45000,
+        "date": "2026-04-01T20:02:00Z"
       }
     ],
     "date": "2026-03-09"
@@ -88113,6 +88117,138 @@
       {
         "price": 25000,
         "date": "2026-04-01T17:50:49Z"
+      }
+    ],
+    "date": "2026-04-01"
+  },
+  "16757909": {
+    "id": "16757909",
+    "title": "2020 Lamborghini Urus GCC | 85k km | Clean | Well Maintained",
+    "price": 615000,
+    "make": "Lamborghini",
+    "model": "Urus",
+    "year": "2020",
+    "kilometers": "85000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Za'abeel 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/urus/2026/2/25/2020-lamborghini-urus-gcc-85k-km-clean-wel-2-998---d8ceb195b9f2408d95fad0860bc43d74/",
+    "first_seen": "2026-04-01T20:02:00Z",
+    "prices": [
+      {
+        "price": 615000,
+        "date": "2026-04-01T20:02:00Z"
+      }
+    ],
+    "date": "2026-04-01"
+  },
+  "16757971": {
+    "id": "16757971",
+    "title": "BMW M4 Competition (Custom Project)",
+    "price": 400000,
+    "make": "BMW",
+    "model": "M4",
+    "year": "2024",
+    "kilometers": "29000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Aura Gardens",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/m4/2026/2/25/bmw-m4-competition-custom-project-2-548---19fe0fddc8ac4e87b44e195e795b2ae2/",
+    "first_seen": "2026-04-01T20:02:00Z",
+    "prices": [
+      {
+        "price": 400000,
+        "date": "2026-04-01T20:02:00Z"
+      }
+    ],
+    "date": "2026-04-01"
+  },
+  "16789630": {
+    "id": "16789630",
+    "title": "Porsche Cayenne GTS 2023, First Owner, Al Nabooda, Under warranty",
+    "price": 395000,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": "2023",
+    "kilometers": "36000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Safa",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/4/1/porsche-cayenne-gts-2023-first-owner-al-na-2-359---d904a5f4e80c48d7b9216cbd8aa6002d/",
+    "first_seen": "2026-04-01T20:02:00Z",
+    "prices": [
+      {
+        "price": 395000,
+        "date": "2026-04-01T20:02:00Z"
+      }
+    ],
+    "date": "2026-04-01"
+  },
+  "16789347": {
+    "id": "16789347",
+    "title": "Mercedes-AMG SL55  4.0L V8 Biturbo, Warranty Until 05/2030!",
+    "price": 465000,
+    "make": "Mercedes-Benz",
+    "model": "SL-Class",
+    "year": "2022",
+    "kilometers": "11500",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/sl-class/2026/4/1/mercedes-amg-sl55-40l-v8-biturbo-warranty--2-428---775acf6980e14f8aa539716f58a2185f/",
+    "first_seen": "2026-04-01T20:02:00Z",
+    "prices": [
+      {
+        "price": 465000,
+        "date": "2026-04-01T20:02:00Z"
+      }
+    ],
+    "date": "2026-04-01"
+  },
+  "16789593": {
+    "id": "16789593",
+    "title": "Audi e-tron Sportback 55 quattro S Line Excellent Condition!",
+    "price": 185000,
+    "make": "Audi",
+    "model": "e-tron",
+    "year": "2022",
+    "kilometers": "32000",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/e-tron/2026/4/1/audi-e-tron-sportback-55-quattro-s-line-ex-2-916---cd44ae69d12d4176a47bbe514765fbed/",
+    "first_seen": "2026-04-01T20:02:00Z",
+    "prices": [
+      {
+        "price": 185000,
+        "date": "2026-04-01T20:02:00Z"
+      }
+    ],
+    "date": "2026-04-01"
+  },
+  "16762250": {
+    "id": "16762250",
+    "title": "MERCEDES - BENZ - A250 - 2018 - panoramic follow option 360 camera GCC",
+    "price": 57000,
+    "make": "Mercedes-Benz",
+    "model": "A-Class",
+    "year": "2018",
+    "kilometers": "219000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Al Mizhar 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/a-class/2026/3/2/mercedes-benz-a250-2018-panoramic-follow-o-2-650---3ad759720ef143f297204ac2ea051dad/",
+    "first_seen": "2026-04-01T20:02:00Z",
+    "prices": [
+      {
+        "price": 57000,
+        "date": "2026-04-01T20:02:00Z"
       }
     ],
     "date": "2026-04-01"
