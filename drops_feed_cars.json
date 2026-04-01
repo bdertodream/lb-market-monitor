@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-01T22:35:46.415404",
-  "total_tracked": 7082,
+  "generated_at": "2026-04-01T23:36:39.735684",
+  "total_tracked": 7085,
   "total_drops": 505,
-  "total_new": 7082,
+  "total_new": 7085,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -11322,7 +11322,7 @@
       "transmission": "Automatic",
       "location": "sursock, Beirut",
       "original_price": 44999,
-      "current_price": 43999,
+      "current_price": 45000,
       "drop_usd": 1000,
       "drop_pct": 2.2,
       "last_drop_date": "2026-03-26",
@@ -11340,6 +11340,10 @@
         {
           "price": 43999,
           "date": "2026-03-26"
+        },
+        {
+          "price": 45000,
+          "date": "2026-04-01"
         }
       ]
     },
@@ -20677,6 +20681,72 @@
       "price_history": [
         {
           "price": 36000,
+          "date": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "id": "116840161",
+      "title": "Mercedes-Benz E-Class 2010",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2010-ID116840161.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2010,
+      "mileage": 120000,
+      "transmission": "Steptronic",
+      "location": "Tayouneh, Beirut",
+      "original_price": 11000,
+      "current_price": 11000,
+      "first_seen": "2026-04-01",
+      "posted_date": "2026-04-01",
+      "price_history": [
+        {
+          "price": 11000,
+          "date": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "id": "116840158",
+      "title": "شيفروليه سونيك 2016",
+      "url": "https://www.olx.com.lb/ad/شيفروليه-سونيك-2016-ID116840158.html",
+      "make": "Chevrolet",
+      "model": "Sonic",
+      "body_type": "Small city car",
+      "year": 2016,
+      "mileage": 200000,
+      "transmission": "Automatic",
+      "location": "Zaytoun, Tripoli",
+      "original_price": 6500,
+      "current_price": 6500,
+      "first_seen": "2026-04-01",
+      "posted_date": "2026-04-01",
+      "price_history": [
+        {
+          "price": 6500,
+          "date": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "id": "116840154",
+      "title": "Jeep Wrangler 2012",
+      "url": "https://www.olx.com.lb/ad/jeep-wrangler-2012-ID116840154.html",
+      "make": "Jeep",
+      "model": "Wrangler",
+      "body_type": "Convertible",
+      "year": 2012,
+      "mileage": 210000,
+      "transmission": "Automatic",
+      "location": "Ghedras, Keserouan",
+      "original_price": 19000,
+      "current_price": 19000,
+      "first_seen": "2026-04-01",
+      "posted_date": "2026-04-01",
+      "price_history": [
+        {
+          "price": 19000,
           "date": "2026-04-01"
         }
       ]
@@ -54861,7 +54931,7 @@
       "transmission": "Automatic",
       "location": "sursock, Beirut",
       "original_price": 44999,
-      "current_price": 43999,
+      "current_price": 45000,
       "first_seen": "2026-03-24",
       "posted_date": "2026-03-24",
       "price_history": [
@@ -54876,6 +54946,10 @@
         {
           "price": 43999,
           "date": "2026-03-26"
+        },
+        {
+          "price": 45000,
+          "date": "2026-04-01"
         }
       ]
     },
