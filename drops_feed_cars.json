@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-02T21:37:00.112532",
-  "total_tracked": 7265,
+  "generated_at": "2026-04-02T22:32:00.776100",
+  "total_tracked": 7269,
   "total_drops": 536,
-  "total_new": 7265,
+  "total_new": 7269,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -3094,6 +3094,39 @@
       ]
     },
     {
+      "id": "116755115",
+      "title": "Land Rover Evoque 2018",
+      "url": "https://www.olx.com.lb/ad/land-rover-evoque-2018-ID116755115.html",
+      "make": "Land Rover",
+      "model": "Evoque",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 90,
+      "transmission": "Automatic",
+      "location": "Ras Al Nabaa, Beirut",
+      "original_price": 17500,
+      "current_price": 16200,
+      "drop_usd": 1300,
+      "drop_pct": 7.4,
+      "last_drop_date": "2026-04-02",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 16500,
+          "date": "2026-03-21"
+        },
+        {
+          "price": 16200,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
       "id": "116767692",
       "title": "2016 BMW 750I V8 M-SPORT",
       "url": "https://www.olx.com.lb/ad/2016-bmw-750i-v8-m-sport-ID116767692.html",
@@ -4591,35 +4624,6 @@
         {
           "price": 50000,
           "date": "2026-03-31"
-        }
-      ]
-    },
-    {
-      "id": "116755115",
-      "title": "Land Rover Evoque 2018",
-      "url": "https://www.olx.com.lb/ad/land-rover-evoque-2018-ID116755115.html",
-      "make": "Land Rover",
-      "model": "Evoque",
-      "body_type": "SUV",
-      "year": 2018,
-      "mileage": 90,
-      "transmission": "Automatic",
-      "location": "Ras Al Nabaa, Beirut",
-      "original_price": 17500,
-      "current_price": 16500,
-      "drop_usd": 1000,
-      "drop_pct": 5.7,
-      "last_drop_date": "2026-03-21",
-      "first_seen": "2026-03-01",
-      "posted_date": "2026-03-01",
-      "price_history": [
-        {
-          "price": 17500,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 16500,
-          "date": "2026-03-21"
         }
       ]
     },
@@ -20040,6 +20044,94 @@
       "price_history": [
         {
           "price": 15000,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116802731",
+      "title": "2023 Range Rover P530 Autobiography, 44,000 km only, Under warranty!!",
+      "url": "https://www.olx.com.lb/ad/2023-range-rover-p530-autobiography-44000-km-only-under-warranty-ID116802731.html",
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "body_type": "SUV",
+      "year": 2023,
+      "mileage": 44000,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 185000,
+      "current_price": 185000,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 185000,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116841384",
+      "title": "Land Rover Vogue 2006",
+      "url": "https://www.olx.com.lb/ad/land-rover-vogue-2006-ID116841384.html",
+      "make": "Land Rover",
+      "model": "Vogue",
+      "body_type": "SUV",
+      "year": 2006,
+      "mileage": 190000,
+      "transmission": "Steptronic",
+      "location": "Sarba, Keserouan",
+      "original_price": 8000,
+      "current_price": 8000,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 8000,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116841380",
+      "title": "Jaguar F-Pace 2018 CLEAN CAR FAX",
+      "url": "https://www.olx.com.lb/ad/jaguar-f-pace-2018-clean-car-fax-waswl-jaded-ID116841380.html",
+      "make": "Jaguar",
+      "model": "F-Pace",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 100,
+      "transmission": "Automatic",
+      "location": "Ras Al Nabaa, Beirut",
+      "original_price": 18500,
+      "current_price": 18500,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 18500,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116841372",
+      "title": "تويوتا تاكوما 2009",
+      "url": "https://www.olx.com.lb/ad/تويوتا-تاكوما-2009-ID116841372.html",
+      "make": "Toyota",
+      "model": "Tacoma",
+      "body_type": "Pickup",
+      "year": 2009,
+      "mileage": 110000,
+      "transmission": "Automatic",
+      "location": "Qoubbe, Tripoli",
+      "original_price": 12000,
+      "current_price": 12000,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 12000,
           "date": "2026-04-02"
         }
       ]
@@ -170346,7 +170438,7 @@
       "transmission": "Automatic",
       "location": "Ras Al Nabaa, Beirut",
       "original_price": 17500,
-      "current_price": 16500,
+      "current_price": 16200,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -170357,6 +170449,10 @@
         {
           "price": 16500,
           "date": "2026-03-21"
+        },
+        {
+          "price": 16200,
+          "date": "2026-04-02"
         }
       ]
     },
