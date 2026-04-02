@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-02T20:34:52.531254",
-  "total_tracked": 347,
+  "generated_at": "2026-04-02T21:37:18.409042",
+  "total_tracked": 348,
   "total_drops": 29,
-  "total_new": 347,
+  "total_new": 348,
   "avg_drop_pct": 26.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -895,6 +895,24 @@
       "price_history": [
         {
           "price": 7000,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116841360",
+      "title": "tripoli",
+      "url": "https://www.olx.com.lb/ad/tripoli-ID116841360.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Other in Tripoli, Tripoli",
+      "original_price": 1500,
+      "current_price": 1500,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 1500,
           "date": "2026-04-02"
         }
       ]

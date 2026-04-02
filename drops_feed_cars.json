@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-02T20:34:31.139737",
-  "total_tracked": 7264,
-  "total_drops": 533,
-  "total_new": 7264,
+  "generated_at": "2026-04-02T21:37:00.112532",
+  "total_tracked": 7265,
+  "total_drops": 536,
+  "total_new": 7265,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -1820,6 +1820,35 @@
         {
           "price": 45000,
           "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116810376",
+      "title": "Audi A4 2009",
+      "url": "https://www.olx.com.lb/ad/audi-a4-2009-ID116810376.html",
+      "make": "Audi",
+      "model": "A4",
+      "body_type": "Sedan",
+      "year": 2009,
+      "mileage": 100000,
+      "transmission": "Steptronic",
+      "location": "Tallet el Khayat, Beirut",
+      "original_price": 10999,
+      "current_price": 9900,
+      "drop_usd": 1099,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-04-02",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 10999,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 9900,
+          "date": "2026-04-02"
         }
       ]
     },
@@ -9755,6 +9784,35 @@
       ]
     },
     {
+      "id": "116813600",
+      "title": "Infiniti Q30 2017 low mileage",
+      "url": "https://www.olx.com.lb/ad/infiniti-q30-2017-low-mileage-ID116813600.html",
+      "make": "Infiniti",
+      "model": "Q series",
+      "body_type": "Hatchback",
+      "year": 2017,
+      "mileage": 68000,
+      "transmission": "Steptronic",
+      "location": "Sahel Alma, Keserouan",
+      "original_price": 16500,
+      "current_price": 16000,
+      "drop_usd": 500,
+      "drop_pct": 3.0,
+      "last_drop_date": "2026-04-02",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 16500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 16000,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
       "id": "116815096",
       "title": "grand cherokee 2018 full led 2wel",
       "url": "https://www.olx.com.lb/ad/grand-cherokee-2018-full-led-2wel-ID116815096.html",
@@ -11574,7 +11632,7 @@
       "transmission": "Automatic",
       "location": "Dbaye, Metn",
       "original_price": 51000,
-      "current_price": 49800,
+      "current_price": 49900,
       "drop_usd": 1200,
       "drop_pct": 2.4,
       "last_drop_date": "2026-04-02",
@@ -11591,6 +11649,10 @@
         },
         {
           "price": 49800,
+          "date": "2026-04-02"
+        },
+        {
+          "price": 49900,
           "date": "2026-04-02"
         }
       ]
@@ -12188,6 +12250,35 @@
         {
           "price": 26900,
           "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116664062",
+      "title": "Range Rover Sport - 2018 MY - V8 Supercharged - CLEAN CARFAX !!!",
+      "url": "https://www.olx.com.lb/ad/range-rover-sport-2018-my-v8-supercharged-clean-carfax-ID116664062.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 51000,
+      "current_price": 49900,
+      "drop_usd": 1100,
+      "drop_pct": 2.2,
+      "last_drop_date": "2026-04-02",
+      "first_seen": "2026-03-23",
+      "posted_date": "2026-03-23",
+      "price_history": [
+        {
+          "price": 51000,
+          "date": "2026-03-23"
+        },
+        {
+          "price": 49900,
+          "date": "2026-04-02"
         }
       ]
     },
@@ -19927,6 +20018,28 @@
       "price_history": [
         {
           "price": 6000,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116841346",
+      "title": "Mercedes-Benz E350 Cabriolet 2012 Germany",
+      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2018-ID116841346.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Convertible",
+      "year": 2012,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Dam wa Farz, Tripoli",
+      "original_price": 15000,
+      "current_price": 15000,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 15000,
           "date": "2026-04-02"
         }
       ]
@@ -69117,13 +69230,17 @@
       "transmission": "Automatic",
       "location": "Dbaye, Metn",
       "original_price": 51000,
-      "current_price": 51000,
+      "current_price": 49900,
       "first_seen": "2026-03-23",
       "posted_date": "2026-03-23",
       "price_history": [
         {
           "price": 51000,
           "date": "2026-03-23"
+        },
+        {
+          "price": 49900,
+          "date": "2026-04-02"
         }
       ]
     },
@@ -90289,7 +90406,7 @@
       "transmission": "Automatic",
       "location": "Dbaye, Metn",
       "original_price": 51000,
-      "current_price": 49800,
+      "current_price": 49900,
       "first_seen": "2026-03-18",
       "posted_date": "2026-03-18",
       "price_history": [
@@ -90303,6 +90420,10 @@
         },
         {
           "price": 49800,
+          "date": "2026-04-02"
+        },
+        {
+          "price": 49900,
           "date": "2026-04-02"
         }
       ]
@@ -153431,7 +153552,7 @@
       "original_price": 37000,
       "current_price": 37000,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 37000,
@@ -153657,13 +153778,17 @@
       "transmission": "Steptronic",
       "location": "Tallet el Khayat, Beirut",
       "original_price": 10999,
-      "current_price": 10999,
+      "current_price": 9900,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 10999,
           "date": "2026-03-01"
+        },
+        {
+          "price": 9900,
+          "date": "2026-04-02"
         }
       ]
     },
@@ -175649,13 +175774,17 @@
       "transmission": "Steptronic",
       "location": "Sahel Alma, Keserouan",
       "original_price": 16500,
-      "current_price": 16500,
+      "current_price": 16000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 16500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 16000,
+          "date": "2026-04-02"
         }
       ]
     },
