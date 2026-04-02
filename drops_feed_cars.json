@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-02T22:32:00.776100",
-  "total_tracked": 7269,
+  "generated_at": "2026-04-02T23:34:14.706467",
+  "total_tracked": 7271,
   "total_drops": 536,
-  "total_new": 7269,
+  "total_new": 7271,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -20132,6 +20132,50 @@
       "price_history": [
         {
           "price": 12000,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116841402",
+      "title": "Land Rover Discovery 2017",
+      "url": "https://www.olx.com.lb/ad/land-rover-discovery-2017-ID116841402.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 107,
+      "transmission": "Automatic",
+      "location": "Ksara, Zahle",
+      "original_price": 27500,
+      "current_price": 27500,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 27500,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116841395",
+      "title": "Jeep Cherokee 2018",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-2018-ID116841395.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 140,
+      "transmission": "Automatic",
+      "location": "Ksara, Zahle",
+      "original_price": 25000,
+      "current_price": 25000,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 25000,
           "date": "2026-04-02"
         }
       ]
