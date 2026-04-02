@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-02T19:51:02.203602",
-  "total_tracked": 7260,
+  "generated_at": "2026-04-02T20:34:31.139737",
+  "total_tracked": 7264,
   "total_drops": 533,
-  "total_new": 7260,
+  "total_new": 7264,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -19839,6 +19839,94 @@
       "price_history": [
         {
           "price": 11300,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116841343",
+      "title": "Peugeot 407 2005",
+      "url": "https://www.olx.com.lb/ad/peugeot-407-2005-ID116841343.html",
+      "make": "Peugeot",
+      "model": "407",
+      "body_type": "Sedan",
+      "year": 2005,
+      "mileage": 190,
+      "transmission": "Steptronic",
+      "location": "Baakleen, Chouf",
+      "original_price": 2000,
+      "current_price": 2000,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 2000,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116002329",
+      "title": "Mazda 2 2008",
+      "url": "https://www.olx.com.lb/ad/mazda-2-2008-ID116002329.html",
+      "make": "Mazda",
+      "model": "2",
+      "body_type": "Hatchback",
+      "year": 2008,
+      "mileage": 76000,
+      "transmission": "Automatic",
+      "location": "Bchamoun, Aley",
+      "original_price": 5500,
+      "current_price": 5500,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116841334",
+      "title": "Kia Rio 2016",
+      "url": "https://www.olx.com.lb/ad/kia-rio-2016-ID116841334.html",
+      "make": "Kia",
+      "model": "Rio",
+      "body_type": "Hatchback",
+      "year": 2016,
+      "mileage": 155555,
+      "transmission": "Steptronic",
+      "location": "Chbaniyeh, Baabda",
+      "original_price": 7800,
+      "current_price": 7800,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 7800,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116830097",
+      "title": "نيسان باثفايندر 2006",
+      "url": "https://www.olx.com.lb/ad/نيسان-باثفايندر-2006-ID116830097.html",
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "body_type": "SUV",
+      "year": 2006,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Jadra, Chouf",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 6000,
           "date": "2026-04-02"
         }
       ]
