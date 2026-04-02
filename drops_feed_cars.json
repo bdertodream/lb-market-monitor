@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-01T23:36:39.735684",
-  "total_tracked": 7085,
+  "generated_at": "2026-04-02T01:28:06.199999",
+  "total_tracked": 7087,
   "total_drops": 505,
-  "total_new": 7085,
+  "total_new": 7087,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -2974,6 +2974,51 @@
       ]
     },
     {
+      "id": "116807806",
+      "title": "Discovery 2019 V6 Super Charged Super Clean 59000 Miles only",
+      "url": "https://www.olx.com.lb/ad/land-rover-discovery-2019-59000-miles-only-ID116807806.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 59000,
+      "transmission": "Steptronic",
+      "location": "Zalka, Metn",
+      "original_price": 26800,
+      "current_price": 24900,
+      "drop_usd": 1900,
+      "drop_pct": 7.1,
+      "last_drop_date": "2026-04-02",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 26800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 26300,
+          "date": "2026-03-08"
+        },
+        {
+          "price": 25800,
+          "date": "2026-03-19"
+        },
+        {
+          "price": 25500,
+          "date": "2026-03-27"
+        },
+        {
+          "price": 25300,
+          "date": "2026-03-29"
+        },
+        {
+          "price": 24900,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
       "id": "116816797",
       "title": "Infiniti Qx series 2015 - Luxury SUV",
       "url": "https://www.olx.com.lb/ad/infiniti-qx-series-2015-luxury-suv-ID116816797.html",
@@ -4306,47 +4351,6 @@
         {
           "price": 19700,
           "date": "2026-03-28"
-        }
-      ]
-    },
-    {
-      "id": "116807806",
-      "title": "Discovery 2019 V6 Super Charged Super Clean 59000 Miles only",
-      "url": "https://www.olx.com.lb/ad/land-rover-discovery-2019-59000-miles-only-ID116807806.html",
-      "make": "Land Rover",
-      "model": "Discovery",
-      "body_type": "SUV",
-      "year": 2019,
-      "mileage": 59000,
-      "transmission": "Steptronic",
-      "location": "Zalka, Metn",
-      "original_price": 26800,
-      "current_price": 25300,
-      "drop_usd": 1500,
-      "drop_pct": 5.6,
-      "last_drop_date": "2026-03-29",
-      "first_seen": "2026-03-01",
-      "posted_date": "2026-03-01",
-      "price_history": [
-        {
-          "price": 26800,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 26300,
-          "date": "2026-03-08"
-        },
-        {
-          "price": 25800,
-          "date": "2026-03-19"
-        },
-        {
-          "price": 25500,
-          "date": "2026-03-27"
-        },
-        {
-          "price": 25300,
-          "date": "2026-03-29"
         }
       ]
     },
@@ -15133,6 +15137,50 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116284113",
+      "title": "BMW M5CS Limited Edition 1 Of 1,000 worldwide",
+      "url": "https://www.olx.com.lb/ad/bmw-m5cs-limited-edition-1-of-1000-worldwide-ID116284113.html",
+      "make": "BMW",
+      "model": "M5",
+      "body_type": "Sedan",
+      "year": 2022,
+      "mileage": 6000,
+      "transmission": "Automatic",
+      "location": "Downtown, Beirut",
+      "original_price": 255000,
+      "current_price": 255000,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 255000,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116840177",
+      "title": "Ford Focus 2012",
+      "url": "https://www.olx.com.lb/ad/ford-focus-2012-ID116840177.html",
+      "make": "Ford",
+      "model": "Focus",
+      "body_type": "Hatchback",
+      "year": 2012,
+      "mileage": 130,
+      "transmission": "Automatic",
+      "location": "Salim Slam, Beirut",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-04-02"
+        }
+      ]
+    },
     {
       "id": "116838955",
       "title": "BMW X5 2003",
@@ -146343,7 +146391,7 @@
       "transmission": "Steptronic",
       "location": "Zalka, Metn",
       "original_price": 26800,
-      "current_price": 25300,
+      "current_price": 24900,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -146366,6 +146414,10 @@
         {
           "price": 25300,
           "date": "2026-03-29"
+        },
+        {
+          "price": 24900,
+          "date": "2026-04-02"
         }
       ]
     },

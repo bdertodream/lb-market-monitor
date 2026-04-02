@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 7569,
+  "total_tracked": 7570,
   "total_drops": 108,
-  "total_new": 7569,
+  "total_new": 7570,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1520,6 +1520,17 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "17271674",
+      "title": "Hot Deal | Stylish 1BR in Sobha Orbis Tower E | High ROI Potential",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/1/hot-deal-stylish-1br-in-sobha-orbis-tow-2-244899/",
+      "area": "Motor City",
+      "category": "Apartment",
+      "size": "637",
+      "bedrooms": "1",
+      "price": 1500000,
+      "first_seen": "2026-04-02"
+    },
     {
       "id": "9792695",
       "title": "F n B Approved | High Visibility | DED license",
@@ -7008,19 +7019,8 @@
       "bedrooms": "1",
       "price": 1780000,
       "first_seen": "2026-03-30"
-    },
-    {
-      "id": "17129822",
-      "title": "4BR Resale | Go to Deal | Next to Corner | Price Dropped",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/25/4br-resale-selling-below-launch-price-h-2-209780/",
-      "area": "DAMAC Hills 2 (Akoya by DAMAC)",
-      "category": "Villa",
-      "size": "2346",
-      "bedrooms": "4",
-      "price": 1725000,
-      "first_seen": "2026-03-30"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-01"
+  "last_updated": "2026-04-02"
 }
