@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-02T16:54:16.256068",
-  "total_tracked": 7242,
+  "generated_at": "2026-04-02T17:49:54.433246",
+  "total_tracked": 7245,
   "total_drops": 530,
-  "total_new": 7242,
+  "total_new": 7245,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -8732,10 +8732,10 @@
       "transmission": "Steptronic",
       "location": "Jbeil Town, Jbeil",
       "original_price": 31000,
-      "current_price": 31000,
+      "current_price": 29900,
       "drop_usd": 1100,
       "drop_pct": 3.5,
-      "last_drop_date": "2026-03-30",
+      "last_drop_date": "2026-04-02",
       "first_seen": "2026-03-28",
       "posted_date": "2026-03-28",
       "price_history": [
@@ -8749,6 +8749,10 @@
         },
         {
           "price": 31000,
+          "date": "2026-04-02"
+        },
+        {
+          "price": 29900,
           "date": "2026-04-02"
         }
       ]
@@ -11192,7 +11196,7 @@
     },
     {
       "id": "116825881",
-      "title": "Mercedes-Benz E300 2018 17000 Miles",
+      "title": "Mercedes-Benz E300 2018 17000 Miles 6 Months warranty",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-e300-2018-17000-miles-ID116825881.html",
       "make": "Mercedes-Benz",
       "model": "E-Class",
@@ -19002,7 +19006,7 @@
     },
     {
       "id": "116803347",
-      "title": "hunda crv",
+      "title": "hunda crv 2014 la2ta",
       "url": "https://www.olx.com.lb/ad/هيونداي-سنتافي-2016-ID116803347.html",
       "make": "Honda",
       "model": "CR-V",
@@ -19348,6 +19352,72 @@
       "price_history": [
         {
           "price": 7800,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116746145",
+      "title": "Peugeot 4008 2012",
+      "url": "https://www.olx.com.lb/ad/peugeot-4008-2012-ID116746145.html",
+      "make": "Peugeot",
+      "model": "4008",
+      "body_type": "Estate",
+      "year": 2012,
+      "mileage": 82000,
+      "transmission": "Automatic",
+      "location": "Ainab, Aley",
+      "original_price": 8000,
+      "current_price": 8000,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 8000,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116838944",
+      "title": "Mercedes CLA300L (1st full electric CLA in Lebanon)",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-cla-class-2025-ID116838944.html",
+      "make": "Mercedes-Benz",
+      "model": "CLA-Class",
+      "body_type": "Sedan",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Mazraa, Beirut",
+      "original_price": 55000,
+      "current_price": 55000,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 55000,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116841190",
+      "title": "Peugeot 307 2006",
+      "url": "https://www.olx.com.lb/ad/peugeot-307-2006-ID116841190.html",
+      "make": "Peugeot",
+      "model": "307",
+      "body_type": "Other",
+      "year": 2006,
+      "mileage": 10000,
+      "transmission": "Automatic",
+      "location": "Choueifat, Aley",
+      "original_price": 2550,
+      "current_price": 2550,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 2550,
           "date": "2026-04-02"
         }
       ]
@@ -40140,7 +40210,7 @@
       "transmission": "Steptronic",
       "location": "Jbeil Town, Jbeil",
       "original_price": 31000,
-      "current_price": 31000,
+      "current_price": 29900,
       "first_seen": "2026-03-28",
       "posted_date": "2026-03-28",
       "price_history": [
@@ -40154,6 +40224,10 @@
         },
         {
           "price": 31000,
+          "date": "2026-04-02"
+        },
+        {
+          "price": 29900,
           "date": "2026-04-02"
         }
       ]
@@ -86520,7 +86594,7 @@
     },
     {
       "id": "116825881",
-      "title": "Mercedes-Benz E300 2018 17000 Miles",
+      "title": "Mercedes-Benz E300 2018 17000 Miles 6 Months warranty",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-e300-2018-17000-miles-ID116825881.html",
       "make": "Mercedes-Benz",
       "model": "E-Class",
@@ -154882,7 +154956,7 @@
       "original_price": 27500,
       "current_price": 27500,
       "first_seen": "2026-03-01",
-      "posted_date": null,
+      "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 27500,
