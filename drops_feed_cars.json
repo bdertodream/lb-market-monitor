@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-02T01:28:06.199999",
-  "total_tracked": 7087,
+  "generated_at": "2026-04-02T04:29:42.278742",
+  "total_tracked": 7089,
   "total_drops": 505,
-  "total_new": 7087,
+  "total_new": 7089,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -15177,6 +15177,50 @@
       "price_history": [
         {
           "price": 5000,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116840192",
+      "title": "Mitsubishi Outlander 2018",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-outlander-2018-ID116840192.html",
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 67000,
+      "transmission": "Automatic",
+      "location": "Zalka, Metn",
+      "original_price": 17500,
+      "current_price": 17500,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116736089",
+      "title": "Nissan Rogue 2018 100k miles like new very clean car",
+      "url": "https://www.olx.com.lb/ad/nissan-rogue-2018-100k-miles-like-new-very-clean-car-ID116736089.html",
+      "make": "Nissan",
+      "model": "Rogue",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 100000,
+      "transmission": "Steptronic",
+      "location": "Other in Tripoli, Tripoli",
+      "original_price": 15000,
+      "current_price": 15000,
+      "first_seen": "2026-04-02",
+      "posted_date": "2026-04-02",
+      "price_history": [
+        {
+          "price": 15000,
           "date": "2026-04-02"
         }
       ]

@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 7570,
+  "total_tracked": 7571,
   "total_drops": 108,
-  "total_new": 7570,
+  "total_new": 7571,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1529,6 +1529,17 @@
       "size": "637",
       "bedrooms": "1",
       "price": 1500000,
+      "first_seen": "2026-04-02"
+    },
+    {
+      "id": "17221101",
+      "title": "Extended Plot | Luxury Villa | Private Pool|Corner",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/19/extended-plot-luxury-villa-private-pool-2-301458/",
+      "area": "The Oasis by Emaar",
+      "category": "Villa",
+      "size": "10366",
+      "bedrooms": "4",
+      "price": 10500000,
       "first_seen": "2026-04-02"
     },
     {
@@ -7007,17 +7018,6 @@
       "size": "1657",
       "bedrooms": "3",
       "price": 2150000,
-      "first_seen": "2026-03-30"
-    },
-    {
-      "id": "17141809",
-      "title": "1BR Apartment | Belmore Residences Meydan | Furnished | Park & Pool Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/27/1br-apartment-belmore-residences-meydan-2-462526/",
-      "area": "Meydan Horizon",
-      "category": "Apartment",
-      "size": "750",
-      "bedrooms": "1",
-      "price": 1780000,
       "first_seen": "2026-03-30"
     }
   ],
