@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-03T12:49:47.392996",
-  "total_tracked": 351,
+  "generated_at": "2026-04-03T14:06:24.761930",
+  "total_tracked": 352,
   "total_drops": 29,
-  "total_new": 351,
+  "total_new": 352,
   "avg_drop_pct": 26.6,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -911,12 +911,16 @@
       "plate_type": "Standard",
       "location": "Ras Beirut, Beirut",
       "original_price": 6500,
-      "current_price": 6500,
+      "current_price": 7900,
       "first_seen": "2026-04-03",
       "posted_date": "2026-04-03",
       "price_history": [
         {
           "price": 6500,
+          "date": "2026-04-03"
+        },
+        {
+          "price": 7900,
           "date": "2026-04-03"
         }
       ]
@@ -935,6 +939,24 @@
       "price_history": [
         {
           "price": 9500,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116841889",
+      "title": "car plate number",
+      "url": "https://www.olx.com.lb/ad/car-plate-number-ID116841889.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jounieh, Keserouan",
+      "original_price": 2300,
+      "current_price": 2300,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 2300,
           "date": "2026-04-03"
         }
       ]
