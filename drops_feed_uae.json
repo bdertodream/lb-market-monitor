@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 7913,
-  "total_drops": 123,
-  "total_new": 7913,
+  "total_tracked": 7917,
+  "total_drops": 124,
+  "total_new": 7917,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1727,6 +1727,20 @@
       "bedrooms": "",
       "date": "2026-04-03",
       "first_seen": "2026-03-09"
+    },
+    {
+      "id": "17031792",
+      "title": "Priced to sale| Large layout| Partial sea",
+      "old_price": 3800000,
+      "new_price": 3500000,
+      "drop_pct": 7.9,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/3/spacious-2-bedroom-road-view-rented-2-559517/",
+      "area": "Palm Jumeirah",
+      "category": "Apartment",
+      "size": "1799",
+      "bedrooms": "2",
+      "date": "2026-04-03",
+      "first_seen": "2026-03-08"
     }
   ],
   "new_listings": [
@@ -3499,6 +3513,50 @@
       "size": "2200",
       "bedrooms": "2",
       "price": 990000,
+      "first_seen": "2026-04-03"
+    },
+    {
+      "id": "17009057",
+      "title": "Huge Layout | Road View | Vastu Compliant \u2013 2 BR Apartment in Topaz Avenue",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/29/huge-layout-road-view-vastu-compliant-2-2-132362/",
+      "area": "Al Furjan",
+      "category": "Apartment",
+      "size": "1563",
+      "bedrooms": "2",
+      "price": 2390000,
+      "first_seen": "2026-04-03"
+    },
+    {
+      "id": "17279669",
+      "title": "Hillcrest Luxury Villa | Under Market Value | 5BR + Basement | Rare Layout",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/4/3/hillcrest-luxury-villa-under-market-val-2-166141/",
+      "area": "Dubai Hills Estate",
+      "category": "Villa",
+      "size": "10500",
+      "bedrooms": "5",
+      "price": 22000000,
+      "first_seen": "2026-04-03"
+    },
+    {
+      "id": "9809919",
+      "title": "Retail Shop | Greenfield by Samana | Road View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/4/3/retail-shop-greenfield-by-samana-road-v-2-144046/",
+      "area": "International City",
+      "category": "Shop",
+      "size": "1436",
+      "bedrooms": "",
+      "price": 4562138,
+      "first_seen": "2026-04-03"
+    },
+    {
+      "id": "9809918",
+      "title": "Corner Retail Shop | Greenfield by Samana | Mixed-Use Community",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/4/3/corner-retail-shop-greenfield-by-samana-2-152174/",
+      "area": "International City",
+      "category": "Shop",
+      "size": "377",
+      "bedrooms": "",
+      "price": 1599239,
       "first_seen": "2026-04-03"
     },
     {
@@ -7184,50 +7242,6 @@
       "size": "3588",
       "bedrooms": "",
       "price": 30000000,
-      "first_seen": "2026-04-01"
-    },
-    {
-      "id": "17270329",
-      "title": "1BR Convertible to 2BR | 80 Months Payment Plan |",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/1/luxury-amenities-80-months-post-handove-2-465730/",
-      "area": "International City",
-      "category": "Apartment",
-      "size": "592",
-      "bedrooms": "1",
-      "price": 849000,
-      "first_seen": "2026-04-01"
-    },
-    {
-      "id": "17258292",
-      "title": "Burj Sea View | Furnished Unit | Mid Floor",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/30/burj-sea-view-furnished-unit-mid-floor-2-272108/",
-      "area": "Dubai Creek Harbour",
-      "category": "Apartment",
-      "size": "742",
-      "bedrooms": "1",
-      "price": 1900000,
-      "first_seen": "2026-04-01"
-    },
-    {
-      "id": "15890977",
-      "title": "Biggest Plot | Corner Unit | Single Row | Handover In Q3 2025 | Huge Layout | Call Now!",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2025/6/9/magnificent-5-bed-villa-premium-quality-2-196450/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "3293",
-      "bedrooms": "5",
-      "price": 4200000,
-      "first_seen": "2026-04-01"
-    },
-    {
-      "id": "15518675",
-      "title": "Prime Location | Luxury Studio | High-End Quality | Stunning Interior | Top Amenities | Book Now!",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/3/17/prime-location-luxury-studio-high-end-q-2-328793/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "371",
-      "bedrooms": "0",
-      "price": 675000,
       "first_seen": "2026-04-01"
     }
   ],
