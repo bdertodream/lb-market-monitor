@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-03T14:47:55.142639",
-  "total_tracked": 7354,
-  "total_drops": 550,
-  "total_new": 7354,
+  "generated_at": "2026-04-03T15:41:32.408061",
+  "total_tracked": 7362,
+  "total_drops": 551,
+  "total_new": 7362,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -937,7 +937,7 @@
       "transmission": "Automatic",
       "location": "Broummana, Metn",
       "original_price": 13000,
-      "current_price": 11000,
+      "current_price": 12000,
       "drop_usd": 2000,
       "drop_pct": 15.4,
       "last_drop_date": "2026-04-03",
@@ -954,6 +954,10 @@
         },
         {
           "price": 11000,
+          "date": "2026-04-03"
+        },
+        {
+          "price": 12000,
           "date": "2026-04-03"
         }
       ]
@@ -13225,6 +13229,35 @@
       ]
     },
     {
+      "id": "116839728",
+      "title": "كيا اوبتيما 2019",
+      "url": "https://www.olx.com.lb/ad/كيا-اوبتيما-2019-ID116839728.html",
+      "make": "Kia",
+      "model": "Optima",
+      "body_type": "Estate",
+      "year": 2019,
+      "mileage": 100000,
+      "transmission": "Steptronic",
+      "location": "Minieh-Denniye, Minieh-Denniye",
+      "original_price": 12200,
+      "current_price": 11950,
+      "drop_usd": 250,
+      "drop_pct": 2.0,
+      "last_drop_date": "2026-04-03",
+      "first_seen": "2026-04-01",
+      "posted_date": "2026-04-01",
+      "price_history": [
+        {
+          "price": 12200,
+          "date": "2026-04-01"
+        },
+        {
+          "price": 11950,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
       "id": "116354339",
       "title": "Range Rover Sport 2019 Autobiography V8 (Dubai)",
       "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2019-ID116354339.html",
@@ -18384,6 +18417,182 @@
       "price_history": [
         {
           "price": 23000,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116842058",
+      "title": "Nissan Micra 2004",
+      "url": "https://www.olx.com.lb/ad/nissan-micra-2004-ID116842058.html",
+      "make": "Nissan",
+      "model": "Micra",
+      "body_type": "Small city car",
+      "year": 2004,
+      "mileage": 1,
+      "transmission": "Steptronic",
+      "location": "Jdaide, Metn",
+      "original_price": 3500,
+      "current_price": 3500,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 3500,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116842051",
+      "title": "BMW e46 new boy 330",
+      "url": "https://www.olx.com.lb/ad/bmw-e46-new-boy-330-ID116842051.html",
+      "make": "BMW",
+      "model": "3-Series",
+      "body_type": "Sports / Coupe",
+      "year": 2001,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Corniche El Baher, Saida",
+      "original_price": 6200,
+      "current_price": 6200,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 6200,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116842047",
+      "title": "جي ام سي انفوي 2005",
+      "url": "https://www.olx.com.lb/ad/جي-ام-سي-انفوي-2005-ID116842047.html",
+      "make": "GMC",
+      "model": "Envoy",
+      "body_type": "Estate",
+      "year": 2005,
+      "mileage": 300000,
+      "transmission": "Automatic",
+      "location": "Minieh-Denniye, Minieh-Denniye",
+      "original_price": 3600,
+      "current_price": 3600,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 3600,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116842045",
+      "title": "Fiat 500X 2016",
+      "url": "https://www.olx.com.lb/ad/fiat-500x-2016-ID116842045.html",
+      "make": "Fiat",
+      "model": "500X",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 81000,
+      "transmission": "Steptronic",
+      "location": "Baabdat, Metn",
+      "original_price": 12900,
+      "current_price": 12900,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 12900,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116804101",
+      "title": "Mitsubishi Outlander 2019",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-outlander-2019-ID116804101.html",
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 115000,
+      "transmission": "Steptronic",
+      "location": "Rabweh, Metn",
+      "original_price": 18800,
+      "current_price": 18800,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 18800,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116842032",
+      "title": "مرسيدس بنز 240/260/280 2006",
+      "url": "https://www.olx.com.lb/ad/مرسيدس-بنز-240260280-2006-ID116842032.html",
+      "make": "Mercedes-Benz",
+      "model": "240/260/280",
+      "body_type": "Estate",
+      "year": 2006,
+      "mileage": 56000,
+      "transmission": "Automatic",
+      "location": "Al Mina, Tripoli",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 6000,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116842029",
+      "title": "Honda Civic 2006 - 70/666842",
+      "url": "https://www.olx.com.lb/ad/honda-civic-2006-70666842-ID116842029.html",
+      "make": "Honda",
+      "model": "Civic",
+      "body_type": "Sedan",
+      "year": 2006,
+      "mileage": 270000,
+      "transmission": "Automatic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 6800,
+      "current_price": 6800,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 6800,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116841987",
+      "title": "Bmw f30 2014",
+      "url": "https://www.olx.com.lb/ad/bmw-f30-2014-ID116841987.html",
+      "make": "BMW",
+      "model": "3-Series",
+      "body_type": "Sedan",
+      "year": 2014,
+      "mileage": 270000,
+      "transmission": "Automatic",
+      "location": "Dam wa Farz, Tripoli",
+      "original_price": 12500,
+      "current_price": 12500,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 12500,
           "date": "2026-04-03"
         }
       ]
@@ -26964,13 +27173,17 @@
       "transmission": "Steptronic",
       "location": "Minieh-Denniye, Minieh-Denniye",
       "original_price": 12200,
-      "current_price": 12200,
+      "current_price": 11950,
       "first_seen": "2026-04-01",
       "posted_date": "2026-04-01",
       "price_history": [
         {
           "price": 12200,
           "date": "2026-04-01"
+        },
+        {
+          "price": 11950,
+          "date": "2026-04-03"
         }
       ]
     },
@@ -145304,7 +145517,7 @@
       "transmission": "Automatic",
       "location": "Broummana, Metn",
       "original_price": 13000,
-      "current_price": 11000,
+      "current_price": 12000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -145318,6 +145531,10 @@
         },
         {
           "price": 11000,
+          "date": "2026-04-03"
+        },
+        {
+          "price": 12000,
           "date": "2026-04-03"
         }
       ]
