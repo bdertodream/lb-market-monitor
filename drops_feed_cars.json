@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-03T08:52:50.257893",
-  "total_tracked": 7321,
+  "generated_at": "2026-04-03T09:52:49.134296",
+  "total_tracked": 7327,
   "total_drops": 541,
-  "total_new": 7321,
+  "total_new": 7327,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -893,6 +893,39 @@
         {
           "price": 3800,
           "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116794840",
+      "title": "Ford Explorer 2015",
+      "url": "https://www.olx.com.lb/ad/ford-explorer-2015-ID116794840.html",
+      "make": "Ford",
+      "model": "Explorer",
+      "body_type": "SUV",
+      "year": 2015,
+      "mileage": 103500,
+      "transmission": "Automatic",
+      "location": "Broummana, Metn",
+      "original_price": 13000,
+      "current_price": 11000,
+      "drop_usd": 2000,
+      "drop_pct": 15.4,
+      "last_drop_date": "2026-04-03",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 13000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 12000,
+          "date": "2026-03-24"
+        },
+        {
+          "price": 11000,
+          "date": "2026-04-03"
         }
       ]
     },
@@ -2883,35 +2916,6 @@
         {
           "price": 23000,
           "date": "2026-03-14"
-        }
-      ]
-    },
-    {
-      "id": "116794840",
-      "title": "Ford Explorer 2015",
-      "url": "https://www.olx.com.lb/ad/ford-explorer-2015-ID116794840.html",
-      "make": "Ford",
-      "model": "Explorer",
-      "body_type": "SUV",
-      "year": 2015,
-      "mileage": 103500,
-      "transmission": "Automatic",
-      "location": "Broummana, Metn",
-      "original_price": 13000,
-      "current_price": 12000,
-      "drop_usd": 1000,
-      "drop_pct": 7.7,
-      "last_drop_date": "2026-03-24",
-      "first_seen": "2026-03-01",
-      "posted_date": "2026-03-01",
-      "price_history": [
-        {
-          "price": 13000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 12000,
-          "date": "2026-03-24"
         }
       ]
     },
@@ -17349,6 +17353,138 @@
       "price_history": [
         {
           "price": 12500,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116841635",
+      "title": "Kia Forte 2017",
+      "url": "https://www.olx.com.lb/ad/kia-forte-2017-ID116841635.html",
+      "make": "Kia",
+      "model": "Forte",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 1,
+      "transmission": "Steptronic",
+      "location": "Naameh, Chouf",
+      "original_price": 10300,
+      "current_price": 10300,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 10300,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116708172",
+      "title": "Hyundai Santa Fe 2017",
+      "url": "https://www.olx.com.lb/ad/hyundai-santa-fe-2017-ID116708172.html",
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 110000,
+      "transmission": "Steptronic",
+      "location": "Aaraiya, Baabda",
+      "original_price": 16300,
+      "current_price": 16300,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 16300,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116210364",
+      "title": "Citroen C5 2010",
+      "url": "https://www.olx.com.lb/ad/citroen-c5-2010-ID116210364.html",
+      "make": "Citroen",
+      "model": "C5",
+      "body_type": "Sedan",
+      "year": 2010,
+      "mileage": 84000,
+      "transmission": "Automatic",
+      "location": "Blat, Jbeil",
+      "original_price": 7500,
+      "current_price": 7500,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 7500,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116841623",
+      "title": "Fiat 500",
+      "url": "https://www.olx.com.lb/ad/fiat-500-ID116841623.html",
+      "make": "Fiat",
+      "model": "500",
+      "body_type": "Convertible",
+      "year": 2015,
+      "mileage": 60000,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 9500,
+      "current_price": 9500,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 9500,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116841612",
+      "title": "هوندا سيفيك 2022",
+      "url": "https://www.olx.com.lb/ad/هوندا-سيفيك-2022-ID116841612.html",
+      "make": "Honda",
+      "model": "Civic",
+      "body_type": "Sedan",
+      "year": 2022,
+      "mileage": 22000,
+      "transmission": "Automatic",
+      "location": "Jbeil Town, Jbeil",
+      "original_price": 23000,
+      "current_price": 23000,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 23000,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116807053",
+      "title": "Jeep Grand Cherokee 2006",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2006-ID116807053.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2006,
+      "mileage": 155000,
+      "transmission": "Steptronic",
+      "location": "Chtoura, Zahle",
+      "original_price": 6600,
+      "current_price": 6600,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 6600,
           "date": "2026-04-03"
         }
       ]
@@ -123667,13 +123803,17 @@
       "transmission": "Steptronic",
       "location": "Aabadiyeh, Baabda",
       "original_price": 1400,
-      "current_price": 1400,
+      "current_price": 1440,
       "first_seen": "2026-03-11",
       "posted_date": "2026-03-11",
       "price_history": [
         {
           "price": 1400,
           "date": "2026-03-11"
+        },
+        {
+          "price": 1440,
+          "date": "2026-04-03"
         }
       ]
     },
@@ -144233,7 +144373,7 @@
       "transmission": "Automatic",
       "location": "Broummana, Metn",
       "original_price": 13000,
-      "current_price": 12000,
+      "current_price": 11000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -144244,6 +144384,10 @@
         {
           "price": 12000,
           "date": "2026-03-24"
+        },
+        {
+          "price": 11000,
+          "date": "2026-04-03"
         }
       ]
     },
@@ -145263,13 +145407,17 @@
       "transmission": "Steptronic",
       "location": "Hazmiyeh, Baabda",
       "original_price": 66000,
-      "current_price": 66000,
+      "current_price": 69999,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 66000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 69999,
+          "date": "2026-04-03"
         }
       ]
     },

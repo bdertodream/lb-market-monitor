@@ -2279,7 +2279,7 @@
     "location": "Broummana, Metn",
     "district": "Metn",
     "original_price": 13000,
-    "current_price": 12000,
+    "current_price": 11000,
     "price_history": [
       {
         "price": 13000,
@@ -2288,14 +2288,18 @@
       {
         "price": 12000,
         "date": "2026-03-24"
+      },
+      {
+        "price": 11000,
+        "date": "2026-04-03"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-04-03",
-    "last_updated": "2026-03-24",
-    "drop_usd": 1000,
-    "drop_pct": 7.7,
-    "last_drop_date": "2026-03-24",
+    "last_updated": "2026-04-03",
+    "drop_usd": 2000,
+    "drop_pct": 15.4,
+    "last_drop_date": "2026-04-03",
     "posted_date": "2026-03-01",
     "stale": true
   },
@@ -3609,16 +3613,20 @@
     "location": "Hazmiyeh, Baabda",
     "district": "Baabda",
     "original_price": 66000,
-    "current_price": 66000,
+    "current_price": 69999,
     "price_history": [
       {
         "price": 66000,
         "date": "2026-03-01"
+      },
+      {
+        "price": 69999,
+        "date": "2026-04-03"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-04-03",
-    "last_updated": "2026-03-05",
+    "last_updated": "2026-04-03",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
@@ -6942,7 +6950,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-02",
+    "last_seen": "2026-04-03",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -69954,16 +69962,20 @@
     "location": "Aabadiyeh, Baabda",
     "district": "Baabda",
     "original_price": 1400,
-    "current_price": 1400,
+    "current_price": 1440,
     "price_history": [
       {
         "price": 1400,
         "date": "2026-03-11"
+      },
+      {
+        "price": 1440,
+        "date": "2026-04-03"
       }
     ],
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-11",
-    "last_updated": "2026-03-11",
+    "last_seen": "2026-04-03",
+    "last_updated": "2026-04-03",
     "posted_date": "2026-03-11",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -212578,6 +212590,174 @@
     "price_history": [
       {
         "price": 12500,
+        "date": "2026-04-03"
+      }
+    ],
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-03",
+    "last_updated": "2026-04-03",
+    "posted_date": "2026-04-03",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116841635": {
+    "id": "116841635",
+    "title": "Kia Forte 2017",
+    "url": "https://www.olx.com.lb/ad/kia-forte-2017-ID116841635.html",
+    "make": "Kia",
+    "model": "Forte",
+    "body_type": "Sedan",
+    "year": 2017,
+    "mileage": 1,
+    "transmission": "Steptronic",
+    "location": "Naameh, Chouf",
+    "district": "Chouf",
+    "original_price": 10300,
+    "current_price": 10300,
+    "price_history": [
+      {
+        "price": 10300,
+        "date": "2026-04-03"
+      }
+    ],
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-03",
+    "last_updated": "2026-04-03",
+    "posted_date": "2026-04-03",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116708172": {
+    "id": "116708172",
+    "title": "Hyundai Santa Fe 2017",
+    "url": "https://www.olx.com.lb/ad/hyundai-santa-fe-2017-ID116708172.html",
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 110000,
+    "transmission": "Steptronic",
+    "location": "Aaraiya, Baabda",
+    "district": "Baabda",
+    "original_price": 16300,
+    "current_price": 16300,
+    "price_history": [
+      {
+        "price": 16300,
+        "date": "2026-04-03"
+      }
+    ],
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-03",
+    "last_updated": "2026-04-03",
+    "posted_date": "2026-04-03",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116210364": {
+    "id": "116210364",
+    "title": "Citroen C5 2010",
+    "url": "https://www.olx.com.lb/ad/citroen-c5-2010-ID116210364.html",
+    "make": "Citroen",
+    "model": "C5",
+    "body_type": "Sedan",
+    "year": 2010,
+    "mileage": 84000,
+    "transmission": "Automatic",
+    "location": "Blat, Jbeil",
+    "district": "Jbeil",
+    "original_price": 7500,
+    "current_price": 7500,
+    "price_history": [
+      {
+        "price": 7500,
+        "date": "2026-04-03"
+      }
+    ],
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-03",
+    "last_updated": "2026-04-03",
+    "posted_date": "2026-04-03",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116841623": {
+    "id": "116841623",
+    "title": "Fiat 500",
+    "url": "https://www.olx.com.lb/ad/fiat-500-ID116841623.html",
+    "make": "Fiat",
+    "model": "500",
+    "body_type": "Convertible",
+    "year": 2015,
+    "mileage": 60000,
+    "transmission": "Steptronic",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "original_price": 9500,
+    "current_price": 9500,
+    "price_history": [
+      {
+        "price": 9500,
+        "date": "2026-04-03"
+      }
+    ],
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-03",
+    "last_updated": "2026-04-03",
+    "posted_date": "2026-04-03",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116841612": {
+    "id": "116841612",
+    "title": "هوندا سيفيك 2022",
+    "url": "https://www.olx.com.lb/ad/هوندا-سيفيك-2022-ID116841612.html",
+    "make": "Honda",
+    "model": "Civic",
+    "body_type": "Sedan",
+    "year": 2022,
+    "mileage": 22000,
+    "transmission": "Automatic",
+    "location": "Jbeil Town, Jbeil",
+    "district": "Jbeil",
+    "original_price": 23000,
+    "current_price": 23000,
+    "price_history": [
+      {
+        "price": 23000,
+        "date": "2026-04-03"
+      }
+    ],
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-03",
+    "last_updated": "2026-04-03",
+    "posted_date": "2026-04-03",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116807053": {
+    "id": "116807053",
+    "title": "Jeep Grand Cherokee 2006",
+    "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2006-ID116807053.html",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "body_type": "SUV",
+    "year": 2006,
+    "mileage": 155000,
+    "transmission": "Steptronic",
+    "location": "Chtoura, Zahle",
+    "district": "Zahle",
+    "original_price": 6600,
+    "current_price": 6600,
+    "price_history": [
+      {
+        "price": 6600,
         "date": "2026-04-03"
       }
     ],
