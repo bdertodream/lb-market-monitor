@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 7905,
-  "total_drops": 122,
-  "total_new": 7905,
+  "total_tracked": 7909,
+  "total_drops": 123,
+  "total_new": 7909,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1713,6 +1713,20 @@
       "bedrooms": "",
       "date": "2026-04-03",
       "first_seen": "2026-03-08"
+    },
+    {
+      "id": "9797983",
+      "title": "Upgraded Unit | Top Floor | Fully Fitted | Downtown View",
+      "old_price": 2927022,
+      "new_price": 2646700,
+      "drop_pct": 9.6,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/7/upgraded-unit-top-floor-fully-fitted-do-2-333122/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1393",
+      "bedrooms": "",
+      "date": "2026-04-03",
+      "first_seen": "2026-03-09"
     }
   ],
   "new_listings": [
@@ -2851,7 +2865,7 @@
     },
     {
       "id": "17241865",
-      "title": "MoveIn Ready | Great Amenities | Smart Investment",
+      "title": "Exclusive Listing | Apartment | High ROI",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/26/movein-ready-great-amenities-smart-inve-2-300368/",
       "area": "Motor City",
       "category": "Apartment",
@@ -3397,6 +3411,50 @@
       "size": "8133",
       "bedrooms": "",
       "price": 16000000,
+      "first_seen": "2026-04-03"
+    },
+    {
+      "id": "17279489",
+      "title": "Closed Kitchen | Spacious Layout | Brand New",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/3/closed-kitchen-spacious-layout-brand-ne-2-102692/",
+      "area": "Majan",
+      "category": "Apartment",
+      "size": "1169",
+      "bedrooms": "2",
+      "price": 1450000,
+      "first_seen": "2026-04-03"
+    },
+    {
+      "id": "17279486",
+      "title": "Closed Kitchen | Brand New | Spacious Layout",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/3/closed-kitchen-brand-new-spacious-layou-2-178654/",
+      "area": "Majan",
+      "category": "Apartment",
+      "size": "1194",
+      "bedrooms": "2",
+      "price": 1470000,
+      "first_seen": "2026-04-03"
+    },
+    {
+      "id": "16723226",
+      "title": "Flexible Payment Plan | Fully Furnished | Great Investment",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/11/29/flexible-payment-plan-fully-furnished-g-2-117804/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "1391",
+      "bedrooms": "3",
+      "price": 1643000,
+      "first_seen": "2026-04-03"
+    },
+    {
+      "id": "9809910",
+      "title": "Fitted Office | Prime Location | Spacious Layout",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/3/fitted-office-prime-location-spacious-l-2-119146/",
+      "area": "Dubai Silicon Oasis (DSO)",
+      "category": "Office",
+      "size": "1216",
+      "bedrooms": "",
+      "price": 1460400,
       "first_seen": "2026-04-03"
     },
     {
@@ -7170,50 +7228,6 @@
       "size": "601",
       "bedrooms": "1",
       "price": 695000,
-      "first_seen": "2026-04-01"
-    },
-    {
-      "id": "9797009",
-      "title": "Fitted Office for sale IT Plaza Dubai silicon Oasis",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/12/30/fitted-office-for-sale-it-plaza-dubai-s-2-131873/",
-      "area": "Dubai Silicon Oasis (DSO)",
-      "category": "Office",
-      "size": "904",
-      "bedrooms": "",
-      "price": 1020000,
-      "first_seen": "2026-04-01"
-    },
-    {
-      "id": "9800838",
-      "title": "Spacious Office | 3 Parking | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/26/spacious-office-3-parking-prime-locatio-2-106131/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1760",
-      "bedrooms": "",
-      "price": 5300000,
-      "first_seen": "2026-04-01"
-    },
-    {
-      "id": "9751747",
-      "title": "Park Facing | Multiple Options | Close SZR",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/4/1/park-facing-multiple-options-close-szr-2-182724/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "6608",
-      "bedrooms": "",
-      "price": 4168580,
-      "first_seen": "2026-04-01"
-    },
-    {
-      "id": "17188375",
-      "title": "Middle Kitchen | Lagoon Backing | Close to Pond",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/11/middle-kitchen-lagoon-backing-close-to--2-618422/",
-      "area": "The Valley by Emaar",
-      "category": "Townhouse",
-      "size": "2346",
-      "bedrooms": "3",
-      "price": 2750000,
       "first_seen": "2026-04-01"
     }
   ],
