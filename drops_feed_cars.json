@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-03T04:30:57.416395",
-  "total_tracked": 7279,
-  "total_drops": 536,
-  "total_new": 7279,
-  "avg_drop_pct": 6.7,
+  "generated_at": "2026-04-03T06:14:26.901442",
+  "total_tracked": 7284,
+  "total_drops": 537,
+  "total_new": 7284,
+  "avg_drop_pct": 6.8,
   "biggest_drop_usd": 426000,
   "drops": [
     {
@@ -334,6 +334,35 @@
         {
           "price": 1111,
           "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116810471",
+      "title": "Kia Pegas 2020",
+      "url": "https://www.olx.com.lb/ad/kia-pegas-2020-ID116810471.html",
+      "make": "Kia",
+      "model": "Pegas",
+      "body_type": "Sedan",
+      "year": 2020,
+      "mileage": 110000,
+      "transmission": "Automatic",
+      "location": "Khaldeh, Aley",
+      "original_price": 8800,
+      "current_price": 4500,
+      "drop_usd": 4300,
+      "drop_pct": 48.9,
+      "last_drop_date": "2026-04-03",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 8800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 4500,
+          "date": "2026-04-03"
         }
       ]
     },
@@ -10024,6 +10053,39 @@
       ]
     },
     {
+      "id": "116811574",
+      "title": "مرسيدس بنز سي ال كيه-كلاس 2006",
+      "url": "https://www.olx.com.lb/ad/مرسيدس-بنز-سي-ال-كيه-كلاس-2006-ID116811574.html",
+      "make": "Mercedes-Benz",
+      "model": "CLK-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2006,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Nabatieh Town, Nabatieh",
+      "original_price": 6900,
+      "current_price": 6700,
+      "drop_usd": 200,
+      "drop_pct": 2.9,
+      "last_drop_date": "2026-04-03",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 6900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 6800,
+          "date": "2026-03-21"
+        },
+        {
+          "price": 6700,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
       "id": "116803436",
       "title": "Infiniti G-Series 2003",
       "url": "https://www.olx.com.lb/ad/infiniti-g-series-2003-ID116803436.html",
@@ -14117,35 +14179,6 @@
       ]
     },
     {
-      "id": "116811574",
-      "title": "مرسيدس بنز سي ال كيه-كلاس 2006",
-      "url": "https://www.olx.com.lb/ad/مرسيدس-بنز-سي-ال-كيه-كلاس-2006-ID116811574.html",
-      "make": "Mercedes-Benz",
-      "model": "CLK-Class",
-      "body_type": "Sports / Coupe",
-      "year": 2006,
-      "mileage": 0,
-      "transmission": "Steptronic",
-      "location": "Nabatieh Town, Nabatieh",
-      "original_price": 6900,
-      "current_price": 6800,
-      "drop_usd": 100,
-      "drop_pct": 1.4,
-      "last_drop_date": "2026-03-21",
-      "first_seen": "2026-03-01",
-      "posted_date": "2026-03-01",
-      "price_history": [
-        {
-          "price": 6900,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 6800,
-          "date": "2026-03-21"
-        }
-      ]
-    },
-    {
       "id": "116813592",
       "title": "2019 LAND ROVERRANGE ROVER SPORT SE V6",
       "url": "https://www.olx.com.lb/ad/2019-land-roverrange-rover-sport-se-v6-ID116813592.html",
@@ -16252,6 +16285,116 @@
       "price_history": [
         {
           "price": 29500,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116841470",
+      "title": "BMW 3-Series 2007",
+      "url": "https://www.olx.com.lb/ad/bmw-3-series-2007-ID116841470.html",
+      "make": "BMW",
+      "model": "3-Series",
+      "body_type": "Other",
+      "year": 2007,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Al Madina as Sinaiya, Zahle",
+      "original_price": 6200,
+      "current_price": 6200,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 6200,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116814072",
+      "title": "Mercedes-Benz C-Class 2014",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2014-ID116814072.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2014,
+      "mileage": 115000,
+      "transmission": "Steptronic",
+      "location": "Beiteddine, Chouf",
+      "original_price": 13500,
+      "current_price": 13500,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 13500,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116199599",
+      "title": "Jeep Grand Cherokee 2017 Overland",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2017-overland-ID116199599.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Mazraa, Beirut",
+      "original_price": 23000,
+      "current_price": 23000,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 23000,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116447864",
+      "title": "Dodge Dakota 2008",
+      "url": "https://www.olx.com.lb/ad/dodge-dakota-2008-ID116447864.html",
+      "make": "Dodge",
+      "model": "Dakota",
+      "body_type": "Pickup",
+      "year": 2008,
+      "mileage": 127000,
+      "transmission": "Automatic",
+      "location": "Other in West-Bekaa, West Bekaa",
+      "original_price": 7500,
+      "current_price": 7500,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 7500,
+          "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116841362",
+      "title": "Kia Sportage 2018",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-2018-ID116841362.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 98000,
+      "transmission": "Automatic",
+      "location": "Al Rahebat, Saida",
+      "original_price": 15600,
+      "current_price": 15600,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 15600,
           "date": "2026-04-03"
         }
       ]
@@ -152936,13 +153079,17 @@
       "transmission": "Automatic",
       "location": "Khaldeh, Aley",
       "original_price": 8800,
-      "current_price": 8800,
+      "current_price": 4500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 8800,
           "date": "2026-03-01"
+        },
+        {
+          "price": 4500,
+          "date": "2026-04-03"
         }
       ]
     },
@@ -168358,7 +168505,7 @@
       "transmission": "Steptronic",
       "location": "Nabatieh Town, Nabatieh",
       "original_price": 6900,
-      "current_price": 6800,
+      "current_price": 6700,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -168369,6 +168516,10 @@
         {
           "price": 6800,
           "date": "2026-03-21"
+        },
+        {
+          "price": 6700,
+          "date": "2026-04-03"
         }
       ]
     },
