@@ -11011,20 +11011,25 @@
     "location": "Biaqout, Metn",
     "district": "Metn",
     "original_price": 6700,
-    "current_price": 6700,
+    "current_price": 5600,
     "price_history": [
       {
         "price": 6700,
         "date": "2026-03-01"
+      },
+      {
+        "price": 5600,
+        "date": "2026-04-03"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-07",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
-    "stale": true
+    "last_seen": "2026-04-03",
+    "last_updated": "2026-04-03",
+    "drop_usd": 1100,
+    "drop_pct": 16.4,
+    "last_drop_date": "2026-04-03",
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "116810839": {
     "id": "116810839",
@@ -12750,7 +12755,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-04-03",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -13508,7 +13513,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-04-03",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -13537,7 +13542,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-04-03",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -212062,7 +212067,7 @@
   },
   "116841592": {
     "id": "116841592",
-    "title": "Defender 2024 company source 18000 Km only",
+    "title": "Defender 2024 p400 company source 18000 Km only",
     "url": "https://www.olx.com.lb/ad/defender-2024-company-source-18000-km-only-ID116841592.html",
     "make": "Land Rover",
     "model": "Defender",
@@ -212749,10 +212754,14 @@
     "location": "Jbeil Town, Jbeil",
     "district": "Jbeil",
     "original_price": 23000,
-    "current_price": 23000,
+    "current_price": 22500,
     "price_history": [
       {
         "price": 23000,
+        "date": "2026-04-03"
+      },
+      {
+        "price": 22500,
         "date": "2026-04-03"
       }
     ],
@@ -212760,9 +212769,9 @@
     "last_seen": "2026-04-03",
     "last_updated": "2026-04-03",
     "posted_date": "2026-04-03",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 500,
+    "drop_pct": 2.2,
+    "last_drop_date": "2026-04-03"
   },
   "116807053": {
     "id": "116807053",
@@ -213061,6 +213070,90 @@
     "price_history": [
       {
         "price": 4800,
+        "date": "2026-04-03"
+      }
+    ],
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-03",
+    "last_updated": "2026-04-03",
+    "posted_date": "2026-04-03",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116747547": {
+    "id": "116747547",
+    "title": "صفرا بيروت",
+    "url": "https://www.olx.com.lb/ad/صفرا-بيروت-ID116747547.html",
+    "make": "Dodge",
+    "model": "Ram",
+    "body_type": "Pickup",
+    "year": 2011,
+    "mileage": 17000,
+    "transmission": "Steptronic",
+    "location": "Halat, Jbeil",
+    "district": "Jbeil",
+    "original_price": 13500,
+    "current_price": 13500,
+    "price_history": [
+      {
+        "price": 13500,
+        "date": "2026-04-03"
+      }
+    ],
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-03",
+    "last_updated": "2026-04-03",
+    "posted_date": "2026-04-03",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116841796": {
+    "id": "116841796",
+    "title": "Kia Picanto 2020",
+    "url": "https://www.olx.com.lb/ad/kia-picanto-2020-ID116841796.html",
+    "make": "Kia",
+    "model": "Picanto",
+    "body_type": "Other",
+    "year": 2020,
+    "mileage": 78000,
+    "transmission": "Automatic",
+    "location": "Choueifat, Aley",
+    "district": "Aley",
+    "original_price": 8900,
+    "current_price": 8900,
+    "price_history": [
+      {
+        "price": 8900,
+        "date": "2026-04-03"
+      }
+    ],
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-03",
+    "last_updated": "2026-04-03",
+    "posted_date": "2026-04-03",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116806619": {
+    "id": "116806619",
+    "title": "GMC Acadia 2010",
+    "url": "https://www.olx.com.lb/ad/gmc-acadia-2010-ID116806619.html",
+    "make": "GMC",
+    "model": "Acadia",
+    "body_type": "SUV",
+    "year": 2010,
+    "mileage": 200000,
+    "transmission": "Steptronic",
+    "location": "Other in Rachaya, Rachaya",
+    "district": "Rachaya",
+    "original_price": 7000,
+    "current_price": 7000,
+    "price_history": [
+      {
+        "price": 7000,
         "date": "2026-04-03"
       }
     ],
