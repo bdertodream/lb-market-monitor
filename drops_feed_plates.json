@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-03T08:05:03.057248",
-  "total_tracked": 348,
+  "generated_at": "2026-04-03T08:53:09.539580",
+  "total_tracked": 349,
   "total_drops": 29,
-  "total_new": 348,
+  "total_new": 349,
   "avg_drop_pct": 26.6,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -885,6 +885,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116841572",
+      "title": "B 662222",
+      "url": "https://www.olx.com.lb/ad/b-662222-ID116841572.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 7500,
+      "current_price": 7500,
+      "first_seen": "2026-04-03",
+      "posted_date": "2026-04-03",
+      "price_history": [
+        {
+          "price": 7500,
+          "date": "2026-04-03"
+        }
+      ]
+    },
     {
       "id": "116840669",
       "title": "special plate — A 4473 ——",
