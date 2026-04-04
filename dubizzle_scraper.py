@@ -10,6 +10,10 @@ import time
 import urllib.request
 import urllib.error
 from datetime import datetime, timezone
+import logging
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
+logger = logging.getLogger(__name__)
 
 # Algolia config (public search-only key from dubizzle frontend)
 ALGOLIA_APP_ID = "WD0PTZ13ZS"
@@ -76,7 +80,7 @@ def algolia_search(index_name, filters, page=0):
                 total_pages = result.get("nbPages", 0)
                 return hits, total_pages
         except Exception as e:
-            print(f"  Attempt {attempt+1} failed: {e}")
+            logger.warning(f"  Attempt {attempt+1} failed: {e}")
             if attempt < 2:
                 time.sleep(2)
     return [], 0
@@ -149,7 +153,7 @@ def parse_hit(hit):
             "date": date_str,
         }
     except Exception as e:
-        print(f"  Parse error: {e}")
+        logger.error(f"  Parse error: {e}")
         return None
 
 
@@ -157,12 +161,12 @@ def scrape_all():
     """Scrape all property categories via Algolia API."""
     all_listings = []
     for filters, index_name, label in CATEGORIES:
-        print(f"\nScraping category: {label}")
+        logger.info(f"\nScraping category: {label}")
         page = 0
         while page < MAX_PAGES:
-            print(f"  Page {page}: querying Algolia index {index_name}")
+            logger.info(f"  Page {page}: querying Algolia index {index_name}")
             hits, total_pages = algolia_search(index_name, filters, page)
-            print(f"  Found {len(hits)} hits, totalPages={total_pages}")
+            logger.info(f"  Found {len(hits)} hits, totalPages={total_pages}")
             if not hits:
                 break
             for hit in hits:
@@ -173,7 +177,7 @@ def scrape_all():
             if page >= total_pages:
                 break
             time.sleep(0.5)
-    print(f"\nTotal property listings scraped: {len(all_listings)}")
+    logger.info(f"\nTotal property listings scraped: {len(all_listings)}")
     return all_listings
 
 
@@ -208,13 +212,13 @@ def save_feed(feed):
 
 
 def main():
-    print("=" * 60)
-    print("Dubizzle Dubai Property Scraper")
-    print(datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S"))
-    print("=" * 60)
+    logger.info("=" * 60)
+    logger.info("Dubizzle Dubai Property Scraper")
+    logger.info(datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S"))
+    logger.info("=" * 60)
     listings = scrape_all()
     if not listings:
-        print("No listings found. Exiting.")
+        logger.warning("No listings found. Exiting.")
         return
 
     db = load_db()
@@ -295,10 +299,10 @@ def main():
     save_db(db)
     save_feed(feed)
 
-    print(f"\nResults:")
-    print(f"  New listings: {new_count}")
-    print(f"  Price drops: {drop_count}")
-    print(f"  Total tracked: {len(db)}")
+    logger.info(f"\nResults:")
+    logger.info(f"  New listings: {new_count}")
+    logger.info(f"  Price drops: {drop_count}")
+    logger.info(f"  Total tracked: {len(db)}")
 
 
 if __name__ == "__main__":
