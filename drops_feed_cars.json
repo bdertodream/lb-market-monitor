@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-03T23:33:43.948330",
-  "total_tracked": 7410,
+  "generated_at": "2026-04-04T01:25:14.771095",
+  "total_tracked": 7412,
   "total_drops": 559,
-  "total_new": 7410,
+  "total_new": 7412,
   "avg_drop_pct": 6.8,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -12888,10 +12888,10 @@
       "transmission": "Automatic",
       "location": "sursock, Beirut",
       "original_price": 44999,
-      "current_price": 45000,
-      "drop_usd": 1000,
+      "current_price": 44000,
+      "drop_usd": 999,
       "drop_pct": 2.2,
-      "last_drop_date": "2026-03-26",
+      "last_drop_date": "2026-04-04",
       "first_seen": "2026-03-24",
       "posted_date": "2026-03-24",
       "price_history": [
@@ -12910,6 +12910,10 @@
         {
           "price": 45000,
           "date": "2026-04-01"
+        },
+        {
+          "price": 44000,
+          "date": "2026-04-04"
         }
       ]
     },
@@ -16827,6 +16831,50 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116828035",
+      "title": "BMW 5-Series 2018",
+      "url": "https://www.olx.com.lb/ad/bmw-5-series-2018-ID116828035.html",
+      "make": "BMW",
+      "model": "5-Series",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 78000,
+      "transmission": "Automatic",
+      "location": "Aabadiyeh, Baabda",
+      "original_price": 22000,
+      "current_price": 22000,
+      "first_seen": "2026-04-04",
+      "posted_date": "2026-04-04",
+      "price_history": [
+        {
+          "price": 22000,
+          "date": "2026-04-04"
+        }
+      ]
+    },
+    {
+      "id": "116799094",
+      "title": "Jeep Cherokee 2009",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-2009-ID116799094.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "Hatchback",
+      "year": 2009,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Aabadiyeh, Baabda",
+      "original_price": 8700,
+      "current_price": 8700,
+      "first_seen": "2026-04-04",
+      "posted_date": "2026-04-04",
+      "price_history": [
+        {
+          "price": 8700,
+          "date": "2026-04-04"
+        }
+      ]
+    },
     {
       "id": "116841411",
       "title": "Land Rover Range Rover Sport 2015",
@@ -63883,7 +63931,7 @@
       "transmission": "Automatic",
       "location": "sursock, Beirut",
       "original_price": 44999,
-      "current_price": 45000,
+      "current_price": 44000,
       "first_seen": "2026-03-24",
       "posted_date": "2026-03-24",
       "price_history": [
@@ -63902,6 +63950,10 @@
         {
           "price": 45000,
           "date": "2026-04-01"
+        },
+        {
+          "price": 44000,
+          "date": "2026-04-04"
         }
       ]
     },
