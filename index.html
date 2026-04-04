@@ -188,16 +188,16 @@ tbody tr{animation:rowIn .3s ease both}
     [data-theme="dark"] th{background:var(--bg2);border-color:var(--glass-border)}
     [data-theme="dark"] td{border-color:var(--glass-border)}
     [data-theme="dark"] tr:hover td{background:var(--glass-hover)}
-    [data-theme="dark"] .stat-card{background:var(--glass);border-color:var(--glass-border)}
-    [data-theme="dark"] .filter-pill{background:var(--glass);border-color:var(--glass-border)}
-    [data-theme="dark"] .filter-pill.active{background:var(--accent-bg);border-color:var(--accent)}
-    [data-theme="dark"] .sort-btn{background:var(--glass);border-color:var(--glass-border)}
-    [data-theme="dark"] .sort-btn.active{background:var(--accent-bg);border-color:var(--accent)}
+    [data-theme="dark"] .stat{background:var(--glass);border-color:var(--glass-border)}
+    [data-theme="dark"] .fbtn{background:var(--glass);border-color:var(--glass-border)}
+    [data-theme="dark"] .fbtn.active{background:var(--accent-bg);border-color:var(--accent)}
+    [data-theme="dark"] .sbtn{background:var(--glass);border-color:var(--glass-border)}
+    [data-theme="dark"] .sbtn.active{background:var(--accent-bg);border-color:var(--accent)}
     [data-theme="dark"] select{background:var(--bg2);border-color:var(--glass-border);color:var(--tx)}
-    [data-theme="dark"] .view-btn{background:var(--glass);border-color:var(--glass-border)}
-    [data-theme="dark"] .view-btn.active{background:var(--accent-bg);border-color:var(--accent)}
-    [data-theme="dark"] .tab-btn{background:var(--glass);border-color:var(--glass-border)}
-    [data-theme="dark"] .tab-btn.active{border-color:var(--accent);color:var(--accent)}
+    [data-theme="dark"] .view-opt{background:var(--glass);border-color:var(--glass-border)}
+    [data-theme="dark"] .view-opt.active{background:var(--accent-bg);border-color:var(--accent)}
+    [data-theme="dark"] .tab{background:var(--glass);border-color:var(--glass-border)}
+    [data-theme="dark"] .tab.active{border-color:var(--accent);color:var(--accent)}
     .empty-state{text-align:center;padding:3rem 1rem;color:var(--tx3);font-size:1.1rem}
     #last-updated{font-size:0.75rem;background:var(--glass);border:1px solid var(--glass-border);padding:2px 8px;border-radius:6px;color:var(--tx3);margin-left:8px}
     @media(max-width:480px){
@@ -445,7 +445,7 @@ tbody tr{animation:rowIn .3s ease both}
     </button>
   </div>
 
-  <div class="stats">
+  <div class="stats" aria-live="polite">
     <div class="stat">
       <div class="stat-icon" style="background:var(--blu-bg)">
         <svg viewBox="0 0 24 24" fill="none" stroke="var(--blu)" stroke-width="2" stroke-linecap="round"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87"/><path d="M16 3.13a4 4 0 010 7.75"/></svg>
@@ -915,7 +915,7 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
       tbody.innerHTML=items.map((d,i)=>{
         const listDate=d.posted_date||d.first_seen;
         const isToday=listDate===today;
-        return`<tr style="animation-delay:${i*25}ms" onclick="window.open('${d.url}','_blank')">
+        return`<tr style="animation-delay:${i*25}ms" onclick="window.open('${esc(d.url)}','_blank')">
           <td><div class="prop-name">${esc(d.title)}</div><div class="prop-loc">${esc(d.location||'')}${d.sqm?' &middot; '+d.sqm+'sqm':''}</div></td>
           <td><span class="tbadge t-${reTypeClass(d.type)}">${d.type||'Other'}</span></td>
           <td class="hide-m" style="font-size:12px;color:var(--tx2)">${esc((d.location||'').split(',')[0])}</td>
@@ -923,7 +923,7 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
         <td class="hide-m" style="font-size:12px;color:var(--tx2)">${priceSqm(d)?priceSqm(d).toLocaleString()+' $/sqm':"--"}</td>
         
           <td class="hide-m"><span class="new-badge">NEW</span> <span class="date">${isToday?'<span style="color:var(--grn)">today</span>':listDate||'--'}</span></td>
-          <td><a class="link-btn" href="${d.url}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
+          <td><a class="link-btn" href="${esc(d.url)}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
         </tr>`}).join('');
     }else if(activeTab==='cars'||activeTab==='uae-cars'){
       tbody.innerHTML=items.map((d,i)=>{
@@ -931,26 +931,26 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
         const isToday=listDate===today;
         const makeModel=(d.make||'')+(d.model?' '+d.model:'');
         const subtitle=[d.location,d.transmission].filter(Boolean).join(' \u00B7 ');
-        return`<tr style="animation-delay:${i*25}ms" onclick="window.open('${d.url}','_blank')">
+        return`<tr style="animation-delay:${i*25}ms" onclick="window.open('${esc(d.url)}','_blank')">
           <td><div class="prop-name">${esc(makeModel||d.title)}</div><div class="prop-loc">${esc(subtitle)}</div></td>
           <td><span class="tbadge t-${carTypeClass(d.body_type)}">${d.body_type||'Other'}</span></td>
           <td class="hide-m" style="font:500 12px/1 'JetBrains Mono',monospace;color:var(--tx2)">${d.year||'--'}</td>
           <td style="font:400 12px/1 'JetBrains Mono',monospace;color:var(--tx3)">${fmtKM(d.mileage)}</td>
           <td><div class="p-now">${fmt(d.current_price)}</div></td>
           <td class="hide-m"><span class="new-badge">NEW</span> <span class="date">${isToday?'<span style="color:var(--grn)">today</span>':listDate||'--'}</span></td>
-          <td><a class="link-btn" href="${d.url}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
+          <td><a class="link-btn" href="${esc(d.url)}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
         </tr>`}).join('');
     }else{
       tbody.innerHTML=items.map((d,i)=>{
         const listDate=d.posted_date||d.first_seen;
         const isToday=listDate===today;
-        return`<tr style="animation-delay:${i*25}ms" onclick="window.open('${d.url}','_blank')">
+        return`<tr style="animation-delay:${i*25}ms" onclick="window.open('${esc(d.url)}','_blank')">
           <td><div class="prop-name">${esc(d.title)}</div><div class="prop-loc">${esc(d.location||'')}</div></td>
           <td><span class="tbadge t-other">${d.plate_type||'Standard'}</span></td>
           <td class="hide-m" style="font-size:12px;color:var(--tx2)">${esc((d.location||'').split(',')[0])}</td>
           <td><div class="p-now">${fmtUSD(d.current_price)}</div></td>
           <td class="hide-m"><span class="new-badge">NEW</span> <span class="date">${isToday?'<span style="color:var(--grn)">today</span>':listDate||'--'}</span></td>
-          <td><a class="link-btn" href="${d.url}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on OLX">${ICON_ARROW}</a></td>
+          <td><a class="link-btn" href="${esc(d.url)}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on OLX">${ICON_ARROW}</a></td>
         </tr>`}).join('');
     }
   }else{
@@ -959,7 +959,7 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
       tbody.innerHTML=items.map((d,i)=>{
         const isToday=d.last_drop_date===today;
         const dc=d.drop_pct>=15?'drop-r':'drop-a';
-        return`<tr style="animation-delay:${i*25}ms" onclick="window.open('${d.url}','_blank')">
+        return`<tr style="animation-delay:${i*25}ms" onclick="window.open('${esc(d.url)}','_blank')">
           <td><div class="prop-name">${esc(d.title)}</div><div class="prop-loc">${esc(d.location||'')}${d.sqm?' &middot; '+d.sqm+'sqm':''}</div></td>
           <td><span class="tbadge t-${reTypeClass(d.type)}">${d.type||'Other'}</span></td>
           <td class="hide-m" style="font-size:12px;color:var(--tx2)">${esc((d.location||'').split(',')[0])}</td>
@@ -968,7 +968,7 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
           <td><span class="drop ${dc}">${d.drop_pct}%</span></td>
           <td><span class="drop-amt">-${fmt(d.drop_usd)}</span></td><td class="hide-m" style="font-size:12px;color:var(--tx2)">${priceSqm(d)?priceSqm(d).toLocaleString()+' $/sqm':"--"}</td>
           <td class="hide-m"><span class="date">${isToday?'<span style="color:var(--grn)">today</span>':d.last_drop_date||'--'}</span></td>
-          <td><a class="link-btn" href="${d.url}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
+          <td><a class="link-btn" href="${esc(d.url)}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
         </tr>`}).join('');
     }else if(activeTab==='cars'||activeTab==='uae-cars'){
       tbody.innerHTML=items.map((d,i)=>{
@@ -976,7 +976,7 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
         const dc=d.drop_pct>=15?'drop-r':'drop-a';
         const makeModel=(d.make||'')+(d.model?' '+d.model:'');
         const subtitle=[d.location,d.transmission].filter(Boolean).join(' \u00B7 ');
-        return`<tr style="animation-delay:${i*25}ms" onclick="window.open('${d.url}','_blank')">
+        return`<tr style="animation-delay:${i*25}ms" onclick="window.open('${esc(d.url)}','_blank')">
           <td><div class="prop-name">${esc(makeModel||d.title)}</div><div class="prop-loc">${esc(subtitle)}</div></td>
           <td><span class="tbadge t-${carTypeClass(d.body_type)}">${d.body_type||'Other'}</span></td>
           <td class="hide-m" style="font:500 12px/1 'JetBrains Mono',monospace;color:var(--tx2)">${d.year||'--'}</td>
@@ -986,13 +986,13 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
           <td><span class="drop ${dc}">${d.drop_pct}%</span></td>
           <td><span class="drop-amt">-${fmt(d.drop_usd)}</span></td>
           <td class="hide-m"><span class="date">${isToday?'<span style="color:var(--grn)">today</span>':d.last_drop_date||'--'}</span></td>
-          <td><a class="link-btn" href="${d.url}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
+          <td><a class="link-btn" href="${esc(d.url)}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on ${siteName}">${ICON_ARROW}</a></td>
         </tr>`}).join('');
     }else{
       tbody.innerHTML=items.map((d,i)=>{
         const isToday=d.last_drop_date===today;
         const dc=d.drop_pct>=15?'drop-r':'drop-a';
-        return`<tr style="animation-delay:${i*25}ms" onclick="window.open('${d.url}','_blank')">
+        return`<tr style="animation-delay:${i*25}ms" onclick="window.open('${esc(d.url)}','_blank')">
           <td><div class="prop-name">${esc(d.title)}</div><div class="prop-loc">${esc(d.location||'')}</div></td>
           <td><span class="tbadge t-other">${d.plate_type||'Standard'}</span></td>
           <td class="hide-m" style="font-size:12px;color:var(--tx2)">${esc((d.location||'').split(',')[0])}</td>
@@ -1001,7 +1001,7 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
           <td><span class="drop ${dc}">${d.drop_pct}%</span></td>
           <td><span class="drop-amt">-${fmtUSD(d.drop_usd)}</span></td>
           <td class="hide-m"><span class="date">${isToday?'<span style="color:var(--grn)">today</span>':d.last_drop_date||'--'}</span></td>
-          <td><a class="link-btn" href="${d.url}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on OLX">${ICON_ARROW}</a></td>
+          <td><a class="link-btn" href="${esc(d.url)}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()" title="View on OLX">${ICON_ARROW}</a></td>
         </tr>`}).join('');
     }
   }
@@ -1039,10 +1039,11 @@ loadData();
     if(params.c){var btns=document.querySelectorAll('.tab-btn');btns.forEach(function(b){if(b.textContent===params.c)b.click();});}
   }
   window.addEventListener('hashchange',applyHash);
-  document.querySelectorAll('.tab-btn').forEach(function(b){b.setAttribute('role','tab');});
-  document.querySelectorAll('.filter-pill').forEach(function(b){b.setAttribute('role','radio');});
-  document.querySelectorAll('.sort-btn').forEach(function(b){b.setAttribute('role','button');});
-  document.querySelectorAll('.view-btn').forEach(function(b){b.setAttribute('role','tab');});
+  document.querySelectorAll('.tab').forEach(function(b){b.setAttribute('role','tab');});
+  document.querySelectorAll('.fbtn').forEach(function(b){b.setAttribute('role','radio');});
+  document.querySelectorAll('.sbtn').forEach(function(b){b.setAttribute('role','button');});
+  document.querySelectorAll('.view-opt').forEach(function(b){b.setAttribute('role','tab');});
+  document.querySelectorAll('.country-opt').forEach(function(b){b.setAttribute('role','tab');});
 
   </script>
 </body>
