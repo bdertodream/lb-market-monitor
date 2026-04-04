@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-04T13:35:06.577754",
-  "total_tracked": 358,
+  "generated_at": "2026-04-04T16:45:22.293114",
+  "total_tracked": 359,
   "total_drops": 29,
-  "total_new": 358,
+  "total_new": 359,
   "avg_drop_pct": 27.0,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -997,6 +997,24 @@
       "price_history": [
         {
           "price": 3699,
+          "date": "2026-04-04"
+        }
+      ]
+    },
+    {
+      "id": "116843099",
+      "title": "taxi plate",
+      "url": "https://www.olx.com.lb/ad/taxi-plate-ID116843099.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Aaramoun, Aley",
+      "original_price": 16600,
+      "current_price": 16600,
+      "first_seen": "2026-04-04",
+      "posted_date": "2026-04-04",
+      "price_history": [
+        {
+          "price": 16600,
           "date": "2026-04-04"
         }
       ]
