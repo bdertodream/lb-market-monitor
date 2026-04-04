@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-04T12:42:06.318549",
+  "generated_at": "2026-04-04T13:35:06.577754",
   "total_tracked": 358,
   "total_drops": 29,
   "total_new": 358,
-  "avg_drop_pct": 26.8,
+  "avg_drop_pct": 27.0,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -363,6 +363,35 @@
       ]
     },
     {
+      "id": "116837028",
+      "title": "2178 A for sale",
+      "url": "https://www.olx.com.lb/ad/2178-a-for-sale-ID116837028.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Beirut Port, Beirut",
+      "original_price": 8000,
+      "current_price": 6500,
+      "drop_usd": 1500,
+      "drop_pct": 18.8,
+      "last_drop_date": "2026-04-04",
+      "first_seen": "2026-03-30",
+      "posted_date": "2026-03-30",
+      "price_history": [
+        {
+          "price": 8000,
+          "date": "2026-03-30"
+        },
+        {
+          "price": 7000,
+          "date": "2026-03-30"
+        },
+        {
+          "price": 6500,
+          "date": "2026-04-04"
+        }
+      ]
+    },
+    {
       "id": "116833663",
       "title": "B 13005",
       "url": "https://www.olx.com.lb/ad/b-13005-ID116833663.html",
@@ -433,31 +462,6 @@
         {
           "price": 3000,
           "date": "2026-04-04"
-        }
-      ]
-    },
-    {
-      "id": "116837028",
-      "title": "2178 A for sale",
-      "url": "https://www.olx.com.lb/ad/2178-a-for-sale-ID116837028.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Beirut Port, Beirut",
-      "original_price": 8000,
-      "current_price": 7000,
-      "drop_usd": 1000,
-      "drop_pct": 12.5,
-      "last_drop_date": "2026-03-30",
-      "first_seen": "2026-03-30",
-      "posted_date": "2026-03-30",
-      "price_history": [
-        {
-          "price": 8000,
-          "date": "2026-03-30"
-        },
-        {
-          "price": 7000,
-          "date": "2026-03-30"
         }
       ]
     },
@@ -1229,7 +1233,7 @@
       "plate_type": "Standard",
       "location": "Beirut Port, Beirut",
       "original_price": 8000,
-      "current_price": 7000,
+      "current_price": 6500,
       "first_seen": "2026-03-30",
       "posted_date": "2026-03-30",
       "price_history": [
@@ -1240,6 +1244,10 @@
         {
           "price": 7000,
           "date": "2026-03-30"
+        },
+        {
+          "price": 6500,
+          "date": "2026-04-04"
         }
       ]
     },
