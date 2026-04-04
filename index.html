@@ -8,6 +8,7 @@
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 /* ── Theme Variables ─────────────────────────────── */
+      --glass:rgba(0,0,0,0.02);--glass-border:rgba(0,0,0,0.06);--glass-hover:rgba(0,0,0,0.04);
 :root{--blur:24px;--glass:rgba(255,255,255,.04);--glass-border:rgba(255,255,255,.08);--glass-hover:rgba(255,255,255,.08);--radius:20px}
 [data-theme="dark"]{
   --bg:#030306;--bg2:#08080e;
@@ -22,6 +23,7 @@
   --org:#fb923c;--org-bg:rgba(251,146,60,.1);
   --liquid1:rgba(255,77,106,.07);--liquid2:rgba(96,165,250,.05);--liquid3:rgba(167,139,250,.06);
   --surface:rgba(255,255,255,.03);--surface-border:rgba(255,255,255,.06);
+      --glass:rgba(255,255,255,0.04);--glass-border:rgba(255,255,255,0.08);--glass-hover:rgba(255,255,255,0.08);
 }
 [data-theme="light"]{
   --bg:#f2f0f5;--bg2:#eae8ef;
@@ -181,7 +183,32 @@ footer .cedar svg{width:12px;height:12px;opacity:.5}
 
 tbody tr{animation:rowIn .3s ease both}
 @keyframes rowIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
-</style>
+
+    [data-theme="dark"] table{background:var(--glass);border-color:var(--glass-border)}
+    [data-theme="dark"] th{background:var(--bg2);border-color:var(--glass-border)}
+    [data-theme="dark"] td{border-color:var(--glass-border)}
+    [data-theme="dark"] tr:hover td{background:var(--glass-hover)}
+    [data-theme="dark"] .stat-card{background:var(--glass);border-color:var(--glass-border)}
+    [data-theme="dark"] .filter-pill{background:var(--glass);border-color:var(--glass-border)}
+    [data-theme="dark"] .filter-pill.active{background:var(--accent-bg);border-color:var(--accent)}
+    [data-theme="dark"] .sort-btn{background:var(--glass);border-color:var(--glass-border)}
+    [data-theme="dark"] .sort-btn.active{background:var(--accent-bg);border-color:var(--accent)}
+    [data-theme="dark"] select{background:var(--bg2);border-color:var(--glass-border);color:var(--tx)}
+    [data-theme="dark"] .view-btn{background:var(--glass);border-color:var(--glass-border)}
+    [data-theme="dark"] .view-btn.active{background:var(--accent-bg);border-color:var(--accent)}
+    [data-theme="dark"] .tab-btn{background:var(--glass);border-color:var(--glass-border)}
+    [data-theme="dark"] .tab-btn.active{border-color:var(--accent);color:var(--accent)}
+    .empty-state{text-align:center;padding:3rem 1rem;color:var(--tx3);font-size:1.1rem}
+    #last-updated{font-size:0.75rem;background:var(--glass);border:1px solid var(--glass-border);padding:2px 8px;border-radius:6px;color:var(--tx3);margin-left:8px}
+    @media(max-width:480px){
+      .controls{flex-direction:column;gap:0.5rem}
+      .stat-card{min-width:100%}
+      table{font-size:0.8rem}
+      th,td{padding:6px 4px}
+      h1{font-size:1.3rem}
+    }
+
+    </style>
 </head>
 <body>
 
@@ -381,8 +408,8 @@ tbody tr{animation:rowIn .3s ease both}
           </button>
         </div>
         <span class="badge badge-src" id="badge-src">source: olx.com.lb</span>
-        <span class="badge badge-live"><span class="pulse"></span> TRACKING</span>
-        <button class="theme-btn" onclick="toggleTheme()" title="Toggle theme" id="theme-toggle">
+        <span class="badge badge-live"><span class="pulse"></span> TRACKING</span> <span id="last-updated">Updated: --</span>
+        <button class="theme-btn" onclick="toggleTheme()" aria-label="Toggle dark mode" title="Toggle theme" id="theme-toggle">
           <svg id="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
           <svg id="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" style="display:none"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
         </button>
@@ -486,11 +513,11 @@ tbody tr{animation:rowIn .3s ease both}
   </div>
 
   <div class="table-wrap">
-    <table>
+    <table role="grid">
       <thead id="thead"><tr>
-        <th>Property</th><th>Type</th><th class="hide-m">Area</th><th>Price Now</th><th>Mar 1 Price</th><th>Drop %</th><th>Drop $</th><th class="hide-m">Detected</th><th></th>
+        <th scope="col">Property</th><th scope="col">Type</th><th class="hide-m">Area</th><th scope="col">Price Now</th><th scope="col">Mar 1 Price</th><th scope="col">Drop %</th><th scope="col">Drop $</th><th class="hide-m">Detected</th><th scope="col"></th>
       </tr></thead>
-      <tbody id="tbody"><tr><td colspan="9" class="loading">Loading data...</td></tr></tbody>
+      <tbody id="tbody" aria-live="polite"><tr><td colspan="9" class="loading">Loading data...</td></tr></tbody>
     </table>
 <div id="pagination" style="display:none;justify-content:space-between;align-items:center;padding:12px 16px;margin-top:8px;border-radius:10px;background:var(--card);border:1px solid var(--border)"></div>
   </div>
@@ -615,6 +642,8 @@ async function loadData(){
   try{const r=await fetch('drops_feed_uae.json');if(r.ok){const j=await r.json();uaeReData=j;uaeReData.drops=normalizeUae(uaeReData.drops);if(uaeReData.new_listings)uaeReData.new_listings=normalizeUae(uaeReData.new_listings)}}catch(e){console.log('UAE RE data not yet available')}
   try{const r=await fetch('drops_feed_uae_cars.json');if(r.ok){const j=await r.json();uaeCarsData=j;if(uaeCarsData.drops)uaeCarsData.drops=normalizeUae(uaeCarsData.drops);if(uaeCarsData.new_listings)uaeCarsData.new_listings=normalizeUae(uaeCarsData.new_listings)}}catch(e){console.log('UAE Cars data not yet available')}
   refresh();
+
+  var lu=document.getElementById('last-updated');if(lu)lu.textContent='Updated: '+new Date().toLocaleTimeString();
 }
 
 /* ── Country Switch ───────────────────────────────── */
@@ -749,22 +778,22 @@ function buildHeaders(){
   if(isNew){
     // New Listings view — no drop columns
     if(activeTab==='re'||activeTab==='uae-re'){
-      thead.innerHTML=`<tr><th>Property</th><th>Type</th><th class="hide-m">Area</th><th>Listed Price</th><th class="hide-m">$/sqm</th><th class="hide-m">Listed</th><th></th></tr>`;
+      thead.innerHTML=`<tr><th scope="col">Property</th><th scope="col">Type</th><th class="hide-m">Area</th><th scope="col">Listed Price</th><th class="hide-m">$/sqm</th><th class="hide-m">Listed</th><th scope="col"></th></tr>`;
     }else if(activeTab==='cars'||activeTab==='uae-cars'){
-      thead.innerHTML=`<tr><th>Car</th><th>Type</th><th class="hide-m">Year</th><th class="hide-m">KM</th><th>Listed Price</th><th class="hide-m">Listed</th><th></th></tr>`;
+      thead.innerHTML=`<tr><th scope="col">Car</th><th scope="col">Type</th><th class="hide-m">Year</th><th class="hide-m">KM</th><th scope="col">Listed Price</th><th class="hide-m">Listed</th><th scope="col"></th></tr>`;
     }else{
-      thead.innerHTML=`<tr><th>Plate</th><th>Type</th><th class="hide-m">Area</th><th>Listed Price</th><th class="hide-m">Listed</th><th></th></tr>`;
+      thead.innerHTML=`<tr><th scope="col">Plate</th><th scope="col">Type</th><th class="hide-m">Area</th><th scope="col">Listed Price</th><th class="hide-m">Listed</th><th scope="col"></th></tr>`;
     }
   }else{
     // Price Drops view
     const priceLbl='Price Now';
     const baseLbl='Mar 1 Price';
     if(activeTab==='re'||activeTab==='uae-re'){
-      thead.innerHTML=`<tr><th>Property</th><th>Type</th><th class="hide-m">Area</th><th>${priceLbl}</th><th>${baseLbl}</th><th>Drop %</th><th>${dropCur}</th><th class="hide-m">$/sqm</th><th class="hide-m">Detected</th><th></th></tr>`;
+      thead.innerHTML=`<tr><th scope="col">Property</th><th scope="col">Type</th><th class="hide-m">Area</th><th scope="col">${priceLbl}</th><th scope="col">${baseLbl}</th><th scope="col">Drop %</th><th scope="col">${dropCur}</th><th class="hide-m">$/sqm</th><th class="hide-m">Detected</th><th scope="col"></th></tr>`;
     }else if(activeTab==='cars'||activeTab==='uae-cars'){
-      thead.innerHTML=`<tr><th>Car</th><th>Type</th><th class="hide-m">Year</th><th class="hide-m">KM</th><th>${priceLbl}</th><th>${baseLbl}</th><th>Drop %</th><th>${dropCur}</th><th class="hide-m">Detected</th><th></th></tr>`;
+      thead.innerHTML=`<tr><th scope="col">Car</th><th scope="col">Type</th><th class="hide-m">Year</th><th class="hide-m">KM</th><th scope="col">${priceLbl}</th><th scope="col">${baseLbl}</th><th scope="col">Drop %</th><th scope="col">${dropCur}</th><th class="hide-m">Detected</th><th scope="col"></th></tr>`;
     }else{
-      thead.innerHTML=`<tr><th>Plate</th><th>Type</th><th class="hide-m">Area</th><th>${priceLbl}</th><th>${baseLbl}</th><th>Drop %</th><th>${dropCur}</th><th class="hide-m">Detected</th><th></th></tr>`;
+      thead.innerHTML=`<tr><th scope="col">Plate</th><th scope="col">Type</th><th class="hide-m">Area</th><th scope="col">${priceLbl}</th><th scope="col">${baseLbl}</th><th scope="col">Drop %</th><th scope="col">${dropCur}</th><th class="hide-m">Detected</th><th scope="col"></th></tr>`;
     }
   }
 }
@@ -867,6 +896,7 @@ items=items.slice(pageStart,pageStart+PAGE_SIZE);
   const tbody=document.getElementById('tbody'),empty=document.getElementById('empty');
   if(!items.length){
     tbody.innerHTML='';
+    if(!tbody.innerHTML.trim())tbody.innerHTML='<tr><td colspan="99" class="empty-state">No listings match your filters.<'+'/td><'+'/tr>';
     empty.style.display='block';
     const country=activeCountry==='uae'?'UAE':'Lebanese';
     document.getElementById('empty-text').textContent=isNew
@@ -991,6 +1021,29 @@ pagDiv.innerHTML=ph;
 }
 
 loadData();
-</script>
+
+  function updateHash(){
+    var p=[];
+    if(window.currentCountry)p.push('c='+encodeURIComponent(window.currentCountry));
+    var at=document.querySelector('.tab-btn.active');
+    if(at)p.push('t='+encodeURIComponent(at.textContent));
+    var af=document.querySelector('.filter-pill.active');
+    if(af)p.push('f='+encodeURIComponent(af.textContent));
+    if(p.length)window.location.hash=p.join('&');
+  }
+  function applyHash(){
+    var hash=window.location.hash.substring(1);
+    if(!hash)return;
+    var params={};
+    hash.split('&').forEach(function(p){var kv=p.split('=');params[kv[0]]=decodeURIComponent(kv[1]||'');});
+    if(params.c){var btns=document.querySelectorAll('.tab-btn');btns.forEach(function(b){if(b.textContent===params.c)b.click();});}
+  }
+  window.addEventListener('hashchange',applyHash);
+  document.querySelectorAll('.tab-btn').forEach(function(b){b.setAttribute('role','tab');});
+  document.querySelectorAll('.filter-pill').forEach(function(b){b.setAttribute('role','radio');});
+  document.querySelectorAll('.sort-btn').forEach(function(b){b.setAttribute('role','button');});
+  document.querySelectorAll('.view-btn').forEach(function(b){b.setAttribute('role','tab');});
+
+  </script>
 </body>
 </html>
