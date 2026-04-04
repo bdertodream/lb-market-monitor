@@ -8660,16 +8660,20 @@
     "location": "Al Maarad, Tripoli",
     "district": "Tripoli",
     "original_price": 3700,
-    "current_price": 3700,
+    "current_price": 3800,
     "price_history": [
       {
         "price": 3700,
         "date": "2026-03-30"
+      },
+      {
+        "price": 3800,
+        "date": "2026-04-04"
       }
     ],
     "first_seen": "2026-03-30",
     "last_seen": "2026-04-04",
-    "last_updated": "2026-03-30",
+    "last_updated": "2026-04-04",
     "posted_date": "2026-03-30",
     "drop_usd": 0,
     "drop_pct": 0,
