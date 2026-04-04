@@ -22,6 +22,10 @@ import re
 import time
 import random
 from datetime import datetime
+import logging
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
+logger = logging.getLogger(__name__)
 
 # ── Config ──────────────────────────────────────────────────────────
 WAR_START = "2026-03-01"
@@ -71,7 +75,7 @@ def fetch_page(url):
         resp.raise_for_status()
         return resp.text
     except requests.RequestException as e:
-        print(f"  ✗ Failed to fetch {url}: {e}")
+        logger.info(f"  ✗ Failed to fetch {url}: {e}")
         return None
 
 def extract_hits(html):
@@ -85,7 +89,7 @@ def extract_hits(html):
     try:
         state, _ = decoder.raw_decode(html, start)
     except json.JSONDecodeError as e:
-        print(f"  ✗ JSON decode error: {e}")
+        logger.error(f"  ✗ JSON decode error: {e}")
         return [], 0
 
     algolia = state.get("algolia", {})
@@ -197,18 +201,18 @@ def parse_hit(hit):
 def scrape_category(cat_path):
     listings = []
     url = BASE_URL + cat_path
-    print(f"  Fetching page 1: {url}")
+    logger.info(f"  Fetching page 1: {url}")
     html = fetch_page(url)
     if not html:
         return listings
 
     hits, nb_pages = extract_hits(html)
     if not hits:
-        print("  → No hits found on page 1, stopping.")
+        logger.info("  → No hits found on page 1, stopping.")
         return listings
 
     max_page = min(nb_pages, MAX_PAGES_PER_CATEGORY)
-    print(f"  → Page 1: {len(hits)} hits, {nb_pages} total pages (scraping up to {max_page})")
+    logger.info(f"  → Page 1: {len(hits)} hits, {nb_pages} total pages (scraping up to {max_page})")
 
     for hit in hits:
         parsed = parse_hit(hit)
@@ -217,19 +221,19 @@ def scrape_category(cat_path):
 
     for page in range(2, max_page + 1):
         page_url = f"{url}?page={page}"
-        print(f"  Fetching page {page}: {page_url}")
+        logger.info(f"  Fetching page {page}: {page_url}")
         html = fetch_page(page_url)
         if not html:
             break
         hits, _ = extract_hits(html)
         if not hits:
-            print(f"  → No hits on page {page}, stopping.")
+            logger.info(f"  → No hits on page {page}, stopping.")
             break
         for hit in hits:
             parsed = parse_hit(hit)
             if parsed:
                 listings.append(parsed)
-        print(f"  → {len(listings)} valid listings so far")
+        logger.info(f"  → {len(listings)} valid listings so far")
 
     return listings
 
@@ -350,42 +354,42 @@ def generate_drops_feed(db):
 
 # ── Main ────────────────────────────────────────────────────────────
 def main():
-    print("=" * 60)
-    print("  OLX Lebanon Real Estate Scraper")
-    print(f"  {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-    print("=" * 60)
+    logger.info("=" * 60)
+    logger.info("  OLX Lebanon Real Estate Scraper")
+    logger.info(f"  {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    logger.info("=" * 60)
 
     db = load_db()
-    print(f"\n📦 Loaded database: {len(db)} existing listings\n")
+    logger.info(f"\n📦 Loaded database: {len(db)} existing listings\n")
 
     all_listings = []
     for cat_url in CATEGORY_URLS:
-        print(f"\n🔍 Scraping: {cat_url}")
+        logger.info(f"\n🔍 Scraping: {cat_url}")
         listings = scrape_category(cat_url)
         all_listings.extend(listings)
-        print(f"  ✓ Got {len(listings)} listings from this category")
+        logger.info(f"  ✓ Got {len(listings)} listings from this category")
 
-    print(f"\n📊 Total scraped: {len(all_listings)} listings")
+    logger.info(f"\n📊 Total scraped: {len(all_listings)} listings")
     seen = set()
     unique = []
     for item in all_listings:
         if item["id"] not in seen:
             seen.add(item["id"])
             unique.append(item)
-    print(f"📊 Unique listings: {len(unique)}")
+    logger.info(f"📊 Unique listings: {len(unique)}")
 
     new_count, updated, drops = update_database(db, unique)
-    print(f"\n✅ Results:")
-    print(f"  New listings: {new_count}")
-    print(f"  Price changes: {updated}")
-    print(f"  Price drops: {drops}")
+    logger.info(f"\n✅ Results:")
+    logger.info(f"  New listings: {new_count}")
+    logger.info(f"  Price changes: {updated}")
+    logger.info(f"  Price drops: {drops}")
 
     save_db(db)
-    print(f"\n💾 Saved database: {len(db)} total listings → {DB_FILE}")
+    logger.info(f"\n💾 Saved database: {len(db)} total listings → {DB_FILE}")
 
     feed = generate_drops_feed(db)
     save_drops(feed)
-    print(f"📡 Generated drops feed: {feed['total_drops']} drops → {DROPS_FILE}")
+    logger.info(f"📡 Generated drops feed: {feed['total_drops']} drops → {DROPS_FILE}")
 
     today = datetime.now()
     stale = 0
@@ -395,12 +399,12 @@ def main():
             listing["stale"] = True
             stale += 1
     if stale:
-        print(f"⚠️ {stale} listings not seen in 7+ days (possibly sold/removed)")
+        logger.info(f"⚠️ {stale} listings not seen in 7+ days (possibly sold/removed)")
         save_db(db)
 
-    print(f"\n{'=' * 60}")
-    print("  Done! Dashboard data ready.")
-    print(f"{'=' * 60}\n")
+    logger.info(f"\n{'=' * 60}")
+    logger.info("  Done! Dashboard data ready.")
+    logger.info(f"{'=' * 60}\n")
 
 if __name__ == "__main__":
     main()
