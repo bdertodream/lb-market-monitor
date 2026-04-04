@@ -14185,7 +14185,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-30",
+    "last_seen": "2026-04-04",
     "last_updated": "2026-03-19",
     "drop_usd": 1500,
     "drop_pct": 3.5,
@@ -21426,20 +21426,25 @@
     "location": "Al Bahsas, Tripoli",
     "district": "Tripoli",
     "original_price": 17800,
-    "current_price": 17800,
+    "current_price": 17250,
     "price_history": [
       {
         "price": 17800,
         "date": "2026-03-01"
+      },
+      {
+        "price": 17250,
+        "date": "2026-04-04"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
-    "stale": true
+    "last_seen": "2026-04-04",
+    "last_updated": "2026-04-04",
+    "drop_usd": 550,
+    "drop_pct": 3.1,
+    "last_drop_date": "2026-04-04",
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "116776595": {
     "id": "116776595",
@@ -34986,7 +34991,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-30",
+    "last_seen": "2026-04-04",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -35184,19 +35189,23 @@
     "location": "Jdaide, Metn",
     "district": "Metn",
     "original_price": 30500,
-    "current_price": 30500,
+    "current_price": 28700,
     "price_history": [
       {
         "price": 30500,
         "date": "2026-03-01"
+      },
+      {
+        "price": 28700,
+        "date": "2026-04-04"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_seen": "2026-04-04",
+    "last_updated": "2026-04-04",
+    "drop_usd": 1800,
+    "drop_pct": 5.9,
+    "last_drop_date": "2026-04-04",
     "posted_date": "2026-03-01",
     "stale": true
   },
@@ -35366,7 +35375,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-04-04",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -35387,19 +35396,23 @@
     "location": "caracas, Beirut",
     "district": "Beirut",
     "original_price": 20800,
-    "current_price": 20800,
+    "current_price": 19800,
     "price_history": [
       {
         "price": 20800,
         "date": "2026-03-01"
+      },
+      {
+        "price": 19800,
+        "date": "2026-04-04"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_seen": "2026-04-04",
+    "last_updated": "2026-04-04",
+    "drop_usd": 1000,
+    "drop_pct": 4.8,
+    "last_drop_date": "2026-04-04",
     "posted_date": "2026-03-01",
     "stale": true
   },
@@ -52951,7 +52964,7 @@
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
     "last_updated": "2026-03-08",
     "posted_date": "2026-03-08",
     "drop_usd": 0,
@@ -56555,7 +56568,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-30",
+    "last_seen": "2026-04-04",
     "last_updated": "2026-03-27",
     "posted_date": "2026-03-09",
     "drop_usd": 50,
@@ -56587,7 +56600,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-30",
+    "last_seen": "2026-04-04",
     "last_updated": "2026-03-27",
     "posted_date": "2026-03-09",
     "drop_usd": 50,
@@ -56615,7 +56628,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-30",
+    "last_seen": "2026-04-04",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -56643,7 +56656,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-30",
+    "last_seen": "2026-04-04",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -56671,7 +56684,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-30",
+    "last_seen": "2026-04-04",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -94278,16 +94291,20 @@
     "location": "Dbaye, Metn",
     "district": "Metn",
     "original_price": 62500,
-    "current_price": 62500,
+    "current_price": 63900,
     "price_history": [
       {
         "price": 62500,
         "date": "2026-03-15"
+      },
+      {
+        "price": 63900,
+        "date": "2026-04-04"
       }
     ],
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-18",
-    "last_updated": "2026-03-15",
+    "last_seen": "2026-04-04",
+    "last_updated": "2026-04-04",
     "posted_date": "2026-03-15",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -180495,7 +180512,7 @@
       }
     ],
     "first_seen": "2026-03-28",
-    "last_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
     "last_updated": "2026-03-28",
     "posted_date": "2026-03-28",
     "drop_usd": 0,
@@ -202311,7 +202328,7 @@
       }
     ],
     "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
     "last_updated": "2026-04-01",
     "posted_date": "2026-04-01",
     "drop_usd": 0,
@@ -209475,16 +209492,20 @@
     "location": "Mtayleb, Metn",
     "district": "Metn",
     "original_price": 10900,
-    "current_price": 10900,
+    "current_price": 11500,
     "price_history": [
       {
         "price": 10900,
         "date": "2026-04-02"
+      },
+      {
+        "price": 11500,
+        "date": "2026-04-04"
       }
     ],
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-04",
-    "last_updated": "2026-04-02",
+    "last_updated": "2026-04-04",
     "posted_date": "2026-04-02",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -215903,6 +215924,174 @@
     "price_history": [
       {
         "price": 14700,
+        "date": "2026-04-04"
+      }
+    ],
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "last_updated": "2026-04-04",
+    "posted_date": "2026-04-04",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116759357": {
+    "id": "116759357",
+    "title": "Picanto GTLine 73000km masdar cherkit lebnen",
+    "url": "https://www.olx.com.lb/ad/picanto-gtline-73000km-masdar-cherkit-lebnen-ID116759357.html",
+    "make": "Kia",
+    "model": "Picanto",
+    "body_type": "Hatchback",
+    "year": 2018,
+    "mileage": 73000,
+    "transmission": "Steptronic",
+    "location": "Jdaide, Metn",
+    "district": "Metn",
+    "original_price": 12500,
+    "current_price": 12500,
+    "price_history": [
+      {
+        "price": 12500,
+        "date": "2026-04-04"
+      }
+    ],
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "last_updated": "2026-04-04",
+    "posted_date": "2026-04-04",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116842584": {
+    "id": "116842584",
+    "title": "Audi Q5 Quattro 2018 black on black (clean carfax-65000 miles)",
+    "url": "https://www.olx.com.lb/ad/audi-q5-quattro-2018-black-on-black-clean-carfax-65000-miles-ID116842584.html",
+    "make": "Audi",
+    "model": "Q5",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 65000,
+    "transmission": "Steptronic",
+    "location": "Antelias, Metn",
+    "district": "Metn",
+    "original_price": 25500,
+    "current_price": 25500,
+    "price_history": [
+      {
+        "price": 25500,
+        "date": "2026-04-04"
+      }
+    ],
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "last_updated": "2026-04-04",
+    "posted_date": "2026-04-04",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116808423": {
+    "id": "116808423",
+    "title": "Mazda CX-9 2017",
+    "url": "https://www.olx.com.lb/ad/mazda-cx-9-2017-ID116808423.html",
+    "make": "Mazda",
+    "model": "CX-9",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 180000,
+    "transmission": "Automatic",
+    "location": "Amioun, Koura",
+    "district": "Koura",
+    "original_price": 19500,
+    "current_price": 19500,
+    "price_history": [
+      {
+        "price": 19500,
+        "date": "2026-04-04"
+      }
+    ],
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "last_updated": "2026-04-04",
+    "posted_date": "2026-04-04",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116842570": {
+    "id": "116842570",
+    "title": "Mercedes-Benz Other 1990",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-other-1990-ID116842570.html",
+    "make": "Mercedes-Benz",
+    "model": "Other",
+    "body_type": "Other",
+    "year": 1990,
+    "mileage": 42500,
+    "transmission": "Automatic",
+    "location": "Douma, Batroun",
+    "district": "Batroun",
+    "original_price": 2100,
+    "current_price": 2100,
+    "price_history": [
+      {
+        "price": 2100,
+        "date": "2026-04-04"
+      }
+    ],
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "last_updated": "2026-04-04",
+    "posted_date": "2026-04-04",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116842569": {
+    "id": "116842569",
+    "title": "Mercedes-Benz C-Class 2015",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2015-ID116842569.html",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Sedan",
+    "year": 2015,
+    "mileage": 169000,
+    "transmission": "Steptronic",
+    "location": "Douar, Metn",
+    "district": "Metn",
+    "original_price": 18500,
+    "current_price": 18500,
+    "price_history": [
+      {
+        "price": 18500,
+        "date": "2026-04-04"
+      }
+    ],
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "last_updated": "2026-04-04",
+    "posted_date": "2026-04-04",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116842561": {
+    "id": "116842561",
+    "title": "Mercedes-Benz E-Class 2003",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2003-ID116842561.html",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "body_type": "Sedan",
+    "year": 2003,
+    "mileage": 212,
+    "transmission": "Steptronic",
+    "location": "Halba, Akkar",
+    "district": "Akkar",
+    "original_price": 5400,
+    "current_price": 5400,
+    "price_history": [
+      {
+        "price": 5400,
         "date": "2026-04-04"
       }
     ],
