@@ -7,13 +7,17 @@ name: Scrape & Deploy
 on:
   schedule:
     # Every hour
-    - cron: '0 * * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
   pages: write
   id-token: write
+
+concurrency:
+  group: scrape-and-deploy
+  cancel-in-progress: true
 
 jobs:
   scrape:
@@ -26,6 +30,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          cache: 'pip'
 
       - name: Install dependencies
         run: pip install requests beautifulsoup4 lxml
@@ -33,19 +38,24 @@ jobs:
       # --- Lebanon OLX Scrapers ---
       - name: Run LB real estate scraper
         run: python olx_scraper.py
+        continue-on-error: true
 
       - name: Run LB car scraper
         run: python olx_scraper_cars.py
+        continue-on-error: true
 
       - name: Run LB plates scraper
         run: python olx_scraper_plates.py
+        continue-on-error: true
 
       # --- UAE Dubizzle Scrapers ---
       - name: Run UAE property scraper
         run: python dubizzle_scraper.py
+        continue-on-error: true
 
       - name: Run UAE car scraper
         run: python dubizzle_scraper_cars.py
+        continue-on-error: true
 
       - name: Commit and push updated data
         run: |
@@ -53,7 +63,7 @@ jobs:
           git config user.email "bot@noreply.github.com"
           git add listings_db.json drops_feed.json listings_db_cars.json drops_feed_cars.json listings_db_plates.json drops_feed_plates.json listings_db_uae.json drops_feed_uae.json listings_db_uae_cars.json drops_feed_uae_cars.json
           git diff --staged --quiet || git commit -m "Scrape $(date +%Y-%m-%d\ %H:%M)"
-          git pull --rebase -X theirs origin main || (git checkout --theirs . && git add -A && git rebase --continue)
+          git pull --rebase origin main || (git rebase --abort && git pull -X theirs origin main)
           git push
 
   deploy:
