@@ -11,6 +11,10 @@ import urllib.request
 import urllib.error
 import urllib.parse
 from datetime import datetime, timezone
+import logging
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
+logger = logging.getLogger(__name__)
 
 # Algolia config (public search-only key from dubizzle frontend)
 ALGOLIA_APP_ID = "WD0PTZ13ZS"
@@ -67,7 +71,7 @@ def algolia_search(index_name, filters, page=0):
                 total_pages = result.get("nbPages", 0)
                 return hits, total_pages
         except Exception as e:
-            print(f"  Attempt {attempt+1} failed: {e}")
+            logger.warning(f"  Attempt {attempt+1} failed: {e}")
             if attempt < 2:
                 time.sleep(2)
     return [], 0
@@ -160,7 +164,7 @@ def parse_hit(hit):
             "date": date_str,
         }
     except Exception as e:
-        print(f"  Parse error: {e}")
+        logger.error(f"  Parse error: {e}")
         return None
 
 
@@ -168,13 +172,13 @@ def scrape_all():
     """Scrape all car categories via Algolia."""
     all_listings = []
     for filters, index_name, label in CATEGORIES:
-        print(f"\nScraping {label}...")
+        logger.info(f"\nScraping {label}...")
         for page in range(MAX_PAGES):
             hits, total_pages = algolia_search(index_name, filters, page)
             if not hits:
-                print(f"  Page {page}: no hits, stopping")
+                logger.info(f"  Page {page}: no hits, stopping")
                 break
-            print(f"  Page {page}: {len(hits)} hits (of {total_pages} pages)")
+            logger.info(f"  Page {page}: {len(hits)} hits (of {total_pages} pages)")
             for hit in hits:
                 parsed = parse_hit(hit)
                 if parsed:
@@ -210,9 +214,9 @@ def save_feed(feed):
 
 # ── Main ──────────────────────────────────────────────────────────
 def main():
-    print("=== Dubizzle Dubai Car Scraper (Algolia API) ===")
+    logger.info("=== Dubizzle Dubai Car Scraper (Algolia API) ===")
     listings = scrape_all()
-    print(f"\nTotal parsed: {len(listings)}")
+    logger.info(f"\nTotal parsed: {len(listings)}")
 
     db = load_db()
     old_feed = load_feed()
@@ -300,7 +304,7 @@ def main():
 
     save_db(db)
     save_feed(feed)
-    print(f"New: {new_count} | Drops: {drop_count} | DB size: {len(db)}")
+    logger.info(f"New: {new_count} | Drops: {drop_count} | DB size: {len(db)}")
 
 if __name__ == "__main__":
     main()
