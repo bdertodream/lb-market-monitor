@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 8082,
+  "total_tracked": 8084,
   "total_drops": 128,
-  "total_new": 8082,
+  "total_new": 8084,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -2271,6 +2271,28 @@
       "size": "443",
       "bedrooms": "0",
       "price": 530000,
+      "first_seen": "2026-04-05"
+    },
+    {
+      "id": "17078027",
+      "title": "Spacious 2BR with Balcony and 2 Parking",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/12/spacious-2br-with-balcony-and-2-parking-2-186169/",
+      "area": "Dubai Sports City",
+      "category": "Apartment",
+      "size": "881",
+      "bedrooms": "2",
+      "price": 1300000,
+      "first_seen": "2026-04-05"
+    },
+    {
+      "id": "9810129",
+      "title": "Community Expert | Grade A | VOT | 7 Parkings",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/5/community-expert-grade-a-vot-7-parkings-2-333115/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "3800",
+      "bedrooms": "",
+      "price": 19000000,
       "first_seen": "2026-04-05"
     },
     {
@@ -7276,28 +7298,6 @@
       "size": "1943",
       "bedrooms": "3",
       "price": 2695000,
-      "first_seen": "2026-04-02"
-    },
-    {
-      "id": "17206301",
-      "title": "1 Bed | Resale | Verdes Wellness Living",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/16/1-bed-resale-verdes-wellness-living-2-307971/",
-      "area": "Haven by Aldar",
-      "category": "Apartment",
-      "size": "802",
-      "bedrooms": "1",
-      "price": 1100000,
-      "first_seen": "2026-04-02"
-    },
-    {
-      "id": "9751994",
-      "title": "Single Row | Good Location | Close to SZR",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/4/2/single-row-good-location-close-to-szr-2-153422/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "10194",
-      "bedrooms": "",
-      "price": 3850000,
       "first_seen": "2026-04-02"
     }
   ],
