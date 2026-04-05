@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-05T13:07:10.390454",
-  "total_tracked": 364,
+  "generated_at": "2026-04-05T16:45:53.227394",
+  "total_tracked": 365,
   "total_drops": 30,
-  "total_new": 364,
+  "total_new": 365,
   "avg_drop_pct": 26.4,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -980,6 +980,24 @@
       "price_history": [
         {
           "price": 2350,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116418394",
+      "title": "8844 number plate",
+      "url": "https://www.olx.com.lb/ad/8844-number-plate-ID116418394.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Roumieh, Metn",
+      "original_price": 9000,
+      "current_price": 9000,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 9000,
           "date": "2026-04-05"
         }
       ]
