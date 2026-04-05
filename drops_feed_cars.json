@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-05T02:40:02.125311",
-  "total_tracked": 7530,
-  "total_drops": 575,
-  "total_new": 7530,
+  "generated_at": "2026-04-05T05:53:17.544130",
+  "total_tracked": 7535,
+  "total_drops": 576,
+  "total_new": 7535,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -3408,6 +3408,35 @@
         {
           "price": 25500,
           "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116812277",
+      "title": "Mercedes-Benz C-Class 2018",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2018-ID116812277.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 85000,
+      "transmission": "Steptronic",
+      "location": "Zouk Mikael, Keserouan",
+      "original_price": 20500,
+      "current_price": 19000,
+      "drop_usd": 1500,
+      "drop_pct": 7.3,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 20500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 19000,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -17386,6 +17415,116 @@
       ]
     },
     {
+      "id": "116843469",
+      "title": "Kia Forte 2020",
+      "url": "https://www.olx.com.lb/ad/kia-forte-2020-ID116843469.html",
+      "make": "Kia",
+      "model": "Forte",
+      "body_type": "Sedan",
+      "year": 2020,
+      "mileage": 30000,
+      "transmission": "Steptronic",
+      "location": "Deir Qoubel, Aley",
+      "original_price": 13800,
+      "current_price": 13800,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 13800,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116843457",
+      "title": "ميتسوبيشي لانسر 2006",
+      "url": "https://www.olx.com.lb/ad/ميتسوبيشي-لانسر-2006-ID116843457.html",
+      "make": "Mitsubishi",
+      "model": "Lancer",
+      "body_type": "Sedan",
+      "year": 2006,
+      "mileage": 230000,
+      "transmission": "Automatic",
+      "location": "Ras Beirut, Beirut",
+      "original_price": 4300,
+      "current_price": 4300,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 4300,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116843449",
+      "title": "بي ام دبليو الفئة 6 2005",
+      "url": "https://www.olx.com.lb/ad/بي-ام-دبليو-الفئة-6-2005-ID116843449.html",
+      "make": "BMW",
+      "model": "6-Series",
+      "body_type": "Hatchback",
+      "year": 2005,
+      "mileage": 53648,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 4500,
+      "current_price": 4500,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 4500,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116614984",
+      "title": "Land Rover Range Rover Sport 2018",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2018-ID116614984.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Abdul Latif El Bissar, Tripoli",
+      "original_price": 38000,
+      "current_price": 38000,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 38000,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116750296",
+      "title": "BMW M235i xDrive 2015 (Stock)",
+      "url": "https://www.olx.com.lb/ad/bmw-m235i-xdrive-2015-ID116750296.html",
+      "make": "BMW",
+      "model": "2-Series",
+      "body_type": "Sports / Coupe",
+      "year": 2015,
+      "mileage": 99000,
+      "transmission": "Automatic",
+      "location": "Kfar Hbab, Keserouan",
+      "original_price": 25000,
+      "current_price": 25000,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 25000,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
       "id": "116828035",
       "title": "BMW 5-Series 2018",
       "url": "https://www.olx.com.lb/ad/bmw-5-series-2018-ID116828035.html",
@@ -19881,7 +20020,7 @@
     },
     {
       "id": "116843377",
-      "title": "Kia Cerato 2010 f. o automatic Ac power windows central lock like",
+      "title": "Kia Cerato 2010 f. o automatic Ac power windows central lock like new",
       "url": "https://www.olx.com.lb/ad/kia-cerato-2010-f-o-automatic-ac-power-windows-central-lock-like-ID116843377.html",
       "make": "Kia",
       "model": "Cerato",
@@ -19891,13 +20030,17 @@
       "transmission": "Steptronic",
       "location": "Jdaide, Metn",
       "original_price": 6700,
-      "current_price": 6700,
+      "current_price": 6800,
       "first_seen": "2026-04-04",
       "posted_date": "2026-04-04",
       "price_history": [
         {
           "price": 6700,
           "date": "2026-04-04"
+        },
+        {
+          "price": 6800,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -176221,13 +176364,17 @@
       "transmission": "Steptronic",
       "location": "Zouk Mikael, Keserouan",
       "original_price": 20500,
-      "current_price": 20500,
+      "current_price": 19000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 20500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 19000,
+          "date": "2026-04-05"
         }
       ]
     },

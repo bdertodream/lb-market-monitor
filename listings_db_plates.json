@@ -9251,10 +9251,14 @@
     "location": "Achrafieh, Beirut",
     "district": "Beirut",
     "original_price": 10000,
-    "current_price": 10000,
+    "current_price": 12000,
     "price_history": [
       {
         "price": 10000,
+        "date": "2026-04-05"
+      },
+      {
+        "price": 12000,
         "date": "2026-04-05"
       }
     ],
