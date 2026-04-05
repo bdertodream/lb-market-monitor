@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-05T05:53:34.079217",
-  "total_tracked": 362,
+  "generated_at": "2026-04-05T08:51:54.920879",
+  "total_tracked": 364,
   "total_drops": 30,
-  "total_new": 362,
+  "total_new": 364,
   "avg_drop_pct": 26.4,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -944,6 +944,42 @@
         },
         {
           "price": 12000,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116843511",
+      "title": "special Car plates",
+      "url": "https://www.olx.com.lb/ad/special-car-plates-ID116843511.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Abdul Latif El Bissar, Tripoli",
+      "original_price": 3800,
+      "current_price": 3800,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 3800,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116843486",
+      "title": "For sale",
+      "url": "https://www.olx.com.lb/ad/for-sale-ID116843486.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jal El Dib, Metn",
+      "original_price": 2350,
+      "current_price": 2350,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 2350,
           "date": "2026-04-05"
         }
       ]

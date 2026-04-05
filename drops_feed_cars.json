@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-05T05:53:17.544130",
-  "total_tracked": 7535,
-  "total_drops": 576,
-  "total_new": 7535,
+  "generated_at": "2026-04-05T08:51:37.431322",
+  "total_tracked": 7544,
+  "total_drops": 578,
+  "total_new": 7544,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -4466,6 +4466,35 @@
       ]
     },
     {
+      "id": "116648555",
+      "title": "Land Rover Evoque 2014",
+      "url": "https://www.olx.com.lb/ad/land-rover-evoque-2014-ID116648555.html",
+      "make": "Land Rover",
+      "model": "Evoque",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 136000,
+      "transmission": "Steptronic",
+      "location": "Zahle Town, Zahle",
+      "original_price": 12800,
+      "current_price": 12000,
+      "drop_usd": 800,
+      "drop_pct": 6.2,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-08",
+      "posted_date": "2026-03-08",
+      "price_history": [
+        {
+          "price": 12800,
+          "date": "2026-03-08"
+        },
+        {
+          "price": 12000,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
       "id": "116820466",
       "title": "Mercedes-Benz C-Class 2003",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2003-ID116820466.html",
@@ -5579,6 +5608,35 @@
         {
           "price": 5200,
           "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116843206",
+      "title": "Mercedes-Benz SLK 280 2006 Amg package",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-slk-280-2006-amg-package-ID116843206.html",
+      "make": "Mercedes-Benz",
+      "model": "SLK/SLC-Class",
+      "body_type": "Convertible",
+      "year": 2006,
+      "mileage": 90000,
+      "transmission": "Steptronic",
+      "location": "Akkar",
+      "original_price": 5500,
+      "current_price": 5200,
+      "drop_usd": 300,
+      "drop_pct": 5.5,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-04-04",
+      "posted_date": "2026-04-04",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-04-04"
+        },
+        {
+          "price": 5200,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -17525,6 +17583,204 @@
       ]
     },
     {
+      "id": "116173231",
+      "title": "Mercedes-Benz GLA-Class 2016",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-gla-class-2016-ID116173231.html",
+      "make": "Mercedes-Benz",
+      "model": "GLA-Class",
+      "body_type": "Hatchback",
+      "year": 2016,
+      "mileage": 45000,
+      "transmission": "Steptronic",
+      "location": "Minieh-Denniye, Minieh-Denniye",
+      "original_price": 20000,
+      "current_price": 20000,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 20000,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116843537",
+      "title": "Jeep Wrangler 2008",
+      "url": "https://www.olx.com.lb/ad/jeep-wrangler-2008-ID116843537.html",
+      "make": "Jeep",
+      "model": "Wrangler",
+      "body_type": "SUV",
+      "year": 2008,
+      "mileage": 111,
+      "transmission": "Manual",
+      "location": "Cornet Chahwan, Metn",
+      "original_price": 13000,
+      "current_price": 13000,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 13000,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116843535",
+      "title": "Mercedes-Benz SL-Class 1991",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-sl-class-1991-ID116843535.html",
+      "make": "Mercedes-Benz",
+      "model": "SL-Class",
+      "body_type": "Convertible",
+      "year": 1991,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Ain El Rihaneh, Keserouan",
+      "original_price": 10500,
+      "current_price": 10500,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 10500,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116843493",
+      "title": "Land Rover Discovery 2018",
+      "url": "https://www.olx.com.lb/ad/land-rover-discovery-2018-ID116843493.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Jdaide, Metn",
+      "original_price": 27500,
+      "current_price": 27500,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 27500,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116824089",
+      "title": "Infiniti G-Series 2003",
+      "url": "https://www.olx.com.lb/ad/infiniti-g-series-2003-ID116824089.html",
+      "make": "Infiniti",
+      "model": "G-Series",
+      "body_type": "Sedan",
+      "year": 2003,
+      "mileage": 183000,
+      "transmission": "Automatic",
+      "location": "Baabda Town, Baabda",
+      "original_price": 3300,
+      "current_price": 3300,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 3300,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116795481",
+      "title": "Mercedes-Benz C-Class 200 2008 avantgarde",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-200-2008-avantgarde-ID116795481.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2008,
+      "mileage": 130000,
+      "transmission": "Steptronic",
+      "location": "Other in Zgharta, Zgharta",
+      "original_price": 9300,
+      "current_price": 9300,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 9300,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116843142",
+      "title": "Van Toyota Hiace 1996",
+      "url": "https://www.olx.com.lb/ad/van-toyota-hiace-1996-ID116843142.html",
+      "make": "Toyota",
+      "model": "Hiace",
+      "body_type": "Van / Bus",
+      "year": 1996,
+      "mileage": 240000,
+      "transmission": "Manual",
+      "location": "Khenchara, Metn",
+      "original_price": 7000,
+      "current_price": 7000,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 7000,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116843420",
+      "title": "Nissan Pathfinder 1993",
+      "url": "https://www.olx.com.lb/ad/nissan-pathfinder-1993-ID116843420.html",
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "body_type": "SUV",
+      "year": 1993,
+      "mileage": 50,
+      "transmission": "Manual",
+      "location": "Falougha, Baabda",
+      "original_price": 3500,
+      "current_price": 3500,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 3500,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116843332",
+      "title": "Kia Picanto 2011",
+      "url": "https://www.olx.com.lb/ad/kia-picanto-2011-ID116843332.html",
+      "make": "Kia",
+      "model": "Picanto",
+      "body_type": "Sedan",
+      "year": 2011,
+      "mileage": 200,
+      "transmission": "Automatic",
+      "location": "Bsaba, Baabda",
+      "original_price": 5300,
+      "current_price": 5300,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 5300,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
       "id": "116828035",
       "title": "BMW 5-Series 2018",
       "url": "https://www.olx.com.lb/ad/bmw-5-series-2018-ID116828035.html",
@@ -19876,13 +20132,17 @@
       "transmission": "Steptronic",
       "location": "Akkar",
       "original_price": 5500,
-      "current_price": 5500,
+      "current_price": 5200,
       "first_seen": "2026-04-04",
       "posted_date": "2026-04-04",
       "price_history": [
         {
           "price": 5500,
           "date": "2026-04-04"
+        },
+        {
+          "price": 5200,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -144314,13 +144574,17 @@
       "transmission": "Steptronic",
       "location": "Zahle Town, Zahle",
       "original_price": 12800,
-      "current_price": 12800,
+      "current_price": 12000,
       "first_seen": "2026-03-08",
       "posted_date": "2026-03-08",
       "price_history": [
         {
           "price": 12800,
           "date": "2026-03-08"
+        },
+        {
+          "price": 12000,
+          "date": "2026-04-05"
         }
       ]
     },

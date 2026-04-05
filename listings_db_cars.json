@@ -9410,7 +9410,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -9468,7 +9468,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -10985,7 +10985,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -12084,7 +12084,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -14100,7 +14100,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-30",
     "drop_usd": 1400,
     "drop_pct": 7.4,
@@ -18477,7 +18477,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-28",
     "drop_usd": 300,
     "drop_pct": 2.7,
@@ -26466,7 +26466,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -35054,7 +35054,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-08",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -48117,7 +48117,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -49217,7 +49217,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -50364,7 +50364,7 @@
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-04-01",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-08",
     "posted_date": "2026-03-08",
     "drop_usd": 0,
@@ -50441,20 +50441,24 @@
     "location": "Zahle Town, Zahle",
     "district": "Zahle",
     "original_price": 12800,
-    "current_price": 12800,
+    "current_price": 12000,
     "price_history": [
       {
         "price": 12800,
         "date": "2026-03-08"
+      },
+      {
+        "price": 12000,
+        "date": "2026-04-05"
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-04-01",
-    "last_updated": "2026-03-08",
+    "last_seen": "2026-04-05",
+    "last_updated": "2026-04-05",
     "posted_date": "2026-03-08",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 800,
+    "drop_pct": 6.2,
+    "last_drop_date": "2026-04-05"
   },
   "116633973": {
     "id": "116633973",
@@ -50477,7 +50481,7 @@
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-04-01",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-08",
     "posted_date": "2026-03-08",
     "drop_usd": 0,
@@ -56755,7 +56759,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -146116,7 +146120,7 @@
       }
     ],
     "first_seen": "2026-03-23",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-23",
     "posted_date": "2026-03-23",
     "drop_usd": 0,
@@ -180915,7 +180919,7 @@
       }
     ],
     "first_seen": "2026-03-28",
-    "last_seen": "2026-03-31",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-28",
     "posted_date": "2026-03-28",
     "drop_usd": 0,
@@ -187917,7 +187921,7 @@
       }
     ],
     "first_seen": "2026-03-30",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-30",
     "posted_date": "2026-03-30",
     "drop_usd": 0,
@@ -189829,7 +189833,7 @@
       }
     ],
     "first_seen": "2026-03-30",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-30",
     "posted_date": "2026-03-30",
     "drop_usd": 0,
@@ -196537,7 +196541,7 @@
       }
     ],
     "first_seen": "2026-03-31",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-03-31",
     "posted_date": "2026-03-31",
     "drop_usd": 0,
@@ -202417,7 +202421,7 @@
       }
     ],
     "first_seen": "2026-04-01",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-04-01",
     "posted_date": "2026-04-01",
     "drop_usd": 0,
@@ -202557,7 +202561,7 @@
       }
     ],
     "first_seen": "2026-04-01",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-04-01",
     "posted_date": "2026-04-01",
     "drop_usd": 0,
@@ -210553,7 +210557,7 @@
       }
     ],
     "first_seen": "2026-04-02",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-05",
     "last_updated": "2026-04-02",
     "posted_date": "2026-04-02",
     "drop_usd": 0,
@@ -218773,20 +218777,24 @@
     "location": "Akkar",
     "district": "Akkar",
     "original_price": 5500,
-    "current_price": 5500,
+    "current_price": 5200,
     "price_history": [
       {
         "price": 5500,
         "date": "2026-04-04"
+      },
+      {
+        "price": 5200,
+        "date": "2026-04-05"
       }
     ],
     "first_seen": "2026-04-04",
     "last_seen": "2026-04-05",
-    "last_updated": "2026-04-04",
+    "last_updated": "2026-04-05",
     "posted_date": "2026-04-04",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 300,
+    "drop_pct": 5.5,
+    "last_drop_date": "2026-04-05"
   },
   "116843201": {
     "id": "116843201",
@@ -219285,6 +219293,258 @@
     "price_history": [
       {
         "price": 25000,
+        "date": "2026-04-05"
+      }
+    ],
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05",
+    "last_updated": "2026-04-05",
+    "posted_date": "2026-04-05",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116173231": {
+    "id": "116173231",
+    "title": "Mercedes-Benz GLA-Class 2016",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-gla-class-2016-ID116173231.html",
+    "make": "Mercedes-Benz",
+    "model": "GLA-Class",
+    "body_type": "Hatchback",
+    "year": 2016,
+    "mileage": 45000,
+    "transmission": "Steptronic",
+    "location": "Minieh-Denniye, Minieh-Denniye",
+    "district": "Minieh-Denniye",
+    "original_price": 20000,
+    "current_price": 20000,
+    "price_history": [
+      {
+        "price": 20000,
+        "date": "2026-04-05"
+      }
+    ],
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05",
+    "last_updated": "2026-04-05",
+    "posted_date": "2026-04-05",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116843537": {
+    "id": "116843537",
+    "title": "Jeep Wrangler 2008",
+    "url": "https://www.olx.com.lb/ad/jeep-wrangler-2008-ID116843537.html",
+    "make": "Jeep",
+    "model": "Wrangler",
+    "body_type": "SUV",
+    "year": 2008,
+    "mileage": 111,
+    "transmission": "Manual",
+    "location": "Cornet Chahwan, Metn",
+    "district": "Metn",
+    "original_price": 13000,
+    "current_price": 13000,
+    "price_history": [
+      {
+        "price": 13000,
+        "date": "2026-04-05"
+      }
+    ],
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05",
+    "last_updated": "2026-04-05",
+    "posted_date": "2026-04-05",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116843535": {
+    "id": "116843535",
+    "title": "Mercedes-Benz SL-Class 1991",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-sl-class-1991-ID116843535.html",
+    "make": "Mercedes-Benz",
+    "model": "SL-Class",
+    "body_type": "Convertible",
+    "year": 1991,
+    "mileage": 100000,
+    "transmission": "Automatic",
+    "location": "Ain El Rihaneh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 10500,
+    "current_price": 10500,
+    "price_history": [
+      {
+        "price": 10500,
+        "date": "2026-04-05"
+      }
+    ],
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05",
+    "last_updated": "2026-04-05",
+    "posted_date": "2026-04-05",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116843493": {
+    "id": "116843493",
+    "title": "Land Rover Discovery 2018",
+    "url": "https://www.olx.com.lb/ad/land-rover-discovery-2018-ID116843493.html",
+    "make": "Land Rover",
+    "model": "Discovery",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 90000,
+    "transmission": "Automatic",
+    "location": "Jdaide, Metn",
+    "district": "Metn",
+    "original_price": 27500,
+    "current_price": 27500,
+    "price_history": [
+      {
+        "price": 27500,
+        "date": "2026-04-05"
+      }
+    ],
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05",
+    "last_updated": "2026-04-05",
+    "posted_date": "2026-04-05",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116824089": {
+    "id": "116824089",
+    "title": "Infiniti G-Series 2003",
+    "url": "https://www.olx.com.lb/ad/infiniti-g-series-2003-ID116824089.html",
+    "make": "Infiniti",
+    "model": "G-Series",
+    "body_type": "Sedan",
+    "year": 2003,
+    "mileage": 183000,
+    "transmission": "Automatic",
+    "location": "Baabda Town, Baabda",
+    "district": "Baabda",
+    "original_price": 3300,
+    "current_price": 3300,
+    "price_history": [
+      {
+        "price": 3300,
+        "date": "2026-04-05"
+      }
+    ],
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05",
+    "last_updated": "2026-04-05",
+    "posted_date": "2026-04-05",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116795481": {
+    "id": "116795481",
+    "title": "Mercedes-Benz C-Class 200 2008 avantgarde",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-200-2008-avantgarde-ID116795481.html",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Sedan",
+    "year": 2008,
+    "mileage": 130000,
+    "transmission": "Steptronic",
+    "location": "Other in Zgharta, Zgharta",
+    "district": "Zgharta",
+    "original_price": 9300,
+    "current_price": 9300,
+    "price_history": [
+      {
+        "price": 9300,
+        "date": "2026-04-05"
+      }
+    ],
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05",
+    "last_updated": "2026-04-05",
+    "posted_date": "2026-04-05",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116843142": {
+    "id": "116843142",
+    "title": "Van Toyota Hiace 1996",
+    "url": "https://www.olx.com.lb/ad/van-toyota-hiace-1996-ID116843142.html",
+    "make": "Toyota",
+    "model": "Hiace",
+    "body_type": "Van / Bus",
+    "year": 1996,
+    "mileage": 240000,
+    "transmission": "Manual",
+    "location": "Khenchara, Metn",
+    "district": "Metn",
+    "original_price": 7000,
+    "current_price": 7000,
+    "price_history": [
+      {
+        "price": 7000,
+        "date": "2026-04-05"
+      }
+    ],
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05",
+    "last_updated": "2026-04-05",
+    "posted_date": "2026-04-05",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116843420": {
+    "id": "116843420",
+    "title": "Nissan Pathfinder 1993",
+    "url": "https://www.olx.com.lb/ad/nissan-pathfinder-1993-ID116843420.html",
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "body_type": "SUV",
+    "year": 1993,
+    "mileage": 50,
+    "transmission": "Manual",
+    "location": "Falougha, Baabda",
+    "district": "Baabda",
+    "original_price": 3500,
+    "current_price": 3500,
+    "price_history": [
+      {
+        "price": 3500,
+        "date": "2026-04-05"
+      }
+    ],
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05",
+    "last_updated": "2026-04-05",
+    "posted_date": "2026-04-05",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116843332": {
+    "id": "116843332",
+    "title": "Kia Picanto 2011",
+    "url": "https://www.olx.com.lb/ad/kia-picanto-2011-ID116843332.html",
+    "make": "Kia",
+    "model": "Picanto",
+    "body_type": "Sedan",
+    "year": 2011,
+    "mileage": 200,
+    "transmission": "Automatic",
+    "location": "Bsaba, Baabda",
+    "district": "Baabda",
+    "original_price": 5300,
+    "current_price": 5300,
+    "price_history": [
+      {
+        "price": 5300,
         "date": "2026-04-05"
       }
     ],
