@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 8039,
-  "total_drops": 126,
-  "total_new": 8039,
+  "total_tracked": 8044,
+  "total_drops": 128,
+  "total_new": 8044,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1769,9 +1769,92 @@
       "bedrooms": "",
       "date": "2026-04-04",
       "first_seen": "2026-03-30"
+    },
+    {
+      "id": "9803085",
+      "title": "Business Oriented | Spacious | Good Location",
+      "old_price": 1740000,
+      "new_price": 1600000,
+      "drop_pct": 8.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/9/spacious-good-location-business-oriente-2-696704/",
+      "area": "International City",
+      "category": "Shop",
+      "size": "927",
+      "bedrooms": "",
+      "date": "2026-04-05",
+      "first_seen": "2026-03-24"
+    },
+    {
+      "id": "9802366",
+      "title": "Shell & Core | Best Investment | Prime Location",
+      "old_price": 3800000,
+      "new_price": 3400000,
+      "drop_pct": 10.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/4/shell-core-best-investment-prime-locati-2-190176/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Shop",
+      "size": "1061",
+      "bedrooms": "",
+      "date": "2026-04-05",
+      "first_seen": "2026-03-16"
     }
   ],
   "new_listings": [
+    {
+      "id": "9803930",
+      "title": "HO Q4 2027 | G+1 Layout | Flexible Retail Space",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/13/ho-q4-2027-g1-layout-flexible-retail-sp-2-143620/",
+      "area": "Majan",
+      "category": "Shop",
+      "size": "3862",
+      "bedrooms": "",
+      "price": 7723960,
+      "first_seen": "2026-04-05"
+    },
+    {
+      "id": "9803927",
+      "title": "2 offices next to each other on 10th floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/13/investor-deal-fitted-office-on-the-10th-2-924497/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "314",
+      "bedrooms": "",
+      "price": 950000,
+      "first_seen": "2026-04-05"
+    },
+    {
+      "id": "9803926",
+      "title": "Investor Deal Mid Floor Fitted Office",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/13/investor-deal-mid-floor-fitted-office-2-298448/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "314",
+      "bedrooms": "",
+      "price": 950000,
+      "first_seen": "2026-04-05"
+    },
+    {
+      "id": "9802345",
+      "title": "FULLY FITTED | SMART OFFICE | TENANTED | HIGH ROI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/4/fully-fitted-smart-office-tenanted-high-2-937262/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Office",
+      "size": "616",
+      "bedrooms": "",
+      "price": 1988888,
+      "first_seen": "2026-04-05"
+    },
+    {
+      "id": "9802295",
+      "title": "Grade A++ Office with Balcony | Mainland License",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/3/grade-a-office-with-balcony-mainland-li-2-338592/",
+      "area": "Meydan Horizon",
+      "category": "Office",
+      "size": "3865",
+      "bedrooms": "",
+      "price": 13530125,
+      "first_seen": "2026-04-05"
+    },
     {
       "id": "9809931",
       "title": "High Visibility Commercial Space | Flex Terms",
@@ -7216,63 +7299,8 @@
       "bedrooms": "2",
       "price": 4821000,
       "first_seen": "2026-04-01"
-    },
-    {
-      "id": "15344661",
-      "title": "Spacious | Brand New and Vacant | Canal View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/7/3/spacious-brand-new-and-vacant-canal-vie-2-926551/",
-      "area": "Al Wasl",
-      "category": "Apartment",
-      "size": "1345",
-      "bedrooms": "2",
-      "price": 4090000,
-      "first_seen": "2026-04-01"
-    },
-    {
-      "id": "17155589",
-      "title": "High ROI | Brand New Apt with Private Pool",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/4/high-roi-brand-new-apt-with-private-poo-2-293292/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "794",
-      "bedrooms": "1",
-      "price": 1290000,
-      "first_seen": "2026-04-01"
-    },
-    {
-      "id": "17093642",
-      "title": "High ROI | Fully Furnished Apt | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/16/high-roi-fully-furnished-apt-prime-loca-2-223706/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "692",
-      "bedrooms": "1",
-      "price": 970000,
-      "first_seen": "2026-04-01"
-    },
-    {
-      "id": "17076162",
-      "title": "Lavish Living | Smart Home | Private Jacuzzi | ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/12/luxury-living-smart-home-private-jacuzz-2-209182/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "911",
-      "bedrooms": "1",
-      "price": 1500000,
-      "first_seen": "2026-04-01"
-    },
-    {
-      "id": "17024759",
-      "title": "Brand New | Large Layout | Vacant | Private Pool",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/2/brand-new-large-layout-vacant-private-p-2-143335/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "795",
-      "bedrooms": "1",
-      "price": 1385000,
-      "first_seen": "2026-04-01"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-04"
+  "last_updated": "2026-04-05"
 }

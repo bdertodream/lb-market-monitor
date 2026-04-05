@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-04T21:28:41.623927",
-  "total_tracked": 7527,
+  "generated_at": "2026-04-05T02:40:02.125311",
+  "total_tracked": 7530,
   "total_drops": 575,
-  "total_new": 7527,
+  "total_new": 7530,
   "avg_drop_pct": 6.7,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -17320,6 +17320,72 @@
   ],
   "new_listings": [
     {
+      "id": "116843441",
+      "title": "Nissan Rogue 2018",
+      "url": "https://www.olx.com.lb/ad/nissan-rogue-2018-ID116843441.html",
+      "make": "Nissan",
+      "model": "Rogue",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Bsatine, Aley",
+      "original_price": 555,
+      "current_price": 555,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 555,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116843408",
+      "title": "Mercedes-Benz C-Class 2016",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2016-ID116843408.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2016,
+      "mileage": 200000,
+      "transmission": "Automatic",
+      "location": "Tayouneh, Beirut",
+      "original_price": 18500,
+      "current_price": 18500,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 18500,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116843391",
+      "title": "Volkswagen GTI 1989",
+      "url": "https://www.olx.com.lb/ad/volkswagen-gti-1989-ID116843391.html",
+      "make": "Volkswagen",
+      "model": "GTI",
+      "body_type": "Other",
+      "year": 1989,
+      "mileage": 1,
+      "transmission": "Manual",
+      "location": "Abou Samra, Tripoli",
+      "original_price": 850,
+      "current_price": 850,
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 850,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
       "id": "116828035",
       "title": "BMW 5-Series 2018",
       "url": "https://www.olx.com.lb/ad/bmw-5-series-2018-ID116828035.html",
@@ -18693,7 +18759,7 @@
     },
     {
       "id": "116842945",
-      "title": "Land Rover Discovery 2018",
+      "title": "Land Rover Discovery 2018 Clean Carfax US Source",
       "url": "https://www.olx.com.lb/ad/land-rover-discovery-2018-ID116842945.html",
       "make": "Land Rover",
       "model": "Discovery",
