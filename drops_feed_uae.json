@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 8086,
-  "total_drops": 129,
-  "total_new": 8086,
+  "total_tracked": 8090,
+  "total_drops": 130,
+  "total_new": 8090,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1811,6 +1811,20 @@
       "bedrooms": "",
       "date": "2026-04-06",
       "first_seen": "2026-03-10"
+    },
+    {
+      "id": "14687798",
+      "title": "Great Deal | 3 Bed Townhouse | Open Kitchen",
+      "old_price": 1399999,
+      "new_price": 1324999,
+      "drop_pct": 5.4,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2024/7/22/great-deal-3-bed-villa-open-kitchen-terrac-2-454/",
+      "area": "DAMAC Hills 2 (Akoya by DAMAC)",
+      "category": "Townhouse",
+      "size": "1699",
+      "bedrooms": "3",
+      "date": "2026-04-06",
+      "first_seen": "2026-03-16"
     }
   ],
   "new_listings": [
@@ -1834,6 +1848,50 @@
       "size": "15000",
       "bedrooms": "",
       "price": 8999990,
+      "first_seen": "2026-04-06"
+    },
+    {
+      "id": "16707714",
+      "title": "Fully Furnished l Huge Layout l Ready To Move",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/11/26/fully-furnished-l-huge-layout-l-ready-t-2-240480/",
+      "area": "Dubai Production City (IMPZ)",
+      "category": "Apartment",
+      "size": "990",
+      "bedrooms": "1",
+      "price": 850000,
+      "first_seen": "2026-04-06"
+    },
+    {
+      "id": "17225699",
+      "title": "Luxury living | Motivated Seller | Park View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/23/luxury-living-motivated-seller-park-vie-2-196272/",
+      "area": "Za'abeel",
+      "category": "Apartment",
+      "size": "773",
+      "bedrooms": "1",
+      "price": 2200000,
+      "first_seen": "2026-04-06"
+    },
+    {
+      "id": "16947990",
+      "title": "Showhome | 4 Bedrooms + Maids | Huge Plot",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/1/15/showhome-4-bedrooms-maids-huge-plot-2-259493/",
+      "area": "Arabian Ranches 2",
+      "category": "Villa",
+      "size": "2209",
+      "bedrooms": "4",
+      "price": 4600000,
+      "first_seen": "2026-04-06"
+    },
+    {
+      "id": "16386934",
+      "title": "1-Bed | Canal View | Luxury | Ready to Move",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/9/19/canal-one-bedroom-ready-november-luxuri-2-237935/",
+      "area": "Business Bay",
+      "category": "Apartment",
+      "size": "685",
+      "bedrooms": "1",
+      "price": 1695000,
       "first_seen": "2026-04-06"
     },
     {
@@ -5611,7 +5669,7 @@
     },
     {
       "id": "9809723",
-      "title": "Vacant | High Floor | Community Expert",
+      "title": "High Floor | Vacant | Community Expert",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/2/vacant-high-floor-community-expert-2-260029/",
       "area": "Jumeirah Lake Towers (JLT)",
       "category": "Office",
@@ -7268,50 +7326,6 @@
       "size": "4802",
       "bedrooms": "5",
       "price": 12500000,
-      "first_seen": "2026-04-02"
-    },
-    {
-      "id": "9804518",
-      "title": "Prime Ground Floor Luxury Retail in MBR City",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/17/prime-ground-floor-luxury-retail-in-mbr-2-116983/",
-      "area": "Mohammed Bin Rashid City",
-      "category": "Shop",
-      "size": "767",
-      "bedrooms": "",
-      "price": 2680000,
-      "first_seen": "2026-04-02"
-    },
-    {
-      "id": "17273696",
-      "title": "Fully Furnished | Ready to Move In | Easy Post Payment",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/2/fully-furnished-ready-to-move-in-easy-p-2-291759/",
-      "area": "Arjan",
-      "category": "Apartment",
-      "size": "473",
-      "bedrooms": "0",
-      "price": 550000,
-      "first_seen": "2026-04-02"
-    },
-    {
-      "id": "17275949",
-      "title": "4% DLD Waiver | 35/65 Payment Plan | Fully Furnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/2/4-dld-waiver-3565-payment-plan-fully-fu-2-319453/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "807",
-      "bedrooms": "1",
-      "price": 1342703,
-      "first_seen": "2026-04-02"
-    },
-    {
-      "id": "17271027",
-      "title": "NEW LAUNCH | HERMES BRANDED | LOWEST PSF",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/1/new-launch-hermes-branded-lowest-psf-2-144642/",
-      "area": "Dubai Islands",
-      "category": "Apartment",
-      "size": "902",
-      "bedrooms": "1",
-      "price": 1995000,
       "first_seen": "2026-04-02"
     }
   ],
