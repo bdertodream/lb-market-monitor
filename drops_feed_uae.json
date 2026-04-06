@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 8084,
-  "total_drops": 128,
-  "total_new": 8084,
+  "total_tracked": 8086,
+  "total_drops": 129,
+  "total_new": 8086,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1797,9 +1797,45 @@
       "bedrooms": "",
       "date": "2026-04-05",
       "first_seen": "2026-03-16"
+    },
+    {
+      "id": "9806886",
+      "title": "Fully Fitted Office |Prime Location| Distressed",
+      "old_price": 1900000,
+      "new_price": 1650000,
+      "drop_pct": 13.2,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/6/fully-fitted-office-prime-location-dist-2-436157/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "865",
+      "bedrooms": "",
+      "date": "2026-04-06",
+      "first_seen": "2026-03-10"
     }
   ],
   "new_listings": [
+    {
+      "id": "9802232",
+      "title": "Exclusive | Fully Furnished Office | Investment",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/3/exclusive-fully-furnished-office-invest-2-128334/",
+      "area": "Motor City",
+      "category": "Office",
+      "size": "3473",
+      "bedrooms": "",
+      "price": 8300000,
+      "first_seen": "2026-04-06"
+    },
+    {
+      "id": "9662223",
+      "title": "Prime Plot for Sale in Al Garhoud | Permit for 3 Villas | Flexible Zoning",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2024/12/12/permit-3-villas-amazing-location-land-for--2-009/",
+      "area": "Al Garhoud",
+      "category": "Land",
+      "size": "15000",
+      "bedrooms": "",
+      "price": 8999990,
+      "first_seen": "2026-04-06"
+    },
     {
       "id": "9803930",
       "title": "HO Q4 2027 | G+1 Layout | Flexible Retail Space",
@@ -7277,30 +7313,8 @@
       "bedrooms": "1",
       "price": 1995000,
       "first_seen": "2026-04-02"
-    },
-    {
-      "id": "17182803",
-      "title": "1 Bed | Prime Location | 10% Off | 60/40",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/10/1-bed-prime-location-10-off-6040-2-602595/",
-      "area": "Jumeirah Islands",
-      "category": "Apartment",
-      "size": "840",
-      "bedrooms": "1",
-      "price": 1888000,
-      "first_seen": "2026-04-02"
-    },
-    {
-      "id": "17065229",
-      "title": "Distressed Deal | Stunning Polo Club Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/10/polo-club-views-selling-at-original-pri-2-283035/",
-      "area": "Haven by Aldar",
-      "category": "Apartment",
-      "size": "1943",
-      "bedrooms": "3",
-      "price": 2695000,
-      "first_seen": "2026-04-02"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-05"
+  "last_updated": "2026-04-06"
 }
