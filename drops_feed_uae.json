@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 8383,
-  "total_drops": 137,
-  "total_new": 8383,
+  "total_tracked": 8387,
+  "total_drops": 138,
+  "total_new": 8387,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -1923,9 +1923,67 @@
       "bedrooms": "1",
       "date": "2026-04-07",
       "first_seen": "2026-03-08"
+    },
+    {
+      "id": "17290438",
+      "title": "Fully Upgraded | Fully Furnished | High ROI",
+      "old_price": 2300000,
+      "new_price": 2150000,
+      "drop_pct": 6.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/6/fully-upgraded-fully-furnished-high-roi-2-107019/",
+      "area": "Downtown Dubai",
+      "category": "Apartment",
+      "size": "1189",
+      "bedrooms": "1",
+      "date": "2026-04-08",
+      "first_seen": "2026-04-06"
     }
   ],
   "new_listings": [
+    {
+      "id": "17298343",
+      "title": "CHEAPEST SINGLE ROW | BIGGER PLOT | AREA EXPERT",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/4/8/cheapest-single-row-bigger-plot-area-ex-2-920930/",
+      "area": "Mohammed Bin Rashid City",
+      "category": "Villa",
+      "size": "2092",
+      "bedrooms": "4",
+      "price": 3749999,
+      "first_seen": "2026-04-08"
+    },
+    {
+      "id": "17237634",
+      "title": "Vacant on Transfer | Victory Heights Views",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/25/vacant-on-transfer-victory-heights-view-2-312039/",
+      "area": "Dubai Sports City",
+      "category": "Apartment",
+      "size": "949",
+      "bedrooms": "1",
+      "price": 795000,
+      "first_seen": "2026-04-08"
+    },
+    {
+      "id": "17277303",
+      "title": "Motivated Seller | Brand New | Ready Q2 2026",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/3/motivated-seller-brand-new-ready-q2-202-2-313647/",
+      "area": "Arjan",
+      "category": "Apartment",
+      "size": "410",
+      "bedrooms": "0",
+      "price": 690000,
+      "first_seen": "2026-04-08"
+    },
+    {
+      "id": "9810466",
+      "title": "big office space with toilet | with partition",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/8/big-office-space-with-toilet-with-parti-2-121785/",
+      "area": "International City",
+      "category": "Office",
+      "size": "1253",
+      "bedrooms": "",
+      "price": 1500000,
+      "first_seen": "2026-04-08"
+    },
     {
       "id": "16443809",
       "title": "Veda Residences by AUM \u2013 1 Bedroom l Prime Off-Plan Investment Next to Circle Mall",
@@ -4981,7 +5039,7 @@
       "category": "Apartment",
       "size": "1189",
       "bedrooms": "1",
-      "price": 2300000,
+      "price": 2150000,
       "first_seen": "2026-04-06"
     },
     {
@@ -7380,50 +7438,6 @@
       "size": "1457",
       "bedrooms": "",
       "price": 2622600,
-      "first_seen": "2026-04-03"
-    },
-    {
-      "id": "17274334",
-      "title": "Corner Unit | Private pool | Fully Upgraded Villa",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/4/2/corner-unit-private-pool-fully-upgraded-2-929740/",
-      "area": "The Villa",
-      "category": "Villa",
-      "size": "7923",
-      "bedrooms": "5",
-      "price": 10000000,
-      "first_seen": "2026-04-03"
-    },
-    {
-      "id": "17274140",
-      "title": "Off Plan Property Dubai | Studio Apartment Majan |",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/2/off-plan-property-dubai-apartments-in-m-2-563399/",
-      "area": "Majan",
-      "category": "Apartment",
-      "size": "438",
-      "bedrooms": "0",
-      "price": 1000528,
-      "first_seen": "2026-04-03"
-    },
-    {
-      "id": "17277562",
-      "title": "2 BR | FULLY FURNISHED | A WORLD OF AMENITIES |JVC",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/3/2-br-fully-furnished-a-world-of-ameniti-2-114891/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "858",
-      "bedrooms": "2",
-      "price": 1761000,
-      "first_seen": "2026-04-03"
-    },
-    {
-      "id": "17274010",
-      "title": "1 BR | FULLY FURNISHED | A WORLD OF AMENITIES |JVC",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/2/1-br-fully-furnished-a-world-of-ameniti-2-181892/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "576",
-      "bedrooms": "1",
-      "price": 1375000,
       "first_seen": "2026-04-03"
     }
   ],

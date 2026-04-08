@@ -16141,7 +16141,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-03",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -22856,7 +22856,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -26693,7 +26693,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -27348,12 +27348,13 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-05",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
-    "stale": true
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "116714259": {
     "id": "116714259",
@@ -36539,7 +36540,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-04",
     "drop_usd": 200,
     "drop_pct": 1.1,
@@ -38346,7 +38347,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-03",
     "drop_usd": 1300,
     "drop_pct": 7.4,
@@ -38403,7 +38404,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -41460,7 +41461,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -41851,7 +41852,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-07",
     "drop_usd": 1000,
     "drop_pct": 3.4,
@@ -45529,7 +45530,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-11",
     "drop_usd": 500,
     "drop_pct": 1.4,
@@ -47322,7 +47323,7 @@
     "location": "Mazraa, Beirut",
     "district": "Beirut",
     "original_price": 15000,
-    "current_price": 14900,
+    "current_price": 14000,
     "price_history": [
       {
         "price": 15000,
@@ -47331,14 +47332,18 @@
       {
         "price": 14900,
         "date": "2026-03-10"
+      },
+      {
+        "price": 14000,
+        "date": "2026-04-08"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-10",
-    "last_updated": "2026-03-10",
-    "drop_usd": 100,
-    "drop_pct": 0.7,
-    "last_drop_date": "2026-03-10",
+    "last_seen": "2026-04-08",
+    "last_updated": "2026-04-08",
+    "drop_usd": 1000,
+    "drop_pct": 6.7,
+    "last_drop_date": "2026-04-08",
     "posted_date": "2026-03-01",
     "stale": true
   },
@@ -49628,7 +49633,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-16",
     "drop_usd": 300,
     "drop_pct": 1.1,
@@ -62605,7 +62610,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-10",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
@@ -67147,7 +67152,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-10",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
@@ -86206,7 +86211,7 @@
     "location": "Maalaqah, Zahle",
     "district": "Zahle",
     "original_price": 32000,
-    "current_price": 30000,
+    "current_price": 33000,
     "price_history": [
       {
         "price": 32000,
@@ -86226,6 +86231,10 @@
       },
       {
         "price": 30000,
+        "date": "2026-04-08"
+      },
+      {
+        "price": 33000,
         "date": "2026-04-08"
       }
     ],
@@ -104003,7 +104012,7 @@
       }
     ],
     "first_seen": "2026-03-16",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-03",
     "posted_date": "2026-03-16",
     "drop_usd": 400,
@@ -109245,7 +109254,7 @@
       }
     ],
     "first_seen": "2026-03-17",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-17",
     "posted_date": "2026-03-17",
     "drop_usd": 0,
@@ -112833,7 +112842,7 @@
       }
     ],
     "first_seen": "2026-03-18",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-18",
     "posted_date": "2026-03-18",
     "drop_usd": 0,
@@ -115942,7 +115951,7 @@
       }
     ],
     "first_seen": "2026-03-18",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-18",
     "posted_date": "2026-03-18",
     "drop_usd": 0,
@@ -125417,7 +125426,7 @@
       }
     ],
     "first_seen": "2026-03-19",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-25",
     "posted_date": "2026-03-19",
     "drop_usd": 700,
@@ -131331,7 +131340,7 @@
       }
     ],
     "first_seen": "2026-03-20",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-24",
     "posted_date": "2026-03-20",
     "drop_usd": 0,
@@ -146875,7 +146884,7 @@
       }
     ],
     "first_seen": "2026-03-23",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-01",
     "posted_date": "2026-03-23",
     "drop_usd": 800,
@@ -154520,7 +154529,7 @@
       }
     ],
     "first_seen": "2026-03-24",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-03",
     "posted_date": "2026-03-24",
     "drop_usd": 501,
@@ -155809,7 +155818,7 @@
       }
     ],
     "first_seen": "2026-03-24",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-24",
     "posted_date": "2026-03-24",
     "drop_usd": 0,
@@ -181960,7 +181969,7 @@
       }
     ],
     "first_seen": "2026-03-28",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-28",
     "posted_date": "2026-03-28",
     "drop_usd": 0,
@@ -182516,7 +182525,7 @@
       }
     ],
     "first_seen": "2026-03-28",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-28",
     "posted_date": "2026-03-28",
     "drop_usd": 0,
@@ -184002,7 +184011,7 @@
       }
     ],
     "first_seen": "2026-03-29",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-02",
     "posted_date": "2026-03-29",
     "drop_usd": 900,
@@ -184518,7 +184527,7 @@
       }
     ],
     "first_seen": "2026-03-29",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-02",
     "posted_date": "2026-03-29",
     "drop_usd": 900,
@@ -187297,7 +187306,7 @@
       }
     ],
     "first_seen": "2026-03-29",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-29",
     "posted_date": "2026-03-29",
     "drop_usd": 0,
@@ -188086,7 +188095,7 @@
       }
     ],
     "first_seen": "2026-03-29",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-29",
     "posted_date": "2026-03-29",
     "drop_usd": 0,
@@ -189703,7 +189712,7 @@
       }
     ],
     "first_seen": "2026-03-30",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-30",
     "posted_date": "2026-03-30",
     "drop_usd": 0,
@@ -198881,7 +198890,7 @@
       }
     ],
     "first_seen": "2026-03-31",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-03-31",
     "posted_date": "2026-03-31",
     "drop_usd": 0,
@@ -201377,7 +201386,7 @@
       }
     ],
     "first_seen": "2026-04-01",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-01",
     "posted_date": "2026-04-01",
     "drop_usd": 0,
@@ -201629,7 +201638,7 @@
       }
     ],
     "first_seen": "2026-04-01",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-01",
     "posted_date": "2026-04-01",
     "drop_usd": 0,
@@ -202985,7 +202994,7 @@
       }
     ],
     "first_seen": "2026-04-01",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-01",
     "posted_date": "2026-04-01",
     "drop_usd": 0,
@@ -203661,7 +203670,7 @@
       }
     ],
     "first_seen": "2026-04-01",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-01",
     "posted_date": "2026-04-01",
     "drop_usd": 0,
@@ -203885,7 +203894,7 @@
       }
     ],
     "first_seen": "2026-04-01",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-01",
     "posted_date": "2026-04-01",
     "drop_usd": 0,
@@ -209353,7 +209362,7 @@
       }
     ],
     "first_seen": "2026-04-02",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-02",
     "posted_date": "2026-04-02",
     "drop_usd": 0,
@@ -211829,7 +211838,7 @@
       }
     ],
     "first_seen": "2026-04-02",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-02",
     "posted_date": "2026-04-02",
     "drop_usd": 0,
@@ -213061,7 +213070,7 @@
       }
     ],
     "first_seen": "2026-04-02",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-02",
     "posted_date": "2026-04-02",
     "drop_usd": 0,
@@ -214013,7 +214022,7 @@
       }
     ],
     "first_seen": "2026-04-03",
-    "last_seen": "2026-04-07",
+    "last_seen": "2026-04-08",
     "last_updated": "2026-04-03",
     "posted_date": "2026-04-03",
     "drop_usd": 0,
@@ -234057,10 +234066,14 @@
     "location": "Baabda Town, Baabda",
     "district": "Baabda",
     "original_price": 13400,
-    "current_price": 13400,
+    "current_price": 13500,
     "price_history": [
       {
         "price": 13400,
+        "date": "2026-04-08"
+      },
+      {
+        "price": 13500,
         "date": "2026-04-08"
       }
     ],
@@ -234537,6 +234550,146 @@
     "price_history": [
       {
         "price": 18000,
+        "date": "2026-04-08"
+      }
+    ],
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08",
+    "last_updated": "2026-04-08",
+    "posted_date": "2026-04-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116846603": {
+    "id": "116846603",
+    "title": "Nissan Rogue Sport 2019",
+    "url": "https://www.olx.com.lb/ad/nissan-rogue-sport-2019-ID116846603.html",
+    "make": "Nissan",
+    "model": "Rogue Sport",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 84160,
+    "transmission": "Automatic",
+    "location": "Verdun, Beirut",
+    "district": "Beirut",
+    "original_price": 16800,
+    "current_price": 16800,
+    "price_history": [
+      {
+        "price": 16800,
+        "date": "2026-04-08"
+      }
+    ],
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08",
+    "last_updated": "2026-04-08",
+    "posted_date": "2026-04-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116846593": {
+    "id": "116846593",
+    "title": "TOYOTA  YARIS  GR-FOUR  2023 CIRCUIT PACK 1.400Km ONLY",
+    "url": "https://www.olx.com.lb/ad/toyota-yaris-gr-four-2023-circuit-pack-1400km-only-ID116846593.html",
+    "make": "Nissan",
+    "model": "Other",
+    "body_type": "Other",
+    "year": 2023,
+    "mileage": 1400,
+    "transmission": "Automatic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 49500,
+    "current_price": 49500,
+    "price_history": [
+      {
+        "price": 49500,
+        "date": "2026-04-08"
+      }
+    ],
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08",
+    "last_updated": "2026-04-08",
+    "posted_date": "2026-04-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116846592": {
+    "id": "116846592",
+    "title": "نيسان مورانو 2003",
+    "url": "https://www.olx.com.lb/ad/نيسان-مورانو-2003-ID116846592.html",
+    "make": "Nissan",
+    "model": "Murano",
+    "body_type": "SUV",
+    "year": 2003,
+    "mileage": 118000,
+    "transmission": "Automatic",
+    "location": "Al Beddaoui, Tripoli",
+    "district": "Tripoli",
+    "original_price": 2000,
+    "current_price": 2000,
+    "price_history": [
+      {
+        "price": 2000,
+        "date": "2026-04-08"
+      }
+    ],
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08",
+    "last_updated": "2026-04-08",
+    "posted_date": "2026-04-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116846590": {
+    "id": "116846590",
+    "title": "Jeep Grand Cherokee 2014 overland",
+    "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2014-overland-ID116846590.html",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "body_type": "SUV",
+    "year": 2014,
+    "mileage": 160,
+    "transmission": "Automatic",
+    "location": "Mansourieh, Metn",
+    "district": "Metn",
+    "original_price": 15500,
+    "current_price": 15500,
+    "price_history": [
+      {
+        "price": 15500,
+        "date": "2026-04-08"
+      }
+    ],
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08",
+    "last_updated": "2026-04-08",
+    "posted_date": "2026-04-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116846589": {
+    "id": "116846589",
+    "title": "Nissan Rogue SV 2018 (70/137777]",
+    "url": "https://www.olx.com.lb/ad/nissan-rogue-sv-2018-70137777-ID116846589.html",
+    "make": "Nissan",
+    "model": "Rogue",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 76000,
+    "transmission": "Steptronic",
+    "location": "Antelias, Metn",
+    "district": "Metn",
+    "original_price": 15700,
+    "current_price": 15700,
+    "price_history": [
+      {
+        "price": 15700,
         "date": "2026-04-08"
       }
     ],
