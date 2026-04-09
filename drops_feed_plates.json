@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-09T17:17:40.609103",
+  "generated_at": "2026-04-09T21:01:32.600166",
   "total_tracked": 379,
-  "total_drops": 34,
+  "total_drops": 35,
   "total_new": 379,
-  "avg_drop_pct": 24.5,
+  "avg_drop_pct": 25.3,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -111,6 +111,31 @@
         {
           "price": 3200,
           "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "116823787",
+      "title": "Y 1405   Special car plate number for sale",
+      "url": "https://www.olx.com.lb/ad/s-666663-special-car-plate-number-for-sale-ID116823787.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Mar Elias, Beirut",
+      "original_price": 11000,
+      "current_price": 5200,
+      "drop_usd": 5800,
+      "drop_pct": 52.7,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 11000,
+          "date": "2026-03-17"
+        },
+        {
+          "price": 5200,
+          "date": "2026-04-09"
         }
       ]
     },
@@ -3422,19 +3447,23 @@
     },
     {
       "id": "116823787",
-      "title": "S 666663   Special car plate number for sale (63 AMG)",
+      "title": "Y 1405   Special car plate number for sale",
       "url": "https://www.olx.com.lb/ad/s-666663-special-car-plate-number-for-sale-ID116823787.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Mar Elias, Beirut",
       "original_price": 11000,
-      "current_price": 11000,
+      "current_price": 5200,
       "first_seen": "2026-03-17",
       "posted_date": "2026-03-17",
       "price_history": [
         {
           "price": 11000,
           "date": "2026-03-17"
+        },
+        {
+          "price": 5200,
+          "date": "2026-04-09"
         }
       ]
     },
