@@ -5156,7 +5156,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-08",
+    "last_seen": "2026-04-09",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -7022,16 +7022,20 @@
     "location": "Zalka, Metn",
     "district": "Metn",
     "original_price": 2500,
-    "current_price": 2500,
+    "current_price": 3000,
     "price_history": [
       {
         "price": 2500,
         "date": "2026-03-19"
+      },
+      {
+        "price": 3000,
+        "date": "2026-04-09"
       }
     ],
     "first_seen": "2026-03-19",
     "last_seen": "2026-04-09",
-    "last_updated": "2026-03-19",
+    "last_updated": "2026-04-09",
     "posted_date": "2026-03-19",
     "drop_usd": 0,
     "drop_pct": 0,

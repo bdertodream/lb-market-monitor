@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T02:32:40.640120",
+  "generated_at": "2026-04-09T05:57:43.642476",
   "total_tracked": 374,
   "total_drops": 34,
   "total_new": 374,
@@ -2886,13 +2886,17 @@
       "plate_type": "Standard",
       "location": "Zalka, Metn",
       "original_price": 2500,
-      "current_price": 2500,
+      "current_price": 3000,
       "first_seen": "2026-03-19",
       "posted_date": "2026-03-19",
       "price_history": [
         {
           "price": 2500,
           "date": "2026-03-19"
+        },
+        {
+          "price": 3000,
+          "date": "2026-04-09"
         }
       ]
     },
