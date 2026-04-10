@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 8854,
-  "total_drops": 155,
-  "total_new": 8854,
+  "total_tracked": 8859,
+  "total_drops": 156,
+  "total_new": 8859,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -2175,6 +2175,20 @@
       "bedrooms": "0",
       "date": "2026-04-10",
       "first_seen": "2026-03-21"
+    },
+    {
+      "id": "9788889",
+      "title": "LUXURY OFFICE | BURJ KHALIFA VIEWS | VACANT",
+      "old_price": 4700000,
+      "new_price": 4200000,
+      "drop_pct": 10.6,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/11/7/luxury-office-burj-khalifa-views-vacant-2-646465/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1340",
+      "bedrooms": "",
+      "date": "2026-04-10",
+      "first_seen": "2026-03-10"
     }
   ],
   "new_listings": [
@@ -3947,6 +3961,61 @@
       "size": "23469",
       "bedrooms": "",
       "price": 57000000,
+      "first_seen": "2026-04-10"
+    },
+    {
+      "id": "17311517",
+      "title": "Near Metro | Post Handover 1% Monthly | Luxury 1BHK | Multiple Views | Balcony Access",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/10/next-to-metro-station-luxury-1bhk-multi-2-496669/",
+      "area": "International City",
+      "category": "Apartment",
+      "size": "716",
+      "bedrooms": "1",
+      "price": 878000,
+      "first_seen": "2026-04-10"
+    },
+    {
+      "id": "9807551",
+      "title": "Ultra Luxury Furnished Office | Grade A | Burj Khalifa View | 50/50 Payment Plan",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/11/ultra-luxury-furnished-office-grade-a-b-2-114761/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "670",
+      "bedrooms": "",
+      "price": 6755000,
+      "first_seen": "2026-04-10"
+    },
+    {
+      "id": "9807538",
+      "title": "Beautiful Furnished Office | Jumeriah Bay X2",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/11/beautiful-furnished-office-jumeriah-bay-2-131726/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "587",
+      "bedrooms": "",
+      "price": 1350000,
+      "first_seen": "2026-04-10"
+    },
+    {
+      "id": "9807537",
+      "title": "NEXT TO METRO | BURJ KHALIFA VIEW | HIGH-END",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/11/next-to-metro-burj-khalifa-view-high-en-2-572739/",
+      "area": "Culture Village (Jaddaf Waterfront)",
+      "category": "Office",
+      "size": "1255",
+      "bedrooms": "",
+      "price": 4173108,
+      "first_seen": "2026-04-10"
+    },
+    {
+      "id": "9807510",
+      "title": "HIGH CAPITAL GROWTH | ULTRA LUXURY | COMMERCIAL",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/11/high-capital-growth-ultra-luxury-commer-2-676184/",
+      "area": "Meydan",
+      "category": "Shop",
+      "size": "903",
+      "bedrooms": "",
+      "price": 6344927,
       "first_seen": "2026-04-10"
     },
     {
@@ -7621,61 +7690,6 @@
       "size": "10340",
       "bedrooms": "5",
       "price": 20500000,
-      "first_seen": "2026-04-07"
-    },
-    {
-      "id": "16798925",
-      "title": "One Bedroom I Luxury with High Quality Design I Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/12/16/one-bedroom-i-luxury-with-high-quality--2-114882/",
-      "area": "Dubai Investment Park (DIP)",
-      "category": "Apartment",
-      "size": "639",
-      "bedrooms": "1",
-      "price": 980000,
-      "first_seen": "2026-04-07"
-    },
-    {
-      "id": "17288572",
-      "title": "High Floor | Best View | Motivated Seller",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/6/high-floor-best-view-motivated-seller-2-174300/",
-      "area": "Dubai Harbour",
-      "category": "Apartment",
-      "size": "1351",
-      "bedrooms": "2",
-      "price": 5199999,
-      "first_seen": "2026-04-07"
-    },
-    {
-      "id": "17288567",
-      "title": "Full Palm and Sea View | High Floor | Furnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/6/full-palm-and-sea-view-high-floor-furni-2-307879/",
-      "area": "Dubai Harbour",
-      "category": "Apartment",
-      "size": "1595",
-      "bedrooms": "3",
-      "price": 7299999,
-      "first_seen": "2026-04-07"
-    },
-    {
-      "id": "17288569",
-      "title": "Ready Soon | Best Layout | Sea and Ain Dubai View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/6/ready-soon-best-layout-sea-and-ain-duba-2-216379/",
-      "area": "Palm Jumeirah",
-      "category": "Apartment",
-      "size": "2108",
-      "bedrooms": "3",
-      "price": 9390000,
-      "first_seen": "2026-04-07"
-    },
-    {
-      "id": "17288571",
-      "title": "Prime Location | Luxury Finish | Completion Q4 2026",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/4/6/prime-location-luxury-finish-completion-2-149872/",
-      "area": "Tilal Al Ghaf",
-      "category": "Villa",
-      "size": "3712",
-      "bedrooms": "4",
-      "price": 8199999,
       "first_seen": "2026-04-07"
     }
   ],
