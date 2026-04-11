@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-10T20:47:12.194225",
-  "total_tracked": 381,
+  "generated_at": "2026-04-11T02:21:42.287004",
+  "total_tracked": 382,
   "total_drops": 36,
-  "total_new": 381,
+  "total_new": 382,
   "avg_drop_pct": 24.8,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -1096,6 +1096,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116849611",
+      "title": "Special Car Plate for Sale",
+      "url": "https://www.olx.com.lb/ad/special-car-plate-for-sale-ID116849611.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-04-11",
+      "posted_date": "2026-04-11",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-04-11"
+        }
+      ]
+    },
     {
       "id": "116848849",
       "title": "G   211 911",

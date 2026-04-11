@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 8859,
-  "total_drops": 156,
-  "total_new": 8859,
+  "total_tracked": 8860,
+  "total_drops": 157,
+  "total_new": 8860,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -2189,9 +2189,34 @@
       "bedrooms": "",
       "date": "2026-04-10",
       "first_seen": "2026-03-10"
+    },
+    {
+      "id": "9795046",
+      "title": "High End Grade A Office | Modern Corporate Space",
+      "old_price": 10600000,
+      "new_price": 10000000,
+      "drop_pct": 5.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/12/18/office-for-sale-grade-a-one-by-omniyat--2-103030/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "2648",
+      "bedrooms": "",
+      "date": "2026-04-11",
+      "first_seen": "2026-03-13"
     }
   ],
   "new_listings": [
+    {
+      "id": "16348044",
+      "title": "Last Available Unit | Ready Soon | 20-80 Payment Plan | Closed Kitchen | Direct From Developer - No Commission",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/9/11/gated-community-premium-quality-closed--2-870009/",
+      "area": "Living Legends",
+      "category": "Apartment",
+      "size": "1483",
+      "bedrooms": "2",
+      "price": 1550000,
+      "first_seen": "2026-04-11"
+    },
     {
       "id": "9808863",
       "title": "Shell and Core | Prime Location | Investment Deal",
@@ -7680,19 +7705,8 @@
       "bedrooms": "2",
       "price": 1150000,
       "first_seen": "2026-04-07"
-    },
-    {
-      "id": "16734774",
-      "title": "Remarkably Located Corner A-Type Villa",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2025/12/3/remarkably-located-corner-a-type-villa-2-332891/",
-      "area": "Meydan",
-      "category": "Villa",
-      "size": "10340",
-      "bedrooms": "5",
-      "price": 20500000,
-      "first_seen": "2026-04-07"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-10"
+  "last_updated": "2026-04-11"
 }

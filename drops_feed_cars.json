@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-10T20:46:55.055508",
-  "total_tracked": 8435,
+  "generated_at": "2026-04-11T02:21:21.567357",
+  "total_tracked": 8441,
   "total_drops": 756,
-  "total_new": 8435,
+  "total_new": 8441,
   "avg_drop_pct": 7.1,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -2928,6 +2928,43 @@
       ]
     },
     {
+      "id": "116813273",
+      "title": "Hyundai Tucson 2018",
+      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2018-ID116813273.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 83000,
+      "transmission": "Automatic",
+      "location": "Mazraa, Beirut",
+      "original_price": 15000,
+      "current_price": 13500,
+      "drop_usd": 1500,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-04-11",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 15000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 14900,
+          "date": "2026-03-10"
+        },
+        {
+          "price": 14000,
+          "date": "2026-04-08"
+        },
+        {
+          "price": 13500,
+          "date": "2026-04-11"
+        }
+      ]
+    },
+    {
       "id": "116814379",
       "title": "Daihatsu Terios 2005",
       "url": "https://www.olx.com.lb/ad/daihatsu-terios-2005-ID116814379.html",
@@ -5711,39 +5748,6 @@
         {
           "price": 5500,
           "date": "2026-04-02"
-        }
-      ]
-    },
-    {
-      "id": "116813273",
-      "title": "Hyundai Tucson 2018",
-      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2018-ID116813273.html",
-      "make": "Hyundai",
-      "model": "Tucson",
-      "body_type": "SUV",
-      "year": 2018,
-      "mileage": 83000,
-      "transmission": "Automatic",
-      "location": "Mazraa, Beirut",
-      "original_price": 15000,
-      "current_price": 14000,
-      "drop_usd": 1000,
-      "drop_pct": 6.7,
-      "last_drop_date": "2026-04-08",
-      "first_seen": "2026-03-01",
-      "posted_date": "2026-03-01",
-      "price_history": [
-        {
-          "price": 15000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 14900,
-          "date": "2026-03-10"
-        },
-        {
-          "price": 14000,
-          "date": "2026-04-08"
         }
       ]
     },
@@ -22889,6 +22893,138 @@
   ],
   "new_listings": [
     {
+      "id": "116849634",
+      "title": "RASAMNY MG ZS ELECTRIC 2021 with 45,000KM | Under Warranty | 1 Owner",
+      "url": "https://www.olx.com.lb/ad/rasamny-mg-zs-electric-2021-with-45000km-under-warranty-1-owner-ID116849634.html",
+      "make": "MG",
+      "model": "ZS",
+      "body_type": "SUV",
+      "year": 2021,
+      "mileage": 45000,
+      "transmission": "Automatic",
+      "location": "Badaro, Beirut",
+      "original_price": 16500,
+      "current_price": 16500,
+      "first_seen": "2026-04-11",
+      "posted_date": "2026-04-11",
+      "price_history": [
+        {
+          "price": 16500,
+          "date": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "id": "116849628",
+      "title": "Subaru XV Crosstrek Limited 2018",
+      "url": "https://www.olx.com.lb/ad/subaru-xv-crosstrek-limited-2018-ID116849628.html",
+      "make": "Subaru",
+      "model": "XV Crosstrek",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 70000,
+      "transmission": "Automatic",
+      "location": "Bourj Hammoud, Metn",
+      "original_price": 18500,
+      "current_price": 18500,
+      "first_seen": "2026-04-11",
+      "posted_date": "2026-04-11",
+      "price_history": [
+        {
+          "price": 18500,
+          "date": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "id": "116849621",
+      "title": "Jeep Grand Cherokee 2012",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2012-ID116849621.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2012,
+      "mileage": 260000,
+      "transmission": "Steptronic",
+      "location": "Hamra, Beirut",
+      "original_price": 10000,
+      "current_price": 10000,
+      "first_seen": "2026-04-11",
+      "posted_date": "2026-04-11",
+      "price_history": [
+        {
+          "price": 10000,
+          "date": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "id": "116849595",
+      "title": "Jeep Grand Cherokee 2016",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2016-ID116849595.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 107,
+      "transmission": "Automatic",
+      "location": "Jdita, Zahle",
+      "original_price": 25000,
+      "current_price": 25000,
+      "first_seen": "2026-04-11",
+      "posted_date": "2026-04-11",
+      "price_history": [
+        {
+          "price": 25000,
+          "date": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "id": "116849590",
+      "title": "Mercedes C 180 2018 TGF Gargour ( 1 Owner 35000 KM ) Like New",
+      "url": "https://www.olx.com.lb/ad/mercedes-c-180-2018-tgf-gargour-1-owner-35000-km-like-new-ID116849590.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 35000,
+      "transmission": "Steptronic",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 21000,
+      "current_price": 21000,
+      "first_seen": "2026-04-11",
+      "posted_date": "2026-04-11",
+      "price_history": [
+        {
+          "price": 21000,
+          "date": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "id": "116664141",
+      "title": "Range Rover sport autobiography V8 new arrival 2017 dynamic",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2017-ID116664141.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 118000,
+      "transmission": "Steptronic",
+      "location": "Abou Samra, Tripoli",
+      "original_price": 38500,
+      "current_price": 38500,
+      "first_seen": "2026-04-11",
+      "posted_date": "2026-04-11",
+      "price_history": [
+        {
+          "price": 38500,
+          "date": "2026-04-11"
+        }
+      ]
+    },
+    {
       "id": "116848695",
       "title": "Nissan Altima 2015",
       "url": "https://www.olx.com.lb/ad/nissan-altima-2015-ID116848695.html",
@@ -23334,7 +23470,7 @@
     },
     {
       "id": "116848856",
-      "title": "Fiat 500L 2015",
+      "title": "Fiat 500L 2015 TURBO",
       "url": "https://www.olx.com.lb/ad/fiat-500l-2015-ID116848856.html",
       "make": "Fiat",
       "model": "500L",
@@ -211198,7 +211334,7 @@
       "transmission": "Automatic",
       "location": "Mazraa, Beirut",
       "original_price": 15000,
-      "current_price": 14000,
+      "current_price": 13500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -211213,6 +211349,10 @@
         {
           "price": 14000,
           "date": "2026-04-08"
+        },
+        {
+          "price": 13500,
+          "date": "2026-04-11"
         }
       ]
     },
