@@ -535,7 +535,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-11",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -1891,7 +1891,7 @@
     "location": "Badaro, Beirut",
     "district": "Beirut",
     "original_price": 9700,
-    "current_price": 9300,
+    "current_price": 10900,
     "price_history": [
       {
         "price": 9700,
@@ -1900,11 +1900,15 @@
       {
         "price": 9300,
         "date": "2026-04-06"
+      },
+      {
+        "price": 10900,
+        "date": "2026-04-11"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-04-11",
-    "last_updated": "2026-04-06",
+    "last_updated": "2026-04-11",
     "drop_usd": 400,
     "drop_pct": 4.1,
     "last_drop_date": "2026-04-06",
@@ -9807,7 +9811,7 @@
     "location": "Achrafieh, Beirut",
     "district": "Beirut",
     "original_price": 5000,
-    "current_price": 4000,
+    "current_price": 3800,
     "price_history": [
       {
         "price": 5000,
@@ -9816,14 +9820,18 @@
       {
         "price": 4000,
         "date": "2026-04-11"
+      },
+      {
+        "price": 3800,
+        "date": "2026-04-11"
       }
     ],
     "first_seen": "2026-04-11",
     "last_seen": "2026-04-11",
     "last_updated": "2026-04-11",
     "posted_date": "2026-04-11",
-    "drop_usd": 1000,
-    "drop_pct": 20.0,
+    "drop_usd": 1200,
+    "drop_pct": 24.0,
     "last_drop_date": "2026-04-11"
   },
   "116850357": {
@@ -9863,6 +9871,30 @@
     "price_history": [
       {
         "price": 2900,
+        "date": "2026-04-11"
+      }
+    ],
+    "first_seen": "2026-04-11",
+    "last_seen": "2026-04-11",
+    "last_updated": "2026-04-11",
+    "posted_date": "2026-04-11",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116850575": {
+    "id": "116850575",
+    "title": "1656 y",
+    "url": "https://www.olx.com.lb/ad/1656-y-ID116850575.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Bourj Hammoud, Metn",
+    "district": "Metn",
+    "original_price": 5500,
+    "current_price": 5500,
+    "price_history": [
+      {
+        "price": 5500,
         "date": "2026-04-11"
       }
     ],
