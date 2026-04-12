@@ -50414,7 +50414,7 @@
   "16776554": {
     "id": "16776554",
     "title": "LOCAL PRICE | REAL CAR",
-    "price": 289000,
+    "price": 375000,
     "make": "Zeekr",
     "model": "9X",
     "year": "2025",
@@ -50449,6 +50449,10 @@
       {
         "price": 289000,
         "date": "2026-04-09T05:58:22Z"
+      },
+      {
+        "price": 375000,
+        "date": "2026-04-12T06:03:31Z"
       }
     ],
     "date": "2026-03-16"
@@ -124732,5 +124736,71 @@
       }
     ],
     "date": "2026-04-11"
+  },
+  "16788540": {
+    "id": "16788540",
+    "title": "AMAZING BMW 4-SERIES 435i Sport-line, Original M SPORT PACKAGE. VERY LOW MILEAGE &amp; FSH",
+    "price": 64900,
+    "make": "BMW",
+    "model": "4-Series",
+    "year": "2016",
+    "kilometers": "93550",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Meydan",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/4-series/2026/3/31/amazing-bmw-4-series-435i-sport-line-origi-2-868---475db09e7ae841d58f1235d0f7f943cd/",
+    "first_seen": "2026-04-12T06:03:31Z",
+    "prices": [
+      {
+        "price": 64900,
+        "date": "2026-04-12T06:03:31Z"
+      }
+    ],
+    "date": "2026-04-12"
+  },
+  "16494282": {
+    "id": "16494282",
+    "title": "Hino 500 1927 Tipper | 2018 | 13.4T Load | Powerful 7.6L Engine | Ready for Work! Book Now!",
+    "price": 125000,
+    "make": "Hino",
+    "model": "300",
+    "year": "2018",
+    "kilometers": "201690",
+    "body_type": "Utility Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hino/300/2025/7/22/hino-500-1927-tipper-2018-134t-load-powerf-2-339---8a4abf9b8ce84f4e85e9723d122efbe7/",
+    "first_seen": "2026-04-12T06:03:31Z",
+    "prices": [
+      {
+        "price": 125000,
+        "date": "2026-04-12T06:03:31Z"
+      }
+    ],
+    "date": "2026-04-12"
+  },
+  "16790995": {
+    "id": "16790995",
+    "title": "2017 Lexus GS 350 F-Sport \u2013 GCC \u2014 3 Keys \u2014 Premium Performance &amp; Luxury Sedan",
+    "price": 72900,
+    "make": "Lexus",
+    "model": "GS-Series",
+    "year": "2017",
+    "kilometers": "159000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/gs-series/2026/4/3/2017-lexus-gs-350-f-sport-gcc-3-keys-premi-2-680---14066a62a9ac4d4a9b10d87208b58dd8/",
+    "first_seen": "2026-04-12T06:03:31Z",
+    "prices": [
+      {
+        "price": 72900,
+        "date": "2026-04-12T06:03:31Z"
+      }
+    ],
+    "date": "2026-04-12"
   }
 }
