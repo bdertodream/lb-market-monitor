@@ -4353,14 +4353,14 @@
   },
   "116546493": {
     "id": "116546493",
-    "title": "رقم سيارة مميز G 8073",
+    "title": "رقم سيارة مميزA 50115",
     "url": "https://www.olx.com.lb/ad/رقم-سيارة-مميز-جدا-y-222211-ID116546493.html",
     "plate_code": "",
     "plate_type": "Standard",
     "location": "Yarzeh, Baabda",
     "district": "Baabda",
     "original_price": 4500,
-    "current_price": 4200,
+    "current_price": 3500,
     "price_history": [
       {
         "price": 4500,
@@ -4369,14 +4369,18 @@
       {
         "price": 4200,
         "date": "2026-03-24"
+      },
+      {
+        "price": 3500,
+        "date": "2026-04-13"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-04-13",
-    "last_updated": "2026-03-24",
-    "drop_usd": 300,
-    "drop_pct": 6.7,
-    "last_drop_date": "2026-03-24",
+    "last_updated": "2026-04-13",
+    "drop_usd": 1000,
+    "drop_pct": 22.2,
+    "last_drop_date": "2026-04-13",
     "posted_date": "2026-03-01"
   },
   "116783749": {
@@ -10072,6 +10076,30 @@
     "price_history": [
       {
         "price": 29999,
+        "date": "2026-04-13"
+      }
+    ],
+    "first_seen": "2026-04-13",
+    "last_seen": "2026-04-13",
+    "last_updated": "2026-04-13",
+    "posted_date": "2026-04-13",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116852325": {
+    "id": "116852325",
+    "title": "Special for BMW 428",
+    "url": "https://www.olx.com.lb/ad/special-for-bmw-428-ID116852325.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Jdaide, Metn",
+    "district": "Metn",
+    "original_price": 2999,
+    "current_price": 2999,
+    "price_history": [
+      {
+        "price": 2999,
         "date": "2026-04-13"
       }
     ],

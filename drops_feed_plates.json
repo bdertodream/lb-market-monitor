@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-13T10:05:12.895039",
-  "total_tracked": 391,
+  "generated_at": "2026-04-13T13:36:18.607488",
+  "total_tracked": 392,
   "total_drops": 38,
-  "total_new": 391,
-  "avg_drop_pct": 24.9,
+  "total_new": 392,
+  "avg_drop_pct": 25.3,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -429,6 +429,35 @@
         {
           "price": 19000,
           "date": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "116546493",
+      "title": "رقم سيارة مميزA 50115",
+      "url": "https://www.olx.com.lb/ad/رقم-سيارة-مميز-جدا-y-222211-ID116546493.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Yarzeh, Baabda",
+      "original_price": 4500,
+      "current_price": 3500,
+      "drop_usd": 1000,
+      "drop_pct": 22.2,
+      "last_drop_date": "2026-04-13",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 4500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 4200,
+          "date": "2026-03-24"
+        },
+        {
+          "price": 3500,
+          "date": "2026-04-13"
         }
       ]
     },
@@ -932,31 +961,6 @@
       ]
     },
     {
-      "id": "116546493",
-      "title": "رقم سيارة مميز G 8073",
-      "url": "https://www.olx.com.lb/ad/رقم-سيارة-مميز-جدا-y-222211-ID116546493.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Yarzeh, Baabda",
-      "original_price": 4500,
-      "current_price": 4200,
-      "drop_usd": 300,
-      "drop_pct": 6.7,
-      "last_drop_date": "2026-03-24",
-      "first_seen": "2026-03-01",
-      "posted_date": "2026-03-01",
-      "price_history": [
-        {
-          "price": 4500,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 4200,
-          "date": "2026-03-24"
-        }
-      ]
-    },
-    {
       "id": "116829545",
       "title": "special plats number",
       "url": "https://www.olx.com.lb/ad/special-plats-number-ID116829545.html",
@@ -1198,6 +1202,24 @@
       "price_history": [
         {
           "price": 29999,
+          "date": "2026-04-13"
+        }
+      ]
+    },
+    {
+      "id": "116852325",
+      "title": "Special for BMW 428",
+      "url": "https://www.olx.com.lb/ad/special-for-bmw-428-ID116852325.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jdaide, Metn",
+      "original_price": 2999,
+      "current_price": 2999,
+      "first_seen": "2026-04-13",
+      "posted_date": "2026-04-13",
+      "price_history": [
+        {
+          "price": 2999,
           "date": "2026-04-13"
         }
       ]
@@ -8006,13 +8028,13 @@
     },
     {
       "id": "116546493",
-      "title": "رقم سيارة مميز G 8073",
+      "title": "رقم سيارة مميزA 50115",
       "url": "https://www.olx.com.lb/ad/رقم-سيارة-مميز-جدا-y-222211-ID116546493.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Yarzeh, Baabda",
       "original_price": 4500,
-      "current_price": 4200,
+      "current_price": 3500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -8023,6 +8045,10 @@
         {
           "price": 4200,
           "date": "2026-03-24"
+        },
+        {
+          "price": 3500,
+          "date": "2026-04-13"
         }
       ]
     },
