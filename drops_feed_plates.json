@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-13T13:36:18.607488",
-  "total_tracked": 392,
-  "total_drops": 38,
-  "total_new": 392,
-  "avg_drop_pct": 25.3,
+  "generated_at": "2026-04-13T17:12:59.070407",
+  "total_tracked": 393,
+  "total_drops": 39,
+  "total_new": 393,
+  "avg_drop_pct": 24.7,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -1090,6 +1090,31 @@
       ]
     },
     {
+      "id": "116832752",
+      "title": "nomra hamra taxi",
+      "url": "https://www.olx.com.lb/ad/nomra-hamra-taxi-ID116832752.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Al Madina as Sinaiya, Zahle",
+      "original_price": 17500,
+      "current_price": 16900,
+      "drop_usd": 600,
+      "drop_pct": 3.4,
+      "last_drop_date": "2026-04-13",
+      "first_seen": "2026-03-26",
+      "posted_date": "2026-03-26",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-03-26"
+        },
+        {
+          "price": 16900,
+          "date": "2026-04-13"
+        }
+      ]
+    },
+    {
       "id": "116807143",
       "title": "3000$",
       "url": "https://www.olx.com.lb/ad/n-42942-ID116807143.html",
@@ -1220,6 +1245,24 @@
       "price_history": [
         {
           "price": 2999,
+          "date": "2026-04-13"
+        }
+      ]
+    },
+    {
+      "id": "116852600",
+      "title": "Special plate number",
+      "url": "https://www.olx.com.lb/ad/special-plate-number-ID116852600.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Badaro, Beirut",
+      "original_price": 6500,
+      "current_price": 6500,
+      "first_seen": "2026-04-13",
+      "posted_date": "2026-04-13",
+      "price_history": [
+        {
+          "price": 6500,
           "date": "2026-04-13"
         }
       ]
@@ -2516,13 +2559,17 @@
       "plate_type": "Standard",
       "location": "Al Madina as Sinaiya, Zahle",
       "original_price": 17500,
-      "current_price": 17500,
+      "current_price": 16900,
       "first_seen": "2026-03-26",
       "posted_date": "2026-03-26",
       "price_history": [
         {
           "price": 17500,
           "date": "2026-03-26"
+        },
+        {
+          "price": 16900,
+          "date": "2026-04-13"
         }
       ]
     },
