@@ -258,7 +258,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-26",
     "drop_usd": 3000,
     "drop_pct": 7.0,
@@ -1821,7 +1821,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-08",
     "drop_usd": 300,
     "drop_pct": 1.5,
@@ -2827,7 +2827,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -5810,7 +5810,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-01",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -5868,7 +5868,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-24",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -7633,19 +7633,23 @@
     "location": "Hazmiyeh, Baabda",
     "district": "Baabda",
     "original_price": 36500,
-    "current_price": 36500,
+    "current_price": 35500,
     "price_history": [
       {
         "price": 36500,
         "date": "2026-03-01"
+      },
+      {
+        "price": 35500,
+        "date": "2026-04-13"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-11",
-    "last_updated": "2026-03-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_seen": "2026-04-13",
+    "last_updated": "2026-04-13",
+    "drop_usd": 1000,
+    "drop_pct": 2.7,
+    "last_drop_date": "2026-04-13",
     "posted_date": "2026-03-01",
     "stale": true
   },
@@ -12344,7 +12348,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-02",
     "drop_usd": 3000,
     "drop_pct": 4.3,
@@ -17078,7 +17082,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -21595,12 +21599,13 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-06",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-05",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
-    "stale": true
+    "stale": true,
+    "posted_date": "2026-03-01"
   },
   "116757719": {
     "id": "116757719",
@@ -26158,7 +26163,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-01",
     "drop_usd": 1500,
     "drop_pct": 5.8,
@@ -32406,7 +32411,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-06",
     "drop_usd": 1000,
     "drop_pct": 10.2,
@@ -36317,7 +36322,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -37371,7 +37376,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-21",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -37400,7 +37405,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-10",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -51172,7 +51177,7 @@
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-08",
     "posted_date": "2026-03-08",
     "drop_usd": 0,
@@ -51259,7 +51264,7 @@
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-03-11",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-08",
     "posted_date": "2026-03-08",
     "drop_usd": 0,
@@ -52779,7 +52784,7 @@
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-07",
     "posted_date": "2026-03-08",
     "drop_usd": 1600,
@@ -53142,7 +53147,7 @@
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-08",
     "posted_date": "2026-03-08",
     "drop_usd": 0,
@@ -54503,7 +54508,7 @@
       }
     ],
     "first_seen": "2026-03-08",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-08",
     "posted_date": "2026-03-08",
     "drop_usd": 0,
@@ -62262,7 +62267,7 @@
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-23",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-09",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
@@ -63169,7 +63174,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-10",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
@@ -65477,7 +65482,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-21",
     "posted_date": "2026-03-10",
     "drop_usd": 1000,
@@ -66245,7 +66250,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-10",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
@@ -66274,7 +66279,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-10",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
@@ -67197,7 +67202,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-10",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
@@ -67644,7 +67649,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-21",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-10",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
@@ -70483,7 +70488,7 @@
       }
     ],
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-11",
     "posted_date": "2026-03-11",
     "drop_usd": 0,
@@ -76969,7 +76974,7 @@
       }
     ],
     "first_seen": "2026-03-12",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-12",
     "posted_date": "2026-03-12",
     "drop_usd": 0,
@@ -78513,7 +78518,7 @@
       }
     ],
     "first_seen": "2026-03-12",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-12",
     "posted_date": "2026-03-12",
     "drop_usd": 0,
@@ -81583,7 +81588,7 @@
       }
     ],
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-13",
     "posted_date": "2026-03-13",
     "drop_usd": 0,
@@ -81612,7 +81617,7 @@
       }
     ],
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-13",
     "posted_date": "2026-03-13",
     "drop_usd": 0,
@@ -86098,7 +86103,7 @@
       }
     ],
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-13",
     "posted_date": "2026-03-13",
     "drop_usd": 0,
@@ -86127,7 +86132,7 @@
       }
     ],
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-13",
     "posted_date": "2026-03-13",
     "drop_usd": 0,
@@ -86156,7 +86161,7 @@
       }
     ],
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-13",
     "posted_date": "2026-03-13",
     "drop_usd": 0,
@@ -86330,7 +86335,7 @@
       }
     ],
     "first_seen": "2026-03-13",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-13",
     "posted_date": "2026-03-13",
     "drop_usd": 0,
@@ -88369,7 +88374,7 @@
       }
     ],
     "first_seen": "2026-03-14",
-    "last_seen": "2026-04-09",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-14",
     "posted_date": "2026-03-14",
     "drop_usd": 0,
@@ -88390,20 +88395,24 @@
     "location": "Ras Al Nabaa, Beirut",
     "district": "Beirut",
     "original_price": 17500,
-    "current_price": 17500,
+    "current_price": 16800,
     "price_history": [
       {
         "price": 17500,
         "date": "2026-03-14"
+      },
+      {
+        "price": 16800,
+        "date": "2026-04-13"
       }
     ],
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-31",
-    "last_updated": "2026-03-14",
+    "last_seen": "2026-04-13",
+    "last_updated": "2026-04-13",
     "posted_date": "2026-03-14",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": 700,
+    "drop_pct": 4.0,
+    "last_drop_date": "2026-04-13",
     "stale": true
   },
   "116476175": {
@@ -123820,7 +123829,7 @@
       }
     ],
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-22",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-19",
     "posted_date": "2026-03-19",
     "drop_usd": 0,
@@ -140828,20 +140837,24 @@
     "location": "Sodeco, Beirut",
     "district": "Beirut",
     "original_price": 25800,
-    "current_price": 25800,
+    "current_price": 24800,
     "price_history": [
       {
         "price": 25800,
         "date": "2026-03-22"
+      },
+      {
+        "price": 24800,
+        "date": "2026-04-13"
       }
     ],
     "first_seen": "2026-03-22",
-    "last_seen": "2026-04-09",
-    "last_updated": "2026-03-22",
+    "last_seen": "2026-04-13",
+    "last_updated": "2026-04-13",
     "posted_date": "2026-03-22",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 1000,
+    "drop_pct": 3.9,
+    "last_drop_date": "2026-04-13"
   },
   "116148542": {
     "id": "116148542",
@@ -141110,7 +141123,7 @@
       }
     ],
     "first_seen": "2026-03-22",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-07",
     "posted_date": "2026-03-22",
     "drop_usd": 0,
@@ -147945,7 +147958,7 @@
       }
     ],
     "first_seen": "2026-03-23",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-23",
     "posted_date": "2026-03-23",
     "drop_usd": 0,
@@ -154306,7 +154319,7 @@
       }
     ],
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-24",
     "posted_date": "2026-03-24",
     "drop_usd": 0,
@@ -154422,7 +154435,7 @@
       }
     ],
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-24",
     "posted_date": "2026-03-24",
     "drop_usd": 0,
@@ -170601,7 +170614,7 @@
       }
     ],
     "first_seen": "2026-03-26",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-08",
     "posted_date": "2026-03-26",
     "drop_usd": 3000,
@@ -178052,7 +178065,7 @@
       }
     ],
     "first_seen": "2026-03-28",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-28",
     "posted_date": "2026-03-28",
     "drop_usd": 0,
@@ -181334,7 +181347,7 @@
       }
     ],
     "first_seen": "2026-03-28",
-    "last_seen": "2026-03-31",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-28",
     "posted_date": "2026-03-28",
     "drop_usd": 0,
@@ -184583,7 +184596,7 @@
       }
     ],
     "first_seen": "2026-03-29",
-    "last_seen": "2026-04-09",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-02",
     "posted_date": "2026-03-29",
     "drop_usd": 5300,
@@ -184640,7 +184653,7 @@
       }
     ],
     "first_seen": "2026-03-29",
-    "last_seen": "2026-04-01",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-29",
     "posted_date": "2026-03-29",
     "drop_usd": 0,
@@ -184821,7 +184834,7 @@
       }
     ],
     "first_seen": "2026-03-29",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-02",
     "posted_date": "2026-03-29",
     "drop_usd": 600,
@@ -184907,7 +184920,7 @@
       }
     ],
     "first_seen": "2026-03-29",
-    "last_seen": "2026-04-05",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-29",
     "posted_date": "2026-03-29",
     "drop_usd": 0,
@@ -184957,20 +184970,24 @@
     "location": "Ras Al Nabaa, Beirut",
     "district": "Beirut",
     "original_price": 19000,
-    "current_price": 19000,
+    "current_price": 18800,
     "price_history": [
       {
         "price": 19000,
         "date": "2026-03-29"
+      },
+      {
+        "price": 18800,
+        "date": "2026-04-13"
       }
     ],
     "first_seen": "2026-03-29",
-    "last_seen": "2026-03-31",
-    "last_updated": "2026-03-29",
+    "last_seen": "2026-04-13",
+    "last_updated": "2026-04-13",
     "posted_date": "2026-03-29",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": 200,
+    "drop_pct": 1.1,
+    "last_drop_date": "2026-04-13",
     "stale": true
   },
   "116835812": {
@@ -184994,7 +185011,7 @@
       }
     ],
     "first_seen": "2026-03-29",
-    "last_seen": "2026-04-05",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-29",
     "posted_date": "2026-03-29",
     "drop_usd": 0,
@@ -185201,7 +185218,7 @@
       }
     ],
     "first_seen": "2026-03-29",
-    "last_seen": "2026-04-09",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-02",
     "posted_date": "2026-03-29",
     "drop_usd": 900,
@@ -194113,7 +194130,7 @@
       }
     ],
     "first_seen": "2026-03-30",
-    "last_seen": "2026-04-02",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-03-30",
     "posted_date": "2026-03-30",
     "drop_usd": 0,
@@ -203875,7 +203892,7 @@
       }
     ],
     "first_seen": "2026-04-01",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-01",
     "posted_date": "2026-04-01",
     "drop_usd": 0,
@@ -216940,7 +216957,7 @@
       }
     ],
     "first_seen": "2026-04-03",
-    "last_seen": "2026-04-06",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-03",
     "posted_date": "2026-04-03",
     "drop_usd": 0,
@@ -219407,7 +219424,7 @@
       }
     ],
     "first_seen": "2026-04-04",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-04",
     "posted_date": "2026-04-04",
     "drop_usd": 0,
@@ -223051,7 +223068,7 @@
       }
     ],
     "first_seen": "2026-04-05",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-05",
     "posted_date": "2026-04-05",
     "drop_usd": 0,
@@ -224415,7 +224432,7 @@
       }
     ],
     "first_seen": "2026-04-05",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-09",
     "posted_date": "2026-04-05",
     "drop_usd": 200,
@@ -234771,7 +234788,7 @@
       }
     ],
     "first_seen": "2026-04-07",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-07",
     "posted_date": "2026-04-07",
     "drop_usd": 0,
@@ -234859,7 +234876,7 @@
       }
     ],
     "first_seen": "2026-04-07",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-08",
     "posted_date": "2026-04-07",
     "drop_usd": 1300,
@@ -239119,7 +239136,7 @@
       }
     ],
     "first_seen": "2026-04-08",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-08",
     "posted_date": "2026-04-08",
     "drop_usd": 0,
@@ -243879,7 +243896,7 @@
       }
     ],
     "first_seen": "2026-04-09",
-    "last_seen": "2026-04-12",
+    "last_seen": "2026-04-13",
     "last_updated": "2026-04-09",
     "posted_date": "2026-04-09",
     "drop_usd": 0,
@@ -253811,6 +253828,62 @@
     "price_history": [
       {
         "price": 18000,
+        "date": "2026-04-13"
+      }
+    ],
+    "first_seen": "2026-04-13",
+    "last_seen": "2026-04-13",
+    "last_updated": "2026-04-13",
+    "posted_date": "2026-04-13",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116851626": {
+    "id": "116851626",
+    "title": "مرسيدس بنز أيه كلاس 1998",
+    "url": "https://www.olx.com.lb/ad/مرسيدس-بنز-أيه-كلاس-1998-ID116851626.html",
+    "make": "Mercedes-Benz",
+    "model": "A-Class",
+    "body_type": "Sedan",
+    "year": 1998,
+    "mileage": 20,
+    "transmission": "Automatic",
+    "location": "Riyaq, Zahle",
+    "district": "Zahle",
+    "original_price": 2500,
+    "current_price": 2500,
+    "price_history": [
+      {
+        "price": 2500,
+        "date": "2026-04-13"
+      }
+    ],
+    "first_seen": "2026-04-13",
+    "last_seen": "2026-04-13",
+    "last_updated": "2026-04-13",
+    "posted_date": "2026-04-13",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116851598": {
+    "id": "116851598",
+    "title": "BMW X6 2009",
+    "url": "https://www.olx.com.lb/ad/bmw-x6-2009-ID116851598.html",
+    "make": "BMW",
+    "model": "X6",
+    "body_type": "SUV",
+    "year": 2009,
+    "mileage": 110,
+    "transmission": "Automatic",
+    "location": "Zgharta Town, Zgharta",
+    "district": "Zgharta",
+    "original_price": 8000,
+    "current_price": 8000,
+    "price_history": [
+      {
+        "price": 8000,
         "date": "2026-04-13"
       }
     ],
