@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 9111,
-  "total_drops": 166,
-  "total_new": 9111,
+  "total_tracked": 9112,
+  "total_drops": 167,
+  "total_new": 9112,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -2329,9 +2329,34 @@
       "bedrooms": "1",
       "date": "2026-04-13",
       "first_seen": "2026-03-16"
+    },
+    {
+      "id": "16811878",
+      "title": "Luxury 3BR Residence for Sale | Residences 11 | High-End Community Living",
+      "old_price": 4800000,
+      "new_price": 4500000,
+      "drop_pct": 6.2,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/12/18/luxury-3br-residence-for-sale-residence-2-209169/",
+      "area": "Mohammed Bin Rashid City",
+      "category": "Apartment",
+      "size": "1947",
+      "bedrooms": "3",
+      "date": "2026-04-14",
+      "first_seen": "2026-03-26"
     }
   ],
   "new_listings": [
+    {
+      "id": "9803568",
+      "title": "Top Fitted Office in JVC | Binghatti Azure | With Pantry!",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/11/top-fitted-office-in-jvc-binghatti-azur-2-317930/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Office",
+      "size": "690",
+      "bedrooms": "",
+      "price": 1700000,
+      "first_seen": "2026-04-14"
+    },
     {
       "id": "9772418",
       "title": "Smart Invest | Retail Opportunity | Prime Location",
@@ -7820,19 +7845,8 @@
       "bedrooms": "1",
       "price": 1750000,
       "first_seen": "2026-04-09"
-    },
-    {
-      "id": "17301434",
-      "title": "Near Pocket Park | Vacant | Corner Kitchen",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/4/8/near-pocket-park-vacant-corner-kitchen-2-736163/",
-      "area": "The Valley by Emaar",
-      "category": "Villa",
-      "size": "1929",
-      "bedrooms": "3",
-      "price": 2700000,
-      "first_seen": "2026-04-09"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-13"
+  "last_updated": "2026-04-14"
 }
