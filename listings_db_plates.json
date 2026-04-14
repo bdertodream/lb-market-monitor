@@ -1437,7 +1437,7 @@
     "location": "Achrafieh, Beirut",
     "district": "Beirut",
     "original_price": 5800,
-    "current_price": 4700,
+    "current_price": 4500,
     "price_history": [
       {
         "price": 5800,
@@ -1470,14 +1470,18 @@
       {
         "price": 4700,
         "date": "2026-04-04"
+      },
+      {
+        "price": 4500,
+        "date": "2026-04-14"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-04-14",
-    "last_updated": "2026-04-04",
-    "drop_usd": 1500,
-    "drop_pct": 25.9,
-    "last_drop_date": "2026-04-03",
+    "last_updated": "2026-04-14",
+    "drop_usd": 1300,
+    "drop_pct": 22.4,
+    "last_drop_date": "2026-04-14",
     "posted_date": "2026-03-01"
   },
   "116392993": {
