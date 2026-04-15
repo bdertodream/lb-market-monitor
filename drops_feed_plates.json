@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-15T06:09:35.832026",
-  "total_tracked": 397,
+  "generated_at": "2026-04-15T09:29:29.537974",
+  "total_tracked": 398,
   "total_drops": 39,
-  "total_new": 397,
+  "total_new": 398,
   "avg_drop_pct": 24.6,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -951,7 +951,7 @@
       "plate_type": "Standard",
       "location": "Baouchriye, Metn",
       "original_price": 13000,
-      "current_price": 12000,
+      "current_price": 13000,
       "drop_usd": 1000,
       "drop_pct": 7.7,
       "last_drop_date": "2026-03-15",
@@ -965,6 +965,10 @@
         {
           "price": 12000,
           "date": "2026-03-15"
+        },
+        {
+          "price": 13000,
+          "date": "2026-04-15"
         }
       ]
     },
@@ -1203,6 +1207,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116854425",
+      "title": "نمرة عمومي للبيع",
+      "url": "https://www.olx.com.lb/ad/نمرة-عمومي-للبيع-ID116854425.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Naameh, Chouf",
+      "original_price": 16500,
+      "current_price": 16500,
+      "first_seen": "2026-04-15",
+      "posted_date": "2026-04-15",
+      "price_history": [
+        {
+          "price": 16500,
+          "date": "2026-04-15"
+        }
+      ]
+    },
     {
       "id": "116520653",
       "title": "Y 32332",
@@ -5183,7 +5205,7 @@
       "plate_type": "Standard",
       "location": "Baouchriye, Metn",
       "original_price": 13000,
-      "current_price": 12000,
+      "current_price": 13000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -5194,6 +5216,10 @@
         {
           "price": 12000,
           "date": "2026-03-15"
+        },
+        {
+          "price": 13000,
+          "date": "2026-04-15"
         }
       ]
     },
