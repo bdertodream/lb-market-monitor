@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-15T09:29:29.537974",
-  "total_tracked": 398,
+  "generated_at": "2026-04-15T13:34:34.166178",
+  "total_tracked": 401,
   "total_drops": 39,
-  "total_new": 398,
+  "total_new": 401,
   "avg_drop_pct": 24.6,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -362,7 +362,7 @@
       "plate_type": "Standard",
       "location": "Jounieh, Keserouan",
       "original_price": 25000,
-      "current_price": 19000,
+      "current_price": 25000,
       "drop_usd": 6000,
       "drop_pct": 24.0,
       "last_drop_date": "2026-03-19",
@@ -380,6 +380,10 @@
         {
           "price": 19000,
           "date": "2026-03-19"
+        },
+        {
+          "price": 25000,
+          "date": "2026-04-15"
         }
       ]
     },
@@ -1221,6 +1225,60 @@
       "price_history": [
         {
           "price": 16500,
+          "date": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "id": "116855010",
+      "title": "0 565555",
+      "url": "https://www.olx.com.lb/ad/0-565555-ID116855010.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Beirut Port, Beirut",
+      "original_price": 10000,
+      "current_price": 10000,
+      "first_seen": "2026-04-15",
+      "posted_date": "2026-04-15",
+      "price_history": [
+        {
+          "price": 10000,
+          "date": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "id": "116854853",
+      "title": "رقم للبيع",
+      "url": "https://www.olx.com.lb/ad/رقم-للبيع-ID116854853.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 1499,
+      "current_price": 1499,
+      "first_seen": "2026-04-15",
+      "posted_date": "2026-04-15",
+      "price_history": [
+        {
+          "price": 1499,
+          "date": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "id": "116854811",
+      "title": "33282",
+      "url": "https://www.olx.com.lb/ad/33282-ID116854811.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 3700,
+      "current_price": 3700,
+      "first_seen": "2026-04-15",
+      "posted_date": "2026-04-15",
+      "price_history": [
+        {
+          "price": 3700,
           "date": "2026-04-15"
         }
       ]
@@ -4597,7 +4655,7 @@
       "plate_type": "Standard",
       "location": "Jounieh, Keserouan",
       "original_price": 25000,
-      "current_price": 19000,
+      "current_price": 25000,
       "first_seen": "2026-03-11",
       "posted_date": "2026-03-11",
       "price_history": [
@@ -4612,6 +4670,10 @@
         {
           "price": 19000,
           "date": "2026-03-19"
+        },
+        {
+          "price": 25000,
+          "date": "2026-04-15"
         }
       ]
     },
