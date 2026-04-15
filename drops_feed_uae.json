@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 9303,
+  "total_tracked": 9304,
   "total_drops": 171,
-  "total_new": 9303,
+  "total_new": 9304,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -2402,6 +2402,17 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "9809096",
+      "title": "Vacant | Fitted | Vaastu Compliant",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/27/vacant-fitted-vaastu-compliant-2-621235/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "440",
+      "bedrooms": "",
+      "price": 1000000,
+      "first_seen": "2026-04-15"
+    },
     {
       "id": "9803568",
       "title": "Top Fitted Office in JVC | Binghatti Azure | With Pantry!",
@@ -7890,19 +7901,8 @@
       "bedrooms": "",
       "price": 3070000,
       "first_seen": "2026-04-10"
-    },
-    {
-      "id": "9810836",
-      "title": "Grade A | Skyline Views | Prestigious Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/10/grade-a-skyline-views-prestigious-locat-2-657415/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "841",
-      "bedrooms": "",
-      "price": 3080000,
-      "first_seen": "2026-04-10"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-14"
+  "last_updated": "2026-04-15"
 }
