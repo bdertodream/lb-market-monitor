@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-16T13:54:22.201105",
+  "generated_at": "2026-04-16T17:24:07.857577",
   "total_tracked": 401,
   "total_drops": 39,
   "total_new": 401,
-  "avg_drop_pct": 24.6,
+  "avg_drop_pct": 24.9,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -93,7 +93,7 @@
       "plate_type": "Standard",
       "location": "Awkar, Metn",
       "original_price": 14000,
-      "current_price": 3200,
+      "current_price": 3500,
       "drop_usd": 11100,
       "drop_pct": 79.3,
       "last_drop_date": "2026-03-18",
@@ -111,6 +111,10 @@
         {
           "price": 3200,
           "date": "2026-03-31"
+        },
+        {
+          "price": 3500,
+          "date": "2026-04-16"
         }
       ]
     },
@@ -264,6 +268,43 @@
         {
           "price": 3200,
           "date": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "id": "116843442",
+      "title": "plate number",
+      "url": "https://www.olx.com.lb/ad/plate-number-ID116843442.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 10000,
+      "current_price": 6770,
+      "drop_usd": 3230,
+      "drop_pct": 32.3,
+      "last_drop_date": "2026-04-16",
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 10000,
+          "date": "2026-04-05"
+        },
+        {
+          "price": 12000,
+          "date": "2026-04-05"
+        },
+        {
+          "price": 9000,
+          "date": "2026-04-07"
+        },
+        {
+          "price": 8000,
+          "date": "2026-04-13"
+        },
+        {
+          "price": 6770,
+          "date": "2026-04-16"
         }
       ]
     },
@@ -465,39 +506,6 @@
         },
         {
           "price": 3500,
-          "date": "2026-04-13"
-        }
-      ]
-    },
-    {
-      "id": "116843442",
-      "title": "plate number",
-      "url": "https://www.olx.com.lb/ad/plate-number-ID116843442.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Achrafieh, Beirut",
-      "original_price": 10000,
-      "current_price": 8000,
-      "drop_usd": 2000,
-      "drop_pct": 20.0,
-      "last_drop_date": "2026-04-13",
-      "first_seen": "2026-04-05",
-      "posted_date": "2026-04-05",
-      "price_history": [
-        {
-          "price": 10000,
-          "date": "2026-04-05"
-        },
-        {
-          "price": 12000,
-          "date": "2026-04-05"
-        },
-        {
-          "price": 9000,
-          "date": "2026-04-07"
-        },
-        {
-          "price": 8000,
           "date": "2026-04-13"
         }
       ]
@@ -1859,7 +1867,7 @@
       "plate_type": "Standard",
       "location": "Achrafieh, Beirut",
       "original_price": 10000,
-      "current_price": 8000,
+      "current_price": 6770,
       "first_seen": "2026-04-05",
       "posted_date": "2026-04-05",
       "price_history": [
@@ -1878,6 +1886,10 @@
         {
           "price": 8000,
           "date": "2026-04-13"
+        },
+        {
+          "price": 6770,
+          "date": "2026-04-16"
         }
       ]
     },
@@ -7395,7 +7407,7 @@
       "plate_type": "Standard",
       "location": "Awkar, Metn",
       "original_price": 14000,
-      "current_price": 3200,
+      "current_price": 3500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -7410,6 +7422,10 @@
         {
           "price": 3200,
           "date": "2026-03-31"
+        },
+        {
+          "price": 3500,
+          "date": "2026-04-16"
         }
       ]
     },
