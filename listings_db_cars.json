@@ -22467,7 +22467,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-13",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -37563,7 +37563,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-06",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -41368,7 +41368,7 @@
     "location": "Sin El Fil, Metn",
     "district": "Metn",
     "original_price": 24500,
-    "current_price": 23700,
+    "current_price": 23300,
     "price_history": [
       {
         "price": 24500,
@@ -41381,14 +41381,18 @@
       {
         "price": 23700,
         "date": "2026-04-07"
+      },
+      {
+        "price": 23300,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-10",
-    "last_updated": "2026-04-07",
-    "drop_usd": 800,
-    "drop_pct": 3.3,
-    "last_drop_date": "2026-04-07",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "drop_usd": 1200,
+    "drop_pct": 4.9,
+    "last_drop_date": "2026-04-16",
     "posted_date": "2026-03-01",
     "stale": true
   },
@@ -50120,7 +50124,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -65906,7 +65910,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-10",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
@@ -66721,7 +66725,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-03-13",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-10",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
@@ -66849,7 +66853,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-28",
     "posted_date": "2026-03-10",
     "drop_usd": 2000,
@@ -70942,7 +70946,7 @@
       }
     ],
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-11",
     "posted_date": "2026-03-11",
     "drop_usd": 0,
@@ -71000,7 +71004,7 @@
       }
     ],
     "first_seen": "2026-03-11",
-    "last_seen": "2026-03-14",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-11",
     "posted_date": "2026-03-11",
     "drop_usd": 0,
@@ -71844,7 +71848,7 @@
       }
     ],
     "first_seen": "2026-03-11",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-11",
     "posted_date": "2026-03-11",
     "drop_usd": 1000,
@@ -82794,20 +82798,24 @@
     "location": "Furn El Chebbak, Baabda",
     "district": "Baabda",
     "original_price": 3999,
-    "current_price": 3999,
+    "current_price": 3990,
     "price_history": [
       {
         "price": 3999,
         "date": "2026-03-13"
+      },
+      {
+        "price": 3990,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-03-13",
-    "last_seen": "2026-04-14",
-    "last_updated": "2026-03-13",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-03-13",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": 9,
+    "drop_pct": 0.2,
+    "last_drop_date": "2026-04-16",
     "stale": true
   },
   "116759077": {
@@ -83385,20 +83393,24 @@
     "location": "Mar Moussa, Metn",
     "district": "Metn",
     "original_price": 9000,
-    "current_price": 9000,
+    "current_price": 8800,
     "price_history": [
       {
         "price": 9000,
         "date": "2026-03-13"
+      },
+      {
+        "price": 8800,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-16",
-    "last_updated": "2026-03-13",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-03-13",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": 200,
+    "drop_pct": 2.2,
+    "last_drop_date": "2026-04-16",
     "stale": true
   },
   "116686617": {
@@ -86977,7 +86989,7 @@
     "location": "Dekwaneh, Metn",
     "district": "Metn",
     "original_price": 45000,
-    "current_price": 44000,
+    "current_price": 42000,
     "price_history": [
       {
         "price": 45000,
@@ -86986,15 +86998,19 @@
       {
         "price": 44000,
         "date": "2026-03-15"
+      },
+      {
+        "price": 42000,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-03-13",
-    "last_seen": "2026-03-16",
-    "last_updated": "2026-03-15",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-03-13",
-    "drop_usd": 1000,
-    "drop_pct": 2.2,
-    "last_drop_date": "2026-03-15",
+    "drop_usd": 3000,
+    "drop_pct": 6.7,
+    "last_drop_date": "2026-04-16",
     "stale": true
   },
   "116819837": {
@@ -88434,20 +88450,24 @@
     "location": "Zouk Mosbeh, Keserouan",
     "district": "Keserouan",
     "original_price": 14900,
-    "current_price": 14900,
+    "current_price": 13500,
     "price_history": [
       {
         "price": 14900,
         "date": "2026-03-14"
+      },
+      {
+        "price": 13500,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-17",
-    "last_updated": "2026-03-14",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-03-14",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": 1400,
+    "drop_pct": 9.4,
+    "last_drop_date": "2026-04-16",
     "stale": true
   },
   "116820020": {
@@ -90052,16 +90072,20 @@
     "location": "Dbaye, Metn",
     "district": "Metn",
     "original_price": 51000,
-    "current_price": 51000,
+    "current_price": 57000,
     "price_history": [
       {
         "price": 51000,
         "date": "2026-03-14"
+      },
+      {
+        "price": 57000,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-17",
-    "last_updated": "2026-03-14",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-03-14",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -102923,20 +102947,24 @@
     "location": "Sin El Fil, Metn",
     "district": "Metn",
     "original_price": 31000,
-    "current_price": 31000,
+    "current_price": 28000,
     "price_history": [
       {
         "price": 31000,
         "date": "2026-03-16"
+      },
+      {
+        "price": 28000,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-19",
-    "last_updated": "2026-03-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-03-16",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": 3000,
+    "drop_pct": 9.7,
+    "last_drop_date": "2026-04-16",
     "stale": true
   },
   "116822431": {
@@ -103701,7 +103729,7 @@
     "location": "Kaslik, Keserouan",
     "district": "Keserouan",
     "original_price": 24000,
-    "current_price": 22900,
+    "current_price": 23300,
     "price_history": [
       {
         "price": 24000,
@@ -103718,11 +103746,15 @@
       {
         "price": 22900,
         "date": "2026-04-15"
+      },
+      {
+        "price": 23300,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-03-16",
     "last_seen": "2026-04-16",
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-03-16",
     "drop_usd": 1100,
     "drop_pct": 4.6,
@@ -104570,20 +104602,24 @@
     "location": "Sin El Fil, Metn",
     "district": "Metn",
     "original_price": 41500,
-    "current_price": 41500,
+    "current_price": 38800,
     "price_history": [
       {
         "price": 41500,
         "date": "2026-03-16"
+      },
+      {
+        "price": 38800,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-19",
-    "last_updated": "2026-03-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-03-16",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": 2700,
+    "drop_pct": 6.5,
+    "last_drop_date": "2026-04-16",
     "stale": true
   },
   "116822699": {
@@ -104727,7 +104763,7 @@
       }
     ],
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-16",
     "posted_date": "2026-03-16",
     "drop_usd": 0,
@@ -104785,7 +104821,7 @@
       }
     ],
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-16",
     "posted_date": "2026-03-16",
     "drop_usd": 0,
@@ -104814,7 +104850,7 @@
       }
     ],
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-16",
     "posted_date": "2026-03-16",
     "drop_usd": 0,
@@ -104843,7 +104879,7 @@
       }
     ],
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-16",
     "posted_date": "2026-03-16",
     "drop_usd": 0,
@@ -107136,7 +107172,7 @@
       }
     ],
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-17",
     "posted_date": "2026-03-17",
     "drop_usd": 0,
@@ -107194,7 +107230,7 @@
       }
     ],
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-17",
     "posted_date": "2026-03-17",
     "drop_usd": 0,
@@ -107310,7 +107346,7 @@
       }
     ],
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-17",
     "posted_date": "2026-03-17",
     "drop_usd": 0,
@@ -107339,7 +107375,7 @@
       }
     ],
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-17",
     "posted_date": "2026-03-17",
     "drop_usd": 0,
@@ -107752,7 +107788,7 @@
       }
     ],
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-19",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-17",
     "posted_date": "2026-03-17",
     "drop_usd": 0,
@@ -141501,7 +141537,7 @@
       }
     ],
     "first_seen": "2026-03-22",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-26",
     "posted_date": "2026-03-22",
     "drop_usd": 184000,
@@ -161188,7 +161224,7 @@
     "location": "Aamchit, Jbeil",
     "district": "Jbeil",
     "original_price": 28500,
-    "current_price": 27500,
+    "current_price": 28500,
     "price_history": [
       {
         "price": 28500,
@@ -161197,11 +161233,15 @@
       {
         "price": 27500,
         "date": "2026-04-15"
+      },
+      {
+        "price": 28500,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-03-25",
     "last_seen": "2026-04-16",
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-03-25",
     "drop_usd": 1000,
     "drop_pct": 3.5,
@@ -168300,7 +168340,7 @@
     "location": "Sin El Fil, Metn",
     "district": "Metn",
     "original_price": 29500,
-    "current_price": 28800,
+    "current_price": 28500,
     "price_history": [
       {
         "price": 29500,
@@ -168313,15 +168353,19 @@
       {
         "price": 28800,
         "date": "2026-04-09"
+      },
+      {
+        "price": 28500,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-03-26",
-    "last_seen": "2026-04-13",
-    "last_updated": "2026-04-09",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-03-26",
-    "drop_usd": 2000,
-    "drop_pct": 6.8,
-    "last_drop_date": "2026-04-03"
+    "drop_usd": 1000,
+    "drop_pct": 3.4,
+    "last_drop_date": "2026-04-16"
   },
   "116832957": {
     "id": "116832957",
@@ -193669,7 +193713,7 @@
       }
     ],
     "first_seen": "2026-03-30",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-03-30",
     "posted_date": "2026-03-30",
     "drop_usd": 0,
@@ -193748,20 +193792,24 @@
     "location": "Verdun, Beirut",
     "district": "Beirut",
     "original_price": 14300,
-    "current_price": 14300,
+    "current_price": 13800,
     "price_history": [
       {
         "price": 14300,
         "date": "2026-03-30"
+      },
+      {
+        "price": 13800,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-03-30",
-    "last_seen": "2026-04-02",
-    "last_updated": "2026-03-30",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-03-30",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": 500,
+    "drop_pct": 3.5,
+    "last_drop_date": "2026-04-16",
     "stale": true
   },
   "116776119": {
@@ -204601,7 +204649,7 @@
       }
     ],
     "first_seen": "2026-04-01",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-13",
     "posted_date": "2026-04-01",
     "drop_usd": 50,
@@ -216018,7 +216066,7 @@
       }
     ],
     "first_seen": "2026-04-03",
-    "last_seen": "2026-04-06",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-03",
     "posted_date": "2026-04-03",
     "drop_usd": 0,
@@ -219985,7 +220033,7 @@
       }
     ],
     "first_seen": "2026-04-04",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-12",
     "posted_date": "2026-04-04",
     "drop_usd": 200,
@@ -220743,7 +220791,7 @@
       }
     ],
     "first_seen": "2026-04-04",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-04",
     "posted_date": "2026-04-04",
     "drop_usd": 0,
@@ -224473,7 +224521,7 @@
       }
     ],
     "first_seen": "2026-04-05",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-05",
     "posted_date": "2026-04-05",
     "drop_usd": 0,
@@ -225476,7 +225524,7 @@
   },
   "116844039": {
     "id": "116844039",
-    "title": "BMW 528 i Luxury package V6 2011 / Germany source",
+    "title": "BMW 528 i Luxury package V6 2011 / Germany source مسكرة زوائد",
     "url": "https://www.olx.com.lb/ad/bmw-528-i-luxury-package-v6-2011-germany-source-ID116844039.html",
     "make": "BMW",
     "model": "5-Series",
@@ -225487,20 +225535,24 @@
     "location": "Sin El Fil, Metn",
     "district": "Metn",
     "original_price": 11200,
-    "current_price": 11200,
+    "current_price": 10500,
     "price_history": [
       {
         "price": 11200,
         "date": "2026-04-05"
+      },
+      {
+        "price": 10500,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-04-05",
-    "last_seen": "2026-04-07",
-    "last_updated": "2026-04-05",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-04-05",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": 700,
+    "drop_pct": 6.2,
+    "last_drop_date": "2026-04-16",
     "stale": true
   },
   "116844027": {
@@ -234977,7 +235029,7 @@
       }
     ],
     "first_seen": "2026-04-07",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-07",
     "posted_date": "2026-04-07",
     "drop_usd": 0,
@@ -241538,7 +241590,7 @@
       }
     ],
     "first_seen": "2026-04-09",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-09",
     "posted_date": "2026-04-09",
     "drop_usd": 0,
@@ -245310,7 +245362,7 @@
       }
     ],
     "first_seen": "2026-04-10",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-10",
     "posted_date": "2026-04-10",
     "drop_usd": 0,
@@ -246334,7 +246386,7 @@
       }
     ],
     "first_seen": "2026-04-10",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-14",
     "posted_date": "2026-04-10",
     "drop_usd": 0,
@@ -247306,7 +247358,7 @@
       }
     ],
     "first_seen": "2026-04-10",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-10",
     "posted_date": "2026-04-10",
     "drop_usd": 0,
@@ -248182,7 +248234,7 @@
       }
     ],
     "first_seen": "2026-04-10",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-14",
     "posted_date": "2026-04-10",
     "drop_usd": 2500,
@@ -251414,7 +251466,7 @@
       }
     ],
     "first_seen": "2026-04-11",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-11",
     "posted_date": "2026-04-11",
     "drop_usd": 0,
@@ -252178,7 +252230,7 @@
       }
     ],
     "first_seen": "2026-04-12",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-12",
     "posted_date": "2026-04-12",
     "drop_usd": 0,
@@ -253994,7 +254046,7 @@
       }
     ],
     "first_seen": "2026-04-12",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-12",
     "posted_date": "2026-04-12",
     "drop_usd": 0,
@@ -254978,7 +255030,7 @@
       }
     ],
     "first_seen": "2026-04-13",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-13",
     "posted_date": "2026-04-13",
     "drop_usd": 0,
@@ -255574,7 +255626,7 @@
       }
     ],
     "first_seen": "2026-04-13",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-16",
     "last_updated": "2026-04-13",
     "posted_date": "2026-04-13",
     "drop_usd": 0,
@@ -263259,7 +263311,7 @@
   },
   "116853896": {
     "id": "116853896",
-    "title": "MINI Cooper S Countryman 2011",
+    "title": "MINI Cooper S Countryman 2012",
     "url": "https://www.olx.com.lb/ad/mini-cooper-s-countryman-2011-ID116853896.html",
     "make": "MINI",
     "model": "Cooper S Countryman",
@@ -263270,16 +263322,20 @@
     "location": "Deir Qoubel, Aley",
     "district": "Aley",
     "original_price": 8200,
-    "current_price": 8200,
+    "current_price": 9200,
     "price_history": [
       {
         "price": 8200,
         "date": "2026-04-14"
+      },
+      {
+        "price": 9200,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-04-14",
     "last_seen": "2026-04-16",
-    "last_updated": "2026-04-14",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-04-14",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -263494,16 +263550,20 @@
     "location": "Dbaye, Metn",
     "district": "Metn",
     "original_price": 31500,
-    "current_price": 31500,
+    "current_price": 37500,
     "price_history": [
       {
         "price": 31500,
         "date": "2026-04-14"
+      },
+      {
+        "price": 37500,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-04-14",
     "last_seen": "2026-04-16",
-    "last_updated": "2026-04-14",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-04-14",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -267566,16 +267626,20 @@
     "location": "Dbaye, Metn",
     "district": "Metn",
     "original_price": 30000,
-    "current_price": 30000,
+    "current_price": 31000,
     "price_history": [
       {
         "price": 30000,
         "date": "2026-04-15"
+      },
+      {
+        "price": 31000,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-04-15",
     "last_seen": "2026-04-16",
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-04-15",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -267790,16 +267854,20 @@
     "location": "Jal El Dib, Metn",
     "district": "Metn",
     "original_price": 555,
-    "current_price": 555,
+    "current_price": 4500,
     "price_history": [
       {
         "price": 555,
         "date": "2026-04-15"
+      },
+      {
+        "price": 4500,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-04-15",
     "last_seen": "2026-04-16",
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-04-15",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -269894,16 +269962,20 @@
     "location": "Baabda Town, Baabda",
     "district": "Baabda",
     "original_price": 4500,
-    "current_price": 4500,
+    "current_price": 5000,
     "price_history": [
       {
         "price": 4500,
         "date": "2026-04-15"
+      },
+      {
+        "price": 5000,
+        "date": "2026-04-16"
       }
     ],
     "first_seen": "2026-04-15",
     "last_seen": "2026-04-16",
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-04-16",
     "posted_date": "2026-04-15",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -271694,10 +271766,14 @@
     "location": "Broummana, Metn",
     "district": "Metn",
     "original_price": 11000,
-    "current_price": 11000,
+    "current_price": 11200,
     "price_history": [
       {
         "price": 11000,
+        "date": "2026-04-16"
+      },
+      {
+        "price": 11200,
         "date": "2026-04-16"
       }
     ],
@@ -273167,7 +273243,7 @@
   },
   "116827048": {
     "id": "116827048",
-    "title": "Mercedes-Benz E-Class 2014",
+    "title": "Mercedes-Benz E-Class 2014 company source tgf",
     "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2014-ID116827048.html",
     "make": "Mercedes-Benz",
     "model": "E-Class",
@@ -273262,10 +273338,14 @@
     "location": "Sabtieh, Metn",
     "district": "Metn",
     "original_price": 38000,
-    "current_price": 38000,
+    "current_price": 39500,
     "price_history": [
       {
         "price": 38000,
+        "date": "2026-04-16"
+      },
+      {
+        "price": 39500,
         "date": "2026-04-16"
       }
     ],
@@ -273574,6 +273654,902 @@
     "price_history": [
       {
         "price": 5500,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856439": {
+    "id": "116856439",
+    "title": "Land Rover Range Rover Sport 2010",
+    "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2010-ID116856439.html",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": "Sedan",
+    "year": 2010,
+    "mileage": 120000,
+    "transmission": "Automatic",
+    "location": "Jounieh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 13000,
+    "current_price": 13000,
+    "price_history": [
+      {
+        "price": 13000,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856409": {
+    "id": "116856409",
+    "title": "Infiniti Fx series 2004",
+    "url": "https://www.olx.com.lb/ad/infiniti-fx-series-2004-ID116856409.html",
+    "make": "Infiniti",
+    "model": "Fx series",
+    "body_type": "Hatchback",
+    "year": 2004,
+    "mileage": 170000,
+    "transmission": "Automatic",
+    "location": "Baissour, Aley",
+    "district": "Aley",
+    "original_price": 5300,
+    "current_price": 5300,
+    "price_history": [
+      {
+        "price": 5300,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856407": {
+    "id": "116856407",
+    "title": "Porsche Cayman 2012",
+    "url": "https://www.olx.com.lb/ad/porsche-cayman-2012-ID116856407.html",
+    "make": "Porsche",
+    "model": "Cayman",
+    "body_type": "Sports / Coupe",
+    "year": 2012,
+    "mileage": 96400,
+    "transmission": "Automatic",
+    "location": "Mar Roukoz, Metn",
+    "district": "Metn",
+    "original_price": 65000,
+    "current_price": 65000,
+    "price_history": [
+      {
+        "price": 65000,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856389": {
+    "id": "116856389",
+    "title": "Hyundai I10 2013",
+    "url": "https://www.olx.com.lb/ad/hyundai-i10-2013-ID116856389.html",
+    "make": "Hyundai",
+    "model": "I10",
+    "body_type": "Sedan",
+    "year": 2013,
+    "mileage": 145000,
+    "transmission": "Manual",
+    "location": "Sawfar, Aley",
+    "district": "Aley",
+    "original_price": 5200,
+    "current_price": 5200,
+    "price_history": [
+      {
+        "price": 5200,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856385": {
+    "id": "116856385",
+    "title": "Audi A3 2015 2015",
+    "url": "https://www.olx.com.lb/ad/audi-a3-2015-2015-ID116856385.html",
+    "make": "Audi",
+    "model": "A3",
+    "body_type": "Sedan",
+    "year": 2015,
+    "mileage": 1,
+    "transmission": "Steptronic",
+    "location": "Jbeil Town, Jbeil",
+    "district": "Jbeil",
+    "original_price": 11000,
+    "current_price": 11000,
+    "price_history": [
+      {
+        "price": 11000,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856369": {
+    "id": "116856369",
+    "title": "Kia Picanto 2013",
+    "url": "https://www.olx.com.lb/ad/kia-picanto-2013-ID116856369.html",
+    "make": "Kia",
+    "model": "Picanto",
+    "body_type": "Small city car",
+    "year": 2013,
+    "mileage": 2000,
+    "transmission": "Manual",
+    "location": "Bsalim, Metn",
+    "district": "Metn",
+    "original_price": 4999,
+    "current_price": 4999,
+    "price_history": [
+      {
+        "price": 4999,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856362": {
+    "id": "116856362",
+    "title": "Hyundai H1 2005",
+    "url": "https://www.olx.com.lb/ad/hyundai-h1-2005-ID116856362.html",
+    "make": "Hyundai",
+    "model": "H1",
+    "body_type": "Van / Bus",
+    "year": 2005,
+    "mileage": 50000,
+    "transmission": "Automatic",
+    "location": "Jeita, Keserouan",
+    "district": "Keserouan",
+    "original_price": 6400,
+    "current_price": 6400,
+    "price_history": [
+      {
+        "price": 6400,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856355": {
+    "id": "116856355",
+    "title": "Kia Rio 2016",
+    "url": "https://www.olx.com.lb/ad/kia-rio-2016-ID116856355.html",
+    "make": "Kia",
+    "model": "Rio",
+    "body_type": "Hatchback",
+    "year": 2016,
+    "mileage": 150000,
+    "transmission": "Manual",
+    "location": "Taanayel, Zahle",
+    "district": "Zahle",
+    "original_price": 5200,
+    "current_price": 5200,
+    "price_history": [
+      {
+        "price": 5200,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856311": {
+    "id": "116856311",
+    "title": "Subaru XV Crosstrek 2016",
+    "url": "https://www.olx.com.lb/ad/subaru-xv-crosstrek-2016-ID116856311.html",
+    "make": "Subaru",
+    "model": "XV Crosstrek",
+    "body_type": "Hatchback",
+    "year": 2016,
+    "mileage": 250000,
+    "transmission": "Steptronic",
+    "location": "Tabarja, Keserouan",
+    "district": "Keserouan",
+    "original_price": 13700,
+    "current_price": 13700,
+    "price_history": [
+      {
+        "price": 13700,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856310": {
+    "id": "116856310",
+    "title": "C300 COUPE AMG NIGHT PCKG 2018  clean carfax",
+    "url": "https://www.olx.com.lb/ad/c300-coupe-amg-night-pckg-2018-clean-carfax-ID116856310.html",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Sports / Coupe",
+    "year": 2018,
+    "mileage": 108000,
+    "transmission": "Automatic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 25800,
+    "current_price": 25800,
+    "price_history": [
+      {
+        "price": 25800,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856294": {
+    "id": "116856294",
+    "title": "BMW M3 2021",
+    "url": "https://www.olx.com.lb/ad/bmw-m3-2021-ID116856294.html",
+    "make": "BMW",
+    "model": "M3",
+    "body_type": "Sedan",
+    "year": 2021,
+    "mileage": 83000,
+    "transmission": "Automatic",
+    "location": "Abdul Latif El Bissar, Tripoli",
+    "district": "Tripoli",
+    "original_price": 95000,
+    "current_price": 95000,
+    "price_history": [
+      {
+        "price": 95000,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856293": {
+    "id": "116856293",
+    "title": "Subaru Impreza 2006",
+    "url": "https://www.olx.com.lb/ad/subaru-impreza-2006-ID116856293.html",
+    "make": "Subaru",
+    "model": "Impreza",
+    "body_type": "Sedan",
+    "year": 2006,
+    "mileage": 0,
+    "transmission": "Manual",
+    "location": "Faqra, Keserouan",
+    "district": "Keserouan",
+    "original_price": 4500,
+    "current_price": 4500,
+    "price_history": [
+      {
+        "price": 4500,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856288": {
+    "id": "116856288",
+    "title": "Porsche Cayenne MY2019",
+    "url": "https://www.olx.com.lb/ad/porsche-cayenne-my2019-ID116856288.html",
+    "make": "Porsche",
+    "model": "Cayenne",
+    "body_type": "SUV",
+    "year": 2019,
+    "mileage": 108529,
+    "transmission": "Automatic",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "original_price": 63000,
+    "current_price": 63000,
+    "price_history": [
+      {
+        "price": 63000,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856287": {
+    "id": "116856287",
+    "title": "Kia Cerato 2020",
+    "url": "https://www.olx.com.lb/ad/kia-cerato-2020-ID116856287.html",
+    "make": "Kia",
+    "model": "Cerato",
+    "body_type": "Sedan",
+    "year": 2020,
+    "mileage": 54000,
+    "transmission": "Automatic",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 16400,
+    "current_price": 16400,
+    "price_history": [
+      {
+        "price": 16400,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856246": {
+    "id": "116856246",
+    "title": "Jeep Grand Cherokee 2011",
+    "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2011-ID116856246.html",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "body_type": "SUV",
+    "year": 2011,
+    "mileage": 277500,
+    "transmission": "Steptronic",
+    "location": "Baabda Town, Baabda",
+    "district": "Baabda",
+    "original_price": 9600,
+    "current_price": 9600,
+    "price_history": [
+      {
+        "price": 9600,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856226": {
+    "id": "116856226",
+    "title": "Lexus Other 2017",
+    "url": "https://www.olx.com.lb/ad/lexus-other-2017-ID116856226.html",
+    "make": "Lexus",
+    "model": "Other",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 90000,
+    "transmission": "Automatic",
+    "location": "Mar Elias, Beirut",
+    "district": "Beirut",
+    "original_price": 75000,
+    "current_price": 75000,
+    "price_history": [
+      {
+        "price": 75000,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856206": {
+    "id": "116856206",
+    "title": "مرسيدس بنز جى إل سى 350 2012",
+    "url": "https://www.olx.com.lb/ad/مرسيدس-بنز-جى-إل-سى-350-2012-ID116856206.html",
+    "make": "Mercedes-Benz",
+    "model": "GLC 350",
+    "body_type": "Sports / Coupe",
+    "year": 2012,
+    "mileage": 150000,
+    "transmission": "Automatic",
+    "location": "Saida Downtown, Saida",
+    "district": "Saida",
+    "original_price": 10000,
+    "current_price": 10000,
+    "price_history": [
+      {
+        "price": 10000,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856204": {
+    "id": "116856204",
+    "title": "Nissan Frontier 2005",
+    "url": "https://www.olx.com.lb/ad/nissan-frontier-2005-ID116856204.html",
+    "make": "Nissan",
+    "model": "Frontier",
+    "body_type": "Pickup",
+    "year": 2005,
+    "mileage": 74200,
+    "transmission": "Manual",
+    "location": "Mansourieh, Metn",
+    "district": "Metn",
+    "original_price": 6500,
+    "current_price": 6500,
+    "price_history": [
+      {
+        "price": 6500,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856199": {
+    "id": "116856199",
+    "title": "Renault Clio 2014",
+    "url": "https://www.olx.com.lb/ad/renault-clio-2014-ID116856199.html",
+    "make": "Renault",
+    "model": "Clio",
+    "body_type": "Sports / Coupe",
+    "year": 2014,
+    "mileage": 106000,
+    "transmission": "Automatic",
+    "location": "Malaab, Beirut",
+    "district": "Beirut",
+    "original_price": 6500,
+    "current_price": 6500,
+    "price_history": [
+      {
+        "price": 6500,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856192": {
+    "id": "116856192",
+    "title": "Jeep Grand Cherokee 2017 إمكانية التقسيط عبر الشركة",
+    "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2017-إمكانية-التقسيط-عبر-الشركة-ID116856192.html",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 128000,
+    "transmission": "Automatic",
+    "location": "Gemmayzeh, Beirut",
+    "district": "Beirut",
+    "original_price": 19800,
+    "current_price": 19800,
+    "price_history": [
+      {
+        "price": 19800,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856179": {
+    "id": "116856179",
+    "title": "Chevrolet Aveo 2018",
+    "url": "https://www.olx.com.lb/ad/chevrolet-aveo-2018-ID116856179.html",
+    "make": "Chevrolet",
+    "model": "Aveo",
+    "body_type": "Sedan",
+    "year": 2018,
+    "mileage": 1,
+    "transmission": "Automatic",
+    "location": "Saida Downtown, Saida",
+    "district": "Saida",
+    "original_price": 7000,
+    "current_price": 7000,
+    "price_history": [
+      {
+        "price": 7000,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856166": {
+    "id": "116856166",
+    "title": "MINI Cooper S 2006",
+    "url": "https://www.olx.com.lb/ad/mini-cooper-s-2006-ID116856166.html",
+    "make": "MINI",
+    "model": "Cooper S",
+    "body_type": "Hatchback",
+    "year": 2006,
+    "mileage": 1,
+    "transmission": "Automatic",
+    "location": "Daychounieh, Metn",
+    "district": "Metn",
+    "original_price": 4700,
+    "current_price": 4700,
+    "price_history": [
+      {
+        "price": 4700,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856165": {
+    "id": "116856165",
+    "title": "Audi A6 2016",
+    "url": "https://www.olx.com.lb/ad/audi-a6-2016-ID116856165.html",
+    "make": "Audi",
+    "model": "A6",
+    "body_type": "Sedan",
+    "year": 2016,
+    "mileage": 107000,
+    "transmission": "Automatic",
+    "location": "Downtown, Beirut",
+    "district": "Beirut",
+    "original_price": 13000,
+    "current_price": 13000,
+    "price_history": [
+      {
+        "price": 13000,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856110": {
+    "id": "116856110",
+    "title": "Chevrolet Trailblazer 2004",
+    "url": "https://www.olx.com.lb/ad/chevrolet-trailblazer-2004-ID116856110.html",
+    "make": "Chevrolet",
+    "model": "Trailblazer",
+    "body_type": "Other",
+    "year": 2004,
+    "mileage": 0,
+    "transmission": "Automatic",
+    "location": "Other in Baalbeck, Baalbeck",
+    "district": "Baalbeck",
+    "original_price": 3700,
+    "current_price": 3700,
+    "price_history": [
+      {
+        "price": 3700,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856045": {
+    "id": "116856045",
+    "title": "هوندا سيفيك 2002",
+    "url": "https://www.olx.com.lb/ad/هوندا-سيفيك-2002-ID116856045.html",
+    "make": "Honda",
+    "model": "Civic",
+    "body_type": "Sedan",
+    "year": 2002,
+    "mileage": 1,
+    "transmission": "Automatic",
+    "location": "Abou Samra, Tripoli",
+    "district": "Tripoli",
+    "original_price": 5000,
+    "current_price": 5000,
+    "price_history": [
+      {
+        "price": 5000,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856037": {
+    "id": "116856037",
+    "title": "Infiniti Qx series 2016",
+    "url": "https://www.olx.com.lb/ad/infiniti-qx-series-2016-ID116856037.html",
+    "make": "Infiniti",
+    "model": "Qx series",
+    "body_type": "SUV",
+    "year": 2016,
+    "mileage": 126000,
+    "transmission": "Automatic",
+    "location": "Dora, Metn",
+    "district": "Metn",
+    "original_price": 16000,
+    "current_price": 16000,
+    "price_history": [
+      {
+        "price": 16000,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856041": {
+    "id": "116856041",
+    "title": "Hyundai Tucson 2017",
+    "url": "https://www.olx.com.lb/ad/hyundai-tucson-2017-ID116856041.html",
+    "make": "Hyundai",
+    "model": "Tucson",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 118000,
+    "transmission": "Automatic",
+    "location": "Halat, Jbeil",
+    "district": "Jbeil",
+    "original_price": 14450,
+    "current_price": 14450,
+    "price_history": [
+      {
+        "price": 14450,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "115814728": {
+    "id": "115814728",
+    "title": "ميكأب للبيع",
+    "url": "https://www.olx.com.lb/ad/ميكأب-للبيع-ID115814728.html",
+    "make": "Isuzu",
+    "model": "Other",
+    "body_type": "Other",
+    "year": 2000,
+    "mileage": 5000,
+    "transmission": "Manual",
+    "location": "Halba, Akkar",
+    "district": "Akkar",
+    "original_price": 16000,
+    "current_price": 16000,
+    "price_history": [
+      {
+        "price": 16000,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856000": {
+    "id": "116856000",
+    "title": "جيب شيروكى 2005",
+    "url": "https://www.olx.com.lb/ad/جيب-شيروكى-2005-ID116856000.html",
+    "make": "Jeep",
+    "model": "Cherokee",
+    "body_type": "Estate",
+    "year": 2005,
+    "mileage": 111111,
+    "transmission": "Automatic",
+    "location": "Al Beddaoui, Tripoli",
+    "district": "Tripoli",
+    "original_price": 5500,
+    "current_price": 5500,
+    "price_history": [
+      {
+        "price": 5500,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116855998": {
+    "id": "116855998",
+    "title": "Infiniti Fx series 2008",
+    "url": "https://www.olx.com.lb/ad/infiniti-fx-series-2008-ID116855998.html",
+    "make": "Infiniti",
+    "model": "Fx series",
+    "body_type": "Sports / Coupe",
+    "year": 2008,
+    "mileage": 42000,
+    "transmission": "Automatic",
+    "location": "Abou Samra, Tripoli",
+    "district": "Tripoli",
+    "original_price": 6700,
+    "current_price": 6700,
+    "price_history": [
+      {
+        "price": 6700,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116855994": {
+    "id": "116855994",
+    "title": "BMW 3-Series 2001",
+    "url": "https://www.olx.com.lb/ad/bmw-3-series-2001-ID116855994.html",
+    "make": "BMW",
+    "model": "3-Series",
+    "body_type": "Sports / Coupe",
+    "year": 2001,
+    "mileage": 1,
+    "transmission": "Manual",
+    "location": "Jdaide, Metn",
+    "district": "Metn",
+    "original_price": 4500,
+    "current_price": 4500,
+    "price_history": [
+      {
+        "price": 4500,
+        "date": "2026-04-16"
+      }
+    ],
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "last_updated": "2026-04-16",
+    "posted_date": "2026-04-16",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116855988": {
+    "id": "116855988",
+    "title": "Renault Dokker 2019",
+    "url": "https://www.olx.com.lb/ad/renault-dokker-2019-ID116855988.html",
+    "make": "Renault",
+    "model": "Dokker",
+    "body_type": "Van / Bus",
+    "year": 2019,
+    "mileage": 139000,
+    "transmission": "Manual",
+    "location": "Jbeil Town, Jbeil",
+    "district": "Jbeil",
+    "original_price": 9800,
+    "current_price": 9800,
+    "price_history": [
+      {
+        "price": 9800,
         "date": "2026-04-16"
       }
     ],
