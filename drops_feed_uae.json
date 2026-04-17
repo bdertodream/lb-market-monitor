@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
   "total_tracked": 9670,
-  "total_drops": 185,
+  "total_drops": 187,
   "total_new": 9670,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
@@ -2595,6 +2595,34 @@
       "bedrooms": "",
       "date": "2026-04-16",
       "first_seen": "2026-03-08"
+    },
+    {
+      "id": "17194006",
+      "title": "DEAL OF THE MONTH | Burj Al Arab View | 1 Bedroom Apartment | Safa Two by De Grisogono",
+      "old_price": 1500000,
+      "new_price": 1400000,
+      "drop_pct": 6.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/12/1-bedroom-apartment-safa-two-by-de-gris-2-338266/",
+      "area": "Business Bay",
+      "category": "Apartment",
+      "size": "776",
+      "bedrooms": "1",
+      "date": "2026-04-17",
+      "first_seen": "2026-04-05"
+    },
+    {
+      "id": "9799617",
+      "title": "Fitted Office | Vacant | Spacious | Prime Location | Luxury",
+      "old_price": 6000000,
+      "new_price": 5200000,
+      "drop_pct": 13.3,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/17/fitted-office-vacant-spacious-prime-loc-2-166658/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1934",
+      "bedrooms": "",
+      "date": "2026-04-17",
+      "first_seen": "2026-03-19"
     }
   ],
   "new_listings": [
@@ -8100,5 +8128,5 @@
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-16"
+  "last_updated": "2026-04-17"
 }

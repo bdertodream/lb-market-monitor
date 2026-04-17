@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-16T20:57:34.005357",
-  "total_tracked": 404,
+  "generated_at": "2026-04-17T02:44:27.246737",
+  "total_tracked": 405,
   "total_drops": 39,
-  "total_new": 404,
+  "total_new": 405,
   "avg_drop_pct": 24.9,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -1223,6 +1223,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116856954",
+      "title": "5 digits car plate",
+      "url": "https://www.olx.com.lb/ad/5-digits-car-plate-ID116856954.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jounieh, Keserouan",
+      "original_price": 3700,
+      "current_price": 3700,
+      "first_seen": "2026-04-17",
+      "posted_date": "2026-04-17",
+      "price_history": [
+        {
+          "price": 3700,
+          "date": "2026-04-17"
+        }
+      ]
+    },
     {
       "id": "116856721",
       "title": "B 888228",
@@ -3991,13 +4009,17 @@
       "plate_type": "Standard",
       "location": "Sodeco, Beirut",
       "original_price": 4500,
-      "current_price": 4500,
+      "current_price": 7500,
       "first_seen": "2026-03-17",
       "posted_date": "2026-03-17",
       "price_history": [
         {
           "price": 4500,
           "date": "2026-03-17"
+        },
+        {
+          "price": 7500,
+          "date": "2026-04-17"
         }
       ]
     },
