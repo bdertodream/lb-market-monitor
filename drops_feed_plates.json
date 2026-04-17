@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-17T13:29:29.786455",
-  "total_tracked": 406,
+  "generated_at": "2026-04-17T17:03:56.793766",
+  "total_tracked": 407,
   "total_drops": 40,
-  "total_new": 406,
+  "total_new": 407,
   "avg_drop_pct": 24.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -1280,6 +1280,24 @@
       "price_history": [
         {
           "price": 5200,
+          "date": "2026-04-17"
+        }
+      ]
+    },
+    {
+      "id": "116857810",
+      "title": "20200    N",
+      "url": "https://www.olx.com.lb/ad/20200-n-ID116857810.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 9500,
+      "current_price": 9500,
+      "first_seen": "2026-04-17",
+      "posted_date": "2026-04-17",
+      "price_history": [
+        {
+          "price": 9500,
           "date": "2026-04-17"
         }
       ]
