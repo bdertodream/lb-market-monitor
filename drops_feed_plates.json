@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-17T06:12:13.888435",
+  "generated_at": "2026-04-17T09:27:15.889475",
   "total_tracked": 405,
-  "total_drops": 39,
+  "total_drops": 40,
   "total_new": 405,
-  "avg_drop_pct": 24.9,
+  "avg_drop_pct": 24.3,
   "biggest_drop_usd": 13000,
   "drops": [
     {
@@ -1197,6 +1197,31 @@
       ]
     },
     {
+      "id": "116754092",
+      "title": "7 9 6  /  B رمز  FOR SALE صك جاهز",
+      "url": "https://www.olx.com.lb/ad/7-8-6-b-for-sale-ID116754092.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Sin El Fil, Metn",
+      "original_price": 29999,
+      "current_price": 29500,
+      "drop_usd": 499,
+      "drop_pct": 1.7,
+      "last_drop_date": "2026-04-17",
+      "first_seen": "2026-04-13",
+      "posted_date": "2026-04-13",
+      "price_history": [
+        {
+          "price": 29999,
+          "date": "2026-04-13"
+        },
+        {
+          "price": 29500,
+          "date": "2026-04-17"
+        }
+      ]
+    },
+    {
       "id": "116789342",
       "title": "رقم لوحة مميز للبيع",
       "url": "https://www.olx.com.lb/ad/رقم-لوحة-مميز-للبيع-ID116789342.html",
@@ -1465,13 +1490,17 @@
       "plate_type": "Standard",
       "location": "Sin El Fil, Metn",
       "original_price": 29999,
-      "current_price": 29999,
+      "current_price": 29500,
       "first_seen": "2026-04-13",
       "posted_date": "2026-04-13",
       "price_history": [
         {
           "price": 29999,
           "date": "2026-04-13"
+        },
+        {
+          "price": 29500,
+          "date": "2026-04-17"
         }
       ]
     },
