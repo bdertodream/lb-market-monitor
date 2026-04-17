@@ -7812,7 +7812,7 @@
     "location": "Dekwaneh, Metn",
     "district": "Metn",
     "original_price": 3500,
-    "current_price": 3200,
+    "current_price": 3000,
     "price_history": [
       {
         "price": 3500,
@@ -7861,15 +7861,19 @@
       {
         "price": 3200,
         "date": "2026-04-15"
+      },
+      {
+        "price": 3000,
+        "date": "2026-04-17"
       }
     ],
     "first_seen": "2026-03-24",
     "last_seen": "2026-04-17",
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-04-17",
     "posted_date": "2026-03-24",
     "drop_usd": 500,
     "drop_pct": 14.3,
-    "last_drop_date": "2026-04-14"
+    "last_drop_date": "2026-04-17"
   },
   "116830750": {
     "id": "116830750",
@@ -10521,6 +10525,30 @@
     "price_history": [
       {
         "price": 9500,
+        "date": "2026-04-17"
+      }
+    ],
+    "first_seen": "2026-04-17",
+    "last_seen": "2026-04-17",
+    "last_updated": "2026-04-17",
+    "posted_date": "2026-04-17",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116858053": {
+    "id": "116858053",
+    "title": "car number for sale",
+    "url": "https://www.olx.com.lb/ad/car-number-for-sale-ID116858053.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Sahel Alma, Keserouan",
+    "district": "Keserouan",
+    "original_price": 3100,
+    "current_price": 3100,
+    "price_history": [
+      {
+        "price": 3100,
         "date": "2026-04-17"
       }
     ],
