@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-18T05:50:35.317419",
-  "total_tracked": 409,
+  "generated_at": "2026-04-18T09:00:43.527978",
+  "total_tracked": 410,
   "total_drops": 40,
-  "total_new": 409,
+  "total_new": 410,
   "avg_drop_pct": 24.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -1266,6 +1266,24 @@
       "price_history": [
         {
           "price": 2250,
+          "date": "2026-04-18"
+        }
+      ]
+    },
+    {
+      "id": "116858489",
+      "title": "super plate —— A 4473 ——",
+      "url": "https://www.olx.com.lb/ad/super-plate-a-4473-ID116858489.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Rabieh, Metn",
+      "original_price": 7000,
+      "current_price": 7000,
+      "first_seen": "2026-04-18",
+      "posted_date": "2026-04-18",
+      "price_history": [
+        {
+          "price": 7000,
           "date": "2026-04-18"
         }
       ]
