@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-17T20:52:31.827015",
-  "total_tracked": 408,
+  "generated_at": "2026-04-18T02:36:04.956348",
+  "total_tracked": 409,
   "total_drops": 40,
-  "total_new": 408,
+  "total_new": 409,
   "avg_drop_pct": 24.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -1252,6 +1252,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116858229",
+      "title": "number plate",
+      "url": "https://www.olx.com.lb/ad/number-plate-ID116858229.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jdita, Zahle",
+      "original_price": 2250,
+      "current_price": 2250,
+      "first_seen": "2026-04-18",
+      "posted_date": "2026-04-18",
+      "price_history": [
+        {
+          "price": 2250,
+          "date": "2026-04-18"
+        }
+      ]
+    },
     {
       "id": "116856954",
       "title": "5 digits car plate",

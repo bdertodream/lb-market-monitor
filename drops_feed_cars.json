@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-17T20:52:15.412151",
-  "total_tracked": 9595,
+  "generated_at": "2026-04-18T02:35:45.803363",
+  "total_tracked": 9598,
   "total_drops": 978,
-  "total_new": 9595,
+  "total_new": 9598,
   "avg_drop_pct": 7.1,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -29650,6 +29650,72 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116858260",
+      "title": "Mercedes-Benz E-Class 2003",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2003-ID116858260.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Estate",
+      "year": 2003,
+      "mileage": 900000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 6200,
+      "current_price": 6200,
+      "first_seen": "2026-04-18",
+      "posted_date": "2026-04-18",
+      "price_history": [
+        {
+          "price": 6200,
+          "date": "2026-04-18"
+        }
+      ]
+    },
+    {
+      "id": "116855542",
+      "title": "Kia Forte 2019",
+      "url": "https://www.olx.com.lb/ad/kia-forte-2019-ID116855542.html",
+      "make": "Kia",
+      "model": "Forte",
+      "body_type": "Sedan",
+      "year": 2019,
+      "mileage": 63000,
+      "transmission": "Steptronic",
+      "location": "Dora, Metn",
+      "original_price": 13300,
+      "current_price": 13300,
+      "first_seen": "2026-04-18",
+      "posted_date": "2026-04-18",
+      "price_history": [
+        {
+          "price": 13300,
+          "date": "2026-04-18"
+        }
+      ]
+    },
+    {
+      "id": "116858232",
+      "title": "لادا أخرى 2000",
+      "url": "https://www.olx.com.lb/ad/لادا-أخرى-2000-ID116858232.html",
+      "make": "Lada",
+      "model": "Other",
+      "body_type": "Sports / Coupe",
+      "year": 2000,
+      "mileage": 200,
+      "transmission": "Manual",
+      "location": "Other in Baalbeck, Baalbeck",
+      "original_price": 2500,
+      "current_price": 2500,
+      "first_seen": "2026-04-18",
+      "posted_date": "2026-04-18",
+      "price_history": [
+        {
+          "price": 2500,
+          "date": "2026-04-18"
+        }
+      ]
+    },
     {
       "id": "116676946",
       "title": "Mercedes-Benz S550 coupe 4 matic 2015",
