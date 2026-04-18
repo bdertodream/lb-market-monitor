@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-18T13:12:22.178766",
-  "total_tracked": 411,
+  "generated_at": "2026-04-18T16:50:15.056174",
+  "total_tracked": 412,
   "total_drops": 40,
-  "total_new": 411,
+  "total_new": 412,
   "avg_drop_pct": 24.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -279,7 +279,7 @@
       "plate_type": "Standard",
       "location": "Achrafieh, Beirut",
       "original_price": 10000,
-      "current_price": 6770,
+      "current_price": 7000,
       "drop_usd": 3230,
       "drop_pct": 32.3,
       "last_drop_date": "2026-04-16",
@@ -305,6 +305,10 @@
         {
           "price": 6770,
           "date": "2026-04-16"
+        },
+        {
+          "price": 7000,
+          "date": "2026-04-18"
         }
       ]
     },
@@ -1307,6 +1311,24 @@
       ]
     },
     {
+      "id": "116858981",
+      "title": "نمرة عمومي",
+      "url": "https://www.olx.com.lb/ad/نمرة-عمومي-ID116858981.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Malaab, Beirut",
+      "original_price": 17500,
+      "current_price": 17500,
+      "first_seen": "2026-04-18",
+      "posted_date": "2026-04-18",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-04-18"
+        }
+      ]
+    },
+    {
       "id": "116856954",
       "title": "5 digits car plate",
       "url": "https://www.olx.com.lb/ad/5-digits-car-plate-ID116856954.html",
@@ -2080,7 +2102,7 @@
       "plate_type": "Standard",
       "location": "Achrafieh, Beirut",
       "original_price": 10000,
-      "current_price": 6770,
+      "current_price": 7000,
       "first_seen": "2026-04-05",
       "posted_date": "2026-04-05",
       "price_history": [
@@ -2103,6 +2125,10 @@
         {
           "price": 6770,
           "date": "2026-04-16"
+        },
+        {
+          "price": 7000,
+          "date": "2026-04-18"
         }
       ]
     },
