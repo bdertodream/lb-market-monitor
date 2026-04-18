@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-18T09:00:43.527978",
-  "total_tracked": 410,
+  "generated_at": "2026-04-18T13:12:22.178766",
+  "total_tracked": 411,
   "total_drops": 40,
-  "total_new": 410,
+  "total_new": 411,
   "avg_drop_pct": 24.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -1284,6 +1284,24 @@
       "price_history": [
         {
           "price": 7000,
+          "date": "2026-04-18"
+        }
+      ]
+    },
+    {
+      "id": "116858705",
+      "title": "Car plate",
+      "url": "https://www.olx.com.lb/ad/car-plate-ID116858705.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Ras Al Nabaa, Beirut",
+      "original_price": 15000,
+      "current_price": 15000,
+      "first_seen": "2026-04-18",
+      "posted_date": "2026-04-18",
+      "price_history": [
+        {
+          "price": 15000,
           "date": "2026-04-18"
         }
       ]
