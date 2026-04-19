@@ -565,7 +565,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-04",
+    "last_seen": "2026-04-19",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -4189,7 +4189,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-18",
+    "last_seen": "2026-04-19",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -10787,6 +10787,30 @@
     "price_history": [
       {
         "price": 2600,
+        "date": "2026-04-19"
+      }
+    ],
+    "first_seen": "2026-04-19",
+    "last_seen": "2026-04-19",
+    "last_updated": "2026-04-19",
+    "posted_date": "2026-04-19",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116831801": {
+    "id": "116831801",
+    "title": "special plate",
+    "url": "https://www.olx.com.lb/ad/special-plate-ID116831801.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Other in West-Bekaa, West Bekaa",
+    "district": "West Bekaa",
+    "original_price": 3200,
+    "current_price": 3200,
+    "price_history": [
+      {
+        "price": 3200,
         "date": "2026-04-19"
       }
     ],
