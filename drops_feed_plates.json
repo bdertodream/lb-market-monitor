@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-18T20:46:02.818007",
-  "total_tracked": 413,
+  "generated_at": "2026-04-19T02:50:45.230773",
+  "total_tracked": 415,
   "total_drops": 40,
-  "total_new": 413,
+  "total_new": 415,
   "avg_drop_pct": 24.3,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -1257,6 +1257,42 @@
   ],
   "new_listings": [
     {
+      "id": "116859361",
+      "title": "Car Plate Number",
+      "url": "https://www.olx.com.lb/ad/car-plate-number-ID116859361.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Hadath, Baabda",
+      "original_price": 2900,
+      "current_price": 2900,
+      "first_seen": "2026-04-19",
+      "posted_date": "2026-04-19",
+      "price_history": [
+        {
+          "price": 2900,
+          "date": "2026-04-19"
+        }
+      ]
+    },
+    {
+      "id": "116640382",
+      "title": "Serie 4 Digits Number - M 4444",
+      "url": "https://www.olx.com.lb/ad/serie-4-digits-number-m-4444-ID116640382.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Yarzeh, Baabda",
+      "original_price": 155000,
+      "current_price": 155000,
+      "first_seen": "2026-04-19",
+      "posted_date": "2026-04-19",
+      "price_history": [
+        {
+          "price": 155000,
+          "date": "2026-04-19"
+        }
+      ]
+    },
+    {
       "id": "116858229",
       "title": "number plate",
       "url": "https://www.olx.com.lb/ad/number-plate-ID116858229.html",
@@ -1582,19 +1618,23 @@
     },
     {
       "id": "116853981",
-      "title": "رقم مميز للبيع G555584",
+      "title": "٣ لوحات مميزه للبيع مع صق تخصيص سعرون 7500$",
       "url": "https://www.olx.com.lb/ad/رقم-مميز-للبيع-g555584-ID116853981.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Al Beddaoui, Tripoli",
       "original_price": 2700,
-      "current_price": 2700,
+      "current_price": 7500,
       "first_seen": "2026-04-14",
       "posted_date": "2026-04-14",
       "price_history": [
         {
           "price": 2700,
           "date": "2026-04-14"
+        },
+        {
+          "price": 7500,
+          "date": "2026-04-19"
         }
       ]
     },

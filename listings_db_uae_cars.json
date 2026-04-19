@@ -32492,7 +32492,7 @@
   "16773207": {
     "id": "16773207",
     "title": "Mercedes-Benz A-Class A 250 2015 - GCC Specs",
-    "price": 31500,
+    "price": 35000,
     "make": "Mercedes-Benz",
     "model": "A-Class",
     "year": "2015",
@@ -32515,6 +32515,10 @@
       {
         "price": 31500,
         "date": "2026-04-09T13:37:40Z"
+      },
+      {
+        "price": 35000,
+        "date": "2026-04-19T02:51:18Z"
       }
     ],
     "date": "2026-03-12"
@@ -129912,7 +129916,7 @@
   "16798824": {
     "id": "16798824",
     "title": "Tesla Model 3 Performance AWD | FSD Capability | GCC | 37,165 KM",
-    "price": 89200,
+    "price": 87000,
     "make": "Tesla",
     "model": "Model 3",
     "year": "2021",
@@ -129947,6 +129951,10 @@
       {
         "price": 89200,
         "date": "2026-04-18T02:36:41Z"
+      },
+      {
+        "price": 87000,
+        "date": "2026-04-19T02:51:18Z"
       }
     ],
     "date": "2026-04-13"
@@ -151485,6 +151493,50 @@
       {
         "price": 549000,
         "date": "2026-04-18T20:46:35Z"
+      }
+    ],
+    "date": "2026-04-18"
+  },
+  "16775161": {
+    "id": "16775161",
+    "title": "ELITE PORSCHE PANAMERA S \u2022\u2022 FULL OPTIONS \u2022\u2022 UNIQUE CAR",
+    "price": 99000,
+    "make": "Porsche",
+    "model": "Panamera",
+    "year": "2015",
+    "kilometers": "80000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Jumeirah 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/panamera/2026/3/14/elite-porsche-panamera-s-full-options-uniq-2-077---c5cce9409a71426fbd6d354a57f40f4b/",
+    "first_seen": "2026-04-19T02:51:18Z",
+    "prices": [
+      {
+        "price": 99000,
+        "date": "2026-04-19T02:51:18Z"
+      }
+    ],
+    "date": "2026-04-18"
+  },
+  "16449258": {
+    "id": "16449258",
+    "title": "GCC 2014 Mercedes-Benz C200 2.0L 4 Cylinders // IMMACULATE CONDITION!!!",
+    "price": 38900,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2014",
+    "kilometers": "155000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2025/6/16/gcc-2015-mercedes-benz-c200-20l-4-cylinder-2-847---8c966915eeae4223a200973d53c971b5/",
+    "first_seen": "2026-04-19T02:51:18Z",
+    "prices": [
+      {
+        "price": 38900,
+        "date": "2026-04-19T02:51:18Z"
       }
     ],
     "date": "2026-04-18"

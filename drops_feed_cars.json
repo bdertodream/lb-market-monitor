@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-18T20:45:43.118309",
-  "total_tracked": 9712,
-  "total_drops": 1008,
-  "total_new": 9712,
+  "generated_at": "2026-04-19T02:50:25.506457",
+  "total_tracked": 9716,
+  "total_drops": 1009,
+  "total_new": 9716,
   "avg_drop_pct": 7.1,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -8158,6 +8158,35 @@
         {
           "price": 42000,
           "date": "2026-04-16"
+        }
+      ]
+    },
+    {
+      "id": "116682298",
+      "title": "Ford Mondeo 2002",
+      "url": "https://www.olx.com.lb/ad/ford-mondeo-2002-ID116682298.html",
+      "make": "Ford",
+      "model": "Mondeo",
+      "body_type": "Estate",
+      "year": 2002,
+      "mileage": 160000,
+      "transmission": "Automatic",
+      "location": "Antelias, Metn",
+      "original_price": 3000,
+      "current_price": 2800,
+      "drop_usd": 200,
+      "drop_pct": 6.7,
+      "last_drop_date": "2026-04-19",
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 3000,
+          "date": "2026-03-15"
+        },
+        {
+          "price": 2800,
+          "date": "2026-04-19"
         }
       ]
     },
@@ -30552,6 +30581,94 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116859346",
+      "title": "Kia Forte 2019",
+      "url": "https://www.olx.com.lb/ad/kia-forte-2019-ID116859346.html",
+      "make": "Kia",
+      "model": "Forte",
+      "body_type": "Sedan",
+      "year": 2019,
+      "mileage": 40000,
+      "transmission": "Steptronic",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 13500,
+      "current_price": 13500,
+      "first_seen": "2026-04-19",
+      "posted_date": "2026-04-19",
+      "price_history": [
+        {
+          "price": 13500,
+          "date": "2026-04-19"
+        }
+      ]
+    },
+    {
+      "id": "116859338",
+      "title": "BMW 1-Series 2001",
+      "url": "https://www.olx.com.lb/ad/bmw-1-series-2001-ID116859338.html",
+      "make": "BMW",
+      "model": "1-Series",
+      "body_type": "Sports / Coupe",
+      "year": 2001,
+      "mileage": 42500,
+      "transmission": "Manual",
+      "location": "Jal El Dib, Metn",
+      "original_price": 3500,
+      "current_price": 3500,
+      "first_seen": "2026-04-19",
+      "posted_date": "2026-04-19",
+      "price_history": [
+        {
+          "price": 3500,
+          "date": "2026-04-19"
+        }
+      ]
+    },
+    {
+      "id": "116859324",
+      "title": "تويوتا تاكوما 1997",
+      "url": "https://www.olx.com.lb/ad/تويوتا-تاكوما-1997-ID116859324.html",
+      "make": "Toyota",
+      "model": "Tacoma",
+      "body_type": "Pickup",
+      "year": 1997,
+      "mileage": 0,
+      "transmission": "Manual",
+      "location": "Halba, Akkar",
+      "original_price": 5700,
+      "current_price": 5700,
+      "first_seen": "2026-04-19",
+      "posted_date": "2026-04-19",
+      "price_history": [
+        {
+          "price": 5700,
+          "date": "2026-04-19"
+        }
+      ]
+    },
+    {
+      "id": "116631863",
+      "title": "Honda Civic 2007",
+      "url": "https://www.olx.com.lb/ad/honda-civic-2007-ID116631863.html",
+      "make": "Honda",
+      "model": "Civic",
+      "body_type": "Sports / Coupe",
+      "year": 2007,
+      "mileage": 280000,
+      "transmission": "Automatic",
+      "location": "Mar Elias, Beirut",
+      "original_price": 5500,
+      "current_price": 5500,
+      "first_seen": "2026-04-19",
+      "posted_date": "2026-04-19",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-04-19"
+        }
+      ]
+    },
     {
       "id": "116858260",
       "title": "Mercedes-Benz E-Class 2003",
@@ -176488,13 +176605,17 @@
       "transmission": "Automatic",
       "location": "Antelias, Metn",
       "original_price": 3000,
-      "current_price": 3000,
+      "current_price": 2800,
       "first_seen": "2026-03-15",
       "posted_date": "2026-03-15",
       "price_history": [
         {
           "price": 3000,
           "date": "2026-03-15"
+        },
+        {
+          "price": 2800,
+          "date": "2026-04-19"
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
   "total_tracked": 9864,
-  "total_drops": 197,
+  "total_drops": 199,
   "total_new": 9864,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
@@ -2763,6 +2763,34 @@
       "bedrooms": "1",
       "date": "2026-04-18",
       "first_seen": "2026-04-16"
+    },
+    {
+      "id": "9806385",
+      "title": "Vacant | Retail Shop | Available Now",
+      "old_price": 7000000,
+      "new_price": 6500000,
+      "drop_pct": 7.1,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/3/vacant-retail-shop-available-now-2-327609/",
+      "area": "Sobha Hartland",
+      "category": "Shop",
+      "size": "1222",
+      "bedrooms": "",
+      "date": "2026-04-19",
+      "first_seen": "2026-03-11"
+    },
+    {
+      "id": "9806026",
+      "title": "Prime Location | Fitted and Spacious Shop |Vacant",
+      "old_price": 2495000,
+      "new_price": 2300000,
+      "drop_pct": 7.8,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/27/prime-location-fitted-and-spacious-shop-2-242757/",
+      "area": "Business Bay",
+      "category": "Shop",
+      "size": "834",
+      "bedrooms": "",
+      "date": "2026-04-19",
+      "first_seen": "2026-03-11"
     }
   ],
   "new_listings": [
@@ -8268,5 +8296,5 @@
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-18"
+  "last_updated": "2026-04-19"
 }
