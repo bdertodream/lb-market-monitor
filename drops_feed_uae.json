@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 9913,
+  "total_tracked": 9915,
   "total_drops": 207,
-  "total_new": 9913,
+  "total_new": 9915,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -2906,6 +2906,28 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "17337986",
+      "title": "Studio Apartment | Azizi Beach Oasis | Pool & Courtyard View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/17/studio-apartment-azizi-beach-oasis-pool-2-321061/",
+      "area": "Dubai Studio City",
+      "category": "Apartment",
+      "size": "320",
+      "bedrooms": "0",
+      "price": 530000,
+      "first_seen": "2026-04-20"
+    },
+    {
+      "id": "17346125",
+      "title": "DLD WAIVER | FLEXIBLE PAYMENT PLAN | PRIME UNITS",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/4/19/dld-waiver-flexible-payment-plan-prime--2-154449/",
+      "area": "DAMAC Islands 2",
+      "category": "Villa",
+      "size": "2209",
+      "bedrooms": "4",
+      "price": 2900000,
+      "first_seen": "2026-04-20"
+    },
     {
       "id": "17098093",
       "title": "Type 3E | Corner Plot | Renovation Project",
@@ -8383,30 +8405,8 @@
       "bedrooms": "4",
       "price": 6500000,
       "first_seen": "2026-04-15"
-    },
-    {
-      "id": "17245028",
-      "title": "Open View | Unfurnished | No Agents",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/26/open-view-unfurnished-no-agents-2-118832/",
-      "area": "Dubai Land Residence Complex",
-      "category": "Apartment",
-      "size": "305",
-      "bedrooms": "0",
-      "price": 490000,
-      "first_seen": "2026-04-15"
-    },
-    {
-      "id": "16054532",
-      "title": "Unfurnished Studio | Affordable Urban Living | Without Parking",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/7/9/unfurnished-studio-affordable-urban-liv-2-121735/",
-      "area": "Dubai Production City (IMPZ)",
-      "category": "Apartment",
-      "size": "496",
-      "bedrooms": "0",
-      "price": 460000,
-      "first_seen": "2026-04-15"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-19"
+  "last_updated": "2026-04-20"
 }
