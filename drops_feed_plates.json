@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-20T10:07:21.987354",
-  "total_tracked": 419,
+  "generated_at": "2026-04-20T13:52:34.413660",
+  "total_tracked": 421,
   "total_drops": 41,
-  "total_new": 419,
+  "total_new": 421,
   "avg_drop_pct": 23.9,
   "biggest_drop_usd": 13000,
   "drops": [
@@ -1299,6 +1299,42 @@
       "price_history": [
         {
           "price": 4000,
+          "date": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "id": "116861147",
+      "title": "PLATE NUMBER FOR SALES",
+      "url": "https://www.olx.com.lb/ad/plate-number-for-sales-ID116861147.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Ghazir, Keserouan",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-04-20",
+      "posted_date": "2026-04-20",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "id": "116861005",
+      "title": "12345 special plate number",
+      "url": "https://www.olx.com.lb/ad/12345-special-plate-number-ID116861005.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jal El Dib, Metn",
+      "original_price": 17500,
+      "current_price": 17500,
+      "first_seen": "2026-04-20",
+      "posted_date": "2026-04-20",
+      "price_history": [
+        {
+          "price": 17500,
           "date": "2026-04-20"
         }
       ]
