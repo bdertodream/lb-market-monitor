@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 10041,
-  "total_drops": 212,
-  "total_new": 10041,
+  "total_tracked": 10042,
+  "total_drops": 213,
+  "total_new": 10042,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -2973,9 +2973,34 @@
       "bedrooms": "",
       "date": "2026-04-20",
       "first_seen": "2026-03-27"
+    },
+    {
+      "id": "9742588",
+      "title": "Prime Residential Plot | Fountain Drive, Al Barari",
+      "old_price": 84000000,
+      "new_price": 70000000,
+      "drop_pct": 16.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/2/18/prime-residential-plot-fountain-drive-a-2-327402/",
+      "area": "Al Barari",
+      "category": "Land",
+      "size": "32595",
+      "bedrooms": "",
+      "date": "2026-04-21",
+      "first_seen": "2026-03-21"
     }
   ],
   "new_listings": [
+    {
+      "id": "17110980",
+      "title": "Available Unit & New Launch Soon | Premium Waterfront Community",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/20/available-unit-new-launch-soon-premium--2-126656/",
+      "area": "The Oasis by Emaar",
+      "category": "Villa",
+      "size": "8267",
+      "bedrooms": "4",
+      "price": 11888888,
+      "first_seen": "2026-04-21"
+    },
     {
       "id": "17337986",
       "title": "Studio Apartment | Azizi Beach Oasis | Pool & Courtyard View",
@@ -8464,19 +8489,8 @@
       "bedrooms": "5",
       "price": 9950000,
       "first_seen": "2026-04-16"
-    },
-    {
-      "id": "17156003",
-      "title": "Great Condition | Great Price | Vacant on Transfer",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/3/4/great-condition-easy-access-private-plo-2-818756/",
-      "area": "Green Community",
-      "category": "Villa",
-      "size": "4347",
-      "bedrooms": "4",
-      "price": 7000000,
-      "first_seen": "2026-04-16"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-20"
+  "last_updated": "2026-04-21"
 }
