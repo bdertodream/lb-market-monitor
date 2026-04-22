@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 10209,
-  "total_drops": 217,
-  "total_new": 10209,
+  "total_tracked": 10214,
+  "total_drops": 218,
+  "total_new": 10214,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -3043,9 +3043,78 @@
       "bedrooms": "",
       "date": "2026-04-21",
       "first_seen": "2026-04-09"
+    },
+    {
+      "id": "9807924",
+      "title": "HALF FLOOR | GRADE A | PAYMENT PLAN",
+      "old_price": 27960000,
+      "new_price": 15950000,
+      "drop_pct": 43.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/14/full-floor-grade-a-payment-plan-2-208408/",
+      "area": "Sheikh Zayed Road",
+      "category": "Office",
+      "size": "2899",
+      "bedrooms": "",
+      "date": "2026-04-22",
+      "first_seen": "2026-03-14"
     }
   ],
   "new_listings": [
+    {
+      "id": "16572434",
+      "title": "SPACIOUS 1 BEDROOM APARTMENT FOR SALE, 2 WASHROOMS, 2 SET OF WARDROBES, GYM, POOL SAUNA, STEEM, JACUZZI @730K",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/10/30/spacious-1-bedroom-apartment-for-sale-2-2-259377/",
+      "area": "Dubai Land Residence Complex",
+      "category": "Apartment",
+      "size": "893",
+      "bedrooms": "1",
+      "price": 730000,
+      "first_seen": "2026-04-22"
+    },
+    {
+      "id": "17356193",
+      "title": "NEXT TO METRO_FLEXIBLE PP_NEXT YEAR HANDOVER",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/21/next-to-metro_flexible-pp_next-year-han-2-930424/",
+      "area": "Dubai Land Residence Complex",
+      "category": "Apartment",
+      "size": "437",
+      "bedrooms": "0",
+      "price": 649000,
+      "first_seen": "2026-04-22"
+    },
+    {
+      "id": "9809102",
+      "title": "Premium /Fully Furnished office near Metro Station",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/27/premium-fully-furnished-office-near-met-2-140722/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "822",
+      "bedrooms": "",
+      "price": 2500000,
+      "first_seen": "2026-04-22"
+    },
+    {
+      "id": "9804765",
+      "title": "3 Parking Spaces | High ROI | Panoramic Views",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/19/3-parking-spaces-high-roi-panoramic-vie-2-544668/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "2153",
+      "bedrooms": "",
+      "price": 3600000,
+      "first_seen": "2026-04-22"
+    },
+    {
+      "id": "9755823",
+      "title": "Big Plot Size | Prime Location | Ready to Build | Corner Unit",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/4/16/big-plot-size-prime-location-ready-to-b-2-991013/",
+      "area": "DAMAC Hills 2 (Akoya by DAMAC)",
+      "category": "Land",
+      "size": "2060",
+      "bedrooms": "",
+      "price": 1150000,
+      "first_seen": "2026-04-22"
+    },
     {
       "id": "17110980",
       "title": "Available Unit & New Launch Soon | Premium Waterfront Community",
@@ -8490,63 +8559,8 @@
       "bedrooms": "0",
       "price": 550000,
       "first_seen": "2026-04-17"
-    },
-    {
-      "id": "17334982",
-      "title": "5% DOWN PAYMENT & 1% MONTHLY / STUDIO + POOL",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/16/5-down-payment-1-monthly-studio-pool-2-511381/",
-      "area": "Arjan",
-      "category": "Apartment",
-      "size": "437",
-      "bedrooms": "0",
-      "price": 799000,
-      "first_seen": "2026-04-17"
-    },
-    {
-      "id": "9810729",
-      "title": "Grade A Office | Modern Interiors | Stunning Skyline Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/9/grade-a-office-modern-interiors-stunnin-2-117926/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "741",
-      "bedrooms": "",
-      "price": 2650000,
-      "first_seen": "2026-04-17"
-    },
-    {
-      "id": "9812052",
-      "title": "LOGISTIC FACILITY I JAFZA I ROI ASSET",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/4/17/logistic-facility-i-jafza-i-roi-asset-2-114334/",
-      "area": "Jebel Ali",
-      "category": "Warehouse",
-      "size": "97000",
-      "bedrooms": "",
-      "price": 30600000,
-      "first_seen": "2026-04-17"
-    },
-    {
-      "id": "9805021",
-      "title": "Excellent Industrial Warehouse for Sale \u2013 Dubai Industrial City",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/2/21/excellent-industrial-warehouse-for-sale-2-945193/",
-      "area": "Dubai Industrial City",
-      "category": "Warehouse",
-      "size": "61000",
-      "bedrooms": "",
-      "price": 19500000,
-      "first_seen": "2026-04-17"
-    },
-    {
-      "id": "9812082",
-      "title": "Smart Investment Opportunity | Premium Offices | Barsha Heights Hub",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/17/smart-investment-opportunity-premium-of-2-884413/",
-      "area": "Barsha Heights (Tecom)",
-      "category": "Office",
-      "size": "2861",
-      "bedrooms": "",
-      "price": 8252000,
-      "first_seen": "2026-04-17"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-21"
+  "last_updated": "2026-04-22"
 }
