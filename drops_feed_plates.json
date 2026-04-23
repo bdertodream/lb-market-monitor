@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-23T13:52:03.243584",
-  "total_tracked": 444,
+  "generated_at": "2026-04-23T17:29:03.783355",
+  "total_tracked": 447,
   "total_drops": 46,
-  "total_new": 444,
+  "total_new": 447,
   "avg_drop_pct": 23.1,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -652,13 +652,13 @@
     },
     {
       "id": "116857407",
-      "title": "B 1498  Special car plate number for sale",
+      "title": "O 55554  Special car plate number for sale",
       "url": "https://www.olx.com.lb/ad/g-333344-special-car-plate-number-for-sale-ID116857407.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Mar Elias, Beirut",
       "original_price": 5200,
-      "current_price": 4400,
+      "current_price": 7500,
       "drop_usd": 800,
       "drop_pct": 15.4,
       "last_drop_date": "2026-04-21",
@@ -672,6 +672,10 @@
         {
           "price": 4400,
           "date": "2026-04-21"
+        },
+        {
+          "price": 7500,
+          "date": "2026-04-23"
         }
       ]
     },
@@ -1471,6 +1475,60 @@
       ]
     },
     {
+      "id": "116867412",
+      "title": "N 4292",
+      "url": "https://www.olx.com.lb/ad/n-4292-ID116867412.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Batroun Town, Batroun",
+      "original_price": 5500,
+      "current_price": 5500,
+      "first_seen": "2026-04-23",
+      "posted_date": "2026-04-23",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-04-23"
+        }
+      ]
+    },
+    {
+      "id": "116867410",
+      "title": "Z 6353",
+      "url": "https://www.olx.com.lb/ad/z-6353-ID116867410.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jbeil Town, Jbeil",
+      "original_price": 6800,
+      "current_price": 6800,
+      "first_seen": "2026-04-23",
+      "posted_date": "2026-04-23",
+      "price_history": [
+        {
+          "price": 6800,
+          "date": "2026-04-23"
+        }
+      ]
+    },
+    {
+      "id": "116867404",
+      "title": "O 6863",
+      "url": "https://www.olx.com.lb/ad/o-6863-ID116867404.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 5800,
+      "current_price": 5800,
+      "first_seen": "2026-04-23",
+      "posted_date": "2026-04-23",
+      "price_history": [
+        {
+          "price": 5800,
+          "date": "2026-04-23"
+        }
+      ]
+    },
+    {
       "id": "116864886",
       "title": "رقم مميز للبيع",
       "url": "https://www.olx.com.lb/ad/رقم-مميز-للبيع-ID116864886.html",
@@ -1796,19 +1854,23 @@
     },
     {
       "id": "116861303",
-      "title": "B 1498",
+      "title": "B 1831",
       "url": "https://www.olx.com.lb/ad/b-1498-ID116861303.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Ras Beirut, Beirut",
       "original_price": 4500,
-      "current_price": 4500,
+      "current_price": 6500,
       "first_seen": "2026-04-20",
       "posted_date": "2026-04-20",
       "price_history": [
         {
           "price": 4500,
           "date": "2026-04-20"
+        },
+        {
+          "price": 6500,
+          "date": "2026-04-23"
         }
       ]
     },
@@ -2102,13 +2164,13 @@
     },
     {
       "id": "116857407",
-      "title": "B 1498  Special car plate number for sale",
+      "title": "O 55554  Special car plate number for sale",
       "url": "https://www.olx.com.lb/ad/g-333344-special-car-plate-number-for-sale-ID116857407.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Mar Elias, Beirut",
       "original_price": 5200,
-      "current_price": 4400,
+      "current_price": 7500,
       "first_seen": "2026-04-17",
       "posted_date": "2026-04-17",
       "price_history": [
@@ -2119,6 +2181,10 @@
         {
           "price": 4400,
           "date": "2026-04-21"
+        },
+        {
+          "price": 7500,
+          "date": "2026-04-23"
         }
       ]
     },
