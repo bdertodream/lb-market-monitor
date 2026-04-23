@@ -476,7 +476,7 @@
     "location": "Amioun, Koura",
     "district": "Koura",
     "original_price": 6950,
-    "current_price": 2950,
+    "current_price": 123456,
     "price_history": [
       {
         "price": 6950,
@@ -489,11 +489,15 @@
       {
         "price": 2950,
         "date": "2026-04-22"
+      },
+      {
+        "price": 123456,
+        "date": "2026-04-23"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-04-23",
-    "last_updated": "2026-04-22",
+    "last_updated": "2026-04-23",
     "drop_usd": 6827,
     "drop_pct": 98.2,
     "last_drop_date": "2026-03-16",
@@ -1248,16 +1252,20 @@
     "location": "Ksara, Zahle",
     "district": "Zahle",
     "original_price": 10500,
-    "current_price": 10500,
+    "current_price": 11000,
     "price_history": [
       {
         "price": 10500,
         "date": "2026-03-01"
+      },
+      {
+        "price": 11000,
+        "date": "2026-04-23"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-31",
-    "last_updated": "2026-03-07",
+    "last_seen": "2026-04-23",
+    "last_updated": "2026-04-23",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
@@ -6551,7 +6559,7 @@
     "location": "Amioun, Koura",
     "district": "Koura",
     "original_price": 123,
-    "current_price": 2950,
+    "current_price": 123456,
     "price_history": [
       {
         "price": 123,
@@ -6564,11 +6572,15 @@
       {
         "price": 2950,
         "date": "2026-04-22"
+      },
+      {
+        "price": 123456,
+        "date": "2026-04-23"
       }
     ],
     "first_seen": "2026-03-16",
     "last_seen": "2026-04-23",
-    "last_updated": "2026-04-22",
+    "last_updated": "2026-04-23",
     "posted_date": "2026-03-16",
     "drop_usd": -2827,
     "drop_pct": -2298.4,
@@ -7620,7 +7632,7 @@
       }
     ],
     "first_seen": "2026-03-22",
-    "last_seen": "2026-04-21",
+    "last_seen": "2026-04-23",
     "last_updated": "2026-03-22",
     "posted_date": "2026-03-22",
     "drop_usd": 0,
@@ -11468,6 +11480,30 @@
     "last_seen": "2026-04-23",
     "last_updated": "2026-04-22",
     "posted_date": "2026-04-22",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116856781": {
+    "id": "116856781",
+    "title": "Golden 7 Digits Numbers",
+    "url": "https://www.olx.com.lb/ad/golden-7-digits-numbers-ID116856781.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Other in Zgharta, Zgharta",
+    "district": "Zgharta",
+    "original_price": 15551,
+    "current_price": 15551,
+    "price_history": [
+      {
+        "price": 15551,
+        "date": "2026-04-23"
+      }
+    ],
+    "first_seen": "2026-04-23",
+    "last_seen": "2026-04-23",
+    "last_updated": "2026-04-23",
+    "posted_date": "2026-04-23",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null
