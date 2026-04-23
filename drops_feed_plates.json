@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-23T09:37:36.055928",
-  "total_tracked": 443,
+  "generated_at": "2026-04-23T13:52:03.243584",
+  "total_tracked": 444,
   "total_drops": 46,
-  "total_new": 443,
+  "total_new": 444,
   "avg_drop_pct": 23.1,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -1448,6 +1448,24 @@
       "price_history": [
         {
           "price": 15551,
+          "date": "2026-04-23"
+        }
+      ]
+    },
+    {
+      "id": "116867239",
+      "title": "Two Plates numbers 5 digits code B",
+      "url": "https://www.olx.com.lb/ad/plate-number-5-digits-code-b-ID116867239.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Zouk Mosbeh, Keserouan",
+      "original_price": 3500,
+      "current_price": 3500,
+      "first_seen": "2026-04-23",
+      "posted_date": "2026-04-23",
+      "price_history": [
+        {
+          "price": 3500,
           "date": "2026-04-23"
         }
       ]
