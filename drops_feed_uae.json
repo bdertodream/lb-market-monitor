@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 10638,
+  "total_tracked": 10640,
   "total_drops": 232,
-  "total_new": 10638,
+  "total_new": 10640,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -3256,6 +3256,28 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "17125196",
+      "title": "Golf course view | VD1 Type | Standalone",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/24/golf-course-view-vd1-type-standalone-2-309184/",
+      "area": "DAMAC Hills",
+      "category": "Villa",
+      "size": "6618",
+      "bedrooms": "5",
+      "price": 10500000,
+      "first_seen": "2026-04-24"
+    },
+    {
+      "id": "9808692",
+      "title": "Fully Fitted Office | Glass Partitions | Near Metro | Lowest Price",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/24/fully-fitted-office-glass-partitions-ne-2-319904/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1452",
+      "bedrooms": "",
+      "price": 2950000,
+      "first_seen": "2026-04-24"
+    },
     {
       "id": "17192705",
       "title": "3 spacious bedrooms with maid .Time Building 1 | Multiple balconies City views",
@@ -8733,30 +8755,8 @@
       "bedrooms": "1",
       "price": 1220000,
       "first_seen": "2026-04-21"
-    },
-    {
-      "id": "17352416",
-      "title": "Brand New | High floor | Amazing views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/21/brand-new-high-floor-amazing-views-2-442767/",
-      "area": "Dubai Land Residence Complex",
-      "category": "Apartment",
-      "size": "476",
-      "bedrooms": "0",
-      "price": 620000,
-      "first_seen": "2026-04-21"
-    },
-    {
-      "id": "16610325",
-      "title": "Prime Location | Spacious | Exclusive | Rented",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/11/6/spacious-prime-location-exclusive-rente-2-339401/",
-      "area": "Remraam",
-      "category": "Apartment",
-      "size": "950",
-      "bedrooms": "2",
-      "price": 1100000,
-      "first_seen": "2026-04-21"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-23"
+  "last_updated": "2026-04-24"
 }
