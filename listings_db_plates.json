@@ -7857,7 +7857,7 @@
   },
   "116755059": {
     "id": "116755059",
-    "title": "Special car plate for sale 4 digits 8000$",
+    "title": "Special car plate 4 digits both 8000$",
     "url": "https://www.olx.com.lb/ad/special-car-plate-for-sale-5-digits-ID116755059.html",
     "plate_code": "",
     "plate_type": "Standard",
@@ -11800,10 +11800,14 @@
     "location": "Aaitat, Aley",
     "district": "Aley",
     "original_price": 3200,
-    "current_price": 3200,
+    "current_price": 3500,
     "price_history": [
       {
         "price": 3200,
+        "date": "2026-04-25"
+      },
+      {
+        "price": 3500,
         "date": "2026-04-25"
       }
     ],
@@ -11852,6 +11856,30 @@
     "price_history": [
       {
         "price": 39000,
+        "date": "2026-04-25"
+      }
+    ],
+    "first_seen": "2026-04-25",
+    "last_seen": "2026-04-25",
+    "last_updated": "2026-04-25",
+    "posted_date": "2026-04-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116859359": {
+    "id": "116859359",
+    "title": "car plates for sale",
+    "url": "https://www.olx.com.lb/ad/car-plates-for-sale-ID116859359.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Kaslik, Keserouan",
+    "district": "Keserouan",
+    "original_price": 4300,
+    "current_price": 4300,
+    "price_history": [
+      {
+        "price": 4300,
         "date": "2026-04-25"
       }
     ],
