@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 10854,
-  "total_drops": 238,
-  "total_new": 10854,
+  "total_tracked": 10857,
+  "total_drops": 239,
+  "total_new": 10857,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -3337,9 +3337,56 @@
       "bedrooms": "1",
       "date": "2026-04-24",
       "first_seen": "2026-04-08"
+    },
+    {
+      "id": "9741967",
+      "title": "Mulberry Plot for Sale Prime Location",
+      "old_price": 1200000,
+      "new_price": 1000000,
+      "drop_pct": 16.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/2/16/mulberry-plot-for-sale-prime-location-2-919153/",
+      "area": "DAMAC Hills 2 (Akoya by DAMAC)",
+      "category": "Land",
+      "size": "1881",
+      "bedrooms": "",
+      "date": "2026-04-25",
+      "first_seen": "2026-03-08"
     }
   ],
   "new_listings": [
+    {
+      "id": "16992284",
+      "title": "Fully Renovated | Full Marina View | VOT",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/26/fully-renovated-full-marina-view-vot-2-197662/",
+      "area": "Jumeirah Beach Residence (JBR)",
+      "category": "Apartment",
+      "size": "1290",
+      "bedrooms": "2",
+      "price": 2950000,
+      "first_seen": "2026-04-25"
+    },
+    {
+      "id": "17228081",
+      "title": "Furnished Studio | Resale | Balcony | Azizi Riviera 44",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/23/furnished-studio-resale-balcony-azizi-r-2-152259/",
+      "area": "Meydan",
+      "category": "Apartment",
+      "size": "338",
+      "bedrooms": "0",
+      "price": 800000,
+      "first_seen": "2026-04-25"
+    },
+    {
+      "id": "9697193",
+      "title": "G+1 Freehold Villa Plots | Jebel Ali Hills | Multiple Sizes Available",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2025/7/20/huge-four-plots-corner-three-roads-faci-2-179911/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "14260",
+      "bedrooms": "",
+      "price": 4991000,
+      "first_seen": "2026-04-25"
+    },
     {
       "id": "17125196",
       "title": "Golf course view | VD1 Type | Standalone",
@@ -8806,41 +8853,8 @@
       "bedrooms": "1",
       "price": 770000,
       "first_seen": "2026-04-22"
-    },
-    {
-      "id": "17359520",
-      "title": "Furnished Studio | Mid floor | High ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/22/furnished-studio-mid-floor-high-roi-2-193110/",
-      "area": "Dubai Silicon Oasis (DSO)",
-      "category": "Apartment",
-      "size": "378",
-      "bedrooms": "0",
-      "price": 850000,
-      "first_seen": "2026-04-22"
-    },
-    {
-      "id": "17357890",
-      "title": "Lumiere Villa | Contemporary | Double Height",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/4/22/lumiere-villa-contemporary-double-heigh-2-536355/",
-      "area": "Nad Al Sheba",
-      "category": "Villa",
-      "size": "6000",
-      "bedrooms": "6",
-      "price": 17250000,
-      "first_seen": "2026-04-22"
-    },
-    {
-      "id": "17359449",
-      "title": "Below Market Price 250 K | Near Metro | 12%ROI | Limited Units | Trust Developer",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/22/below-market-price-250-k-near-metro-12r-2-209065/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "627",
-      "bedrooms": "1",
-      "price": 849000,
-      "first_seen": "2026-04-22"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-24"
+  "last_updated": "2026-04-25"
 }
