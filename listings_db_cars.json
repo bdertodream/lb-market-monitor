@@ -2769,7 +2769,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-10",
     "drop_usd": 900,
     "drop_pct": 3.4,
@@ -7233,7 +7233,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-12",
     "drop_usd": 450,
     "drop_pct": 2.3,
@@ -9529,7 +9529,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-07",
     "drop_usd": 500,
     "drop_pct": 2.1,
@@ -44307,7 +44307,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-20",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -46043,7 +46043,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -50930,7 +50930,7 @@
     "location": "Bikfaya, Metn",
     "district": "Metn",
     "original_price": 11700,
-    "current_price": 12500,
+    "current_price": 12000,
     "price_history": [
       {
         "price": 11700,
@@ -50939,15 +50939,19 @@
       {
         "price": 12500,
         "date": "2026-04-23"
+      },
+      {
+        "price": 12000,
+        "date": "2026-04-25"
       }
     ],
     "first_seen": "2026-03-08",
     "last_seen": "2026-04-25",
-    "last_updated": "2026-04-23",
+    "last_updated": "2026-04-25",
     "posted_date": "2026-03-08",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": -300,
+    "drop_pct": -2.6,
+    "last_drop_date": "2026-04-25",
     "stale": true
   },
   "116809295": {
@@ -62439,16 +62443,20 @@
     "location": "Badaro, Beirut",
     "district": "Beirut",
     "original_price": 42500,
-    "current_price": 42500,
+    "current_price": 43900,
     "price_history": [
       {
         "price": 42500,
         "date": "2026-03-09"
+      },
+      {
+        "price": 43900,
+        "date": "2026-04-25"
       }
     ],
     "first_seen": "2026-03-09",
-    "last_seen": "2026-04-24",
-    "last_updated": "2026-03-09",
+    "last_seen": "2026-04-25",
+    "last_updated": "2026-04-25",
     "posted_date": "2026-03-09",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -63221,7 +63229,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-03-10",
     "posted_date": "2026-03-10",
     "drop_usd": 0,
@@ -65215,7 +65223,7 @@
       }
     ],
     "first_seen": "2026-03-10",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-09",
     "posted_date": "2026-03-10",
     "drop_usd": 2000,
@@ -96134,7 +96142,7 @@
       }
     ],
     "first_seen": "2026-03-15",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-24",
     "posted_date": "2026-03-15",
     "drop_usd": 1900,
@@ -127987,7 +127995,7 @@
       }
     ],
     "first_seen": "2026-03-19",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-21",
     "posted_date": "2026-03-19",
     "drop_usd": 900,
@@ -134941,7 +134949,7 @@
       }
     ],
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-23",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-03-20",
     "posted_date": "2026-03-20",
     "drop_usd": 0,
@@ -146881,7 +146889,7 @@
       }
     ],
     "first_seen": "2026-03-23",
-    "last_seen": "2026-04-03",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-03-23",
     "posted_date": "2026-03-23",
     "drop_usd": 0,
@@ -152746,7 +152754,7 @@
       }
     ],
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-03-24",
     "posted_date": "2026-03-24",
     "drop_usd": 0,
@@ -152779,7 +152787,7 @@
       }
     ],
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-03-26",
     "posted_date": "2026-03-24",
     "drop_usd": 800,
@@ -152971,7 +152979,7 @@
       }
     ],
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-03-26",
     "posted_date": "2026-03-24",
     "drop_usd": 3000,
@@ -153331,7 +153339,7 @@
       }
     ],
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-31",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-03-28",
     "posted_date": "2026-03-24",
     "drop_usd": 0,
@@ -153745,7 +153753,7 @@
       }
     ],
     "first_seen": "2026-03-24",
-    "last_seen": "2026-04-02",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-03-24",
     "posted_date": "2026-03-24",
     "drop_usd": 0,
@@ -154730,7 +154738,7 @@
       }
     ],
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-03-24",
     "posted_date": "2026-03-24",
     "drop_usd": 0,
@@ -159764,20 +159772,24 @@
     "location": "Zouk Mosbeh, Keserouan",
     "district": "Keserouan",
     "original_price": 45000,
-    "current_price": 45000,
+    "current_price": 44000,
     "price_history": [
       {
         "price": 45000,
         "date": "2026-03-25"
+      },
+      {
+        "price": 44000,
+        "date": "2026-04-25"
       }
     ],
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-27",
-    "last_updated": "2026-03-25",
+    "last_seen": "2026-04-25",
+    "last_updated": "2026-04-25",
     "posted_date": "2026-03-25",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": 1000,
+    "drop_pct": 2.2,
+    "last_drop_date": "2026-04-25",
     "stale": true
   },
   "116831366": {
@@ -159826,20 +159838,24 @@
     "location": "Zouk Mosbeh, Keserouan",
     "district": "Keserouan",
     "original_price": 32000,
-    "current_price": 32000,
+    "current_price": 30000,
     "price_history": [
       {
         "price": 32000,
         "date": "2026-03-25"
+      },
+      {
+        "price": 30000,
+        "date": "2026-04-25"
       }
     ],
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-27",
-    "last_updated": "2026-03-25",
+    "last_seen": "2026-04-25",
+    "last_updated": "2026-04-25",
     "posted_date": "2026-03-25",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": 2000,
+    "drop_pct": 6.2,
+    "last_drop_date": "2026-04-25",
     "stale": true
   },
   "116831351": {
@@ -160919,7 +160935,7 @@
       }
     ],
     "first_seen": "2026-03-25",
-    "last_seen": "2026-04-13",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-03-25",
     "posted_date": "2026-03-25",
     "drop_usd": 0,
@@ -160969,20 +160985,24 @@
     "location": "Achrafieh, Beirut",
     "district": "Beirut",
     "original_price": 25000,
-    "current_price": 25000,
+    "current_price": 23000,
     "price_history": [
       {
         "price": 25000,
         "date": "2026-03-25"
+      },
+      {
+        "price": 23000,
+        "date": "2026-04-25"
       }
     ],
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-27",
-    "last_updated": "2026-03-25",
+    "last_seen": "2026-04-25",
+    "last_updated": "2026-04-25",
     "posted_date": "2026-03-25",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": 2000,
+    "drop_pct": 8.0,
+    "last_drop_date": "2026-04-25",
     "stale": true
   },
   "116469023": {
@@ -166190,20 +166210,24 @@
     "location": "Ghazze, West Bekaa",
     "district": "West Bekaa",
     "original_price": 10000,
-    "current_price": 10000,
+    "current_price": 9800,
     "price_history": [
       {
         "price": 10000,
         "date": "2026-03-25"
+      },
+      {
+        "price": 9800,
+        "date": "2026-04-25"
       }
     ],
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-28",
-    "last_updated": "2026-03-25",
+    "last_seen": "2026-04-25",
+    "last_updated": "2026-04-25",
     "posted_date": "2026-03-25",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "drop_usd": 200,
+    "drop_pct": 2.0,
+    "last_drop_date": "2026-04-25",
     "stale": true
   },
   "116832420": {
@@ -166960,7 +166984,7 @@
       }
     ],
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-29",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-03-25",
     "posted_date": "2026-03-25",
     "drop_usd": 0,
@@ -173806,7 +173830,7 @@
       }
     ],
     "first_seen": "2026-03-26",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-03-26",
     "posted_date": "2026-03-26",
     "drop_usd": 0,
@@ -181942,7 +181966,7 @@
       }
     ],
     "first_seen": "2026-03-28",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-21",
     "posted_date": "2026-03-28",
     "drop_usd": 1100,
@@ -183001,7 +183025,7 @@
       }
     ],
     "first_seen": "2026-03-28",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-03-28",
     "posted_date": "2026-03-28",
     "drop_usd": 0,
@@ -220272,7 +220296,7 @@
       }
     ],
     "first_seen": "2026-04-03",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-03",
     "posted_date": "2026-04-03",
     "drop_usd": 0,
@@ -222764,7 +222788,7 @@
       }
     ],
     "first_seen": "2026-04-04",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-04",
     "posted_date": "2026-04-04",
     "drop_usd": 0,
@@ -239639,7 +239663,7 @@
       }
     ],
     "first_seen": "2026-04-08",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-08",
     "posted_date": "2026-04-08",
     "drop_usd": 0,
@@ -247482,7 +247506,7 @@
       }
     ],
     "first_seen": "2026-04-10",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-21",
     "posted_date": "2026-04-10",
     "drop_usd": 200,
@@ -248102,7 +248126,7 @@
       }
     ],
     "first_seen": "2026-04-10",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-10",
     "posted_date": "2026-04-10",
     "drop_usd": 0,
@@ -254467,7 +254491,7 @@
       }
     ],
     "first_seen": "2026-04-12",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-12",
     "posted_date": "2026-04-12",
     "drop_usd": 0,
@@ -264599,7 +264623,7 @@
       }
     ],
     "first_seen": "2026-04-14",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-24",
     "posted_date": "2026-04-14",
     "drop_usd": 600,
@@ -279518,7 +279542,7 @@
       }
     ],
     "first_seen": "2026-04-17",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-23",
     "posted_date": "2026-04-17",
     "drop_usd": 300,
@@ -283434,7 +283458,7 @@
       }
     ],
     "first_seen": "2026-04-17",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-17",
     "posted_date": "2026-04-17",
     "drop_usd": 0,
@@ -285282,7 +285306,7 @@
       }
     ],
     "first_seen": "2026-04-18",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-22",
     "posted_date": "2026-04-18",
     "drop_usd": 2100,
@@ -286582,7 +286606,7 @@
       }
     ],
     "first_seen": "2026-04-18",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-18",
     "posted_date": "2026-04-18",
     "drop_usd": 0,
@@ -287850,7 +287874,7 @@
       }
     ],
     "first_seen": "2026-04-18",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-18",
     "posted_date": "2026-04-18",
     "drop_usd": 0,
@@ -292062,7 +292086,7 @@
       }
     ],
     "first_seen": "2026-04-20",
-    "last_seen": "2026-04-23",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-20",
     "posted_date": "2026-04-20",
     "drop_usd": 0,
@@ -293074,7 +293098,7 @@
       }
     ],
     "first_seen": "2026-04-20",
-    "last_seen": "2026-04-24",
+    "last_seen": "2026-04-25",
     "last_updated": "2026-04-20",
     "posted_date": "2026-04-20",
     "drop_usd": 0,
@@ -306470,20 +306494,24 @@
     "location": "Jisr El Bacha, Metn",
     "district": "Metn",
     "original_price": 6800,
-    "current_price": 6800,
+    "current_price": 6600,
     "price_history": [
       {
         "price": 6800,
         "date": "2026-04-22"
+      },
+      {
+        "price": 6600,
+        "date": "2026-04-25"
       }
     ],
     "first_seen": "2026-04-22",
     "last_seen": "2026-04-25",
-    "last_updated": "2026-04-22",
+    "last_updated": "2026-04-25",
     "posted_date": "2026-04-22",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 200,
+    "drop_pct": 2.9,
+    "last_drop_date": "2026-04-25"
   },
   "116866107": {
     "id": "116866107",
@@ -317270,10 +317298,14 @@
     "location": "Sarafand, Saida",
     "district": "Saida",
     "original_price": 7000,
-    "current_price": 7000,
+    "current_price": 6500,
     "price_history": [
       {
         "price": 7000,
+        "date": "2026-04-25"
+      },
+      {
+        "price": 6500,
         "date": "2026-04-25"
       }
     ],
@@ -317281,9 +317313,9 @@
     "last_seen": "2026-04-25",
     "last_updated": "2026-04-25",
     "posted_date": "2026-04-25",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 500,
+    "drop_pct": 7.1,
+    "last_drop_date": "2026-04-25"
   },
   "116869129": {
     "id": "116869129",
@@ -317326,10 +317358,14 @@
     "location": "Baabda Town, Baabda",
     "district": "Baabda",
     "original_price": 10500,
-    "current_price": 10500,
+    "current_price": 11000,
     "price_history": [
       {
         "price": 10500,
+        "date": "2026-04-25"
+      },
+      {
+        "price": 11000,
         "date": "2026-04-25"
       }
     ],
@@ -318506,6 +318542,258 @@
     "price_history": [
       {
         "price": 3000,
+        "date": "2026-04-25"
+      }
+    ],
+    "first_seen": "2026-04-25",
+    "last_seen": "2026-04-25",
+    "last_updated": "2026-04-25",
+    "posted_date": "2026-04-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116869560": {
+    "id": "116869560",
+    "title": "Nissan X-Trail 2006",
+    "url": "https://www.olx.com.lb/ad/nissan-x-trail-2006-ID116869560.html",
+    "make": "Nissan",
+    "model": "X-Trail",
+    "body_type": "SUV",
+    "year": 2006,
+    "mileage": 200000,
+    "transmission": "Automatic",
+    "location": "Mar Elias, Beirut",
+    "district": "Beirut",
+    "original_price": 5500,
+    "current_price": 5500,
+    "price_history": [
+      {
+        "price": 5500,
+        "date": "2026-04-25"
+      }
+    ],
+    "first_seen": "2026-04-25",
+    "last_seen": "2026-04-25",
+    "last_updated": "2026-04-25",
+    "posted_date": "2026-04-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116635232": {
+    "id": "116635232",
+    "title": "بونتياك جي 4 2004",
+    "url": "https://www.olx.com.lb/ad/بونتياك-جي-4-2004-ID116635232.html",
+    "make": "Pontiac",
+    "model": "G4",
+    "body_type": "Estate",
+    "year": 2004,
+    "mileage": 42,
+    "transmission": "Automatic",
+    "location": "Chtoura, Zahle",
+    "district": "Zahle",
+    "original_price": 2400,
+    "current_price": 2400,
+    "price_history": [
+      {
+        "price": 2400,
+        "date": "2026-04-25"
+      }
+    ],
+    "first_seen": "2026-04-25",
+    "last_seen": "2026-04-25",
+    "last_updated": "2026-04-25",
+    "posted_date": "2026-04-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116869544": {
+    "id": "116869544",
+    "title": "Jeep Wrangler Rubicon Trail Rated 2018 black on black",
+    "url": "https://www.olx.com.lb/ad/jeep-wrangler-rubicon-trail-rated-2018-black-on-black-ID116869544.html",
+    "make": "Jeep",
+    "model": "Wrangler Rubicon",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 43000,
+    "transmission": "Steptronic",
+    "location": "Antelias, Metn",
+    "district": "Metn",
+    "original_price": 37000,
+    "current_price": 37000,
+    "price_history": [
+      {
+        "price": 37000,
+        "date": "2026-04-25"
+      }
+    ],
+    "first_seen": "2026-04-25",
+    "last_seen": "2026-04-25",
+    "last_updated": "2026-04-25",
+    "posted_date": "2026-04-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116869536": {
+    "id": "116869536",
+    "title": "Audi Q7 Quattro Premium Plus 2017 black on black",
+    "url": "https://www.olx.com.lb/ad/audi-q7-quattro-premium-plus-2017-black-on-black-ID116869536.html",
+    "make": "Audi",
+    "model": "Q7",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 150000,
+    "transmission": "Steptronic",
+    "location": "Antelias, Metn",
+    "district": "Metn",
+    "original_price": 22000,
+    "current_price": 22000,
+    "price_history": [
+      {
+        "price": 22000,
+        "date": "2026-04-25"
+      }
+    ],
+    "first_seen": "2026-04-25",
+    "last_seen": "2026-04-25",
+    "last_updated": "2026-04-25",
+    "posted_date": "2026-04-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116767045": {
+    "id": "116767045",
+    "title": "Mercedes-Benz GLC-Class 2017",
+    "url": "https://www.olx.com.lb/ad/mercedes-benz-glc-class-2017-ID116767045.html",
+    "make": "Mercedes-Benz",
+    "model": "GLC-Class",
+    "body_type": "SUV",
+    "year": 2017,
+    "mileage": 90000,
+    "transmission": "Steptronic",
+    "location": "Al Bahsas, Tripoli",
+    "district": "Tripoli",
+    "original_price": 24000,
+    "current_price": 24000,
+    "price_history": [
+      {
+        "price": 24000,
+        "date": "2026-04-25"
+      }
+    ],
+    "first_seen": "2026-04-25",
+    "last_seen": "2026-04-25",
+    "last_updated": "2026-04-25",
+    "posted_date": "2026-04-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116869532": {
+    "id": "116869532",
+    "title": "Mercedes GLA 250 AMG-line 4matic 2018 white on black (clean carfax)",
+    "url": "https://www.olx.com.lb/ad/mercedes-gla-250-amg-line-4matic-2018-white-on-black-clean-carfax-ID116869532.html",
+    "make": "Mercedes-Benz",
+    "model": "GLA-Class",
+    "body_type": "SUV",
+    "year": 2018,
+    "mileage": 71000,
+    "transmission": "Steptronic",
+    "location": "Antelias, Metn",
+    "district": "Metn",
+    "original_price": 22000,
+    "current_price": 22000,
+    "price_history": [
+      {
+        "price": 22000,
+        "date": "2026-04-25"
+      }
+    ],
+    "first_seen": "2026-04-25",
+    "last_seen": "2026-04-25",
+    "last_updated": "2026-04-25",
+    "posted_date": "2026-04-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116869509": {
+    "id": "116869509",
+    "title": "Maserati Ghibli 2014",
+    "url": "https://www.olx.com.lb/ad/maserati-ghibli-2014-ID116869509.html",
+    "make": "Maserati",
+    "model": "Ghibli",
+    "body_type": "Sports / Coupe",
+    "year": 2014,
+    "mileage": 73000,
+    "transmission": "Steptronic",
+    "location": "Ghazir, Keserouan",
+    "district": "Keserouan",
+    "original_price": 23500,
+    "current_price": 23500,
+    "price_history": [
+      {
+        "price": 23500,
+        "date": "2026-04-25"
+      }
+    ],
+    "first_seen": "2026-04-25",
+    "last_seen": "2026-04-25",
+    "last_updated": "2026-04-25",
+    "posted_date": "2026-04-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116869508": {
+    "id": "116869508",
+    "title": "Citroen C4 2012",
+    "url": "https://www.olx.com.lb/ad/citroen-c4-2012-ID116869508.html",
+    "make": "Citroen",
+    "model": "C4",
+    "body_type": "Small city car",
+    "year": 2012,
+    "mileage": 200000,
+    "transmission": "Automatic",
+    "location": "Hazmiyeh, Baabda",
+    "district": "Baabda",
+    "original_price": 5600,
+    "current_price": 5600,
+    "price_history": [
+      {
+        "price": 5600,
+        "date": "2026-04-25"
+      }
+    ],
+    "first_seen": "2026-04-25",
+    "last_seen": "2026-04-25",
+    "last_updated": "2026-04-25",
+    "posted_date": "2026-04-25",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116869503": {
+    "id": "116869503",
+    "title": "2012 , E93 , 328i  in perfect condition",
+    "url": "https://www.olx.com.lb/ad/e93-328i-2012-in-perfect-condition-ID116869503.html",
+    "make": "BMW",
+    "model": "3-Series",
+    "body_type": "Convertible",
+    "year": 2012,
+    "mileage": 96500,
+    "transmission": "Steptronic",
+    "location": "Sehayleh, Keserouan",
+    "district": "Keserouan",
+    "original_price": 9200,
+    "current_price": 9200,
+    "price_history": [
+      {
+        "price": 9200,
         "date": "2026-04-25"
       }
     ],
