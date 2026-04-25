@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-25T09:02:08.185294",
-  "total_tracked": 453,
-  "total_drops": 46,
-  "total_new": 453,
-  "avg_drop_pct": 23.1,
+  "generated_at": "2026-04-25T13:13:50.448995",
+  "total_tracked": 456,
+  "total_drops": 48,
+  "total_new": 456,
+  "avg_drop_pct": 22.8,
   "biggest_drop_usd": 20000,
   "drops": [
     {
@@ -43,7 +43,7 @@
       "plate_type": "Standard",
       "location": "Amioun, Koura",
       "original_price": 6950,
-      "current_price": 295,
+      "current_price": 123456,
       "drop_usd": 6655,
       "drop_pct": 95.8,
       "last_drop_date": "2026-04-25",
@@ -68,6 +68,10 @@
         },
         {
           "price": 295,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 123456,
           "date": "2026-04-25"
         }
       ]
@@ -568,6 +572,31 @@
       ]
     },
     {
+      "id": "116815572",
+      "title": "plate number",
+      "url": "https://www.olx.com.lb/ad/plate-number-ID116815572.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Abou Samra, Tripoli",
+      "original_price": 15000,
+      "current_price": 12000,
+      "drop_usd": 3000,
+      "drop_pct": 20.0,
+      "last_drop_date": "2026-04-25",
+      "first_seen": "2026-03-09",
+      "posted_date": "2026-03-09",
+      "price_history": [
+        {
+          "price": 15000,
+          "date": "2026-03-09"
+        },
+        {
+          "price": 12000,
+          "date": "2026-04-25"
+        }
+      ]
+    },
+    {
       "id": "116837028",
       "title": "2178 A for sale",
       "url": "https://www.olx.com.lb/ad/2178-a-for-sale-ID116837028.html",
@@ -855,6 +884,31 @@
         {
           "price": 3200,
           "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116869119",
+      "title": "VIP PLATE NUMBER M 4344",
+      "url": "https://www.olx.com.lb/ad/vip-plate-number-ID116869119.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Kaslik, Keserouan",
+      "original_price": 15300,
+      "current_price": 13500,
+      "drop_usd": 1800,
+      "drop_pct": 11.8,
+      "last_drop_date": "2026-04-25",
+      "first_seen": "2026-04-25",
+      "posted_date": "2026-04-25",
+      "price_history": [
+        {
+          "price": 15300,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 13500,
+          "date": "2026-04-25"
         }
       ]
     },
@@ -1444,18 +1498,22 @@
   "new_listings": [
     {
       "id": "116869119",
-      "title": "VIP PLATE NUMBER M4344",
+      "title": "VIP PLATE NUMBER M 4344",
       "url": "https://www.olx.com.lb/ad/vip-plate-number-ID116869119.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Kaslik, Keserouan",
       "original_price": 15300,
-      "current_price": 15300,
+      "current_price": 13500,
       "first_seen": "2026-04-25",
       "posted_date": "2026-04-25",
       "price_history": [
         {
           "price": 15300,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 13500,
           "date": "2026-04-25"
         }
       ]
@@ -1492,6 +1550,60 @@
       "price_history": [
         {
           "price": 39500,
+          "date": "2026-04-25"
+        }
+      ]
+    },
+    {
+      "id": "116869967",
+      "title": "A 43543",
+      "url": "https://www.olx.com.lb/ad/a-43543-ID116869967.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Aaitat, Aley",
+      "original_price": 3200,
+      "current_price": 3200,
+      "first_seen": "2026-04-25",
+      "posted_date": "2026-04-25",
+      "price_history": [
+        {
+          "price": 3200,
+          "date": "2026-04-25"
+        }
+      ]
+    },
+    {
+      "id": "116869954",
+      "title": "Car Plate for Sale B / 366660",
+      "url": "https://www.olx.com.lb/ad/car-plate-for-sale-b-366660-ID116869954.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Kantari, Beirut",
+      "original_price": 3200,
+      "current_price": 3200,
+      "first_seen": "2026-04-25",
+      "posted_date": "2026-04-25",
+      "price_history": [
+        {
+          "price": 3200,
+          "date": "2026-04-25"
+        }
+      ]
+    },
+    {
+      "id": "116869925",
+      "title": "car plate for sale",
+      "url": "https://www.olx.com.lb/ad/car-plate-for-sale-ID116869925.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Furn El Chebbak, Baabda",
+      "original_price": 39000,
+      "current_price": 39000,
+      "first_seen": "2026-04-25",
+      "posted_date": "2026-04-25",
+      "price_history": [
+        {
+          "price": 39000,
           "date": "2026-04-25"
         }
       ]
@@ -5322,7 +5434,7 @@
       "plate_type": "Standard",
       "location": "Amioun, Koura",
       "original_price": 123,
-      "current_price": 295,
+      "current_price": 123456,
       "first_seen": "2026-03-16",
       "posted_date": "2026-03-16",
       "price_history": [
@@ -5344,6 +5456,10 @@
         },
         {
           "price": 295,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 123456,
           "date": "2026-04-25"
         }
       ]
@@ -6104,13 +6220,17 @@
       "plate_type": "Standard",
       "location": "Abou Samra, Tripoli",
       "original_price": 15000,
-      "current_price": 15000,
+      "current_price": 12000,
       "first_seen": "2026-03-09",
       "posted_date": "2026-03-09",
       "price_history": [
         {
           "price": 15000,
           "date": "2026-03-09"
+        },
+        {
+          "price": 12000,
+          "date": "2026-04-25"
         }
       ]
     },
@@ -6586,7 +6706,7 @@
       "plate_type": "Standard",
       "location": "Amioun, Koura",
       "original_price": 6950,
-      "current_price": 295,
+      "current_price": 123456,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -6608,6 +6728,10 @@
         },
         {
           "price": 295,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 123456,
           "date": "2026-04-25"
         }
       ]
