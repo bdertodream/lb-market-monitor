@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 10970,
-  "total_drops": 242,
-  "total_new": 10970,
+  "total_tracked": 10979,
+  "total_drops": 243,
+  "total_new": 10979,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -3393,6 +3393,20 @@
       "bedrooms": "1",
       "date": "2026-04-26",
       "first_seen": "2026-03-13"
+    },
+    {
+      "id": "17259545",
+      "title": "1BR Apartment | Prime location | best price",
+      "old_price": 1049999,
+      "new_price": 920000,
+      "drop_pct": 12.4,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/30/1br-apartment-48-parkside-arjan-pool-pa-2-282665/",
+      "area": "Arjan",
+      "category": "Apartment",
+      "size": "757",
+      "bedrooms": "1",
+      "date": "2026-04-26",
+      "first_seen": "2026-04-08"
     }
   ],
   "new_listings": [
@@ -3603,6 +3617,105 @@
       "size": "11472",
       "bedrooms": "",
       "price": 14500000,
+      "first_seen": "2026-04-26"
+    },
+    {
+      "id": "17353029",
+      "title": "Vacant |Upgraded |Burj Khalifa View |Viewing 24x7",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/21/vacant-upgraded-burj-khalifa-view-viewi-2-161324/",
+      "area": "Downtown Dubai",
+      "category": "Apartment",
+      "size": "1265",
+      "bedrooms": "2",
+      "price": 3400000,
+      "first_seen": "2026-04-26"
+    },
+    {
+      "id": "17370142",
+      "title": "Hot Deal Studio | Modern | Ready December 2026",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/25/hot-deal-studio-modern-ready-december-2-2-151702/",
+      "area": "Arjan",
+      "category": "Apartment",
+      "size": "360",
+      "bedrooms": "0",
+      "price": 751999,
+      "first_seen": "2026-04-26"
+    },
+    {
+      "id": "17334158",
+      "title": "Spacious 1BR | | Balcony & JVC View | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/16/spacious-1br-balcony-jvc-view-prime-loc-2-636448/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "645",
+      "bedrooms": "1",
+      "price": 900000,
+      "first_seen": "2026-04-26"
+    },
+    {
+      "id": "17310481",
+      "title": "1 Bedroom Apartment | Prime location | Spacious layout",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/10/1-bedroom-apartment-prime-location-spac-2-948468/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "771",
+      "bedrooms": "1",
+      "price": 880000,
+      "first_seen": "2026-04-26"
+    },
+    {
+      "id": "17305103",
+      "title": "Furnished Studio | Balcony | Best Price | Big Layout",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/9/furnished-studio-balcony-best-price-big-2-174575/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "403",
+      "bedrooms": "0",
+      "price": 580000,
+      "first_seen": "2026-04-26"
+    },
+    {
+      "id": "17310370",
+      "title": "Furnished Studio | Prime Location | Bright Unit",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/10/furnished-studio-prime-location-bright--2-226825/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "348",
+      "bedrooms": "0",
+      "price": 690000,
+      "first_seen": "2026-04-26"
+    },
+    {
+      "id": "17010577",
+      "title": "High ROI Furnished Studio without balcony | Near Circle Mall | JVC",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/29/high-roi-furnished-studio-near-circle-m-2-261097/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "406",
+      "bedrooms": "0",
+      "price": 459999,
+      "first_seen": "2026-04-26"
+    },
+    {
+      "id": "17139088",
+      "title": "2BR Apartment in Celesto Tower | 50/50 Payment Plan",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/26/2br-apartment-in-celesto-tower-5050-pay-2-173641/",
+      "area": "Dubai Land Residence Complex",
+      "category": "Apartment",
+      "size": "553",
+      "bedrooms": "1",
+      "price": 770000,
+      "first_seen": "2026-04-26"
+    },
+    {
+      "id": "16572839",
+      "title": "VACANT I INVESTOR DEAL I BRIGHT & SPACIOUS I READY TO MOVE IN",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/10/30/hot-offer-i-bright-spacious-i-vacant-on-2-111975/",
+      "area": "Dubai Silicon Oasis (DSO)",
+      "category": "Apartment",
+      "size": "778",
+      "bedrooms": "1",
+      "price": 719999,
       "first_seen": "2026-04-26"
     },
     {
@@ -8795,105 +8908,6 @@
       "size": "948",
       "bedrooms": "",
       "price": 1874888,
-      "first_seen": "2026-04-23"
-    },
-    {
-      "id": "9813047",
-      "title": "\"\"30% Full Cash Discount--Only 5% DP--1% Monthly\"\"",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/4/23/30-full-cash-discount-only-5-dp-1-month-2-148895/",
-      "area": "Majan",
-      "category": "Shop",
-      "size": "1151",
-      "bedrooms": "",
-      "price": 2370000,
-      "first_seen": "2026-04-23"
-    },
-    {
-      "id": "9813046",
-      "title": "\"\"80 Months PP--1%Monthly--Post Handover PP\"\"",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/4/23/80-months-pp-1monthly-post-handover-pp-2-325236/",
-      "area": "Majan",
-      "category": "Shop",
-      "size": "1158",
-      "bedrooms": "",
-      "price": 2387000,
-      "first_seen": "2026-04-23"
-    },
-    {
-      "id": "9813045",
-      "title": "\"\"Only 5% DP--1% Monthly--Fully Furnished\"\"",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/4/23/only-5-dp-1-monthly-fully-furnished-2-218029/",
-      "area": "Majan",
-      "category": "Shop",
-      "size": "1143",
-      "bedrooms": "",
-      "price": 2533000,
-      "first_seen": "2026-04-23"
-    },
-    {
-      "id": "9813044",
-      "title": "\"\"30% Full Cash Discount--1% Monthly--80 Months PP\"\"",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/4/23/30-full-cash-discount-1-monthly-80-mont-2-221015/",
-      "area": "Majan",
-      "category": "Shop",
-      "size": "1395",
-      "bedrooms": "",
-      "price": 2300000,
-      "first_seen": "2026-04-23"
-    },
-    {
-      "id": "9813043",
-      "title": "\"\"Post Handover PP--80 Months PP--1%Monthly\"\"",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/4/23/post-handover-pp-80-months-pp-1monthly-2-105250/",
-      "area": "Majan",
-      "category": "Shop",
-      "size": "2923",
-      "bedrooms": "",
-      "price": 6130000,
-      "first_seen": "2026-04-23"
-    },
-    {
-      "id": "9813042",
-      "title": "\"\"Only 5% DP--1% Monthly--Fully Furnished\"\"",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/4/23/only-5-dp-1-monthly-fully-furnished-2-183687/",
-      "area": "Majan",
-      "category": "Shop",
-      "size": "895",
-      "bedrooms": "",
-      "price": 1949000,
-      "first_seen": "2026-04-23"
-    },
-    {
-      "id": "9813041",
-      "title": "\"\"80 Months PP--1%Monthly--Post Handover PP\"\"",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/4/23/80-months-pp-1monthly-post-handover-pp-2-186778/",
-      "area": "Majan",
-      "category": "Shop",
-      "size": "815",
-      "bedrooms": "",
-      "price": 1770000,
-      "first_seen": "2026-04-23"
-    },
-    {
-      "id": "9757468",
-      "title": "| Price Drop | Investor Deal | Luxury Living",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/4/23/price-drop-investor-deal-luxury-living-2-233267/",
-      "area": "Dubai Hills Estate",
-      "category": "Land",
-      "size": "7553",
-      "bedrooms": "",
-      "price": 22999000,
-      "first_seen": "2026-04-23"
-    },
-    {
-      "id": "17366134",
-      "title": "Furnished 1BR | Lume Residences | City & Pool Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/23/furnished-1br-lume-residences-city-pool-2-250174/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "685",
-      "bedrooms": "1",
-      "price": 1110000,
       "first_seen": "2026-04-23"
     }
   ],

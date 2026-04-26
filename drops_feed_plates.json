@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-26T16:51:27.509870",
+  "generated_at": "2026-04-26T20:47:30.591679",
   "total_tracked": 462,
-  "total_drops": 48,
+  "total_drops": 49,
   "total_new": 462,
-  "avg_drop_pct": 21.5,
+  "avg_drop_pct": 21.2,
   "biggest_drop_usd": 20000,
   "drops": [
     {
@@ -1270,6 +1270,31 @@
       ]
     },
     {
+      "id": "116862504",
+      "title": "Y 6593 Special Birthday 6/5/93",
+      "url": "https://www.olx.com.lb/ad/y-6593-special-birthday-6593-ID116862504.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Awkar, Metn",
+      "original_price": 3500,
+      "current_price": 3300,
+      "drop_usd": 200,
+      "drop_pct": 5.7,
+      "last_drop_date": "2026-04-26",
+      "first_seen": "2026-04-21",
+      "posted_date": "2026-04-21",
+      "price_history": [
+        {
+          "price": 3500,
+          "date": "2026-04-21"
+        },
+        {
+          "price": 3300,
+          "date": "2026-04-26"
+        }
+      ]
+    },
+    {
       "id": "116831560",
       "title": "رقم سيارة مميز للبيع S 6085",
       "url": "https://www.olx.com.lb/ad/رقم-سيارة-مميز-للبيع-s-6085-ID116831560.html",
@@ -2006,13 +2031,17 @@
       "plate_type": "Standard",
       "location": "Awkar, Metn",
       "original_price": 3500,
-      "current_price": 3500,
+      "current_price": 3300,
       "first_seen": "2026-04-21",
       "posted_date": "2026-04-21",
       "price_history": [
         {
           "price": 3500,
           "date": "2026-04-21"
+        },
+        {
+          "price": 3300,
+          "date": "2026-04-26"
         }
       ]
     },
@@ -8646,13 +8675,17 @@
       "plate_type": "Standard",
       "location": "Mansourieh, Metn",
       "original_price": 13000,
-      "current_price": 13000,
+      "current_price": 14000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 13000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 14000,
+          "date": "2026-04-26"
         }
       ]
     },
