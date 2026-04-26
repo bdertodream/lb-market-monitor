@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 10951,
+  "total_tracked": 10953,
   "total_drops": 240,
-  "total_new": 10951,
+  "total_new": 10953,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -3368,6 +3368,28 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "17356830",
+      "title": "Lake Views | 5 bedrooms | Upgraded",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/4/22/lake-views-5-bedrooms-upgraded-2-185282/",
+      "area": "Jumeirah Islands",
+      "category": "Villa",
+      "size": "6107",
+      "bedrooms": "5",
+      "price": 34999999,
+      "first_seen": "2026-04-26"
+    },
+    {
+      "id": "9808947",
+      "title": "Private Floor | Luxury Furnished | Burj Views",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/26/private-floor-luxury-furnished-burj-kha-2-329711/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "6745",
+      "bedrooms": "",
+      "price": 25000000,
+      "first_seen": "2026-04-26"
+    },
     {
       "id": "16992284",
       "title": "Fully Renovated | Full Marina View | VOT",
@@ -8845,30 +8867,8 @@
       "bedrooms": "2",
       "price": 1950000,
       "first_seen": "2026-04-22"
-    },
-    {
-      "id": "17355287",
-      "title": "Excellent Investment Opportunity | High ROI | Top Floor",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/21/excellent-investment-opportunity-high-r-2-442356/",
-      "area": "Dubai Sports City",
-      "category": "Apartment",
-      "size": "451",
-      "bedrooms": "0",
-      "price": 850000,
-      "first_seen": "2026-04-22"
-    },
-    {
-      "id": "17352999",
-      "title": "Great Investment Deal | High ROI | Below Market | 4% DLD Waiver",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/21/great-investment-deal-high-roi-below-ma-2-538518/",
-      "area": "Majan",
-      "category": "Apartment",
-      "size": "740",
-      "bedrooms": "1",
-      "price": 969980,
-      "first_seen": "2026-04-22"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-25"
+  "last_updated": "2026-04-26"
 }
