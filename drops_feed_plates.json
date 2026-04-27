@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-26T20:47:30.591679",
-  "total_tracked": 462,
+  "generated_at": "2026-04-27T02:55:58.247639",
+  "total_tracked": 464,
   "total_drops": 49,
-  "total_new": 462,
+  "total_new": 464,
   "avg_drop_pct": 21.2,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -1529,6 +1529,42 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116871509",
+      "title": "x5 2011 clean",
+      "url": "https://www.olx.com.lb/ad/x5-2011-clean-ID116871509.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Aaramoun, Aley",
+      "original_price": 9500,
+      "current_price": 9500,
+      "first_seen": "2026-04-27",
+      "posted_date": "2026-04-27",
+      "price_history": [
+        {
+          "price": 9500,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
+      "id": "116871475",
+      "title": "Car Plate Number",
+      "url": "https://www.olx.com.lb/ad/car-plate-number-ID116871475.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 2800,
+      "current_price": 2800,
+      "first_seen": "2026-04-27",
+      "posted_date": "2026-04-27",
+      "price_history": [
+        {
+          "price": 2800,
+          "date": "2026-04-27"
+        }
+      ]
+    },
     {
       "id": "116767939",
       "title": "plate number",
@@ -8393,7 +8429,7 @@
       "plate_type": "Standard",
       "location": "Naccache, Metn",
       "original_price": 7000,
-      "current_price": 7500,
+      "current_price": 7000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -8408,6 +8444,10 @@
         {
           "price": 7500,
           "date": "2026-03-29"
+        },
+        {
+          "price": 7000,
+          "date": "2026-04-27"
         }
       ]
     },

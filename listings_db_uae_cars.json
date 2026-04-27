@@ -22732,7 +22732,7 @@
   "16770532": {
     "id": "16770532",
     "title": "GCC 2018 Porsche Macan \u2022 2.0L 4CYL \u2022 IMMACULATE CONDITION!!",
-    "price": 93000,
+    "price": 89000,
     "make": "Porsche",
     "model": "Macan",
     "year": "2018",
@@ -22755,6 +22755,10 @@
       {
         "price": 93000,
         "date": "2026-04-15T21:00:19Z"
+      },
+      {
+        "price": 89000,
+        "date": "2026-04-27T02:56:37Z"
       }
     ],
     "date": "2026-03-10"
@@ -63720,7 +63724,7 @@
   "16729616": {
     "id": "16729616",
     "title": "GCC SPECS MASERATI QUATTROPOTE S SPORT IN PERFECT CONDITION",
-    "price": 47000,
+    "price": 42000,
     "make": "Maserati",
     "model": "Quattroporte",
     "year": "2014",
@@ -63735,6 +63739,10 @@
       {
         "price": 47000,
         "date": "2026-03-22T10:26:47Z"
+      },
+      {
+        "price": 42000,
+        "date": "2026-04-27T02:56:37Z"
       }
     ],
     "date": "2026-03-21"
@@ -113470,7 +113478,7 @@
   "16593144": {
     "id": "16593144",
     "title": "AUTOBIOGRAPHY SUPERCHARGED RR VOGUE V8 || 2020 FACELIFT || GCC || TOP RANGE || PANORAMIC ROOF",
-    "price": 119000,
+    "price": 109000,
     "make": "Land Rover",
     "model": "Range Rover",
     "year": "2017",
@@ -113485,6 +113493,10 @@
       {
         "price": 119000,
         "date": "2026-04-08T02:38:26Z"
+      },
+      {
+        "price": 109000,
+        "date": "2026-04-27T02:56:37Z"
       }
     ],
     "date": "2026-04-07"
@@ -120000,7 +120012,7 @@
   "16090288": {
     "id": "16090288",
     "title": "LOVELY BMW 650i V8 || GCC || TOP RANGE || POWERFUL ENGINE || ACCIDENT FREE || AMAZING CONDITION",
-    "price": 69000,
+    "price": 59000,
     "make": "BMW",
     "model": "6-Series",
     "year": "2014",
@@ -120015,6 +120027,10 @@
       {
         "price": 69000,
         "date": "2026-04-10T09:19:19Z"
+      },
+      {
+        "price": 59000,
+        "date": "2026-04-27T02:56:37Z"
       }
     ],
     "date": "2026-04-10"
@@ -176222,5 +176238,49 @@
       }
     ],
     "date": "2026-04-25"
+  },
+  "16801139": {
+    "id": "16801139",
+    "title": "2023 Tesla Model Y Standard - GCC Specs - Pristine Condition",
+    "price": 88000,
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": "2023",
+    "kilometers": "119000",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/tesla/model-y/2026/4/11/2023-tesla-model-y-standard-gcc-specs-pris-2-254---bf4cac4b2feb4e15978938bf7eee1969/",
+    "first_seen": "2026-04-27T02:56:37Z",
+    "prices": [
+      {
+        "price": 88000,
+        "date": "2026-04-27T02:56:37Z"
+      }
+    ],
+    "date": "2026-04-27"
+  },
+  "16766378": {
+    "id": "16766378",
+    "title": "AED 736/monthly \u2022 2020 GCC Jeep Compass Limited 4x4 \u2022 2.4L 4CYL \u2022 Immaculate Condition!!",
+    "price": 47000,
+    "make": "Jeep",
+    "model": "Compass",
+    "year": "2020",
+    "kilometers": "113000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/compass/2026/3/6/2020-gcc-jeep-compass-limited-4x4-24l-4cyl-2-799---27ed4bde3fc448b09d617ccf9c02249e/",
+    "first_seen": "2026-04-27T02:56:37Z",
+    "prices": [
+      {
+        "price": 47000,
+        "date": "2026-04-27T02:56:37Z"
+      }
+    ],
+    "date": "2026-04-27"
   }
 }
