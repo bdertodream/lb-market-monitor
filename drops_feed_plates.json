@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-27T02:55:58.247639",
-  "total_tracked": 464,
-  "total_drops": 49,
-  "total_new": 464,
-  "avg_drop_pct": 21.2,
+  "generated_at": "2026-04-27T06:36:27.029992",
+  "total_tracked": 466,
+  "total_drops": 50,
+  "total_new": 466,
+  "avg_drop_pct": 20.8,
   "biggest_drop_usd": 20000,
   "drops": [
     {
@@ -94,35 +94,6 @@
       ]
     },
     {
-      "id": "116823787",
-      "title": "G 500600    Special car plate number for sale",
-      "url": "https://www.olx.com.lb/ad/s-666663-special-car-plate-number-for-sale-ID116823787.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Mar Elias, Beirut",
-      "original_price": 11000,
-      "current_price": 9000,
-      "drop_usd": 5800,
-      "drop_pct": 52.7,
-      "last_drop_date": "2026-04-09",
-      "first_seen": "2026-03-17",
-      "posted_date": "2026-03-17",
-      "price_history": [
-        {
-          "price": 11000,
-          "date": "2026-03-17"
-        },
-        {
-          "price": 5200,
-          "date": "2026-04-09"
-        },
-        {
-          "price": 9000,
-          "date": "2026-04-12"
-        }
-      ]
-    },
-    {
       "id": "116735102",
       "title": "B277776",
       "url": "https://www.olx.com.lb/ad/y544446-ID116735102.html",
@@ -177,6 +148,39 @@
         {
           "price": 4500,
           "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116823787",
+      "title": "B 1831    Special car plate number for sale",
+      "url": "https://www.olx.com.lb/ad/s-666663-special-car-plate-number-for-sale-ID116823787.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Mar Elias, Beirut",
+      "original_price": 11000,
+      "current_price": 6200,
+      "drop_usd": 4800,
+      "drop_pct": 43.6,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-03-17",
+      "posted_date": "2026-03-17",
+      "price_history": [
+        {
+          "price": 11000,
+          "date": "2026-03-17"
+        },
+        {
+          "price": 5200,
+          "date": "2026-04-09"
+        },
+        {
+          "price": 9000,
+          "date": "2026-04-12"
+        },
+        {
+          "price": 6200,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -1083,6 +1087,31 @@
       ]
     },
     {
+      "id": "116830285",
+      "title": "tony 81733731",
+      "url": "https://www.olx.com.lb/ad/tony-81733731-ID116830285.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Sarba, Keserouan",
+      "original_price": 4200,
+      "current_price": 3800,
+      "drop_usd": 400,
+      "drop_pct": 9.5,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-04-26",
+      "posted_date": "2026-04-26",
+      "price_history": [
+        {
+          "price": 4200,
+          "date": "2026-04-26"
+        },
+        {
+          "price": 3800,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116823583",
       "title": "4327 G",
       "url": "https://www.olx.com.lb/ad/4327-g-ID116823583.html",
@@ -1566,6 +1595,42 @@
       ]
     },
     {
+      "id": "114222471",
+      "title": "special carplate G 9008",
+      "url": "https://www.olx.com.lb/ad/special-carplate-z-11199-ID114222471.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 10800,
+      "current_price": 10800,
+      "first_seen": "2026-04-27",
+      "posted_date": "2026-04-27",
+      "price_history": [
+        {
+          "price": 10800,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
+      "id": "116871568",
+      "title": "B 74748 more details call us 76797391",
+      "url": "https://www.olx.com.lb/ad/b-74748-more-details-call-us-76797391-ID116871568.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Aley Town, Aley",
+      "original_price": 2800,
+      "current_price": 2800,
+      "first_seen": "2026-04-27",
+      "posted_date": "2026-04-27",
+      "price_history": [
+        {
+          "price": 2800,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116767939",
       "title": "plate number",
       "url": "https://www.olx.com.lb/ad/plate-number-ID116767939.html",
@@ -1609,13 +1674,17 @@
       "plate_type": "Standard",
       "location": "Sarba, Keserouan",
       "original_price": 4200,
-      "current_price": 4200,
+      "current_price": 3800,
       "first_seen": "2026-04-26",
       "posted_date": "2026-04-26",
       "price_history": [
         {
           "price": 4200,
           "date": "2026-04-26"
+        },
+        {
+          "price": 3800,
+          "date": "2026-04-27"
         }
       ]
     },
@@ -5551,13 +5620,13 @@
     },
     {
       "id": "116823787",
-      "title": "G 500600    Special car plate number for sale",
+      "title": "B 1831    Special car plate number for sale",
       "url": "https://www.olx.com.lb/ad/s-666663-special-car-plate-number-for-sale-ID116823787.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Mar Elias, Beirut",
       "original_price": 11000,
-      "current_price": 9000,
+      "current_price": 6200,
       "first_seen": "2026-03-17",
       "posted_date": "2026-03-17",
       "price_history": [
@@ -5572,6 +5641,10 @@
         {
           "price": 9000,
           "date": "2026-04-12"
+        },
+        {
+          "price": 6200,
+          "date": "2026-04-27"
         }
       ]
     },
