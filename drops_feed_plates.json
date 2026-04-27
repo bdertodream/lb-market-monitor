@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-27T06:36:27.029992",
-  "total_tracked": 466,
+  "generated_at": "2026-04-27T10:24:32.059111",
+  "total_tracked": 467,
   "total_drops": 50,
-  "total_new": 466,
+  "total_new": 467,
   "avg_drop_pct": 20.8,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -1626,6 +1626,24 @@
       "price_history": [
         {
           "price": 2800,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
+      "id": "116871740",
+      "title": "G 55450 special plate",
+      "url": "https://www.olx.com.lb/ad/g-55450-special-plate-ID116871740.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dekwaneh, Metn",
+      "original_price": 3500,
+      "current_price": 3500,
+      "first_seen": "2026-04-27",
+      "posted_date": "2026-04-27",
+      "price_history": [
+        {
+          "price": 3500,
           "date": "2026-04-27"
         }
       ]
