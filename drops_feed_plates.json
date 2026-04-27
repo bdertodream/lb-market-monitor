@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-27T17:30:43.677856",
+  "generated_at": "2026-04-27T21:11:11.106864",
   "total_tracked": 467,
-  "total_drops": 50,
+  "total_drops": 51,
   "total_new": 467,
-  "avg_drop_pct": 20.8,
+  "avg_drop_pct": 20.5,
   "biggest_drop_usd": 20000,
   "drops": [
     {
@@ -1270,6 +1270,31 @@
       ]
     },
     {
+      "id": "116869954",
+      "title": "Car Plate for Sale B / 366660",
+      "url": "https://www.olx.com.lb/ad/car-plate-for-sale-b-366660-ID116869954.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Kantari, Beirut",
+      "original_price": 3200,
+      "current_price": 3000,
+      "drop_usd": 200,
+      "drop_pct": 6.2,
+      "last_drop_date": "2026-04-27",
+      "first_seen": "2026-04-25",
+      "posted_date": "2026-04-25",
+      "price_history": [
+        {
+          "price": 3200,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 3000,
+          "date": "2026-04-27"
+        }
+      ]
+    },
+    {
       "id": "116832752",
       "title": "nomra hamra taxi",
       "url": "https://www.olx.com.lb/ad/nomra-hamra-taxi-ID116832752.html",
@@ -1830,13 +1855,17 @@
       "plate_type": "Standard",
       "location": "Kantari, Beirut",
       "original_price": 3200,
-      "current_price": 3200,
+      "current_price": 3000,
       "first_seen": "2026-04-25",
       "posted_date": "2026-04-25",
       "price_history": [
         {
           "price": 3200,
           "date": "2026-04-25"
+        },
+        {
+          "price": 3000,
+          "date": "2026-04-27"
         }
       ]
     },
