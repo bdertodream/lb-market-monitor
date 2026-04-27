@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T14:02:58.585854",
+  "generated_at": "2026-04-27T17:30:43.677856",
   "total_tracked": 467,
   "total_drops": 50,
   "total_new": 467,
@@ -6706,13 +6706,17 @@
       "plate_type": "Standard",
       "location": "Downtown, Beirut",
       "original_price": 21500,
-      "current_price": 21500,
+      "current_price": 23500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 21500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 23500,
+          "date": "2026-04-27"
         }
       ]
     },
