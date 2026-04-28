@@ -480,7 +480,7 @@
     "location": "Amioun, Koura",
     "district": "Koura",
     "original_price": 6950,
-    "current_price": 4500,
+    "current_price": 123456,
     "price_history": [
       {
         "price": 6950,
@@ -509,11 +509,15 @@
       {
         "price": 4500,
         "date": "2026-04-26"
+      },
+      {
+        "price": 123456,
+        "date": "2026-04-28"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-04-28",
-    "last_updated": "2026-04-26",
+    "last_updated": "2026-04-28",
     "drop_usd": 2450,
     "drop_pct": 35.3,
     "last_drop_date": "2026-04-26",
@@ -6598,7 +6602,7 @@
     "location": "Amioun, Koura",
     "district": "Koura",
     "original_price": 123,
-    "current_price": 4500,
+    "current_price": 123456,
     "price_history": [
       {
         "price": 123,
@@ -6627,11 +6631,15 @@
       {
         "price": 4500,
         "date": "2026-04-26"
+      },
+      {
+        "price": 123456,
+        "date": "2026-04-28"
       }
     ],
     "first_seen": "2026-03-16",
     "last_seen": "2026-04-28",
-    "last_updated": "2026-04-26",
+    "last_updated": "2026-04-28",
     "posted_date": "2026-03-16",
     "drop_usd": -4377,
     "drop_pct": -3558.5,

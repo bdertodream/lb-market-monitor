@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T03:03:38.269703",
+  "generated_at": "2026-04-28T06:37:32.381182",
   "total_tracked": 468,
   "total_drops": 51,
   "total_new": 468,
@@ -291,7 +291,7 @@
       "plate_type": "Standard",
       "location": "Amioun, Koura",
       "original_price": 6950,
-      "current_price": 4500,
+      "current_price": 123456,
       "drop_usd": 2450,
       "drop_pct": 35.3,
       "last_drop_date": "2026-04-26",
@@ -325,6 +325,10 @@
         {
           "price": 4500,
           "date": "2026-04-26"
+        },
+        {
+          "price": 123456,
+          "date": "2026-04-28"
         }
       ]
     },
@@ -5757,7 +5761,7 @@
       "plate_type": "Standard",
       "location": "Amioun, Koura",
       "original_price": 123,
-      "current_price": 4500,
+      "current_price": 123456,
       "first_seen": "2026-03-16",
       "posted_date": "2026-03-16",
       "price_history": [
@@ -5788,6 +5792,10 @@
         {
           "price": 4500,
           "date": "2026-04-26"
+        },
+        {
+          "price": 123456,
+          "date": "2026-04-28"
         }
       ]
     },
@@ -7037,7 +7045,7 @@
       "plate_type": "Standard",
       "location": "Amioun, Koura",
       "original_price": 6950,
-      "current_price": 4500,
+      "current_price": 123456,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -7068,6 +7076,10 @@
         {
           "price": 4500,
           "date": "2026-04-26"
+        },
+        {
+          "price": 123456,
+          "date": "2026-04-28"
         }
       ]
     },
