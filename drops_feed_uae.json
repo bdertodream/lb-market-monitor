@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 11247,
-  "total_drops": 249,
-  "total_new": 11247,
+  "total_tracked": 11248,
+  "total_drops": 250,
+  "total_new": 11248,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -3491,9 +3491,34 @@
       "bedrooms": "2",
       "date": "2026-04-27",
       "first_seen": "2026-03-09"
+    },
+    {
+      "id": "9809160",
+      "title": "Vacant | Glass-Partitioned | Exclusive",
+      "old_price": 1750000,
+      "new_price": 1490000,
+      "drop_pct": 14.9,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/28/vacant-glass-partitioned-exclusive-2-337060/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "895",
+      "bedrooms": "",
+      "date": "2026-04-28",
+      "first_seen": "2026-03-28"
     }
   ],
   "new_listings": [
+    {
+      "id": "17231181",
+      "title": "Furnished | High Floor | Burj & Fountain View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/24/furnished-high-floor-burj-fountain-view-2-756792/",
+      "area": "Downtown Dubai",
+      "category": "Apartment",
+      "size": "1568",
+      "bedrooms": "3",
+      "price": 5300000,
+      "first_seen": "2026-04-28"
+    },
     {
       "id": "17368872",
       "title": "Canal View| High Floor| Vacant on transfer",
@@ -8982,19 +9007,8 @@
       "bedrooms": "1",
       "price": 1430000,
       "first_seen": "2026-04-24"
-    },
-    {
-      "id": "17357422",
-      "title": "Brand New | Backing on to Green Belt",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/4/22/brand-new-backing-on-to-green-belt-2-230340/",
-      "area": "Mudon",
-      "category": "Townhouse",
-      "size": "2350",
-      "bedrooms": "3",
-      "price": 3350000,
-      "first_seen": "2026-04-24"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-27"
+  "last_updated": "2026-04-28"
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-27T21:11:11.106864",
-  "total_tracked": 467,
+  "generated_at": "2026-04-28T03:03:38.269703",
+  "total_tracked": 468,
   "total_drops": 51,
-  "total_new": 467,
+  "total_new": 468,
   "avg_drop_pct": 20.5,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -1583,6 +1583,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116872976",
+      "title": "car plates",
+      "url": "https://www.olx.com.lb/ad/car-plates-ID116872976.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Badaro, Beirut",
+      "original_price": 5555,
+      "current_price": 5555,
+      "first_seen": "2026-04-28",
+      "posted_date": "2026-04-28",
+      "price_history": [
+        {
+          "price": 5555,
+          "date": "2026-04-28"
+        }
+      ]
+    },
     {
       "id": "116871509",
       "title": "x5 2011 clean",
