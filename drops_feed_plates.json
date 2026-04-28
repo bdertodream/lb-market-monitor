@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T17:53:33.400787",
+  "generated_at": "2026-04-28T21:18:49.125629",
   "total_tracked": 471,
   "total_drops": 53,
   "total_new": 471,
@@ -1865,13 +1865,17 @@
       "plate_type": "Standard",
       "location": "Adlieh, Beirut",
       "original_price": 2750,
-      "current_price": 2750,
+      "current_price": 2800,
       "first_seen": "2026-04-26",
       "posted_date": "2026-04-26",
       "price_history": [
         {
           "price": 2750,
           "date": "2026-04-26"
+        },
+        {
+          "price": 2800,
+          "date": "2026-04-28"
         }
       ]
     },

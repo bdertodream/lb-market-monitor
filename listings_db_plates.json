@@ -1845,7 +1845,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-04-21",
+    "last_seen": "2026-04-28",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -12057,16 +12057,20 @@
     "location": "Adlieh, Beirut",
     "district": "Beirut",
     "original_price": 2750,
-    "current_price": 2750,
+    "current_price": 2800,
     "price_history": [
       {
         "price": 2750,
         "date": "2026-04-26"
+      },
+      {
+        "price": 2800,
+        "date": "2026-04-28"
       }
     ],
     "first_seen": "2026-04-26",
     "last_seen": "2026-04-28",
-    "last_updated": "2026-04-26",
+    "last_updated": "2026-04-28",
     "posted_date": "2026-04-26",
     "drop_usd": 0,
     "drop_pct": 0,
