@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-29T06:32:07.341769",
-  "total_tracked": 471,
-  "total_drops": 53,
-  "total_new": 471,
-  "avg_drop_pct": 21.3,
+  "generated_at": "2026-04-29T10:14:41.247592",
+  "total_tracked": 472,
+  "total_drops": 54,
+  "total_new": 472,
+  "avg_drop_pct": 21.1,
   "biggest_drop_usd": 20000,
   "drops": [
     {
@@ -873,6 +873,31 @@
       ]
     },
     {
+      "id": "116755059",
+      "title": "Special car plate 4 digits both 7800$",
+      "url": "https://www.olx.com.lb/ad/special-car-plate-for-sale-5-digits-ID116755059.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dbaye, Metn",
+      "original_price": 4500,
+      "current_price": 3900,
+      "drop_usd": 600,
+      "drop_pct": 13.3,
+      "last_drop_date": "2026-04-29",
+      "first_seen": "2026-03-24",
+      "posted_date": "2026-03-24",
+      "price_history": [
+        {
+          "price": 4500,
+          "date": "2026-03-24"
+        },
+        {
+          "price": 3900,
+          "date": "2026-04-29"
+        }
+      ]
+    },
+    {
       "id": "116754377",
       "title": "Special 6 Digits Car Plate Number",
       "url": "https://www.olx.com.lb/ad/special-6-digits-car-plate-number-ID116754377.html",
@@ -1637,6 +1662,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116874929",
+      "title": "•صك تخصيص جاهز لدى كاتب العدل",
+      "url": "https://www.olx.com.lb/ad/صك-تخصيص-جاهز-لدى-كاتب-العدل-ID116874929.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dekwaneh, Metn",
+      "original_price": 13500,
+      "current_price": 13500,
+      "first_seen": "2026-04-29",
+      "posted_date": "2026-04-29",
+      "price_history": [
+        {
+          "price": 13500,
+          "date": "2026-04-29"
+        }
+      ]
+    },
     {
       "id": "116872976",
       "title": "car plates",
@@ -4799,19 +4842,23 @@
     },
     {
       "id": "116755059",
-      "title": "Special car plate 4 digits both 8000$",
+      "title": "Special car plate 4 digits both 7800$",
       "url": "https://www.olx.com.lb/ad/special-car-plate-for-sale-5-digits-ID116755059.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Dbaye, Metn",
       "original_price": 4500,
-      "current_price": 4500,
+      "current_price": 3900,
       "first_seen": "2026-03-24",
       "posted_date": "2026-03-24",
       "price_history": [
         {
           "price": 4500,
           "date": "2026-03-24"
+        },
+        {
+          "price": 3900,
+          "date": "2026-04-29"
         }
       ]
     },
@@ -5945,7 +5992,7 @@
       "plate_type": "Standard",
       "location": "Verdun, Beirut",
       "original_price": 3000,
-      "current_price": 3250,
+      "current_price": 3200,
       "first_seen": "2026-03-16",
       "posted_date": "2026-03-16",
       "price_history": [
@@ -5960,6 +6007,10 @@
         {
           "price": 3250,
           "date": "2026-03-23"
+        },
+        {
+          "price": 3200,
+          "date": "2026-04-29"
         }
       ]
     },
