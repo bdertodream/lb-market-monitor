@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-30T14:00:13.324360",
-  "total_tracked": 475,
+  "generated_at": "2026-04-30T17:32:41.616205",
+  "total_tracked": 477,
   "total_drops": 58,
-  "total_new": 475,
+  "total_new": 477,
   "avg_drop_pct": 20.0,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -1784,6 +1784,42 @@
       "price_history": [
         {
           "price": 5000,
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "116877040",
+      "title": "for sale",
+      "url": "https://www.olx.com.lb/ad/for-sale-ID116877040.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 4500,
+      "current_price": 4500,
+      "first_seen": "2026-04-30",
+      "posted_date": "2026-04-30",
+      "price_history": [
+        {
+          "price": 4500,
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "116876495",
+      "title": "Collection Of 4 Digits Numbers",
+      "url": "https://www.olx.com.lb/ad/collection-of-4-digits-numbers-ID116876495.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Batroun Town, Batroun",
+      "original_price": 5566,
+      "current_price": 5566,
+      "first_seen": "2026-04-30",
+      "posted_date": "2026-04-30",
+      "price_history": [
+        {
+          "price": 5566,
           "date": "2026-04-30"
         }
       ]
