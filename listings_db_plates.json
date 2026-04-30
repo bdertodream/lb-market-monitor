@@ -6689,7 +6689,7 @@
       }
     ],
     "first_seen": "2026-03-16",
-    "last_seen": "2026-04-15",
+    "last_seen": "2026-04-30",
     "last_updated": "2026-03-16",
     "posted_date": "2026-03-16",
     "drop_usd": 0,
@@ -12508,6 +12508,54 @@
     "price_history": [
       {
         "price": 5566,
+        "date": "2026-04-30"
+      }
+    ],
+    "first_seen": "2026-04-30",
+    "last_seen": "2026-04-30",
+    "last_updated": "2026-04-30",
+    "posted_date": "2026-04-30",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116877211": {
+    "id": "116877211",
+    "title": "سيارة مع نمرة",
+    "url": "https://www.olx.com.lb/ad/سيارة-مع-نمرة-ID116877211.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Rawche, Beirut",
+    "district": "Beirut",
+    "original_price": 22000,
+    "current_price": 22000,
+    "price_history": [
+      {
+        "price": 22000,
+        "date": "2026-04-30"
+      }
+    ],
+    "first_seen": "2026-04-30",
+    "last_seen": "2026-04-30",
+    "last_updated": "2026-04-30",
+    "posted_date": "2026-04-30",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116877117": {
+    "id": "116877117",
+    "title": "Special Number Y 2580",
+    "url": "https://www.olx.com.lb/ad/special-number-y-2580-ID116877117.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Awkar, Metn",
+    "district": "Metn",
+    "original_price": 3600,
+    "current_price": 3600,
+    "price_history": [
+      {
+        "price": 3600,
         "date": "2026-04-30"
       }
     ],

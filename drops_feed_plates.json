@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-30T17:32:41.616205",
-  "total_tracked": 477,
+  "generated_at": "2026-04-30T21:12:45.199982",
+  "total_tracked": 479,
   "total_drops": 58,
-  "total_new": 477,
+  "total_new": 479,
   "avg_drop_pct": 20.0,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -1820,6 +1820,42 @@
       "price_history": [
         {
           "price": 5566,
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "116877211",
+      "title": "سيارة مع نمرة",
+      "url": "https://www.olx.com.lb/ad/سيارة-مع-نمرة-ID116877211.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Rawche, Beirut",
+      "original_price": 22000,
+      "current_price": 22000,
+      "first_seen": "2026-04-30",
+      "posted_date": "2026-04-30",
+      "price_history": [
+        {
+          "price": 22000,
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "116877117",
+      "title": "Special Number Y 2580",
+      "url": "https://www.olx.com.lb/ad/special-number-y-2580-ID116877117.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Awkar, Metn",
+      "original_price": 3600,
+      "current_price": 3600,
+      "first_seen": "2026-04-30",
+      "posted_date": "2026-04-30",
+      "price_history": [
+        {
+          "price": 3600,
           "date": "2026-04-30"
         }
       ]
