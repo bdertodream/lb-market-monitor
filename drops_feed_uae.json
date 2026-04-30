@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 11715,
-  "total_drops": 258,
-  "total_new": 11715,
+  "total_tracked": 11716,
+  "total_drops": 259,
+  "total_new": 11716,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -3617,9 +3617,34 @@
       "bedrooms": "",
       "date": "2026-04-29",
       "first_seen": "2026-03-08"
+    },
+    {
+      "id": "17120705",
+      "title": "Tenanted Till 31/01/2027 | Canal & Pool View 1BR | AG Tower",
+      "old_price": 1300000,
+      "new_price": 1200000,
+      "drop_pct": 7.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/23/tenanted-till-31012027-canal-pool-view--2-134776/",
+      "area": "Business Bay",
+      "category": "Apartment",
+      "size": "866",
+      "bedrooms": "1",
+      "date": "2026-04-30",
+      "first_seen": "2026-03-30"
     }
   ],
   "new_listings": [
+    {
+      "id": "17236406",
+      "title": "Tenanted Fully Furnished 1BR | 7% ROI | Vastu Compliant | La Vista Residence 1, DSO",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/25/tenanted-fully-furnished-1br-7-roi-vast-2-221223/",
+      "area": "Dubai Silicon Oasis (DSO)",
+      "category": "Apartment",
+      "size": "749",
+      "bedrooms": "1",
+      "price": 745000,
+      "first_seen": "2026-04-30"
+    },
     {
       "id": "17348864",
       "title": "Great Price | 4Bed+Maid | Quiet Location",
@@ -9108,19 +9133,8 @@
       "bedrooms": "4",
       "price": 2994000,
       "first_seen": "2026-04-27"
-    },
-    {
-      "id": "17188521",
-      "title": "SINGLE ROW 5BEDS | BEST DEAL l GREAT LOCATION",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/11/single-row-5beds-best-deal-l-great-loca-2-307458/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "2376",
-      "bedrooms": "5",
-      "price": 3500000,
-      "first_seen": "2026-04-27"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-29"
+  "last_updated": "2026-04-30"
 }
