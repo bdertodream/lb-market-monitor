@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-01T09:54:35.184285",
+  "generated_at": "2026-05-01T13:27:46.293788",
   "total_tracked": 482,
   "total_drops": 60,
   "total_new": 482,
-  "avg_drop_pct": 20.2,
+  "avg_drop_pct": 20.7,
   "biggest_drop_usd": 20000,
   "drops": [
     {
@@ -428,6 +428,35 @@
         {
           "price": 7000,
           "date": "2026-04-18"
+        }
+      ]
+    },
+    {
+      "id": "116822311",
+      "title": "Special 6 digits for sale",
+      "url": "https://www.olx.com.lb/ad/abbbba-special-6-digits-ID116822311.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dawhet Aaramoun, Aley",
+      "original_price": 4800,
+      "current_price": 3300,
+      "drop_usd": 1500,
+      "drop_pct": 31.2,
+      "last_drop_date": "2026-05-01",
+      "first_seen": "2026-03-16",
+      "posted_date": "2026-03-16",
+      "price_history": [
+        {
+          "price": 4800,
+          "date": "2026-03-16"
+        },
+        {
+          "price": 4600,
+          "date": "2026-05-01"
+        },
+        {
+          "price": 3300,
+          "date": "2026-05-01"
         }
       ]
     },
@@ -1561,31 +1590,6 @@
         {
           "price": 7000,
           "date": "2026-04-29"
-        }
-      ]
-    },
-    {
-      "id": "116822311",
-      "title": "Couple 5&6 digits for sale",
-      "url": "https://www.olx.com.lb/ad/abbbba-special-6-digits-ID116822311.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Dawhet Aaramoun, Aley",
-      "original_price": 4800,
-      "current_price": 4600,
-      "drop_usd": 200,
-      "drop_pct": 4.2,
-      "last_drop_date": "2026-05-01",
-      "first_seen": "2026-03-16",
-      "posted_date": "2026-03-16",
-      "price_history": [
-        {
-          "price": 4800,
-          "date": "2026-03-16"
-        },
-        {
-          "price": 4600,
-          "date": "2026-05-01"
         }
       ]
     },
@@ -6334,13 +6338,13 @@
     },
     {
       "id": "116822311",
-      "title": "Couple 5&6 digits for sale",
+      "title": "Special 6 digits for sale",
       "url": "https://www.olx.com.lb/ad/abbbba-special-6-digits-ID116822311.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Dawhet Aaramoun, Aley",
       "original_price": 4800,
-      "current_price": 4600,
+      "current_price": 3300,
       "first_seen": "2026-03-16",
       "posted_date": "2026-03-16",
       "price_history": [
@@ -6350,6 +6354,10 @@
         },
         {
           "price": 4600,
+          "date": "2026-05-01"
+        },
+        {
+          "price": 3300,
           "date": "2026-05-01"
         }
       ]
