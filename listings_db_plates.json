@@ -4463,14 +4463,14 @@
   },
   "116546493": {
     "id": "116546493",
-    "title": "رقم سيارة مميزG 60690",
+    "title": "رقم سيارة مميزN 81801",
     "url": "https://www.olx.com.lb/ad/رقم-سيارة-مميز-جدا-y-222211-ID116546493.html",
     "plate_code": "",
     "plate_type": "Standard",
     "location": "Yarzeh, Baabda",
     "district": "Baabda",
     "original_price": 4500,
-    "current_price": 2900,
+    "current_price": 2800,
     "price_history": [
       {
         "price": 4500,
@@ -4487,14 +4487,18 @@
       {
         "price": 2900,
         "date": "2026-04-22"
+      },
+      {
+        "price": 2800,
+        "date": "2026-05-01"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-05-01",
-    "last_updated": "2026-04-22",
-    "drop_usd": 1600,
-    "drop_pct": 35.6,
-    "last_drop_date": "2026-04-22",
+    "last_updated": "2026-05-01",
+    "drop_usd": 1700,
+    "drop_pct": 37.8,
+    "last_drop_date": "2026-05-01",
     "posted_date": "2026-03-01"
   },
   "116783749": {
@@ -6081,7 +6085,7 @@
     "location": "Downtown, Beirut",
     "district": "Beirut",
     "original_price": 100,
-    "current_price": 500,
+    "current_price": 50,
     "price_history": [
       {
         "price": 100,
@@ -6090,15 +6094,19 @@
       {
         "price": 500,
         "date": "2026-03-23"
+      },
+      {
+        "price": 50,
+        "date": "2026-05-01"
       }
     ],
     "first_seen": "2026-03-12",
     "last_seen": "2026-05-01",
-    "last_updated": "2026-03-23",
+    "last_updated": "2026-05-01",
     "posted_date": "2026-03-12",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null
+    "drop_usd": 50,
+    "drop_pct": 50.0,
+    "last_drop_date": "2026-05-01"
   },
   "116818826": {
     "id": "116818826",
@@ -12591,6 +12599,54 @@
     "price_history": [
       {
         "price": 3700,
+        "date": "2026-05-01"
+      }
+    ],
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "last_updated": "2026-05-01",
+    "posted_date": "2026-05-01",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116877611": {
+    "id": "116877611",
+    "title": "4 Digits Car Plate 7094 for sale رقم مميز",
+    "url": "https://www.olx.com.lb/ad/4-digits-car-plate-7094-for-sale-رقم-مميز-ID116877611.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Ras Al Nabaa, Beirut",
+    "district": "Beirut",
+    "original_price": 2600,
+    "current_price": 2600,
+    "price_history": [
+      {
+        "price": 2600,
+        "date": "2026-05-01"
+      }
+    ],
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "last_updated": "2026-05-01",
+    "posted_date": "2026-05-01",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116877464": {
+    "id": "116877464",
+    "title": "Number plate 7 digits",
+    "url": "https://www.olx.com.lb/ad/number-plate-7-digits-ID116877464.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Baabda Town, Baabda",
+    "district": "Baabda",
+    "original_price": 6500,
+    "current_price": 6500,
+    "price_history": [
+      {
+        "price": 6500,
         "date": "2026-05-01"
       }
     ],
