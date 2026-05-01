@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 11947,
+  "total_tracked": 11948,
   "total_drops": 269,
-  "total_new": 11947,
+  "total_new": 11948,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -3775,6 +3775,17 @@
   ],
   "new_listings": [
     {
+      "id": "17367619",
+      "title": "Excellent Deal in The Market | Motivated Seller | Well maintained",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/24/excellent-deal-in-the-market-motivated--2-173939/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Apartment",
+      "size": "1927",
+      "bedrooms": "2",
+      "price": 3150000,
+      "first_seen": "2026-05-01"
+    },
+    {
       "id": "17236406",
       "title": "Tenanted Fully Furnished 1BR | 7% ROI | Vastu Compliant | La Vista Residence 1, DSO",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/25/tenanted-fully-furnished-1br-7-roi-vast-2-221223/",
@@ -5102,7 +5113,7 @@
       "category": "Apartment",
       "size": "780",
       "bedrooms": "1",
-      "price": 949999,
+      "price": 995000,
       "first_seen": "2026-04-30"
     },
     {
@@ -9262,19 +9273,8 @@
       "bedrooms": "1",
       "price": 1700000,
       "first_seen": "2026-04-29"
-    },
-    {
-      "id": "17226027",
-      "title": "3BR Duplex | Park View | Open space | High ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/23/3br-duplex-park-view-open-space-high-ro-2-144679/",
-      "area": "Dubai Islands",
-      "category": "Apartment",
-      "size": "2219",
-      "bedrooms": "3",
-      "price": 4488000,
-      "first_seen": "2026-04-29"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-04-30"
+  "last_updated": "2026-05-01"
 }

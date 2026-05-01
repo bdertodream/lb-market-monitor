@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-30T21:12:22.917782",
-  "total_tracked": 11881,
-  "total_drops": 1435,
-  "total_new": 11881,
-  "avg_drop_pct": 6.8,
+  "generated_at": "2026-05-01T03:33:34.925590",
+  "total_tracked": 11890,
+  "total_drops": 1438,
+  "total_new": 11890,
+  "avg_drop_pct": 6.9,
   "biggest_drop_usd": 426000,
   "drops": [
     {
@@ -549,6 +549,35 @@
         {
           "price": 1111,
           "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116874384",
+      "title": "Nissan Sentra 2014",
+      "url": "https://www.olx.com.lb/ad/nissan-sentra-2014-ID116874384.html",
+      "make": "Nissan",
+      "model": "Sentra",
+      "body_type": "Sedan",
+      "year": 2014,
+      "mileage": 129,
+      "transmission": "Automatic",
+      "location": "Jdaide, Metn",
+      "original_price": 7500,
+      "current_price": 1111,
+      "drop_usd": 6389,
+      "drop_pct": 85.2,
+      "last_drop_date": "2026-05-01",
+      "first_seen": "2026-04-28",
+      "posted_date": "2026-04-28",
+      "price_history": [
+        {
+          "price": 7500,
+          "date": "2026-04-28"
+        },
+        {
+          "price": 1111,
+          "date": "2026-05-01"
         }
       ]
     },
@@ -3292,7 +3321,7 @@
       "transmission": "Automatic",
       "location": "Hazmiyeh, Baabda",
       "original_price": 12000,
-      "current_price": 10500,
+      "current_price": 12000,
       "drop_usd": 1500,
       "drop_pct": 12.5,
       "last_drop_date": "2026-04-28",
@@ -3306,6 +3335,10 @@
         {
           "price": 10500,
           "date": "2026-04-28"
+        },
+        {
+          "price": 12000,
+          "date": "2026-05-01"
         }
       ]
     },
@@ -22755,6 +22788,35 @@
       ]
     },
     {
+      "id": "116580848",
+      "title": "Mercedes-Benz E-Class 2017 trade available",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2017-ID116580848.html",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 60000,
+      "transmission": "Steptronic",
+      "location": "Al Qalamoun, Tripoli",
+      "original_price": 27000,
+      "current_price": 25900,
+      "drop_usd": 1100,
+      "drop_pct": 4.1,
+      "last_drop_date": "2026-05-01",
+      "first_seen": "2026-03-31",
+      "posted_date": "2026-03-31",
+      "price_history": [
+        {
+          "price": 27000,
+          "date": "2026-03-31"
+        },
+        {
+          "price": 25900,
+          "date": "2026-05-01"
+        }
+      ]
+    },
+    {
       "id": "116861980",
       "title": "BMW X3 2008",
       "url": "https://www.olx.com.lb/ad/bmw-x3-2008-ID116861980.html",
@@ -29416,6 +29478,43 @@
         {
           "price": 22000,
           "date": "2026-04-09"
+        }
+      ]
+    },
+    {
+      "id": "116870182",
+      "title": "Porsche 911 Targa 4  MY2010",
+      "url": "https://www.olx.com.lb/ad/porsche-911-2010-ID116870182.html",
+      "make": "Porsche",
+      "model": "911",
+      "body_type": "Sports / Coupe",
+      "year": 2010,
+      "mileage": 58000,
+      "transmission": "Automatic",
+      "location": "Antelias, Metn",
+      "original_price": 65000,
+      "current_price": 63000,
+      "drop_usd": 2000,
+      "drop_pct": 3.1,
+      "last_drop_date": "2026-05-01",
+      "first_seen": "2026-04-25",
+      "posted_date": "2026-04-25",
+      "price_history": [
+        {
+          "price": 65000,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 67000,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 65000,
+          "date": "2026-04-27"
+        },
+        {
+          "price": 63000,
+          "date": "2026-05-01"
         }
       ]
     },
@@ -43568,6 +43667,204 @@
   ],
   "new_listings": [
     {
+      "id": "116877291",
+      "title": "Nissan Rogue 2017",
+      "url": "https://www.olx.com.lb/ad/nissan-rogue-2017-ID116877291.html",
+      "make": "Nissan",
+      "model": "Rogue",
+      "body_type": "Other",
+      "year": 2017,
+      "mileage": 150000,
+      "transmission": "Automatic",
+      "location": "Anjar, Zahle",
+      "original_price": 11000,
+      "current_price": 11000,
+      "first_seen": "2026-05-01",
+      "posted_date": "2026-05-01",
+      "price_history": [
+        {
+          "price": 11000,
+          "date": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "116877287",
+      "title": "BMW  X6  35iXDIVE 2018 59.000Km ONLY  BASSOUL & HNEINE LEBANON SOURCE",
+      "url": "https://www.olx.com.lb/ad/bmw-x6-35ixdive-2018-59000km-only-bassoul-hneine-lebanon-source-ID116877287.html",
+      "make": "BMW",
+      "model": "X6",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 59000,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 32000,
+      "current_price": 32000,
+      "first_seen": "2026-05-01",
+      "posted_date": "2026-05-01",
+      "price_history": [
+        {
+          "price": 32000,
+          "date": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "116877281",
+      "title": "Chevrolet Colorado 2005",
+      "url": "https://www.olx.com.lb/ad/chevrolet-colorado-2005-ID116877281.html",
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "body_type": "Pickup",
+      "year": 2005,
+      "mileage": 1,
+      "transmission": "Automatic",
+      "location": "Zahle Town, Zahle",
+      "original_price": 9000,
+      "current_price": 9000,
+      "first_seen": "2026-05-01",
+      "posted_date": "2026-05-01",
+      "price_history": [
+        {
+          "price": 9000,
+          "date": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "116877279",
+      "title": "Land Rover Vogue 2017",
+      "url": "https://www.olx.com.lb/ad/land-rover-vogue-2017-ID116877279.html",
+      "make": "Land Rover",
+      "model": "Vogue",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 87000,
+      "transmission": "Automatic",
+      "location": "Baabda Town, Baabda",
+      "original_price": 45000,
+      "current_price": 45000,
+      "first_seen": "2026-05-01",
+      "posted_date": "2026-05-01",
+      "price_history": [
+        {
+          "price": 45000,
+          "date": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "116877263",
+      "title": "Smart fortwo 2005",
+      "url": "https://www.olx.com.lb/ad/smart-fortwo-2005-ID116877263.html",
+      "make": "Smart",
+      "model": "fortwo",
+      "body_type": "Convertible",
+      "year": 2005,
+      "mileage": 190,
+      "transmission": "Automatic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-05-01",
+      "posted_date": "2026-05-01",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "116877258",
+      "title": "Toyota Yaris 2015 Company Source and One Owner",
+      "url": "https://www.olx.com.lb/ad/toyota-yaris-2015-company-source-and-one-owner-ID116877258.html",
+      "make": "Toyota",
+      "model": "Yaris",
+      "body_type": "Other",
+      "year": 2015,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Adlieh, Beirut",
+      "original_price": 10300,
+      "current_price": 10300,
+      "first_seen": "2026-05-01",
+      "posted_date": "2026-05-01",
+      "price_history": [
+        {
+          "price": 10300,
+          "date": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "116877257",
+      "title": "Nissan Kicks 2019 Company Source and One Owner",
+      "url": "https://www.olx.com.lb/ad/nissan-kicks-2019-company-source-and-one-owner-ID116877257.html",
+      "make": "Nissan",
+      "model": "Kicks ",
+      "body_type": "Other",
+      "year": 2019,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Adlieh, Beirut",
+      "original_price": 14500,
+      "current_price": 14500,
+      "first_seen": "2026-05-01",
+      "posted_date": "2026-05-01",
+      "price_history": [
+        {
+          "price": 14500,
+          "date": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "116877241",
+      "title": "Audi A3 Sport 2006",
+      "url": "https://www.olx.com.lb/ad/audi-a3-sport-2006-ID116877241.html",
+      "make": "Audi",
+      "model": "A3",
+      "body_type": "Hatchback",
+      "year": 2006,
+      "mileage": 215000,
+      "transmission": "Automatic",
+      "location": "Abou Samra, Tripoli",
+      "original_price": 4600,
+      "current_price": 4600,
+      "first_seen": "2026-05-01",
+      "posted_date": "2026-05-01",
+      "price_history": [
+        {
+          "price": 4600,
+          "date": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "116761079",
+      "title": "Hyundai Elantra 2025 Limited edition Black on black Brand new 0km",
+      "url": "https://www.olx.com.lb/ad/hyundai-elantra-2025-limited-edition-black-on-black-brand-new-0km-ID116761079.html",
+      "make": "Hyundai",
+      "model": "Elantra",
+      "body_type": "Sedan",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 19800,
+      "current_price": 19800,
+      "first_seen": "2026-05-01",
+      "posted_date": "2026-05-01",
+      "price_history": [
+        {
+          "price": 19800,
+          "date": "2026-05-01"
+        }
+      ]
+    },
+    {
       "id": "116876012",
       "title": "Audi S4/RS4 2014",
       "url": "https://www.olx.com.lb/ad/audi-s4rs4-2014-ID116876012.html",
@@ -56815,13 +57112,17 @@
       "transmission": "Automatic",
       "location": "Jdaide, Metn",
       "original_price": 7500,
-      "current_price": 7500,
+      "current_price": 1111,
       "first_seen": "2026-04-28",
       "posted_date": "2026-04-28",
       "price_history": [
         {
           "price": 7500,
           "date": "2026-04-28"
+        },
+        {
+          "price": 1111,
+          "date": "2026-05-01"
         }
       ]
     },
@@ -68733,7 +69034,7 @@
     },
     {
       "id": "116870182",
-      "title": "Porsche 911 2010",
+      "title": "Porsche 911 Targa 4  MY2010",
       "url": "https://www.olx.com.lb/ad/porsche-911-2010-ID116870182.html",
       "make": "Porsche",
       "model": "911",
@@ -68743,7 +69044,7 @@
       "transmission": "Automatic",
       "location": "Antelias, Metn",
       "original_price": 65000,
-      "current_price": 65000,
+      "current_price": 63000,
       "first_seen": "2026-04-25",
       "posted_date": "2026-04-25",
       "price_history": [
@@ -68758,6 +69059,10 @@
         {
           "price": 65000,
           "date": "2026-04-27"
+        },
+        {
+          "price": 63000,
+          "date": "2026-05-01"
         }
       ]
     },
@@ -160929,13 +161234,17 @@
       "transmission": "Steptronic",
       "location": "Al Qalamoun, Tripoli",
       "original_price": 27000,
-      "current_price": 27000,
+      "current_price": 25900,
       "first_seen": "2026-03-31",
       "posted_date": "2026-03-31",
       "price_history": [
         {
           "price": 27000,
           "date": "2026-03-31"
+        },
+        {
+          "price": 25900,
+          "date": "2026-05-01"
         }
       ]
     },
@@ -277161,7 +277470,7 @@
       "transmission": "Automatic",
       "location": "Hazmiyeh, Baabda",
       "original_price": 12000,
-      "current_price": 10500,
+      "current_price": 12000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -277172,6 +277481,10 @@
         {
           "price": 10500,
           "date": "2026-04-28"
+        },
+        {
+          "price": 12000,
+          "date": "2026-05-01"
         }
       ]
     },
