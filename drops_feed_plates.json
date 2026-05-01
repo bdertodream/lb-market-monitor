@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-01T13:27:46.293788",
-  "total_tracked": 482,
+  "generated_at": "2026-05-01T17:06:26.297825",
+  "total_tracked": 483,
   "total_drops": 60,
-  "total_new": 482,
+  "total_new": 483,
   "avg_drop_pct": 20.7,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -1858,12 +1858,16 @@
       "plate_type": "Standard",
       "location": "Ras Al Nabaa, Beirut",
       "original_price": 2600,
-      "current_price": 2600,
+      "current_price": 2900,
       "first_seen": "2026-05-01",
       "posted_date": "2026-05-01",
       "price_history": [
         {
           "price": 2600,
+          "date": "2026-05-01"
+        },
+        {
+          "price": 2900,
           "date": "2026-05-01"
         }
       ]
@@ -1882,6 +1886,24 @@
       "price_history": [
         {
           "price": 6500,
+          "date": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "116878015",
+      "title": "لوحه مميزه للبيع مع صق تخصيص 4453 Y",
+      "url": "https://www.olx.com.lb/ad/لوحه-مميزه-للبيع-مع-صق-تخصيص-4453-y-ID116878015.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Azmi, Tripoli",
+      "original_price": 4900,
+      "current_price": 4900,
+      "first_seen": "2026-05-01",
+      "posted_date": "2026-05-01",
+      "price_history": [
+        {
+          "price": 4900,
           "date": "2026-05-01"
         }
       ]
