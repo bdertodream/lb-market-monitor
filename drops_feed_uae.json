@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 12158,
+  "total_tracked": 12159,
   "total_drops": 272,
-  "total_new": 12158,
+  "total_new": 12159,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -3816,6 +3816,17 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "17334073",
+      "title": "7%-8% ROI | Unfurnished | Rented",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/16/payment-plan-high-roi-investor-deal-ren-2-243069/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "935",
+      "bedrooms": "2",
+      "price": 973575,
+      "first_seen": "2026-05-02"
+    },
     {
       "id": "17367619",
       "title": "Excellent Deal in The Market | Motivated Seller | Well maintained",
@@ -9304,19 +9315,8 @@
       "bedrooms": "1",
       "price": 2295000,
       "first_seen": "2026-04-29"
-    },
-    {
-      "id": "17197734",
-      "title": "High Floor | Canal View | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/13/high-floor-canal-view-vacant-2-131229/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "639",
-      "bedrooms": "1",
-      "price": 1899999,
-      "first_seen": "2026-04-29"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-02"
 }
