@@ -10388,7 +10388,7 @@
     "location": "Sin El Fil, Metn",
     "district": "Metn",
     "original_price": 29999,
-    "current_price": 29500,
+    "current_price": 31900,
     "price_history": [
       {
         "price": 29999,
@@ -10397,11 +10397,15 @@
       {
         "price": 29500,
         "date": "2026-04-17"
+      },
+      {
+        "price": 31900,
+        "date": "2026-05-02"
       }
     ],
     "first_seen": "2026-04-13",
     "last_seen": "2026-05-02",
-    "last_updated": "2026-04-17",
+    "last_updated": "2026-05-02",
     "posted_date": "2026-04-13",
     "drop_usd": 499,
     "drop_pct": 1.7,
