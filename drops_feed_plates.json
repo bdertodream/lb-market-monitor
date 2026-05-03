@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-03T17:01:07.942102",
-  "total_tracked": 487,
-  "total_drops": 61,
-  "total_new": 487,
-  "avg_drop_pct": 21.0,
+  "generated_at": "2026-05-03T20:51:19.855667",
+  "total_tracked": 490,
+  "total_drops": 62,
+  "total_new": 490,
+  "avg_drop_pct": 20.8,
   "biggest_drop_usd": 20000,
   "drops": [
     {
@@ -1468,6 +1468,31 @@
       ]
     },
     {
+      "id": "116880239",
+      "title": "special plate NB 4 sale",
+      "url": "https://www.olx.com.lb/ad/special-plate-nb-4-sale-ID116880239.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Adlieh, Beirut",
+      "original_price": 2800,
+      "current_price": 2600,
+      "drop_usd": 200,
+      "drop_pct": 7.1,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-05-03",
+      "posted_date": "2026-05-03",
+      "price_history": [
+        {
+          "price": 2800,
+          "date": "2026-05-03"
+        },
+        {
+          "price": 2600,
+          "date": "2026-05-03"
+        }
+      ]
+    },
+    {
       "id": "116829545",
       "title": "special plats number",
       "url": "https://www.olx.com.lb/ad/special-plats-number-ID116829545.html",
@@ -1915,12 +1940,16 @@
       "plate_type": "Standard",
       "location": "Adlieh, Beirut",
       "original_price": 2800,
-      "current_price": 2800,
+      "current_price": 2600,
       "first_seen": "2026-05-03",
       "posted_date": "2026-05-03",
       "price_history": [
         {
           "price": 2800,
+          "date": "2026-05-03"
+        },
+        {
+          "price": 2600,
           "date": "2026-05-03"
         }
       ]
@@ -1939,6 +1968,60 @@
       "price_history": [
         {
           "price": 6900,
+          "date": "2026-05-03"
+        }
+      ]
+    },
+    {
+      "id": "116880686",
+      "title": "نمرة.  عمومي",
+      "url": "https://www.olx.com.lb/ad/نمرة-عمومي-ID116880686.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Ain Saadeh, Metn",
+      "original_price": 10,
+      "current_price": 10,
+      "first_seen": "2026-05-03",
+      "posted_date": "2026-05-03",
+      "price_history": [
+        {
+          "price": 10,
+          "date": "2026-05-03"
+        }
+      ]
+    },
+    {
+      "id": "116880677",
+      "title": "57557 G",
+      "url": "https://www.olx.com.lb/ad/57557-g-ID116880677.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Kaslik, Keserouan",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-05-03",
+      "posted_date": "2026-05-03",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-05-03"
+        }
+      ]
+    },
+    {
+      "id": "115734695",
+      "title": "special plate number fi sak",
+      "url": "https://www.olx.com.lb/ad/special-plate-number-ID115734695.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Mar Mkhayel, Beirut",
+      "original_price": 5500,
+      "current_price": 5500,
+      "first_seen": "2026-05-03",
+      "posted_date": "2026-05-03",
+      "price_history": [
+        {
+          "price": 5500,
           "date": "2026-05-03"
         }
       ]
