@@ -11978,7 +11978,7 @@
     "location": "Aaitat, Aley",
     "district": "Aley",
     "original_price": 3200,
-    "current_price": 2700,
+    "current_price": 2500,
     "price_history": [
       {
         "price": 3200,
@@ -11995,14 +11995,18 @@
       {
         "price": 2700,
         "date": "2026-05-03"
+      },
+      {
+        "price": 2500,
+        "date": "2026-05-03"
       }
     ],
     "first_seen": "2026-04-25",
     "last_seen": "2026-05-03",
     "last_updated": "2026-05-03",
     "posted_date": "2026-04-25",
-    "drop_usd": 500,
-    "drop_pct": 15.6,
+    "drop_usd": 700,
+    "drop_pct": 21.9,
     "last_drop_date": "2026-05-03"
   },
   "116869954": {
@@ -12178,7 +12182,7 @@
     "location": "Adlieh, Beirut",
     "district": "Beirut",
     "original_price": 2750,
-    "current_price": 2700,
+    "current_price": 2500,
     "price_history": [
       {
         "price": 2750,
@@ -12191,15 +12195,19 @@
       {
         "price": 2700,
         "date": "2026-04-29"
+      },
+      {
+        "price": 2500,
+        "date": "2026-05-03"
       }
     ],
     "first_seen": "2026-04-26",
     "last_seen": "2026-05-03",
-    "last_updated": "2026-04-29",
+    "last_updated": "2026-05-03",
     "posted_date": "2026-04-26",
-    "drop_usd": 50,
-    "drop_pct": 1.8,
-    "last_drop_date": "2026-04-29"
+    "drop_usd": 250,
+    "drop_pct": 9.1,
+    "last_drop_date": "2026-05-03"
   },
   "116870718": {
     "id": "116870718",
@@ -12674,7 +12682,7 @@
     "location": "Ras Al Nabaa, Beirut",
     "district": "Beirut",
     "original_price": 2600,
-    "current_price": 2900,
+    "current_price": 3000,
     "price_history": [
       {
         "price": 2600,
@@ -12683,11 +12691,15 @@
       {
         "price": 2900,
         "date": "2026-05-01"
+      },
+      {
+        "price": 3000,
+        "date": "2026-05-03"
       }
     ],
     "first_seen": "2026-05-01",
     "last_seen": "2026-05-03",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-03",
     "posted_date": "2026-05-01",
     "drop_usd": 0,
     "drop_pct": 0,

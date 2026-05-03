@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-03T13:20:10.171997",
+  "generated_at": "2026-05-03T17:01:07.942102",
   "total_tracked": 487,
   "total_drops": 61,
   "total_new": 487,
-  "avg_drop_pct": 20.8,
+  "avg_drop_pct": 21.0,
   "biggest_drop_usd": 20000,
   "drops": [
     {
@@ -663,6 +663,43 @@
       ]
     },
     {
+      "id": "116869967",
+      "title": "5 Digits",
+      "url": "https://www.olx.com.lb/ad/a-43543-ID116869967.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Aaitat, Aley",
+      "original_price": 3200,
+      "current_price": 2500,
+      "drop_usd": 700,
+      "drop_pct": 21.9,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-04-25",
+      "posted_date": "2026-04-25",
+      "price_history": [
+        {
+          "price": 3200,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 3500,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 3300,
+          "date": "2026-04-29"
+        },
+        {
+          "price": 2700,
+          "date": "2026-05-03"
+        },
+        {
+          "price": 2500,
+          "date": "2026-05-03"
+        }
+      ]
+    },
+    {
       "id": "116815572",
       "title": "plate number",
       "url": "https://www.olx.com.lb/ad/plate-number-ID116815572.html",
@@ -742,39 +779,6 @@
         {
           "price": 2900,
           "date": "2026-03-28"
-        }
-      ]
-    },
-    {
-      "id": "116869967",
-      "title": "5 Digits",
-      "url": "https://www.olx.com.lb/ad/a-43543-ID116869967.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Aaitat, Aley",
-      "original_price": 3200,
-      "current_price": 2700,
-      "drop_usd": 500,
-      "drop_pct": 15.6,
-      "last_drop_date": "2026-05-03",
-      "first_seen": "2026-04-25",
-      "posted_date": "2026-04-25",
-      "price_history": [
-        {
-          "price": 3200,
-          "date": "2026-04-25"
-        },
-        {
-          "price": 3500,
-          "date": "2026-04-25"
-        },
-        {
-          "price": 3300,
-          "date": "2026-04-29"
-        },
-        {
-          "price": 2700,
-          "date": "2026-05-03"
         }
       ]
     },
@@ -1377,6 +1381,39 @@
       ]
     },
     {
+      "id": "116870862",
+      "title": "5 Digits",
+      "url": "https://www.olx.com.lb/ad/5-digits-ID116870862.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Adlieh, Beirut",
+      "original_price": 2750,
+      "current_price": 2500,
+      "drop_usd": 250,
+      "drop_pct": 9.1,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-04-26",
+      "posted_date": "2026-04-26",
+      "price_history": [
+        {
+          "price": 2750,
+          "date": "2026-04-26"
+        },
+        {
+          "price": 2800,
+          "date": "2026-04-28"
+        },
+        {
+          "price": 2700,
+          "date": "2026-04-29"
+        },
+        {
+          "price": 2500,
+          "date": "2026-05-03"
+        }
+      ]
+    },
+    {
       "id": "116729185",
       "title": "3233 for sale",
       "url": "https://www.olx.com.lb/ad/3233-for-sale-ID116729185.html",
@@ -1797,35 +1834,6 @@
       ]
     },
     {
-      "id": "116870862",
-      "title": "5 Digits",
-      "url": "https://www.olx.com.lb/ad/5-digits-ID116870862.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Adlieh, Beirut",
-      "original_price": 2750,
-      "current_price": 2700,
-      "drop_usd": 50,
-      "drop_pct": 1.8,
-      "last_drop_date": "2026-04-29",
-      "first_seen": "2026-04-26",
-      "posted_date": "2026-04-26",
-      "price_history": [
-        {
-          "price": 2750,
-          "date": "2026-04-26"
-        },
-        {
-          "price": 2800,
-          "date": "2026-04-28"
-        },
-        {
-          "price": 2700,
-          "date": "2026-04-29"
-        }
-      ]
-    },
-    {
       "id": "116754092",
       "title": "7 9 6  /  B رمز  FOR SALE صك جاهز",
       "url": "https://www.olx.com.lb/ad/7-8-6-b-for-sale-ID116754092.html",
@@ -1979,7 +1987,7 @@
       "plate_type": "Standard",
       "location": "Ras Al Nabaa, Beirut",
       "original_price": 2600,
-      "current_price": 2900,
+      "current_price": 3000,
       "first_seen": "2026-05-01",
       "posted_date": "2026-05-01",
       "price_history": [
@@ -1990,6 +1998,10 @@
         {
           "price": 2900,
           "date": "2026-05-01"
+        },
+        {
+          "price": 3000,
+          "date": "2026-05-03"
         }
       ]
     },
@@ -2409,7 +2421,7 @@
       "plate_type": "Standard",
       "location": "Adlieh, Beirut",
       "original_price": 2750,
-      "current_price": 2700,
+      "current_price": 2500,
       "first_seen": "2026-04-26",
       "posted_date": "2026-04-26",
       "price_history": [
@@ -2424,6 +2436,10 @@
         {
           "price": 2700,
           "date": "2026-04-29"
+        },
+        {
+          "price": 2500,
+          "date": "2026-05-03"
         }
       ]
     },
@@ -2511,7 +2527,7 @@
       "plate_type": "Standard",
       "location": "Aaitat, Aley",
       "original_price": 3200,
-      "current_price": 2700,
+      "current_price": 2500,
       "first_seen": "2026-04-25",
       "posted_date": "2026-04-25",
       "price_history": [
@@ -2529,6 +2545,10 @@
         },
         {
           "price": 2700,
+          "date": "2026-05-03"
+        },
+        {
+          "price": 2500,
           "date": "2026-05-03"
         }
       ]
