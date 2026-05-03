@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 12286,
-  "total_drops": 275,
-  "total_new": 12286,
+  "total_tracked": 12287,
+  "total_drops": 276,
+  "total_new": 12287,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -3855,9 +3855,34 @@
       "bedrooms": "",
       "date": "2026-05-02",
       "first_seen": "2026-04-10"
+    },
+    {
+      "id": "9791251",
+      "title": "Exclusive | Fully Fitted Office | Burj & Canal View | Rented /High ROI Investment",
+      "old_price": 2350000,
+      "new_price": 2100000,
+      "drop_pct": 10.6,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/11/24/investor-deal-waterfront-office-canal-v-2-227290/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1101",
+      "bedrooms": "",
+      "date": "2026-05-03",
+      "first_seen": "2026-03-28"
     }
   ],
   "new_listings": [
+    {
+      "id": "17409677",
+      "title": "----",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/2/-2-127563/",
+      "area": "Dubai Investment Park (DIP)",
+      "category": "Villa",
+      "size": "2271",
+      "bedrooms": "4",
+      "price": 2500000,
+      "first_seen": "2026-05-03"
+    },
     {
       "id": "17334073",
       "title": "7%-8% ROI | Unfurnished | Rented",
@@ -9346,19 +9371,8 @@
       "bedrooms": "4",
       "price": 3400000,
       "first_seen": "2026-04-30"
-    },
-    {
-      "id": "17400809",
-      "title": "Premium 2BR + maid room | Furnished | Pool & Park View | Great Deal",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/30/premium-2br-furnished-pool-park-view-gr-2-525951/",
-      "area": "Dubai Studio City",
-      "category": "Apartment",
-      "size": "1661",
-      "bedrooms": "2",
-      "price": 1900000,
-      "first_seen": "2026-04-30"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-02"
+  "last_updated": "2026-05-03"
 }

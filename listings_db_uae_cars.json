@@ -82262,7 +82262,7 @@
   "16785938": {
     "id": "16785938",
     "title": "BMW 330i M-Kit GCC not negotiable",
-    "price": 89000,
+    "price": 85000,
     "make": "BMW",
     "model": "3-Series",
     "year": "2019",
@@ -82277,6 +82277,10 @@
       {
         "price": 89000,
         "date": "2026-03-29T11:30:18Z"
+      },
+      {
+        "price": 85000,
+        "date": "2026-05-03T03:03:42Z"
       }
     ],
     "date": "2026-03-29"
@@ -177698,7 +177702,7 @@
   "16801139": {
     "id": "16801139",
     "title": "2023 Tesla Model Y Standard - GCC Specs - Pristine Condition",
-    "price": 85500,
+    "price": 99500,
     "make": "Tesla",
     "model": "Model Y",
     "year": "2023",
@@ -177725,6 +177729,10 @@
       {
         "price": 85500,
         "date": "2026-05-01T03:34:30Z"
+      },
+      {
+        "price": 99500,
+        "date": "2026-05-03T03:03:42Z"
       }
     ],
     "date": "2026-04-27"
@@ -197074,7 +197082,7 @@
   "16820609": {
     "id": "16820609",
     "title": "2015 Chevrolet sonic very economic hatchback",
-    "price": 8900,
+    "price": 7900,
     "make": "Chevrolet",
     "model": "Sonic",
     "year": "2015",
@@ -197089,6 +197097,10 @@
       {
         "price": 8900,
         "date": "2026-05-02T20:50:52Z"
+      },
+      {
+        "price": 7900,
+        "date": "2026-05-03T03:03:42Z"
       }
     ],
     "date": "2026-05-02"
@@ -197309,6 +197321,50 @@
       {
         "price": 133000,
         "date": "2026-05-02T20:50:52Z"
+      }
+    ],
+    "date": "2026-05-02"
+  },
+  "16825216": {
+    "id": "16825216",
+    "title": "MITSUBISHI OUTLANDER GLS 2015, GCC SPECS",
+    "price": 18900,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "year": "2015",
+    "kilometers": "193000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Silicon Oasis (DSO)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/outlander/2026/5/2/mitsubishi-outlander-gls-2015-gcc-specs-2-808---0d726484741e4ec0bcc3e0f4ddf852c8/",
+    "first_seen": "2026-05-03T03:03:42Z",
+    "prices": [
+      {
+        "price": 18900,
+        "date": "2026-05-03T03:03:42Z"
+      }
+    ],
+    "date": "2026-05-02"
+  },
+  "16825200": {
+    "id": "16825200",
+    "title": "AWESOME BMW X6 V6 \u2014 RADAR \u2014 TOP RANGE \u2014 GCC \u2014 LOW MILEAGE",
+    "price": 99000,
+    "make": "BMW",
+    "model": "X6",
+    "year": "2018",
+    "kilometers": "93000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Jumeirah 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x6/2026/5/2/limited-bmw-x6-v6-radar-top-range-gcc-low--2-922---edc919541387458a920b804c9fbefd6e/",
+    "first_seen": "2026-05-03T03:03:42Z",
+    "prices": [
+      {
+        "price": 99000,
+        "date": "2026-05-03T03:03:42Z"
       }
     ],
     "date": "2026-05-02"
