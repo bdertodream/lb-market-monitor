@@ -1136,7 +1136,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-05-02",
+    "last_seen": "2026-05-03",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -12778,6 +12778,54 @@
     "price_history": [
       {
         "price": 5000,
+        "date": "2026-05-03"
+      }
+    ],
+    "first_seen": "2026-05-03",
+    "last_seen": "2026-05-03",
+    "last_updated": "2026-05-03",
+    "posted_date": "2026-05-03",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116880239": {
+    "id": "116880239",
+    "title": "special plate NB 4 sale",
+    "url": "https://www.olx.com.lb/ad/special-plate-nb-4-sale-ID116880239.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Adlieh, Beirut",
+    "district": "Beirut",
+    "original_price": 2800,
+    "current_price": 2800,
+    "price_history": [
+      {
+        "price": 2800,
+        "date": "2026-05-03"
+      }
+    ],
+    "first_seen": "2026-05-03",
+    "last_seen": "2026-05-03",
+    "last_updated": "2026-05-03",
+    "posted_date": "2026-05-03",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116861111": {
+    "id": "116861111",
+    "title": "PLATE NUMBER 7079 O",
+    "url": "https://www.olx.com.lb/ad/plate-number-7079-o-ID116861111.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Ras Beirut, Beirut",
+    "district": "Beirut",
+    "original_price": 6900,
+    "current_price": 6900,
+    "price_history": [
+      {
+        "price": 6900,
         "date": "2026-05-03"
       }
     ],

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-03T09:30:59.531433",
-  "total_tracked": 485,
+  "generated_at": "2026-05-03T13:20:10.171997",
+  "total_tracked": 487,
   "total_drops": 61,
-  "total_new": 485,
+  "total_new": 487,
   "avg_drop_pct": 20.8,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -1895,6 +1895,42 @@
       "price_history": [
         {
           "price": 5000,
+          "date": "2026-05-03"
+        }
+      ]
+    },
+    {
+      "id": "116880239",
+      "title": "special plate NB 4 sale",
+      "url": "https://www.olx.com.lb/ad/special-plate-nb-4-sale-ID116880239.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Adlieh, Beirut",
+      "original_price": 2800,
+      "current_price": 2800,
+      "first_seen": "2026-05-03",
+      "posted_date": "2026-05-03",
+      "price_history": [
+        {
+          "price": 2800,
+          "date": "2026-05-03"
+        }
+      ]
+    },
+    {
+      "id": "116861111",
+      "title": "PLATE NUMBER 7079 O",
+      "url": "https://www.olx.com.lb/ad/plate-number-7079-o-ID116861111.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Ras Beirut, Beirut",
+      "original_price": 6900,
+      "current_price": 6900,
+      "first_seen": "2026-05-03",
+      "posted_date": "2026-05-03",
+      "price_history": [
+        {
+          "price": 6900,
           "date": "2026-05-03"
         }
       ]
