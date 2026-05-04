@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-04T14:10:26.696575",
-  "total_tracked": 491,
+  "generated_at": "2026-05-04T17:50:28.650711",
+  "total_tracked": 492,
   "total_drops": 62,
-  "total_new": 491,
+  "total_new": 492,
   "avg_drop_pct": 20.9,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -1709,35 +1709,6 @@
       ]
     },
     {
-      "id": "116632535",
-      "title": "صك جاهز بيع لتسجيل فورا",
-      "url": "https://www.olx.com.lb/ad/صك-جاهز-بيع-لتسجيل-فورا-ID116632535.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Badaro, Beirut",
-      "original_price": 9700,
-      "current_price": 10900,
-      "drop_usd": 400,
-      "drop_pct": 4.1,
-      "last_drop_date": "2026-04-06",
-      "first_seen": "2026-03-01",
-      "posted_date": "2026-03-01",
-      "price_history": [
-        {
-          "price": 9700,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 9300,
-          "date": "2026-04-06"
-        },
-        {
-          "price": 10900,
-          "date": "2026-04-11"
-        }
-      ]
-    },
-    {
       "id": "116783749",
       "title": "A 99899   Special car plate number for sale",
       "url": "https://www.olx.com.lb/ad/a-99899-special-car-plate-number-for-sale-ID116783749.html",
@@ -1867,6 +1838,39 @@
       ]
     },
     {
+      "id": "116632535",
+      "title": "صك جاهز بيع لتسجيل فورا",
+      "url": "https://www.olx.com.lb/ad/صك-جاهز-بيع-لتسجيل-فورا-ID116632535.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Badaro, Beirut",
+      "original_price": 9700,
+      "current_price": 9500,
+      "drop_usd": 200,
+      "drop_pct": 2.1,
+      "last_drop_date": "2026-05-04",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 9700,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 9300,
+          "date": "2026-04-06"
+        },
+        {
+          "price": 10900,
+          "date": "2026-04-11"
+        },
+        {
+          "price": 9500,
+          "date": "2026-05-04"
+        }
+      ]
+    },
+    {
       "id": "116754092",
       "title": "7 9 6  /  B رمز  FOR SALE صك جاهز",
       "url": "https://www.olx.com.lb/ad/7-8-6-b-for-sale-ID116754092.html",
@@ -1936,6 +1940,24 @@
       "price_history": [
         {
           "price": 4000,
+          "date": "2026-05-04"
+        }
+      ]
+    },
+    {
+      "id": "116881861",
+      "title": "Twins A and B السعر حلو",
+      "url": "https://www.olx.com.lb/ad/twins-a-and-b-السعر-حلو-ID116881861.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Adlieh, Beirut",
+      "original_price": 5555,
+      "current_price": 5555,
+      "first_seen": "2026-05-04",
+      "posted_date": "2026-05-04",
+      "price_history": [
+        {
+          "price": 5555,
           "date": "2026-05-04"
         }
       ]
@@ -9038,7 +9060,7 @@
       "plate_type": "Standard",
       "location": "Badaro, Beirut",
       "original_price": 9700,
-      "current_price": 10900,
+      "current_price": 9500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
@@ -9053,6 +9075,10 @@
         {
           "price": 10900,
           "date": "2026-04-11"
+        },
+        {
+          "price": 9500,
+          "date": "2026-05-04"
         }
       ]
     },
