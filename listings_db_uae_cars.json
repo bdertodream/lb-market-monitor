@@ -53488,7 +53488,7 @@
   "16688063": {
     "id": "16688063",
     "title": "JEEP CHEROKEE (D) 2.0 LONGITUDE AWD",
-    "price": 26500,
+    "price": 22900,
     "make": "Jeep",
     "model": "Cherokee",
     "year": "2015",
@@ -53503,6 +53503,10 @@
       {
         "price": 26500,
         "date": "2026-03-17T07:02:19Z"
+      },
+      {
+        "price": 22900,
+        "date": "2026-05-04T03:02:15Z"
       }
     ],
     "date": "2026-03-17"
@@ -53510,7 +53514,7 @@
   "16683152": {
     "id": "16683152",
     "title": "KIA THE BOLD SPORTAGE (D) 2.0 2WD Luxuary",
-    "price": 38900,
+    "price": 35900,
     "make": "Kia",
     "model": "Sportage",
     "year": "2019",
@@ -53525,6 +53529,10 @@
       {
         "price": 38900,
         "date": "2026-03-17T07:02:19Z"
+      },
+      {
+        "price": 35900,
+        "date": "2026-05-04T03:02:15Z"
       }
     ],
     "date": "2026-03-17"
@@ -53554,7 +53562,7 @@
   "16688581": {
     "id": "16688581",
     "title": "HONDA HR-V (G) 1.8 2WD",
-    "price": 31900,
+    "price": 29900,
     "make": "Honda",
     "model": "HR-V",
     "year": "2016",
@@ -53569,6 +53577,10 @@
       {
         "price": 31900,
         "date": "2026-03-17T07:02:19Z"
+      },
+      {
+        "price": 29900,
+        "date": "2026-05-04T03:02:15Z"
       }
     ],
     "date": "2026-03-17"
@@ -53576,7 +53588,7 @@
   "16740302": {
     "id": "16740302",
     "title": "INFINITI QX50 (G) 2.0 TURBO SENSORY AWD",
-    "price": 55900,
+    "price": 53900,
     "make": "Infiniti",
     "model": "QX50",
     "year": "2019",
@@ -53591,6 +53603,10 @@
       {
         "price": 55900,
         "date": "2026-03-17T07:02:19Z"
+      },
+      {
+        "price": 53900,
+        "date": "2026-05-04T03:02:15Z"
       }
     ],
     "date": "2026-03-17"
@@ -53598,7 +53614,7 @@
   "16703068": {
     "id": "16703068",
     "title": "THE NEW SPARK (G) 1.0 LS",
-    "price": 20500,
+    "price": 19000,
     "make": "Chevrolet",
     "model": "Spark",
     "year": "2019",
@@ -53613,6 +53629,10 @@
       {
         "price": 20500,
         "date": "2026-03-17T07:02:19Z"
+      },
+      {
+        "price": 19000,
+        "date": "2026-05-04T03:02:15Z"
       }
     ],
     "date": "2026-03-17"
@@ -199753,6 +199773,72 @@
       {
         "price": 19000,
         "date": "2026-05-03T20:51:54Z"
+      }
+    ],
+    "date": "2026-05-03"
+  },
+  "16826194": {
+    "id": "16826194",
+    "title": "Toyota Land Cruiser GXR Top Full Option 2015 Facelifted 2026 - GCC Specs - Excellent Condition",
+    "price": 105000,
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "year": "2015",
+    "kilometers": "61242",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/5/4/toyota-land-cruiser-gxr-top-full-option-20-2-033---71e12094e83f4e459125403ffb305199/",
+    "first_seen": "2026-05-04T03:02:15Z",
+    "prices": [
+      {
+        "price": 105000,
+        "date": "2026-05-04T03:02:15Z"
+      }
+    ],
+    "date": "2026-05-04"
+  },
+  "16759675": {
+    "id": "16759675",
+    "title": "TOYOTA PRADO 2008 MODEL 4 CYLINDER",
+    "price": 33500,
+    "make": "Toyota",
+    "model": "Prado",
+    "year": "2008",
+    "kilometers": "132000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prado/2026/2/27/toyota-prado-2008-model-4-cylinder-2-548---57cafed2bc03407fb645c0ec79f56689/",
+    "first_seen": "2026-05-04T03:02:15Z",
+    "prices": [
+      {
+        "price": 33500,
+        "date": "2026-05-04T03:02:15Z"
+      }
+    ],
+    "date": "2026-05-03"
+  },
+  "16826179": {
+    "id": "16826179",
+    "title": "VOLKSWAGEN TERAMOUNT 2018 GCC SPECS BEST FAMILY CAR SHOWROOM CONDITION",
+    "price": 39500,
+    "make": "Volkswagen",
+    "model": "Teramont",
+    "year": "2018",
+    "kilometers": "128000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/teramont/2026/5/3/volkswagen-teramount-2018-gcc-specs-best-f-2-479---dc0ae34775554ce290e22b24c8298b8e/",
+    "first_seen": "2026-05-04T03:02:15Z",
+    "prices": [
+      {
+        "price": 39500,
+        "date": "2026-05-04T03:02:15Z"
       }
     ],
     "date": "2026-05-03"
