@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-04T06:48:04.522415",
-  "total_tracked": 490,
+  "generated_at": "2026-05-04T10:22:18.320077",
+  "total_tracked": 491,
   "total_drops": 62,
-  "total_new": 490,
-  "avg_drop_pct": 20.8,
+  "total_new": 491,
+  "avg_drop_pct": 20.9,
   "biggest_drop_usd": 20000,
   "drops": [
     {
@@ -272,6 +272,51 @@
       ]
     },
     {
+      "id": "116843442",
+      "title": "car number",
+      "url": "https://www.olx.com.lb/ad/plate-number-ID116843442.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Achrafieh, Beirut",
+      "original_price": 10000,
+      "current_price": 6000,
+      "drop_usd": 4000,
+      "drop_pct": 40.0,
+      "last_drop_date": "2026-05-04",
+      "first_seen": "2026-04-05",
+      "posted_date": "2026-04-05",
+      "price_history": [
+        {
+          "price": 10000,
+          "date": "2026-04-05"
+        },
+        {
+          "price": 12000,
+          "date": "2026-04-05"
+        },
+        {
+          "price": 9000,
+          "date": "2026-04-07"
+        },
+        {
+          "price": 8000,
+          "date": "2026-04-13"
+        },
+        {
+          "price": 6770,
+          "date": "2026-04-16"
+        },
+        {
+          "price": 7000,
+          "date": "2026-04-18"
+        },
+        {
+          "price": 6000,
+          "date": "2026-05-04"
+        }
+      ]
+    },
+    {
       "id": "116546493",
       "title": "رقم سيارة مميزN 81801",
       "url": "https://www.olx.com.lb/ad/رقم-سيارة-مميز-جدا-y-222211-ID116546493.html",
@@ -416,47 +461,6 @@
         {
           "price": 123456,
           "date": "2026-04-28"
-        }
-      ]
-    },
-    {
-      "id": "116843442",
-      "title": "car number",
-      "url": "https://www.olx.com.lb/ad/plate-number-ID116843442.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Achrafieh, Beirut",
-      "original_price": 10000,
-      "current_price": 7000,
-      "drop_usd": 3230,
-      "drop_pct": 32.3,
-      "last_drop_date": "2026-04-16",
-      "first_seen": "2026-04-05",
-      "posted_date": "2026-04-05",
-      "price_history": [
-        {
-          "price": 10000,
-          "date": "2026-04-05"
-        },
-        {
-          "price": 12000,
-          "date": "2026-04-05"
-        },
-        {
-          "price": 9000,
-          "date": "2026-04-07"
-        },
-        {
-          "price": 8000,
-          "date": "2026-04-13"
-        },
-        {
-          "price": 6770,
-          "date": "2026-04-16"
-        },
-        {
-          "price": 7000,
-          "date": "2026-04-18"
         }
       ]
     },
@@ -1475,7 +1479,7 @@
       "plate_type": "Standard",
       "location": "Adlieh, Beirut",
       "original_price": 2800,
-      "current_price": 2600,
+      "current_price": 2800,
       "drop_usd": 200,
       "drop_pct": 7.1,
       "last_drop_date": "2026-05-03",
@@ -1489,6 +1493,10 @@
         {
           "price": 2600,
           "date": "2026-05-03"
+        },
+        {
+          "price": 2800,
+          "date": "2026-05-04"
         }
       ]
     },
@@ -1915,6 +1923,24 @@
   ],
   "new_listings": [
     {
+      "id": "116880919",
+      "title": "سيارة مع لوحة مميزة",
+      "url": "https://www.olx.com.lb/ad/سيارة-مع-لوحة-مميزة-ID116880919.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Maarouf Saad, Saida",
+      "original_price": 4000,
+      "current_price": 4000,
+      "first_seen": "2026-05-04",
+      "posted_date": "2026-05-04",
+      "price_history": [
+        {
+          "price": 4000,
+          "date": "2026-05-04"
+        }
+      ]
+    },
+    {
       "id": "116879792",
       "title": "4 digits",
       "url": "https://www.olx.com.lb/ad/4-digits-ID116879792.html",
@@ -1940,7 +1966,7 @@
       "plate_type": "Standard",
       "location": "Adlieh, Beirut",
       "original_price": 2800,
-      "current_price": 2600,
+      "current_price": 2800,
       "first_seen": "2026-05-03",
       "posted_date": "2026-05-03",
       "price_history": [
@@ -1951,6 +1977,10 @@
         {
           "price": 2600,
           "date": "2026-05-03"
+        },
+        {
+          "price": 2800,
+          "date": "2026-05-04"
         }
       ]
     },
@@ -4288,7 +4318,7 @@
       "plate_type": "Standard",
       "location": "Achrafieh, Beirut",
       "original_price": 10000,
-      "current_price": 7000,
+      "current_price": 6000,
       "first_seen": "2026-04-05",
       "posted_date": "2026-04-05",
       "price_history": [
@@ -4315,6 +4345,10 @@
         {
           "price": 7000,
           "date": "2026-04-18"
+        },
+        {
+          "price": 6000,
+          "date": "2026-05-04"
         }
       ]
     },

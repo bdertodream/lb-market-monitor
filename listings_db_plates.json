@@ -9651,7 +9651,7 @@
     "location": "Achrafieh, Beirut",
     "district": "Beirut",
     "original_price": 10000,
-    "current_price": 7000,
+    "current_price": 6000,
     "price_history": [
       {
         "price": 10000,
@@ -9676,15 +9676,19 @@
       {
         "price": 7000,
         "date": "2026-04-18"
+      },
+      {
+        "price": 6000,
+        "date": "2026-05-04"
       }
     ],
     "first_seen": "2026-04-05",
     "last_seen": "2026-05-04",
-    "last_updated": "2026-04-18",
+    "last_updated": "2026-05-04",
     "posted_date": "2026-04-05",
-    "drop_usd": 3230,
-    "drop_pct": 32.3,
-    "last_drop_date": "2026-04-16"
+    "drop_usd": 4000,
+    "drop_pct": 40.0,
+    "last_drop_date": "2026-05-04"
   },
   "116843511": {
     "id": "116843511",
@@ -12723,7 +12727,7 @@
       }
     ],
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-03",
+    "last_seen": "2026-05-04",
     "last_updated": "2026-05-01",
     "posted_date": "2026-05-01",
     "drop_usd": 0,
@@ -12811,7 +12815,7 @@
     "location": "Adlieh, Beirut",
     "district": "Beirut",
     "original_price": 2800,
-    "current_price": 2600,
+    "current_price": 2800,
     "price_history": [
       {
         "price": 2800,
@@ -12820,11 +12824,15 @@
       {
         "price": 2600,
         "date": "2026-05-03"
+      },
+      {
+        "price": 2800,
+        "date": "2026-05-04"
       }
     ],
     "first_seen": "2026-05-03",
     "last_seen": "2026-05-04",
-    "last_updated": "2026-05-03",
+    "last_updated": "2026-05-04",
     "posted_date": "2026-05-03",
     "drop_usd": 200,
     "drop_pct": 7.1,
@@ -12922,6 +12930,30 @@
     "last_seen": "2026-05-04",
     "last_updated": "2026-05-03",
     "posted_date": "2026-05-03",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116880919": {
+    "id": "116880919",
+    "title": "سيارة مع لوحة مميزة",
+    "url": "https://www.olx.com.lb/ad/سيارة-مع-لوحة-مميزة-ID116880919.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Maarouf Saad, Saida",
+    "district": "Saida",
+    "original_price": 4000,
+    "current_price": 4000,
+    "price_history": [
+      {
+        "price": 4000,
+        "date": "2026-05-04"
+      }
+    ],
+    "first_seen": "2026-05-04",
+    "last_seen": "2026-05-04",
+    "last_updated": "2026-05-04",
+    "posted_date": "2026-05-04",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null
