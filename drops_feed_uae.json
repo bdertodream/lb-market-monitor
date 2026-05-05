@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 12539,
-  "total_drops": 287,
-  "total_new": 12539,
+  "total_tracked": 12540,
+  "total_drops": 288,
+  "total_new": 12540,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -4023,9 +4023,34 @@
       "bedrooms": "1",
       "date": "2026-05-04",
       "first_seen": "2026-03-28"
+    },
+    {
+      "id": "9791300",
+      "title": "HIGH ROI | PRIME LOCATION | BURJ KHALIFA VIEWS",
+      "old_price": 3500000,
+      "new_price": 3200000,
+      "drop_pct": 8.6,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/11/24/high-roi-prime-location-burj-khalifa-vi-2-290365/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "824",
+      "bedrooms": "",
+      "date": "2026-05-05",
+      "first_seen": "2026-03-30"
     }
   ],
   "new_listings": [
+    {
+      "id": "17327840",
+      "title": "Fully Furnished | Community View | Ready to Move-In",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/15/fully-furnished-community-view-ready-to-2-608639/",
+      "area": "Business Bay",
+      "category": "Apartment",
+      "size": "982",
+      "bedrooms": "2",
+      "price": 1500000,
+      "first_seen": "2026-05-05"
+    },
     {
       "id": "17414850",
       "title": "Hot Deal! | Furnished Studio| Private Pool |Close to OP",
@@ -9514,19 +9539,8 @@
       "bedrooms": "2",
       "price": 1750000,
       "first_seen": "2026-05-01"
-    },
-    {
-      "id": "17405735",
-      "title": "Vacant | Fully Furnished | View Today | Investor Deal",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/1/vacant-fully-furnished-view-today-inves-2-268710/",
-      "area": "Dubai Production City (IMPZ)",
-      "category": "Apartment",
-      "size": "496",
-      "bedrooms": "0",
-      "price": 530000,
-      "first_seen": "2026-05-01"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-04"
+  "last_updated": "2026-05-05"
 }

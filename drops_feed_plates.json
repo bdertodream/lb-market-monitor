@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-04T21:18:23.933445",
-  "total_tracked": 494,
+  "generated_at": "2026-05-05T02:52:59.369256",
+  "total_tracked": 495,
   "total_drops": 62,
-  "total_new": 494,
+  "total_new": 495,
   "avg_drop_pct": 20.9,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -1601,6 +1601,35 @@
       ]
     },
     {
+      "id": "116875025",
+      "title": "Special 5 Digits Car Plate Number",
+      "url": "https://www.olx.com.lb/ad/special-5-digits-car-plate-number-ID116875025.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dekwaneh, Metn",
+      "original_price": 3400,
+      "current_price": 3200,
+      "drop_usd": 200,
+      "drop_pct": 5.9,
+      "last_drop_date": "2026-05-05",
+      "first_seen": "2026-04-29",
+      "posted_date": "2026-04-29",
+      "price_history": [
+        {
+          "price": 3400,
+          "date": "2026-04-29"
+        },
+        {
+          "price": 3300,
+          "date": "2026-04-29"
+        },
+        {
+          "price": 3200,
+          "date": "2026-05-05"
+        }
+      ]
+    },
+    {
       "id": "116832752",
       "title": "nomra hamra taxi",
       "url": "https://www.olx.com.lb/ad/nomra-hamra-taxi-ID116832752.html",
@@ -1730,31 +1759,6 @@
         {
           "price": 12000,
           "date": "2026-04-19"
-        }
-      ]
-    },
-    {
-      "id": "116875025",
-      "title": "Special 5 Digits Car Plate Number",
-      "url": "https://www.olx.com.lb/ad/special-5-digits-car-plate-number-ID116875025.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Dekwaneh, Metn",
-      "original_price": 3400,
-      "current_price": 3300,
-      "drop_usd": 100,
-      "drop_pct": 2.9,
-      "last_drop_date": "2026-04-29",
-      "first_seen": "2026-04-29",
-      "posted_date": "2026-04-29",
-      "price_history": [
-        {
-          "price": 3400,
-          "date": "2026-04-29"
-        },
-        {
-          "price": 3300,
-          "date": "2026-04-29"
         }
       ]
     },
@@ -1926,6 +1930,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116882285",
+      "title": "G 89999",
+      "url": "https://www.olx.com.lb/ad/g-89999-ID116882285.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jounieh, Keserouan",
+      "original_price": 8000,
+      "current_price": 8000,
+      "first_seen": "2026-05-05",
+      "posted_date": "2026-05-05",
+      "price_history": [
+        {
+          "price": 8000,
+          "date": "2026-05-05"
+        }
+      ]
+    },
     {
       "id": "116880919",
       "title": "سيارة مع لوحة مميزة",
@@ -2332,7 +2354,7 @@
       "plate_type": "Standard",
       "location": "Dekwaneh, Metn",
       "original_price": 3400,
-      "current_price": 3300,
+      "current_price": 3200,
       "first_seen": "2026-04-29",
       "posted_date": "2026-04-29",
       "price_history": [
@@ -2343,6 +2365,10 @@
         {
           "price": 3300,
           "date": "2026-04-29"
+        },
+        {
+          "price": 3200,
+          "date": "2026-05-05"
         }
       ]
     },
