@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-05T06:25:35.903804",
-  "total_tracked": 496,
+  "generated_at": "2026-05-05T10:12:05.041432",
+  "total_tracked": 498,
   "total_drops": 62,
-  "total_new": 496,
+  "total_new": 498,
   "avg_drop_pct": 20.9,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -1962,6 +1962,42 @@
       "price_history": [
         {
           "price": 8000,
+          "date": "2026-05-05"
+        }
+      ]
+    },
+    {
+      "id": "116882612",
+      "title": "Car plate",
+      "url": "https://www.olx.com.lb/ad/car-plate-ID116882612.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Majdelyoun, Saida",
+      "original_price": 5200,
+      "current_price": 5200,
+      "first_seen": "2026-05-05",
+      "posted_date": "2026-05-05",
+      "price_history": [
+        {
+          "price": 5200,
+          "date": "2026-05-05"
+        }
+      ]
+    },
+    {
+      "id": "116702816",
+      "title": "Plate to sell",
+      "url": "https://www.olx.com.lb/ad/plate-to-sell-ID116702816.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 2300,
+      "current_price": 2300,
+      "first_seen": "2026-05-05",
+      "posted_date": "2026-05-05",
+      "price_history": [
+        {
+          "price": 2300,
           "date": "2026-05-05"
         }
       ]
