@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-05T02:52:59.369256",
-  "total_tracked": 495,
+  "generated_at": "2026-05-05T06:25:35.903804",
+  "total_tracked": 496,
   "total_drops": 62,
-  "total_new": 495,
+  "total_new": 496,
   "avg_drop_pct": 20.9,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -1937,6 +1937,24 @@
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Jounieh, Keserouan",
+      "original_price": 8000,
+      "current_price": 8000,
+      "first_seen": "2026-05-05",
+      "posted_date": "2026-05-05",
+      "price_history": [
+        {
+          "price": 8000,
+          "date": "2026-05-05"
+        }
+      ]
+    },
+    {
+      "id": "116882350",
+      "title": "B888388",
+      "url": "https://www.olx.com.lb/ad/b888388-ID116882350.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Tallet el Khayat, Beirut",
       "original_price": 8000,
       "current_price": 8000,
       "first_seen": "2026-05-05",

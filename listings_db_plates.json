@@ -2513,7 +2513,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-03-30",
+    "last_seen": "2026-05-05",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -13049,6 +13049,30 @@
     "plate_type": "Standard",
     "location": "Jounieh, Keserouan",
     "district": "Keserouan",
+    "original_price": 8000,
+    "current_price": 8000,
+    "price_history": [
+      {
+        "price": 8000,
+        "date": "2026-05-05"
+      }
+    ],
+    "first_seen": "2026-05-05",
+    "last_seen": "2026-05-05",
+    "last_updated": "2026-05-05",
+    "posted_date": "2026-05-05",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116882350": {
+    "id": "116882350",
+    "title": "B888388",
+    "url": "https://www.olx.com.lb/ad/b888388-ID116882350.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Tallet el Khayat, Beirut",
+    "district": "Beirut",
     "original_price": 8000,
     "current_price": 8000,
     "price_history": [
