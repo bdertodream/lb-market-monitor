@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-05T14:04:44.169263",
-  "total_tracked": 500,
+  "generated_at": "2026-05-05T17:33:05.945460",
+  "total_tracked": 501,
   "total_drops": 62,
-  "total_new": 500,
+  "total_new": 501,
   "avg_drop_pct": 21.0,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -2042,6 +2042,24 @@
       "price_history": [
         {
           "price": 10000,
+          "date": "2026-05-05"
+        }
+      ]
+    },
+    {
+      "id": "116883375",
+      "title": "plate number",
+      "url": "https://www.olx.com.lb/ad/plate-number-ID116883375.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Zouk Mosbeh, Keserouan",
+      "original_price": 6500,
+      "current_price": 6500,
+      "first_seen": "2026-05-05",
+      "posted_date": "2026-05-05",
+      "price_history": [
+        {
+          "price": 6500,
           "date": "2026-05-05"
         }
       ]
