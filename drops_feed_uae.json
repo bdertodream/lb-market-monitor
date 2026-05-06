@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 12848,
-  "total_drops": 300,
-  "total_new": 12848,
+  "total_tracked": 12852,
+  "total_drops": 302,
+  "total_new": 12852,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -4205,6 +4205,34 @@
       "bedrooms": "",
       "date": "2026-05-06",
       "first_seen": "2026-04-04"
+    },
+    {
+      "id": "9810240",
+      "title": "High-Value | Fitted | Shop Office",
+      "old_price": 5999995,
+      "new_price": 5499995,
+      "drop_pct": 8.3,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/6/high-value-fitted-shop-office-2-505301/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1427",
+      "bedrooms": "",
+      "date": "2026-05-06",
+      "first_seen": "2026-04-06"
+    },
+    {
+      "id": "9753057",
+      "title": "PRIME LOCATION | FREEHOLD | RESIDENTIAL PLOT",
+      "old_price": 34500000,
+      "new_price": 27000000,
+      "drop_pct": 21.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/4/6/prime-location-freehold-residential-plo-2-214845/",
+      "area": "Al Wasl",
+      "category": "Land",
+      "size": "10013",
+      "bedrooms": "",
+      "date": "2026-05-06",
+      "first_seen": "2026-04-06"
     }
   ],
   "new_listings": [
@@ -6186,6 +6214,50 @@
       "size": "1973",
       "bedrooms": "",
       "price": 900000,
+      "first_seen": "2026-05-06"
+    },
+    {
+      "id": "9775175",
+      "title": "INVESTMENT OPPORTUNITY - PREMIUM RETAIL SPACE - EXCLUSIVE",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/9/1/investment-opportunity-premium-retail-s-2-200112/",
+      "area": "Business Bay",
+      "category": "Shop",
+      "size": "1036",
+      "bedrooms": "",
+      "price": 2500000,
+      "first_seen": "2026-05-06"
+    },
+    {
+      "id": "9802275",
+      "title": "Prime Location | Fitted | Burj view | High ROI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/3/prime-location-fully-fitted-burj-khalif-2-894288/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1444",
+      "bedrooms": "",
+      "price": 3000000,
+      "first_seen": "2026-05-06"
+    },
+    {
+      "id": "9802237",
+      "title": "Canal View I High Floor I Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/3/canal-view-i-high-floor-i-prime-locatio-2-159976/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "887",
+      "bedrooms": "",
+      "price": 2000000,
+      "first_seen": "2026-05-06"
+    },
+    {
+      "id": "9815276",
+      "title": "Skyline View | Prime Retail | Luxurious Amenities",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/5/6/skyline-view-prime-retail-luxurious-ame-2-314162/",
+      "area": "Meydan",
+      "category": "Shop",
+      "size": "2219",
+      "bedrooms": "",
+      "price": 7300000,
       "first_seen": "2026-05-06"
     },
     {
@@ -9662,50 +9734,6 @@
       "size": "1405",
       "bedrooms": "2",
       "price": 1300000,
-      "first_seen": "2026-05-03"
-    },
-    {
-      "id": "16801374",
-      "title": "2 Bed + Store | Huge Layout | High Rental Demand",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/12/16/2-bed-store-huge-layout-high-rental-dem-2-295855/",
-      "area": "Discovery Gardens",
-      "category": "Apartment",
-      "size": "1403",
-      "bedrooms": "2",
-      "price": 1200000,
-      "first_seen": "2026-05-03"
-    },
-    {
-      "id": "17281418",
-      "title": "BRAND NEW | SEMI FURNISHED | HIGH ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/4/brand-new-semi-furnished-high-roi-2-253147/",
-      "area": "Arjan",
-      "category": "Apartment",
-      "size": "753",
-      "bedrooms": "1",
-      "price": 1050000,
-      "first_seen": "2026-05-03"
-    },
-    {
-      "id": "17245016",
-      "title": "HANDOVER SOON | GENUINE RESALE | PRIME LOCATION",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/26/handover-soon-genuine-resale-prime-loca-2-562004/",
-      "area": "Arjan",
-      "category": "Apartment",
-      "size": "732",
-      "bedrooms": "1",
-      "price": 1060000,
-      "first_seen": "2026-05-03"
-    },
-    {
-      "id": "17236989",
-      "title": "FULLY FURNISHED | PREMIUM 2BR | PRIME LOCATION",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/25/fully-furnished-premium-2br-prime-locat-2-277756/",
-      "area": "Arjan",
-      "category": "Apartment",
-      "size": "1109",
-      "bedrooms": "2",
-      "price": 1440000,
       "first_seen": "2026-05-03"
     }
   ],

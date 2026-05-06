@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-06T17:50:14.340191",
-  "total_tracked": 504,
+  "generated_at": "2026-05-06T21:20:02.468365",
+  "total_tracked": 505,
   "total_drops": 64,
-  "total_new": 504,
+  "total_new": 505,
   "avg_drop_pct": 21.4,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -2038,6 +2038,24 @@
       "price_history": [
         {
           "price": 3700,
+          "date": "2026-05-06"
+        }
+      ]
+    },
+    {
+      "id": "116885123",
+      "title": "special car plate B 3508",
+      "url": "https://www.olx.com.lb/ad/special-car-plate-b-3508-ID116885123.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Mansourieh, Metn",
+      "original_price": 7500,
+      "current_price": 7500,
+      "first_seen": "2026-05-06",
+      "posted_date": "2026-05-06",
+      "price_history": [
+        {
+          "price": 7500,
           "date": "2026-05-06"
         }
       ]
