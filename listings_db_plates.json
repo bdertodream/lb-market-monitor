@@ -8987,7 +8987,7 @@
       }
     ],
     "first_seen": "2026-03-30",
-    "last_seen": "2026-04-29",
+    "last_seen": "2026-05-06",
     "last_updated": "2026-04-04",
     "posted_date": "2026-03-30",
     "drop_usd": 1500,
@@ -12091,7 +12091,7 @@
     "location": "Kaslik, Keserouan",
     "district": "Keserouan",
     "original_price": 4300,
-    "current_price": 6500,
+    "current_price": 6000,
     "price_history": [
       {
         "price": 4300,
@@ -12108,15 +12108,19 @@
       {
         "price": 6500,
         "date": "2026-05-03"
+      },
+      {
+        "price": 6000,
+        "date": "2026-05-06"
       }
     ],
     "first_seen": "2026-04-25",
     "last_seen": "2026-05-06",
-    "last_updated": "2026-05-03",
+    "last_updated": "2026-05-06",
     "posted_date": "2026-04-25",
-    "drop_usd": -2200,
-    "drop_pct": -51.2,
-    "last_drop_date": "2026-05-03"
+    "drop_usd": -1700,
+    "drop_pct": -39.5,
+    "last_drop_date": "2026-05-06"
   },
   "116767939": {
     "id": "116767939",
@@ -13243,6 +13247,54 @@
     "price_history": [
       {
         "price": 4300,
+        "date": "2026-05-06"
+      }
+    ],
+    "first_seen": "2026-05-06",
+    "last_seen": "2026-05-06",
+    "last_updated": "2026-05-06",
+    "posted_date": "2026-05-06",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116885056": {
+    "id": "116885056",
+    "title": "car plate",
+    "url": "https://www.olx.com.lb/ad/car-plate-ID116885056.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Daychounieh, Metn",
+    "district": "Metn",
+    "original_price": 4500,
+    "current_price": 4500,
+    "price_history": [
+      {
+        "price": 4500,
+        "date": "2026-05-06"
+      }
+    ],
+    "first_seen": "2026-05-06",
+    "last_seen": "2026-05-06",
+    "last_updated": "2026-05-06",
+    "posted_date": "2026-05-06",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116884959": {
+    "id": "116884959",
+    "title": "N 6092",
+    "url": "https://www.olx.com.lb/ad/n-6092-ID116884959.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Choueifat, Aley",
+    "district": "Aley",
+    "original_price": 3700,
+    "current_price": 3700,
+    "price_history": [
+      {
+        "price": 3700,
         "date": "2026-05-06"
       }
     ],

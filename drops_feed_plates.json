@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-06T14:20:22.323872",
-  "total_tracked": 502,
+  "generated_at": "2026-05-06T17:50:14.340191",
+  "total_tracked": 504,
   "total_drops": 64,
-  "total_new": 502,
+  "total_new": 504,
   "avg_drop_pct": 21.4,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -2007,6 +2007,42 @@
       ]
     },
     {
+      "id": "116885056",
+      "title": "car plate",
+      "url": "https://www.olx.com.lb/ad/car-plate-ID116885056.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Daychounieh, Metn",
+      "original_price": 4500,
+      "current_price": 4500,
+      "first_seen": "2026-05-06",
+      "posted_date": "2026-05-06",
+      "price_history": [
+        {
+          "price": 4500,
+          "date": "2026-05-06"
+        }
+      ]
+    },
+    {
+      "id": "116884959",
+      "title": "N 6092",
+      "url": "https://www.olx.com.lb/ad/n-6092-ID116884959.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Choueifat, Aley",
+      "original_price": 3700,
+      "current_price": 3700,
+      "first_seen": "2026-05-06",
+      "posted_date": "2026-05-06",
+      "price_history": [
+        {
+          "price": 3700,
+          "date": "2026-05-06"
+        }
+      ]
+    },
+    {
       "id": "116882285",
       "title": "G 89999",
       "url": "https://www.olx.com.lb/ad/g-89999-ID116882285.html",
@@ -2994,7 +3030,7 @@
       "plate_type": "Standard",
       "location": "Kaslik, Keserouan",
       "original_price": 4300,
-      "current_price": 6500,
+      "current_price": 6000,
       "first_seen": "2026-04-25",
       "posted_date": "2026-04-25",
       "price_history": [
@@ -3013,6 +3049,10 @@
         {
           "price": 6500,
           "date": "2026-05-03"
+        },
+        {
+          "price": 6000,
+          "date": "2026-05-06"
         }
       ]
     },
