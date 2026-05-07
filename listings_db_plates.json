@@ -4477,14 +4477,14 @@
   },
   "116546493": {
     "id": "116546493",
-    "title": "رقم سيارة مميزN 81801",
+    "title": "رقم سيارة مميزZ 1393",
     "url": "https://www.olx.com.lb/ad/رقم-سيارة-مميز-جدا-y-222211-ID116546493.html",
     "plate_code": "",
     "plate_type": "Standard",
     "location": "Yarzeh, Baabda",
     "district": "Baabda",
     "original_price": 4500,
-    "current_price": 2800,
+    "current_price": 5500,
     "price_history": [
       {
         "price": 4500,
@@ -4505,11 +4505,15 @@
       {
         "price": 2800,
         "date": "2026-05-01"
+      },
+      {
+        "price": 5500,
+        "date": "2026-05-07"
       }
     ],
     "first_seen": "2026-03-01",
     "last_seen": "2026-05-07",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-07",
     "drop_usd": 1700,
     "drop_pct": 37.8,
     "last_drop_date": "2026-05-01",
@@ -12099,7 +12103,7 @@
     "location": "Kaslik, Keserouan",
     "district": "Keserouan",
     "original_price": 4300,
-    "current_price": 6000,
+    "current_price": 4400,
     "price_history": [
       {
         "price": 4300,
@@ -12120,15 +12124,19 @@
       {
         "price": 6000,
         "date": "2026-05-06"
+      },
+      {
+        "price": 4400,
+        "date": "2026-05-07"
       }
     ],
     "first_seen": "2026-04-25",
     "last_seen": "2026-05-07",
-    "last_updated": "2026-05-06",
+    "last_updated": "2026-05-07",
     "posted_date": "2026-04-25",
-    "drop_usd": -1700,
-    "drop_pct": -39.5,
-    "last_drop_date": "2026-05-06"
+    "drop_usd": -100,
+    "drop_pct": -2.3,
+    "last_drop_date": "2026-05-07"
   },
   "116767939": {
     "id": "116767939",
@@ -13379,6 +13387,102 @@
     "price_history": [
       {
         "price": 4500,
+        "date": "2026-05-07"
+      }
+    ],
+    "first_seen": "2026-05-07",
+    "last_seen": "2026-05-07",
+    "last_updated": "2026-05-07",
+    "posted_date": "2026-05-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116886274": {
+    "id": "116886274",
+    "title": "G 44900",
+    "url": "https://www.olx.com.lb/ad/g-44900-ID116886274.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Downtown, Beirut",
+    "district": "Beirut",
+    "original_price": 4400,
+    "current_price": 4400,
+    "price_history": [
+      {
+        "price": 4400,
+        "date": "2026-05-07"
+      }
+    ],
+    "first_seen": "2026-05-07",
+    "last_seen": "2026-05-07",
+    "last_updated": "2026-05-07",
+    "posted_date": "2026-05-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116749086": {
+    "id": "116749086",
+    "title": "Special Number",
+    "url": "https://www.olx.com.lb/ad/special-number-ID116749086.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Dekwaneh, Metn",
+    "district": "Metn",
+    "original_price": 6500,
+    "current_price": 6500,
+    "price_history": [
+      {
+        "price": 6500,
+        "date": "2026-05-07"
+      }
+    ],
+    "first_seen": "2026-05-07",
+    "last_seen": "2026-05-07",
+    "last_updated": "2026-05-07",
+    "posted_date": "2026-05-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116313958": {
+    "id": "116313958",
+    "title": "special plates",
+    "url": "https://www.olx.com.lb/ad/special-plate-ID116313958.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Dbaye, Metn",
+    "district": "Metn",
+    "original_price": 1111,
+    "current_price": 1111,
+    "price_history": [
+      {
+        "price": 1111,
+        "date": "2026-05-07"
+      }
+    ],
+    "first_seen": "2026-05-07",
+    "last_seen": "2026-05-07",
+    "last_updated": "2026-05-07",
+    "posted_date": "2026-05-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "114245852": {
+    "id": "114245852",
+    "title": "hadat",
+    "url": "https://www.olx.com.lb/ad/hadat-ID114245852.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Hadath, Baabda",
+    "district": "Baabda",
+    "original_price": 5000,
+    "current_price": 5000,
+    "price_history": [
+      {
+        "price": 5000,
         "date": "2026-05-07"
       }
     ],
