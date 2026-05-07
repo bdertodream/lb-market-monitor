@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-06T21:20:02.468365",
-  "total_tracked": 505,
+  "generated_at": "2026-05-07T03:00:19.673526",
+  "total_tracked": 506,
   "total_drops": 64,
-  "total_new": 505,
+  "total_new": 506,
   "avg_drop_pct": 21.4,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -1988,6 +1988,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116885348",
+      "title": "G 99302",
+      "url": "https://www.olx.com.lb/ad/g-99302-ID116885348.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Aabra, Saida",
+      "original_price": 1850,
+      "current_price": 1850,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 1850,
+          "date": "2026-05-07"
+        }
+      ]
+    },
     {
       "id": "116883912",
       "title": "M  1435",

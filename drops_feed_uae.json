@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 12852,
+  "total_tracked": 12853,
   "total_drops": 302,
-  "total_new": 12852,
+  "total_new": 12853,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -4236,6 +4236,17 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "17430599",
+      "title": "Duplex Penthouse | Private Pool | 3,427 sqft | Floor 23\u201324 | Direct from Owner \u2014 No Commission",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/penthouse/2026/5/6/duplex-penthouse-private-pool-3427-sqft-fl-2-437/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Penthouse",
+      "size": "3427",
+      "bedrooms": "3",
+      "price": 4300000,
+      "first_seen": "2026-05-07"
+    },
     {
       "id": "17425642",
       "title": "A Smart Investment in Brand New Luxury Studio",
@@ -9724,19 +9735,8 @@
       "bedrooms": "2",
       "price": 1250000,
       "first_seen": "2026-05-03"
-    },
-    {
-      "id": "17016600",
-      "title": "2 Bedroom + Laundry I High Demand l Huge layout",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/30/2-bedroom-laundry-i-high-demand-l-huge--2-274655/",
-      "area": "Discovery Gardens",
-      "category": "Apartment",
-      "size": "1405",
-      "bedrooms": "2",
-      "price": 1300000,
-      "first_seen": "2026-05-03"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-06"
+  "last_updated": "2026-05-07"
 }
