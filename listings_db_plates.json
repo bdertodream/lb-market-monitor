@@ -12103,7 +12103,7 @@
     "location": "Kaslik, Keserouan",
     "district": "Keserouan",
     "original_price": 4300,
-    "current_price": 4400,
+    "current_price": 4100,
     "price_history": [
       {
         "price": 4300,
@@ -12128,14 +12128,18 @@
       {
         "price": 4400,
         "date": "2026-05-07"
+      },
+      {
+        "price": 4100,
+        "date": "2026-05-07"
       }
     ],
     "first_seen": "2026-04-25",
     "last_seen": "2026-05-07",
     "last_updated": "2026-05-07",
     "posted_date": "2026-04-25",
-    "drop_usd": -100,
-    "drop_pct": -2.3,
+    "drop_usd": 200,
+    "drop_pct": 4.7,
     "last_drop_date": "2026-05-07"
   },
   "116767939": {
@@ -13483,6 +13487,30 @@
     "price_history": [
       {
         "price": 5000,
+        "date": "2026-05-07"
+      }
+    ],
+    "first_seen": "2026-05-07",
+    "last_seen": "2026-05-07",
+    "last_updated": "2026-05-07",
+    "posted_date": "2026-05-07",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116886669": {
+    "id": "116886669",
+    "title": "رقم مميز للبيع",
+    "url": "https://www.olx.com.lb/ad/رقم-مميز-للبيع-ID116886669.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Other in Koura, Koura",
+    "district": "Koura",
+    "original_price": 4500,
+    "current_price": 4500,
+    "price_history": [
+      {
+        "price": 4500,
         "date": "2026-05-07"
       }
     ],

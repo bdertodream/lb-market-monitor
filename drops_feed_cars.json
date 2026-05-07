@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-07T17:57:18.963810",
-  "total_tracked": 13044,
-  "total_drops": 1688,
-  "total_new": 13044,
+  "generated_at": "2026-05-07T21:12:58.799290",
+  "total_tracked": 13067,
+  "total_drops": 1694,
+  "total_new": 13067,
   "avg_drop_pct": 6.9,
   "biggest_drop_usd": 426000,
   "drops": [
@@ -346,6 +346,39 @@
         {
           "price": 25000,
           "date": "2026-04-27"
+        }
+      ]
+    },
+    {
+      "id": "116819658",
+      "title": "Nissan Rogue 2020",
+      "url": "https://www.olx.com.lb/ad/nissan-rogue-2020-ID116819658.html",
+      "make": "Nissan",
+      "model": "Rogue",
+      "body_type": "Hatchback",
+      "year": 2020,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Kfarsaroun, Koura",
+      "original_price": 16000,
+      "current_price": 1500,
+      "drop_usd": 14500,
+      "drop_pct": 90.6,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-13",
+      "posted_date": "2026-03-13",
+      "price_history": [
+        {
+          "price": 16000,
+          "date": "2026-03-13"
+        },
+        {
+          "price": 15700,
+          "date": "2026-04-13"
+        },
+        {
+          "price": 1500,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -3186,6 +3219,35 @@
       ]
     },
     {
+      "id": "116493393",
+      "title": "Infiniti Qx series 2015",
+      "url": "https://www.olx.com.lb/ad/infiniti-qx-series-2015-ID116493393.html",
+      "make": "Infiniti",
+      "model": "Qx series",
+      "body_type": "SUV",
+      "year": 2015,
+      "mileage": 97000,
+      "transmission": "Steptronic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 16300,
+      "current_price": 14000,
+      "drop_usd": 2300,
+      "drop_pct": 14.1,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-15",
+      "posted_date": "2026-03-15",
+      "price_history": [
+        {
+          "price": 16300,
+          "date": "2026-03-15"
+        },
+        {
+          "price": 14000,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
       "id": "116846959",
       "title": "Xiaomi SU7 MAX 2024",
       "url": "https://www.olx.com.lb/ad/xiaomi-su7-max-2024-ID116846959.html",
@@ -3852,6 +3914,35 @@
         {
           "price": 4800,
           "date": "2026-04-27"
+        }
+      ]
+    },
+    {
+      "id": "116872969",
+      "title": "Kia Picanto 2009",
+      "url": "https://www.olx.com.lb/ad/kia-picanto-2009-ID116872969.html",
+      "make": "Kia",
+      "model": "Picanto",
+      "body_type": "Small city car",
+      "year": 2009,
+      "mileage": 200000,
+      "transmission": "Automatic",
+      "location": "Al Maarad, Tripoli",
+      "original_price": 5500,
+      "current_price": 4800,
+      "drop_usd": 700,
+      "drop_pct": 12.7,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-04-28",
+      "posted_date": "2026-04-28",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-04-28"
+        },
+        {
+          "price": 4800,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -4671,6 +4762,35 @@
         {
           "price": 21900,
           "date": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "id": "116805296",
+      "title": "Mercedes C300 Coupe 4-Matic 2017 /Pearl white on basketball 84,000 mls",
+      "url": "https://www.olx.com.lb/ad/mercedes-c300-coupe-4-matic-2017-pearl-white-on-basketball-84000-mls-ID116805296.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2017,
+      "mileage": 84000,
+      "transmission": "Steptronic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 22500,
+      "current_price": 19900,
+      "drop_usd": 2600,
+      "drop_pct": 11.6,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 22500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 19900,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -20215,6 +20335,39 @@
       ]
     },
     {
+      "id": "116877866",
+      "title": "Jeep Grand Cherokee 2018",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2018-ID116877866.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 100000,
+      "transmission": "Steptronic",
+      "location": "Downtown, Beirut",
+      "original_price": 18500,
+      "current_price": 17500,
+      "drop_usd": 1000,
+      "drop_pct": 5.4,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-05-01",
+      "posted_date": "2026-05-01",
+      "price_history": [
+        {
+          "price": 18500,
+          "date": "2026-05-01"
+        },
+        {
+          "price": 18000,
+          "date": "2026-05-04"
+        },
+        {
+          "price": 17500,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
       "id": "116881850",
       "title": "BMW M-530 performance package",
       "url": "https://www.olx.com.lb/ad/bmw-m-530-performance-package-ID116881850.html",
@@ -28736,6 +28889,43 @@
       ]
     },
     {
+      "id": "116699719",
+      "title": "Mercedes-Benz A-Class 2019 For Sale",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-a-class-2019-for-sale-ID116699719.html",
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "body_type": "Other",
+      "year": 2019,
+      "mileage": 82000,
+      "transmission": "Steptronic",
+      "location": "Sahel Alma, Keserouan",
+      "original_price": 22900,
+      "current_price": 22000,
+      "drop_usd": 900,
+      "drop_pct": 3.9,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-18",
+      "posted_date": "2026-03-18",
+      "price_history": [
+        {
+          "price": 22900,
+          "date": "2026-03-18"
+        },
+        {
+          "price": 22700,
+          "date": "2026-03-31"
+        },
+        {
+          "price": 22500,
+          "date": "2026-05-07"
+        },
+        {
+          "price": 22000,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
       "id": "116619939",
       "title": "Land Rover Discovery 2019",
       "url": "https://www.olx.com.lb/ad/land-rover-discovery-2018-ID116619939.html",
@@ -30419,6 +30609,35 @@
       ]
     },
     {
+      "id": "116839995",
+      "title": "Porsche 911 Carrera 4S sport Chronopack Full Carbon",
+      "url": "https://www.olx.com.lb/ad/porsche-911-carrera-4s-sport-chronopack-full-carbon-ID116839995.html",
+      "make": "Porsche",
+      "model": "911",
+      "body_type": "Sports / Coupe",
+      "year": 2007,
+      "mileage": 120000,
+      "transmission": "Automatic",
+      "location": "Sabtieh, Metn",
+      "original_price": 54000,
+      "current_price": 52000,
+      "drop_usd": 2000,
+      "drop_pct": 3.7,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-04-01",
+      "posted_date": "2026-04-01",
+      "price_history": [
+        {
+          "price": 54000,
+          "date": "2026-04-01"
+        },
+        {
+          "price": 52000,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
       "id": "116853254",
       "title": "Mitsubishi Eclipse Cross 2019",
       "url": "https://www.olx.com.lb/ad/mitsubishi-eclipse-cross-2019-ID116853254.html",
@@ -30560,6 +30779,35 @@
         {
           "price": 40500,
           "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116799739",
+      "title": "Jeep Grand Cherokee 2018 High Altitude 5.7L V8*ONLY WHATSAPP CALL*",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2018-high-altitude-57-v8-4x4-ID116799739.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 140000,
+      "transmission": "Automatic",
+      "location": "Zahle Town, Zahle",
+      "original_price": 27500,
+      "current_price": 26500,
+      "drop_usd": 1000,
+      "drop_pct": 3.6,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 27500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 26500,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -31309,6 +31557,35 @@
         {
           "price": 55900,
           "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116810326",
+      "title": "بي ام دبليو الفئة 3 2011",
+      "url": "https://www.olx.com.lb/ad/بي-ام-دبليو-الفئة-3-2011-ID116810326.html",
+      "make": "BMW",
+      "model": "3-Series",
+      "body_type": "Sedan",
+      "year": 2011,
+      "mileage": 200000,
+      "transmission": "Steptronic",
+      "location": "Faraya, Keserouan",
+      "original_price": 8600,
+      "current_price": 8300,
+      "drop_usd": 300,
+      "drop_pct": 3.5,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-01",
+      "posted_date": "2026-03-01",
+      "price_history": [
+        {
+          "price": 8600,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 8300,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -38066,35 +38343,6 @@
       ]
     },
     {
-      "id": "116877866",
-      "title": "Jeep Grand Cherokee 2018",
-      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2018-ID116877866.html",
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "body_type": "SUV",
-      "year": 2018,
-      "mileage": 100000,
-      "transmission": "Steptronic",
-      "location": "Downtown, Beirut",
-      "original_price": 18500,
-      "current_price": 18000,
-      "drop_usd": 500,
-      "drop_pct": 2.7,
-      "last_drop_date": "2026-05-04",
-      "first_seen": "2026-05-01",
-      "posted_date": "2026-05-01",
-      "price_history": [
-        {
-          "price": 18500,
-          "date": "2026-05-01"
-        },
-        {
-          "price": 18000,
-          "date": "2026-05-04"
-        }
-      ]
-    },
-    {
       "id": "116533268",
       "title": "Mercedes-Benz E-Class 2019 full options super clean",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-e-class-2019-full-options-clean-car-fax-ID116533268.html",
@@ -43922,35 +44170,6 @@
       ]
     },
     {
-      "id": "116819658",
-      "title": "Nissan Rogue 2020",
-      "url": "https://www.olx.com.lb/ad/nissan-rogue-2020-ID116819658.html",
-      "make": "Nissan",
-      "model": "Rogue",
-      "body_type": "Hatchback",
-      "year": 2020,
-      "mileage": 0,
-      "transmission": "Steptronic",
-      "location": "Kfarsaroun, Koura",
-      "original_price": 16000,
-      "current_price": 15700,
-      "drop_usd": 300,
-      "drop_pct": 1.9,
-      "last_drop_date": "2026-04-13",
-      "first_seen": "2026-03-13",
-      "posted_date": "2026-03-13",
-      "price_history": [
-        {
-          "price": 16000,
-          "date": "2026-03-13"
-        },
-        {
-          "price": 15700,
-          "date": "2026-04-13"
-        }
-      ]
-    },
-    {
       "id": "116822930",
       "title": "Rover Range Rover SVR 2017 super clean",
       "url": "https://www.olx.com.lb/ad/rover-range-rover-svr-2017-super-clean-ID116822930.html",
@@ -45234,39 +45453,6 @@
         {
           "price": 23500,
           "date": "2026-05-02"
-        }
-      ]
-    },
-    {
-      "id": "116699719",
-      "title": "Mercedes-Benz A-Class 2019 For Sale",
-      "url": "https://www.olx.com.lb/ad/mercedes-benz-a-class-2019-for-sale-ID116699719.html",
-      "make": "Mercedes-Benz",
-      "model": "A-Class",
-      "body_type": "Other",
-      "year": 2019,
-      "mileage": 82000,
-      "transmission": "Steptronic",
-      "location": "Sahel Alma, Keserouan",
-      "original_price": 22900,
-      "current_price": 22500,
-      "drop_usd": 400,
-      "drop_pct": 1.7,
-      "last_drop_date": "2026-05-07",
-      "first_seen": "2026-03-18",
-      "posted_date": "2026-03-18",
-      "price_history": [
-        {
-          "price": 22900,
-          "date": "2026-03-18"
-        },
-        {
-          "price": 22700,
-          "date": "2026-03-31"
-        },
-        {
-          "price": 22500,
-          "date": "2026-05-07"
         }
       ]
     },
@@ -55800,6 +55986,512 @@
       "price_history": [
         {
           "price": 11111,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886784",
+      "title": "Nissan 350Z 2003",
+      "url": "https://www.olx.com.lb/ad/nissan-350z-2003-ID116886784.html",
+      "make": "Nissan",
+      "model": "350Z",
+      "body_type": "Sports / Coupe",
+      "year": 2003,
+      "mileage": 129000,
+      "transmission": "Steptronic",
+      "location": "Dawhet Aaramoun, Aley",
+      "original_price": 7800,
+      "current_price": 7800,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 7800,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886768",
+      "title": "Mercedes-Benz C-Class 2015",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2015-ID116886768.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2015,
+      "mileage": 194000,
+      "transmission": "Automatic",
+      "location": "Yarzeh, Baabda",
+      "original_price": 17500,
+      "current_price": 17500,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 17500,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886755",
+      "title": "2013 Ford Raptor F150",
+      "url": "https://www.olx.com.lb/ad/2013-ford-raptor-f150-ID116886755.html",
+      "make": "Ford",
+      "model": "Other",
+      "body_type": "SUV",
+      "year": 2013,
+      "mileage": 70000,
+      "transmission": "Automatic",
+      "location": "Amioun, Koura",
+      "original_price": 34990,
+      "current_price": 34990,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 34990,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886746",
+      "title": "2023 JEEP GRAND CHEROKEE LIMITED   Black On Black  Low Miles TOP CAR!!",
+      "url": "https://www.olx.com.lb/ad/2023-jeep-grand-cherokee-limited-black-on-black-low-miles-top-car-ID116886746.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2023,
+      "mileage": 33000,
+      "transmission": "Steptronic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 48000,
+      "current_price": 48000,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 48000,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886735",
+      "title": "Range Rover Sport hse 2017 dynamic",
+      "url": "https://www.olx.com.lb/ad/range-rover-sport-hse-2017-dynamic-ID116886735.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 102000,
+      "transmission": "Steptronic",
+      "location": "Bsalim, Metn",
+      "original_price": 29000,
+      "current_price": 29000,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 29000,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886733",
+      "title": "رينو ميجان ا-تك إليكتريك 2009",
+      "url": "https://www.olx.com.lb/ad/رينو-ميجان-ا-تك-إليكتريك-2009-ID116886733.html",
+      "make": "Renault",
+      "model": "Mégane E-Tech Electric",
+      "body_type": "Sedan",
+      "year": 2009,
+      "mileage": 78565,
+      "transmission": "Steptronic",
+      "location": "Hamra, Beirut",
+      "original_price": 3000,
+      "current_price": 3000,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 3000,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886732",
+      "title": "BMW 5-Series 2018 530",
+      "url": "https://www.olx.com.lb/ad/bmw-5-series-2018-530-ID116886732.html",
+      "make": "BMW",
+      "model": "5-Series",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 65000,
+      "transmission": "Steptronic",
+      "location": "Bouar, Keserouan",
+      "original_price": 25500,
+      "current_price": 25500,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 25500,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886717",
+      "title": "هوندا سيفيك 2017",
+      "url": "https://www.olx.com.lb/ad/هوندا-سيفيك-2017-ID116886717.html",
+      "make": "Honda",
+      "model": "Civic",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 15000,
+      "current_price": 15000,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 15000,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886716",
+      "title": "Seat Ibiza 2005",
+      "url": "https://www.olx.com.lb/ad/seat-ibiza-2005-ID116886716.html",
+      "make": "Seat",
+      "model": "Ibiza",
+      "body_type": "Sports / Coupe",
+      "year": 2005,
+      "mileage": 280000,
+      "transmission": "Manual",
+      "location": "Sin El Fil, Metn",
+      "original_price": 3500,
+      "current_price": 3500,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 3500,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886522",
+      "title": "Mercedes-Benz CLA 250 2016 | Cleanest in Town.",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-cla-250-2016-cleanest-one-in-town-ID116886522.html",
+      "make": "Mercedes-Benz",
+      "model": "CLA-Class",
+      "body_type": "Sedan",
+      "year": 2016,
+      "mileage": 67000,
+      "transmission": "Automatic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 14500,
+      "current_price": 14500,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 14500,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886706",
+      "title": "IMPEX  Chevrolet Trailblazer 2014 V6 4WD 7-seats with 1 year warranty",
+      "url": "https://www.olx.com.lb/ad/impex-chevrolet-trailblazer-2014-v6-4wd-7-seats-with-1-year-warranty-ID116886706.html",
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 160000,
+      "transmission": "Automatic",
+      "location": "Badaro, Beirut",
+      "original_price": 11900,
+      "current_price": 11900,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 11900,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886701",
+      "title": "Audi A8 2014",
+      "url": "https://www.olx.com.lb/ad/audi-a8-2014-ID116886701.html",
+      "make": "Audi",
+      "model": "A8",
+      "body_type": "Sedan",
+      "year": 2014,
+      "mileage": 60000,
+      "transmission": "Automatic",
+      "location": "Dekwaneh, Metn",
+      "original_price": 20500,
+      "current_price": 20500,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 20500,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886700",
+      "title": "BMW X1 2020",
+      "url": "https://www.olx.com.lb/ad/bmw-x1-2020-ID116886700.html",
+      "make": "BMW",
+      "model": "X1",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 60400,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 23000,
+      "current_price": 23000,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 23000,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886684",
+      "title": "Audi A6 2014 company source",
+      "url": "https://www.olx.com.lb/ad/audi-a6-2014-company-source-ID116886684.html",
+      "make": "Audi",
+      "model": "A6",
+      "body_type": "Sedan",
+      "year": 2014,
+      "mileage": 160000,
+      "transmission": "Automatic",
+      "location": "Sioufi, Beirut",
+      "original_price": 10900,
+      "current_price": 10900,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 10900,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116877980",
+      "title": "Jeep Cherokee 2009",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-2009-ID116877980.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "Hatchback",
+      "year": 2009,
+      "mileage": 200000,
+      "transmission": "Steptronic",
+      "location": "Dhour El Aabadiyeh, Aley",
+      "original_price": 7300,
+      "current_price": 7300,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 7300,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886673",
+      "title": "2019 MAZDA CX5 TOURING AWD 89000 MLS",
+      "url": "https://www.olx.com.lb/ad/2019-mazda-cx5-touring-awd-89000-mls-ID116886673.html",
+      "make": "Mazda",
+      "model": "CX-5",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 89000,
+      "transmission": "Steptronic",
+      "location": "Jbeil Town, Jbeil",
+      "original_price": 20800,
+      "current_price": 20800,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 20800,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886657",
+      "title": "Mercedes-Benz C-Class 2018",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2018-ID116886657.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sedan",
+      "year": 2018,
+      "mileage": 80000,
+      "transmission": "Automatic",
+      "location": "Abdul Latif El Bissar, Tripoli",
+      "original_price": 19500,
+      "current_price": 19500,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 19500,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886656",
+      "title": "Nissan X-Trail SL 2019 7 seaters / Highest trim 125,000 KM",
+      "url": "https://www.olx.com.lb/ad/nissan-x-trail-sl-2019-7-seaters-highest-trim-125000-km-ID116886656.html",
+      "make": "Nissan",
+      "model": "X-Trail",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 125000,
+      "transmission": "Steptronic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 21999,
+      "current_price": 21999,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 21999,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886651",
+      "title": "Nissan X-Trail 2009",
+      "url": "https://www.olx.com.lb/ad/nissan-x-trail-2009-ID116886651.html",
+      "make": "Nissan",
+      "model": "X-Trail",
+      "body_type": "SUV",
+      "year": 2009,
+      "mileage": 1,
+      "transmission": "Automatic",
+      "location": "Jounieh, Keserouan",
+      "original_price": 8800,
+      "current_price": 8800,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 8800,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886646",
+      "title": "Mercedes-Benz CLK-Class 2003",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-clk-class-2003-ID116886646.html",
+      "make": "Mercedes-Benz",
+      "model": "CLK-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2003,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Majdalaya, Zgharta",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886637",
+      "title": "2020  GLC300 4matic Coupe   Clean carfax",
+      "url": "https://www.olx.com.lb/ad/2020-glc300-4matic-coupe-clean-carfax-ID116886637.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 11600,
+      "transmission": "Automatic",
+      "location": "Dbaye, Metn",
+      "original_price": 42500,
+      "current_price": 42500,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 42500,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886612",
+      "title": "Mitsubishi Outlander Sport 2023",
+      "url": "https://www.olx.com.lb/ad/mitsubishi-outlander-sport-2023-ID116886612.html",
+      "make": "Mitsubishi",
+      "model": "Outlander Sport",
+      "body_type": "Hatchback",
+      "year": 2023,
+      "mileage": 60000,
+      "transmission": "Automatic",
+      "location": "Kfarfakoud, Chouf",
+      "original_price": 23800,
+      "current_price": 23800,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 23800,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116886610",
+      "title": "لاند روفر رنج روفر سبورت 2008",
+      "url": "https://www.olx.com.lb/ad/لاند-روفر-رنج-روفر-سبورت-2008-ID116886610.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "Other",
+      "year": 2008,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Downtown, Beirut",
+      "original_price": 10500,
+      "current_price": 10500,
+      "first_seen": "2026-05-07",
+      "posted_date": "2026-05-07",
+      "price_history": [
+        {
+          "price": 10500,
           "date": "2026-05-07"
         }
       ]
@@ -74714,7 +75406,7 @@
       "transmission": "Steptronic",
       "location": "Downtown, Beirut",
       "original_price": 18500,
-      "current_price": 18000,
+      "current_price": 17500,
       "first_seen": "2026-05-01",
       "posted_date": "2026-05-01",
       "price_history": [
@@ -74725,6 +75417,10 @@
         {
           "price": 18000,
           "date": "2026-05-04"
+        },
+        {
+          "price": 17500,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -86274,13 +86970,17 @@
       "transmission": "Automatic",
       "location": "Al Maarad, Tripoli",
       "original_price": 5500,
-      "current_price": 5500,
+      "current_price": 4800,
       "first_seen": "2026-04-28",
       "posted_date": "2026-04-28",
       "price_history": [
         {
           "price": 5500,
           "date": "2026-04-28"
+        },
+        {
+          "price": 4800,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -99080,7 +99780,7 @@
     },
     {
       "id": "116869230",
-      "title": "Land Rover Discovery 2019 CLEAN CAR FAX 7 SET",
+      "title": "Land Rover Discovery 2018 CLEAN CAR FAX 7 SET",
       "url": "https://www.olx.com.lb/ad/land-rover-discovery-2019-clean-car-fax-7-set-ID116869230.html",
       "make": "Land Rover",
       "model": "Discovery",
@@ -190020,13 +190720,17 @@
       "transmission": "Automatic",
       "location": "Sabtieh, Metn",
       "original_price": 54000,
-      "current_price": 54000,
+      "current_price": 52000,
       "first_seen": "2026-04-01",
       "posted_date": "2026-04-01",
       "price_history": [
         {
           "price": 54000,
           "date": "2026-04-01"
+        },
+        {
+          "price": 52000,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -258396,7 +259100,7 @@
       "transmission": "Steptronic",
       "location": "Sahel Alma, Keserouan",
       "original_price": 22900,
-      "current_price": 22500,
+      "current_price": 22000,
       "first_seen": "2026-03-18",
       "posted_date": "2026-03-18",
       "price_history": [
@@ -258410,6 +259114,10 @@
         },
         {
           "price": 22500,
+          "date": "2026-05-07"
+        },
+        {
+          "price": 22000,
           "date": "2026-05-07"
         }
       ]
@@ -271676,13 +272384,17 @@
       "transmission": "Steptronic",
       "location": "Sin El Fil, Metn",
       "original_price": 16300,
-      "current_price": 16300,
+      "current_price": 14000,
       "first_seen": "2026-03-15",
       "posted_date": "2026-03-15",
       "price_history": [
         {
           "price": 16300,
           "date": "2026-03-15"
+        },
+        {
+          "price": 14000,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -283582,7 +284294,7 @@
       "transmission": "Steptronic",
       "location": "Kfarsaroun, Koura",
       "original_price": 16000,
-      "current_price": 15700,
+      "current_price": 1500,
       "first_seen": "2026-03-13",
       "posted_date": "2026-03-13",
       "price_history": [
@@ -283593,6 +284305,10 @@
         {
           "price": 15700,
           "date": "2026-04-13"
+        },
+        {
+          "price": 1500,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -319994,13 +320710,17 @@
       "transmission": "Steptronic",
       "location": "Sin El Fil, Metn",
       "original_price": 22500,
-      "current_price": 22500,
+      "current_price": 19900,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 22500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 19900,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -321446,13 +322166,17 @@
       "transmission": "Automatic",
       "location": "Zahle Town, Zahle",
       "original_price": 27500,
-      "current_price": 27500,
+      "current_price": 26500,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 27500,
           "date": "2026-03-01"
+        },
+        {
+          "price": 26500,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -323140,13 +323864,17 @@
       "transmission": "Steptronic",
       "location": "Faraya, Keserouan",
       "original_price": 8600,
-      "current_price": 8600,
+      "current_price": 8300,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 8600,
           "date": "2026-03-01"
+        },
+        {
+          "price": 8300,
+          "date": "2026-05-07"
         }
       ]
     },
