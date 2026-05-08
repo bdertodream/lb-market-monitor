@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-08T03:03:39.890577",
-  "total_tracked": 514,
+  "generated_at": "2026-05-08T06:05:30.235294",
+  "total_tracked": 515,
   "total_drops": 65,
-  "total_new": 514,
+  "total_new": 515,
   "avg_drop_pct": 21.1,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -2077,6 +2077,24 @@
       "price_history": [
         {
           "price": 50000,
+          "date": "2026-05-08"
+        }
+      ]
+    },
+    {
+      "id": "116826262",
+      "title": "830840 B",
+      "url": "https://www.olx.com.lb/ad/830840-b-ID116826262.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Choueifat, Aley",
+      "original_price": 2699,
+      "current_price": 2699,
+      "first_seen": "2026-05-08",
+      "posted_date": "2026-05-08",
+      "price_history": [
+        {
+          "price": 2699,
           "date": "2026-05-08"
         }
       ]
