@@ -187,19 +187,23 @@
     "location": "Baouchriye, Metn",
     "district": "Metn",
     "original_price": 12500,
-    "current_price": 12500,
+    "current_price": 11000,
     "price_history": [
       {
         "price": 12500,
         "date": "2026-03-01"
+      },
+      {
+        "price": 11000,
+        "date": "2026-05-08"
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-05-07",
-    "last_updated": "2026-03-07",
-    "drop_usd": 0,
-    "drop_pct": 0,
-    "last_drop_date": null,
+    "last_seen": "2026-05-08",
+    "last_updated": "2026-05-08",
+    "drop_usd": 1500,
+    "drop_pct": 12.0,
+    "last_drop_date": "2026-05-08",
     "posted_date": "2026-03-01"
   },
   "115479244": {
@@ -13621,6 +13625,30 @@
     "price_history": [
       {
         "price": 30000,
+        "date": "2026-05-08"
+      }
+    ],
+    "first_seen": "2026-05-08",
+    "last_seen": "2026-05-08",
+    "last_updated": "2026-05-08",
+    "posted_date": "2026-05-08",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116885452": {
+    "id": "116885452",
+    "title": "special car plate",
+    "url": "https://www.olx.com.lb/ad/special-car-plate-ID116885452.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Achrafieh, Beirut",
+    "district": "Beirut",
+    "original_price": 5800,
+    "current_price": 5800,
+    "price_history": [
+      {
+        "price": 5800,
         "date": "2026-05-08"
       }
     ],
