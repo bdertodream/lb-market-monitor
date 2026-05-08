@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-07T21:13:21.482196",
-  "total_tracked": 512,
+  "generated_at": "2026-05-08T03:03:39.890577",
+  "total_tracked": 514,
   "total_drops": 65,
-  "total_new": 512,
+  "total_new": 514,
   "avg_drop_pct": 21.1,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -2046,6 +2046,42 @@
   ],
   "new_listings": [
     {
+      "id": "116886839",
+      "title": "License plate O 555552 6000$",
+      "url": "https://www.olx.com.lb/ad/license-plate-o-555552-6000-ID116886839.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Mar Elias, Beirut",
+      "original_price": 6000,
+      "current_price": 6000,
+      "first_seen": "2026-05-08",
+      "posted_date": "2026-05-08",
+      "price_history": [
+        {
+          "price": 6000,
+          "date": "2026-05-08"
+        }
+      ]
+    },
+    {
+      "id": "116089237",
+      "title": "G399 for sale",
+      "url": "https://www.olx.com.lb/ad/g399-for-sale-ID116089237.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Kfar Hbab, Keserouan",
+      "original_price": 50000,
+      "current_price": 50000,
+      "first_seen": "2026-05-08",
+      "posted_date": "2026-05-08",
+      "price_history": [
+        {
+          "price": 50000,
+          "date": "2026-05-08"
+        }
+      ]
+    },
+    {
       "id": "116885348",
       "title": "G 99302",
       "url": "https://www.olx.com.lb/ad/g-99302-ID116885348.html",
@@ -2161,13 +2197,17 @@
       "plate_type": "Standard",
       "location": "Other in Koura, Koura",
       "original_price": 4500,
-      "current_price": 4500,
+      "current_price": 8500,
       "first_seen": "2026-05-07",
       "posted_date": "2026-05-07",
       "price_history": [
         {
           "price": 4500,
           "date": "2026-05-07"
+        },
+        {
+          "price": 8500,
+          "date": "2026-05-08"
         }
       ]
     },

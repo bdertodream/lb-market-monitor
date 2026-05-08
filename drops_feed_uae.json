@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 13001,
-  "total_drops": 308,
-  "total_new": 13001,
+  "total_tracked": 13002,
+  "total_drops": 309,
+  "total_new": 13002,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -4317,9 +4317,34 @@
       "bedrooms": "2",
       "date": "2026-05-07",
       "first_seen": "2026-03-19"
+    },
+    {
+      "id": "9753197",
+      "title": "Residential Plot | G+4 | Great investment",
+      "old_price": 8000000,
+      "new_price": 7600000,
+      "drop_pct": 5.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/4/7/residential-plot-g4-great-investment-2-229251/",
+      "area": "Liwan 2",
+      "category": "Land",
+      "size": "8073",
+      "bedrooms": "",
+      "date": "2026-05-08",
+      "first_seen": "2026-04-07"
     }
   ],
   "new_listings": [
+    {
+      "id": "9761522",
+      "title": "Premium Plot | Sea View | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/5/8/premium-plot-sea-view-prime-location-2-275194/",
+      "area": "Dubai Islands",
+      "category": "Land",
+      "size": "24010",
+      "bedrooms": "",
+      "price": 38400000,
+      "first_seen": "2026-05-08"
+    },
     {
       "id": "17430599",
       "title": "Duplex Penthouse | Private Pool | 3,427 sqft | Floor 23\u201324 | Direct from Owner \u2014 No Commission",
@@ -9808,19 +9833,8 @@
       "bedrooms": "2",
       "price": 900000,
       "first_seen": "2026-05-04"
-    },
-    {
-      "id": "17397486",
-      "title": "GREAT PRICE | INVESTOR DEAL | HIGH FLOOR | SPACIOUS",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/29/great-price-investor-deal-high-floor-sp-2-262491/",
-      "area": "DAMAC Lagoons",
-      "category": "Apartment",
-      "size": "367",
-      "bedrooms": "0",
-      "price": 690000,
-      "first_seen": "2026-05-04"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-07"
+  "last_updated": "2026-05-08"
 }
