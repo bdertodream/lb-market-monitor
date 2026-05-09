@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T17:04:30.068425",
-  "total_tracked": 521,
+  "generated_at": "2026-05-09T20:51:14.015163",
+  "total_tracked": 523,
   "total_drops": 66,
-  "total_new": 521,
+  "total_new": 523,
   "avg_drop_pct": 21.1,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -2154,6 +2154,42 @@
       "price_history": [
         {
           "price": 4200,
+          "date": "2026-05-09"
+        }
+      ]
+    },
+    {
+      "id": "116698330",
+      "title": "7 8 7 6",
+      "url": "https://www.olx.com.lb/ad/7-8-7-6-ID116698330.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Badaro, Beirut",
+      "original_price": 6800,
+      "current_price": 6800,
+      "first_seen": "2026-05-09",
+      "posted_date": "2026-05-09",
+      "price_history": [
+        {
+          "price": 6800,
+          "date": "2026-05-09"
+        }
+      ]
+    },
+    {
+      "id": "116889182",
+      "title": "4 same car plates 4 digits",
+      "url": "https://www.olx.com.lb/ad/4-same-car-plates-4-digits-ID116889182.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Jeitaoui, Beirut",
+      "original_price": 10000,
+      "current_price": 10000,
+      "first_seen": "2026-05-09",
+      "posted_date": "2026-05-09",
+      "price_history": [
+        {
+          "price": 10000,
           "date": "2026-05-09"
         }
       ]
