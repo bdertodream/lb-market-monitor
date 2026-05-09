@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T02:59:58.013834",
-  "total_tracked": 518,
+  "generated_at": "2026-05-09T06:24:26.741019",
+  "total_tracked": 519,
   "total_drops": 66,
-  "total_new": 518,
+  "total_new": 519,
   "avg_drop_pct": 21.1,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -2096,6 +2096,24 @@
       "price_history": [
         {
           "price": 3450,
+          "date": "2026-05-09"
+        }
+      ]
+    },
+    {
+      "id": "116888448",
+      "title": "special plate — A 4473 —",
+      "url": "https://www.olx.com.lb/ad/special-plate-a-4473-ID116888448.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Rabieh, Metn",
+      "original_price": 7000,
+      "current_price": 7000,
+      "first_seen": "2026-05-09",
+      "posted_date": "2026-05-09",
+      "price_history": [
+        {
+          "price": 7000,
           "date": "2026-05-09"
         }
       ]
