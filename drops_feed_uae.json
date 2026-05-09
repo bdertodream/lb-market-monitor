@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 13097,
+  "total_tracked": 13099,
   "total_drops": 310,
-  "total_new": 13097,
+  "total_new": 13099,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -4349,6 +4349,28 @@
   ],
   "new_listings": [
     {
+      "id": "17436142",
+      "title": "1BR Apartment | Long Term Capital Appreciation Investor Deal |",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/7/1br-apartment-mazaya-4-queue-point-balc-2-327819/",
+      "area": "Liwan",
+      "category": "Apartment",
+      "size": "550",
+      "bedrooms": "1",
+      "price": 330000,
+      "first_seen": "2026-05-09"
+    },
+    {
+      "id": "9810518",
+      "title": "Multiple Options | Shops | Ready",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/4/8/multiple-options-shops-ready-2-130944/",
+      "area": "Dubai Hills Estate",
+      "category": "Shop",
+      "size": "630",
+      "bedrooms": "",
+      "price": 5008500,
+      "first_seen": "2026-05-09"
+    },
+    {
       "id": "9761522",
       "title": "Premium Plot | Sea View | Prime Location",
       "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/5/8/premium-plot-sea-view-prime-location-2-275194/",
@@ -5247,7 +5269,7 @@
       "category": "Apartment",
       "size": "715",
       "bedrooms": "1",
-      "price": 1420000,
+      "price": 1490000,
       "first_seen": "2026-05-08"
     },
     {
@@ -9825,30 +9847,8 @@
       "bedrooms": "1",
       "price": 665000,
       "first_seen": "2026-05-05"
-    },
-    {
-      "id": "17418242",
-      "title": "One of a Kind | Huge 4,292sqft Plot | VOT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/4/stunning-upgrades-huge-4292sqft-plot-2-609029/",
-      "area": "The Springs",
-      "category": "Villa",
-      "size": "4291",
-      "bedrooms": "3",
-      "price": 5299999,
-      "first_seen": "2026-05-05"
-    },
-    {
-      "id": "17415463",
-      "title": "4% DLD WAVIER | SEMI ATTACHED | LAGOON VIEW",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/4/4-dld-wavier-semi-attached-lagoon-view-2-476548/",
-      "area": "DAMAC Islands 2",
-      "category": "Villa",
-      "size": "2416",
-      "bedrooms": "5",
-      "price": 5237000,
-      "first_seen": "2026-05-05"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-08"
+  "last_updated": "2026-05-09"
 }
