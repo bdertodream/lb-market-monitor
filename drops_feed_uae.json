@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 13174,
+  "total_tracked": 13176,
   "total_drops": 312,
-  "total_new": 13174,
+  "total_new": 13176,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -4385,6 +4385,28 @@
       "size": "2368",
       "bedrooms": "2",
       "price": 5400000,
+      "first_seen": "2026-05-10"
+    },
+    {
+      "id": "17437998",
+      "title": "5,121 sq.ft BUA | 5 Bedoom | Elevator | Vacant Now",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/8/5121-sqft-bua-5-bedoom-elevator-vacant--2-333547/",
+      "area": "Jumeirah Park",
+      "category": "Villa",
+      "size": "5121",
+      "bedrooms": "5",
+      "price": 13199000,
+      "first_seen": "2026-05-10"
+    },
+    {
+      "id": "9815699",
+      "title": "Premium Office | 1 Parking | High Floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/10/premium-office-1-parking-high-floor-2-588817/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "1194",
+      "bedrooms": "",
+      "price": 2802014,
       "first_seen": "2026-05-10"
     },
     {
@@ -9852,28 +9874,6 @@
       "size": "872",
       "bedrooms": "",
       "price": 1300000,
-      "first_seen": "2026-05-06"
-    },
-    {
-      "id": "9815248",
-      "title": "Corner Retail Shop | Butterfly Towers Arjan | Roadside & Skyline Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/5/6/corner-retail-shop-butterfly-towers-arj-2-149097/",
-      "area": "Arjan",
-      "category": "Shop",
-      "size": "3705",
-      "bedrooms": "",
-      "price": 13652777,
-      "first_seen": "2026-05-06"
-    },
-    {
-      "id": "9815244",
-      "title": "Prime Retail Shop | Butterfly Towers | Multiple Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/5/6/prime-retail-shop-butterfly-towers-mult-2-777655/",
-      "area": "Arjan",
-      "category": "Shop",
-      "size": "597",
-      "bedrooms": "",
-      "price": 2200777,
       "first_seen": "2026-05-06"
     }
   ],
