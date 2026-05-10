@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 13212,
-  "total_drops": 312,
-  "total_new": 13212,
+  "total_tracked": 13217,
+  "total_drops": 313,
+  "total_new": 13217,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -4373,6 +4373,20 @@
       "bedrooms": "",
       "date": "2026-05-09",
       "first_seen": "2026-05-01"
+    },
+    {
+      "id": "17247166",
+      "title": "EXCLUSIVE | Vacant | Single Row | 4BR + Maid Townhouse in Polo | Meydan",
+      "old_price": 6750000,
+      "new_price": 5500000,
+      "drop_pct": 18.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/27/exclusive-vacant-on-transfer-single-row-2-335798/",
+      "area": "Meydan",
+      "category": "Townhouse",
+      "size": "3245",
+      "bedrooms": "4",
+      "date": "2026-05-10",
+      "first_seen": "2026-03-27"
     }
   ],
   "new_listings": [
@@ -4803,6 +4817,61 @@
       "size": "8517",
       "bedrooms": "",
       "price": 85000000,
+      "first_seen": "2026-05-10"
+    },
+    {
+      "id": "17441036",
+      "title": "Amazing Location | Turnkey Home | Extended",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/9/amazing-location-turnkey-home-extended-2-294356/",
+      "area": "Arabian Ranches",
+      "category": "Villa",
+      "size": "6482",
+      "bedrooms": "5",
+      "price": 12950000,
+      "first_seen": "2026-05-10"
+    },
+    {
+      "id": "17446037",
+      "title": "EXCLUSIVE 1 BEDROOM APARTMENT | SEA VIEW | EMAAR BEACHFRONT / MARINA VISTA TOWER 1",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/10/exclusive-1-bedroom-apartment-sea-view-ema-2-732/",
+      "area": "Dubai Harbour",
+      "category": "Apartment",
+      "size": "730",
+      "bedrooms": "1",
+      "price": 4000000,
+      "first_seen": "2026-05-10"
+    },
+    {
+      "id": "17438220",
+      "title": "Hot Deal | Motivation Seller | Beautiful View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/8/hot-deal-motivation-seller-beautiful-vi-2-154175/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "359",
+      "bedrooms": "0",
+      "price": 680000,
+      "first_seen": "2026-05-10"
+    },
+    {
+      "id": "9815243",
+      "title": "CORNER SHOP | VACANT | URGENT SALE",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/5/6/corner-shop-vacant-urgent-sale-2-137961/",
+      "area": "Meydan",
+      "category": "Shop",
+      "size": "417",
+      "bedrooms": "",
+      "price": 2300000,
+      "first_seen": "2026-05-10"
+    },
+    {
+      "id": "9815238",
+      "title": "Shell And Core Shop | Azizi Riviera 48 | Street-Facing Frontage",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/5/6/shell-and-core-shop-azizi-riviera-48-st-2-744460/",
+      "area": "Meydan",
+      "category": "Shop",
+      "size": "405",
+      "bedrooms": "",
+      "price": 4000000,
       "first_seen": "2026-05-10"
     },
     {
@@ -5583,7 +5652,7 @@
       "category": "Apartment",
       "size": "681",
       "bedrooms": "1",
-      "price": 1250000,
+      "price": 1230000,
       "first_seen": "2026-05-09"
     },
     {
@@ -9819,61 +9888,6 @@
       "size": "958",
       "bedrooms": "2",
       "price": 1665000,
-      "first_seen": "2026-05-06"
-    },
-    {
-      "id": "17409501",
-      "title": "Luxury Coastal Lifestyle | High ROI | Premium Amenities | Prime Spot",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/2/luxury-coastal-lifestyle-high-roi-premi-2-152475/",
-      "area": "Dubai Islands",
-      "category": "Villa",
-      "size": "3400",
-      "bedrooms": "3",
-      "price": 5300000,
-      "first_seen": "2026-05-06"
-    },
-    {
-      "id": "17407129",
-      "title": "Single Row 3BR Villa | Garden & Downtown View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/1/single-row-3br-villa-garden-downtown-vi-2-509656/",
-      "area": "The Valley by Emaar",
-      "category": "Villa",
-      "size": "1912",
-      "bedrooms": "3",
-      "price": 2750000,
-      "first_seen": "2026-05-06"
-    },
-    {
-      "id": "17409284",
-      "title": "Golf & Pool Views | 1BR Jannat Midtown | Balcony Apartment",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/2/golf-pool-views-1br-jannat-midtown-balc-2-322514/",
-      "area": "Dubai Production City (IMPZ)",
-      "category": "Apartment",
-      "size": "778",
-      "bedrooms": "1",
-      "price": 1250000,
-      "first_seen": "2026-05-06"
-    },
-    {
-      "id": "9814828",
-      "title": "\ud83c\udfed Prime Industrial Investment | Brand-New Warehouse Complex | 7.5% ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/5/5/prime-industrial-investment-brand-new-w-2-268564/",
-      "area": "Jebel Ali",
-      "category": "Warehouse",
-      "size": "9707",
-      "bedrooms": "",
-      "price": 12500000,
-      "first_seen": "2026-05-06"
-    },
-    {
-      "id": "9815089",
-      "title": "JAFZA South | Large Plot | 22K sqft Warehouse",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/5/6/jafza-south-large-plot-22k-sqft-warehou-2-567075/",
-      "area": "Jebel Ali",
-      "category": "Warehouse",
-      "size": "22000",
-      "bedrooms": "",
-      "price": 9500000,
       "first_seen": "2026-05-06"
     }
   ],
