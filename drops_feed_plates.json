@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-10T20:55:04.769795",
-  "total_tracked": 529,
+  "generated_at": "2026-05-11T03:41:47.159558",
+  "total_tracked": 530,
   "total_drops": 68,
-  "total_new": 529,
+  "total_new": 530,
   "avg_drop_pct": 20.7,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -1906,7 +1906,7 @@
       "plate_type": "Standard",
       "location": "Kaslik, Keserouan",
       "original_price": 4300,
-      "current_price": 4100,
+      "current_price": 4500,
       "drop_usd": 200,
       "drop_pct": 4.7,
       "last_drop_date": "2026-05-07",
@@ -1940,6 +1940,10 @@
         {
           "price": 4100,
           "date": "2026-05-07"
+        },
+        {
+          "price": 4500,
+          "date": "2026-05-11"
         }
       ]
     },
@@ -2132,6 +2136,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116890408",
+      "title": "0 2122",
+      "url": "https://www.olx.com.lb/ad/0-2122-ID116890408.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Hazmiyeh, Baabda",
+      "original_price": 20000,
+      "current_price": 20000,
+      "first_seen": "2026-05-11",
+      "posted_date": "2026-05-11",
+      "price_history": [
+        {
+          "price": 20000,
+          "date": "2026-05-11"
+        }
+      ]
+    },
     {
       "id": "116889383",
       "title": "car plate 6937 A",
@@ -3664,7 +3686,7 @@
       "plate_type": "Standard",
       "location": "Kaslik, Keserouan",
       "original_price": 4300,
-      "current_price": 4100,
+      "current_price": 4500,
       "first_seen": "2026-04-25",
       "posted_date": "2026-04-25",
       "price_history": [
@@ -3695,6 +3717,10 @@
         {
           "price": 4100,
           "date": "2026-05-07"
+        },
+        {
+          "price": 4500,
+          "date": "2026-05-11"
         }
       ]
     },
