@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-11T11:26:25.477890",
-  "total_tracked": 530,
+  "generated_at": "2026-05-11T15:01:20.240408",
+  "total_tracked": 531,
   "total_drops": 68,
-  "total_new": 530,
+  "total_new": 531,
   "avg_drop_pct": 20.7,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -2150,6 +2150,24 @@
       "price_history": [
         {
           "price": 20000,
+          "date": "2026-05-11"
+        }
+      ]
+    },
+    {
+      "id": "116891428",
+      "title": "car plate 4 digits",
+      "url": "https://www.olx.com.lb/ad/car-plate-4-digits-ID116891428.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Tabaris, Beirut",
+      "original_price": 5900,
+      "current_price": 5900,
+      "first_seen": "2026-05-11",
+      "posted_date": "2026-05-11",
+      "price_history": [
+        {
+          "price": 5900,
           "date": "2026-05-11"
         }
       ]
