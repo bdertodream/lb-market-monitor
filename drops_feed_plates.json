@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-12T18:08:16.517296",
-  "total_tracked": 538,
-  "total_drops": 68,
-  "total_new": 538,
-  "avg_drop_pct": 20.8,
+  "generated_at": "2026-05-12T21:29:58.352551",
+  "total_tracked": 539,
+  "total_drops": 69,
+  "total_new": 539,
+  "avg_drop_pct": 20.6,
   "biggest_drop_usd": 20000,
   "drops": [
     {
@@ -1978,6 +1978,31 @@
       ]
     },
     {
+      "id": "116889743",
+      "title": "رقم لوحة مميز",
+      "url": "https://www.olx.com.lb/ad/رقم-لوحة-مميز-ID116889743.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Verdun, Beirut",
+      "original_price": 3450,
+      "current_price": 3350,
+      "drop_usd": 100,
+      "drop_pct": 2.9,
+      "last_drop_date": "2026-05-12",
+      "first_seen": "2026-05-10",
+      "posted_date": "2026-05-10",
+      "price_history": [
+        {
+          "price": 3450,
+          "date": "2026-05-10"
+        },
+        {
+          "price": 3350,
+          "date": "2026-05-12"
+        }
+      ]
+    },
+    {
       "id": "116546197",
       "title": "Special plate number B 5213 رقم مميز ب ٥٢١٣",
       "url": "https://www.olx.com.lb/ad/special-plate-number-رقم-مميز-ID116546197.html",
@@ -2189,6 +2214,24 @@
       ]
     },
     {
+      "id": "116893537",
+      "title": "Lebanese plate number",
+      "url": "https://www.olx.com.lb/ad/lebanese-plate-number-ID116893537.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Rabweh, Metn",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-05-12",
+      "posted_date": "2026-05-12",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-05-12"
+        }
+      ]
+    },
+    {
       "id": "116890408",
       "title": "0 2122",
       "url": "https://www.olx.com.lb/ad/0-2122-ID116890408.html",
@@ -2322,13 +2365,17 @@
       "plate_type": "Standard",
       "location": "Verdun, Beirut",
       "original_price": 3450,
-      "current_price": 3450,
+      "current_price": 3350,
       "first_seen": "2026-05-10",
       "posted_date": "2026-05-10",
       "price_history": [
         {
           "price": 3450,
           "date": "2026-05-10"
+        },
+        {
+          "price": 3350,
+          "date": "2026-05-12"
         }
       ]
     },

@@ -1,23 +1,9 @@
 {
-  "total_tracked": 9900,
-  "total_drops": 502,
-  "total_new": 9900,
-  "last_updated": "2026-05-12T18:08:49Z",
+  "total_tracked": 9905,
+  "total_drops": 501,
+  "total_new": 9905,
+  "last_updated": "2026-05-12T21:30:40Z",
   "drops": [
-    {
-      "id": "16774500",
-      "title": "BMW 740 M",
-      "old_price": 86500,
-      "new_price": 79500,
-      "drop_pct": 8.1,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/3/14/bmw-740-m-2-352---9ad93bd205d04b6ebc13bb082009ec1d/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "7-Series",
-      "year": "2018",
-      "mileage": "116800",
-      "date": "2026-04-20T10:07:52Z"
-    },
     {
       "id": "16736296",
       "title": "GCC SPECS FORD EDGE / AGENCY SERVICED",
@@ -7003,9 +6989,83 @@
       "year": "2016",
       "mileage": "178500",
       "date": "2026-05-12T18:08:49Z"
+    },
+    {
+      "id": "16818071",
+      "title": "Jeep Grand Cherokee Laredo 2015  | GCC spec | Low mileage | No accidents | Expat owned",
+      "old_price": 45000,
+      "new_price": 35000,
+      "drop_pct": 22.2,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/4/26/jeep-grand-cherokee-service-history-gcc-sp-2-865---9a3464adcb0849a8a477fb21a4727ce3/",
+      "category": "Used Cars",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "year": "2015",
+      "mileage": "104500",
+      "date": "2026-05-12T21:30:40Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16830712",
+      "title": "2021 BMW 520i | GCC Specs | Well Maintained | Premium Interior",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/5-series/2026/5/7/2021-bmw-520i-gcc-specs-well-maintained-pr-2-450---575201e802874e7b90dd32e16b2167bb/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "5-Series",
+      "year": "2021",
+      "mileage": "125921",
+      "price": 99000,
+      "first_seen": "2026-05-12T21:30:40Z"
+    },
+    {
+      "id": "16830683",
+      "title": "2022 Audi Q8 S line | GCC Specs | | AWD | Luxury SUV",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q8/2026/5/7/2022-audi-q8-s-line-gcc-specs-awd-luxury-s-2-139---6f2c0cec010148029c374fbb9337ae64/",
+      "category": "Used Cars",
+      "make": "Audi",
+      "model": "Q8",
+      "year": "2022",
+      "mileage": "64829",
+      "price": 209000,
+      "first_seen": "2026-05-12T21:30:40Z"
+    },
+    {
+      "id": "16836965",
+      "title": "2019 Mercedes-Benz C-Class C300 Warranty | Premium Package | Low Mileage",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/5/12/2019-mercedes-benz-c-class-c300-warranty-p-2-293---c1d4dbf57672469d91fb011b12b66720/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2019",
+      "mileage": "132000",
+      "price": 49500,
+      "first_seen": "2026-05-12T21:30:40Z"
+    },
+    {
+      "id": "16836957",
+      "title": "Dodge Charger GT 2021 American Specs-Warranty",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/5/12/dodge-charger-gt-2021-american-specs-warra-2-478---d167e18788b04ab596a09b803659bddb/",
+      "category": "Used Cars",
+      "make": "Dodge",
+      "model": "Charger",
+      "year": "2021",
+      "mileage": "61220",
+      "price": 54500,
+      "first_seen": "2026-05-12T21:30:40Z"
+    },
+    {
+      "id": "16812565",
+      "title": "AED 624 P.M | GAC GS8 320T i-4WD Turbo 2019 - GCC Specs - Well Maintained | WARRANTY+SERVICE",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/gac/gs8/2026/4/21/aed-624-pm-gac-gs8-320t-i-4wd-turbo-2019-g-2-510---400dff058ceb49edb7bac3ee6328cbcd/",
+      "category": "Used Cars",
+      "make": "GAC",
+      "model": "GS8",
+      "year": "2019",
+      "mileage": "85700",
+      "price": 49999,
+      "first_seen": "2026-05-12T21:30:40Z"
+    },
     {
       "id": "16836860",
       "title": "GCC SPECS WARRANTY + SERVICE CONTRACT 2023 LAMBORGHINI URUS PERFORMANTE CARBON PACKAGE",
@@ -12945,66 +13005,6 @@
       "mileage": "25000",
       "price": 49000,
       "first_seen": "2026-05-09T09:29:25Z"
-    },
-    {
-      "id": "16816418",
-      "title": "Toyota Hilux GR Sport 4.0 2026 - GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/hilux/2026/4/25/toyota-hilux-gr-sport-40-2026-gcc-specs-2-797---fe1dbbfe6f1e48e483bf89ab81cad1e3/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Hilux",
-      "year": "2026",
-      "mileage": "0",
-      "price": 175000,
-      "first_seen": "2026-05-09T09:29:25Z"
-    },
-    {
-      "id": "16832507",
-      "title": "Toyota Rav 4 EXR 2020 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/rav-4/2026/5/9/toyota-rav-4-exr-2020-gcc-specs-2-981---2517261dd1984b959a3e19932f827cbb/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Rav 4",
-      "year": "2020",
-      "mileage": "56000",
-      "price": 68000,
-      "first_seen": "2026-05-09T09:29:25Z"
-    },
-    {
-      "id": "16363226",
-      "title": "GCC | CX9 | 1,150 AED Montly | Free Insurance + Registration | 0% Downpayment | Ref#JM0416373",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/cx-9/2025/4/10/gcc-cx9-1400-aed-montly-free-insurance-reg-2-616---e12eb61a9d804a5bb3f098850b71dcf0/",
-      "category": "Used Cars",
-      "make": "Mazda",
-      "model": "CX-9",
-      "year": "2021",
-      "mileage": "92845",
-      "price": 76999,
-      "first_seen": "2026-05-09T09:29:25Z"
-    },
-    {
-      "id": "16812087",
-      "title": "AED 1,428/m | 0 DP | Free 3 Months Warranty | Service History | 30 Day Return | NISSAN X-TERRA 2024",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/xterra/2026/4/21/aed-1457m-0-dp-free-3-months-warranty-serv-2-793---68d4e0421bd64ca193e4ecd8e30c2f75/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Xterra",
-      "year": "2024",
-      "mileage": "22531",
-      "price": 91099,
-      "first_seen": "2026-05-09T06:25:11Z"
-    },
-    {
-      "id": "16723544",
-      "title": "AED 823/m | 0 DP | Free 3 Months Warranty | Service History | 30 Day Return | NISSAN X-TRAIL 2022",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/x-trail/2026/1/28/aed-966month-0-downpayment-free-3-months-w-2-859---630be15db42843d78a67aafd4d9b98fe/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "X-Trail",
-      "year": "2022",
-      "mileage": "102064",
-      "price": 52499,
-      "first_seen": "2026-05-09T06:25:11Z"
     }
   ]
 }
