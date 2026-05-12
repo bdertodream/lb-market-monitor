@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-12T10:42:49.989999",
-  "total_tracked": 535,
-  "total_drops": 68,
-  "total_new": 535,
-  "avg_drop_pct": 20.7,
+  "generated_at": "2026-05-12T14:35:03.011017",
+  "total_tracked": 537,
+  "total_drops": 67,
+  "total_new": 537,
+  "avg_drop_pct": 21.0,
   "biggest_drop_usd": 20000,
   "drops": [
     {
@@ -1899,55 +1899,6 @@
       ]
     },
     {
-      "id": "116859359",
-      "title": "car plates for sale",
-      "url": "https://www.olx.com.lb/ad/car-plates-for-sale-ID116859359.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Kaslik, Keserouan",
-      "original_price": 4300,
-      "current_price": 4500,
-      "drop_usd": 200,
-      "drop_pct": 4.7,
-      "last_drop_date": "2026-05-07",
-      "first_seen": "2026-04-25",
-      "posted_date": "2026-04-25",
-      "price_history": [
-        {
-          "price": 4300,
-          "date": "2026-04-25"
-        },
-        {
-          "price": 4100,
-          "date": "2026-04-29"
-        },
-        {
-          "price": 7000,
-          "date": "2026-04-29"
-        },
-        {
-          "price": 6500,
-          "date": "2026-05-03"
-        },
-        {
-          "price": 6000,
-          "date": "2026-05-06"
-        },
-        {
-          "price": 4400,
-          "date": "2026-05-07"
-        },
-        {
-          "price": 4100,
-          "date": "2026-05-07"
-        },
-        {
-          "price": 4500,
-          "date": "2026-05-11"
-        }
-      ]
-    },
-    {
       "id": "116783749",
       "title": "A 99899   Special car plate number for sale",
       "url": "https://www.olx.com.lb/ad/a-99899-special-car-plate-number-for-sale-ID116783749.html",
@@ -2150,6 +2101,42 @@
       "price_history": [
         {
           "price": 5000,
+          "date": "2026-05-12"
+        }
+      ]
+    },
+    {
+      "id": "116892910",
+      "title": "special number Z 654321",
+      "url": "https://www.olx.com.lb/ad/special-number-z-654321-ID116892910.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Bchamoun, Aley",
+      "original_price": 3000,
+      "current_price": 3000,
+      "first_seen": "2026-05-12",
+      "posted_date": "2026-05-12",
+      "price_history": [
+        {
+          "price": 3000,
+          "date": "2026-05-12"
+        }
+      ]
+    },
+    {
+      "id": "116892690",
+      "title": "car plate number 03338422",
+      "url": "https://www.olx.com.lb/ad/car-plate-number-ID116892690.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Dekwaneh, Metn",
+      "original_price": 12500,
+      "current_price": 12500,
+      "first_seen": "2026-05-12",
+      "posted_date": "2026-05-12",
+      "price_history": [
+        {
+          "price": 12500,
           "date": "2026-05-12"
         }
       ]
@@ -3776,7 +3763,7 @@
       "plate_type": "Standard",
       "location": "Kaslik, Keserouan",
       "original_price": 4300,
-      "current_price": 4500,
+      "current_price": 4300,
       "first_seen": "2026-04-25",
       "posted_date": "2026-04-25",
       "price_history": [
@@ -3811,6 +3798,10 @@
         {
           "price": 4500,
           "date": "2026-05-11"
+        },
+        {
+          "price": 4300,
+          "date": "2026-05-12"
         }
       ]
     },
