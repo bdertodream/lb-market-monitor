@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 13403,
-  "total_drops": 320,
-  "total_new": 13403,
+  "total_tracked": 13404,
+  "total_drops": 322,
+  "total_new": 13404,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -4485,9 +4485,48 @@
       "bedrooms": "",
       "date": "2026-05-11",
       "first_seen": "2026-03-24"
+    },
+    {
+      "id": "9806980",
+      "title": "Vacant High floor fitted office Courtyard view",
+      "old_price": 1050000,
+      "new_price": 975000,
+      "drop_pct": 7.1,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/7/exclusive-high-floor-fitted-office-cour-2-690979/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "439",
+      "bedrooms": "",
+      "date": "2026-05-12",
+      "first_seen": "2026-03-15"
+    },
+    {
+      "id": "9802137",
+      "title": "Metro Easy Access | Fantastic View | Corner Office",
+      "old_price": 2500000,
+      "new_price": 2300000,
+      "drop_pct": 8.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/2/metro-link-easy-access-fully-fitted-hig-2-509947/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "1636",
+      "bedrooms": "",
+      "date": "2026-05-12",
+      "first_seen": "2026-03-11"
     }
   ],
   "new_listings": [
+    {
+      "id": "9814211",
+      "title": "Newly Upgraded I Good Investment I Furnished",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/1/newly-upgraded-i-good-investment-i-furn-2-188138/",
+      "area": "DIFC",
+      "category": "Office",
+      "size": "4231",
+      "bedrooms": "",
+      "price": 16000000,
+      "first_seen": "2026-05-12"
+    },
     {
       "id": "17067222",
       "title": "High Floor I DIFC Skyline Views I Prime Location",
@@ -9976,19 +10015,8 @@
       "bedrooms": "6",
       "price": 5400000,
       "first_seen": "2026-05-07"
-    },
-    {
-      "id": "17389338",
-      "title": "Large Layout | Maid room | Negoitable",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/28/large-layout-maid-room-negoitable-2-351020/",
-      "area": "Ghaf Woods",
-      "category": "Apartment",
-      "size": "1735",
-      "bedrooms": "2",
-      "price": 2905760,
-      "first_seen": "2026-05-07"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-05-12"
 }
