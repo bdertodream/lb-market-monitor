@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-12T06:54:58.690452",
-  "total_tracked": 534,
+  "generated_at": "2026-05-12T10:42:49.989999",
+  "total_tracked": 535,
   "total_drops": 68,
-  "total_new": 534,
+  "total_new": 535,
   "avg_drop_pct": 20.7,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -2136,6 +2136,24 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116325572",
+      "title": "Number for Sale",
+      "url": "https://www.olx.com.lb/ad/number-for-sale-ID116325572.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Other International, International",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-05-12",
+      "posted_date": "2026-05-12",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-05-12"
+        }
+      ]
+    },
     {
       "id": "116890408",
       "title": "0 2122",
