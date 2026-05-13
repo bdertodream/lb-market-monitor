@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-13T14:43:07.598525",
-  "total_tracked": 541,
+  "generated_at": "2026-05-13T18:10:13.641494",
+  "total_tracked": 542,
   "total_drops": 72,
-  "total_new": 541,
+  "total_new": 542,
   "avg_drop_pct": 20.3,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -2288,6 +2288,24 @@
       "price_history": [
         {
           "price": 3700,
+          "date": "2026-05-13"
+        }
+      ]
+    },
+    {
+      "id": "116894874",
+      "title": "numbr plates",
+      "url": "https://www.olx.com.lb/ad/numbr-plates-ID116894874.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Bteghrine, Metn",
+      "original_price": 2000,
+      "current_price": 2000,
+      "first_seen": "2026-05-13",
+      "posted_date": "2026-05-13",
+      "price_history": [
+        {
+          "price": 2000,
           "date": "2026-05-13"
         }
       ]
