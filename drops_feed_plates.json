@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-13T06:54:34.598611",
-  "total_tracked": 539,
-  "total_drops": 71,
-  "total_new": 539,
-  "avg_drop_pct": 20.1,
+  "generated_at": "2026-05-13T10:36:52.001901",
+  "total_tracked": 541,
+  "total_drops": 72,
+  "total_new": 541,
+  "avg_drop_pct": 20.2,
   "biggest_drop_usd": 20000,
   "drops": [
     {
@@ -227,6 +227,39 @@
         {
           "price": 4500,
           "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116837028",
+      "title": "2178 A for sale",
+      "url": "https://www.olx.com.lb/ad/2178-a-for-sale-ID116837028.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Beirut Port, Beirut",
+      "original_price": 8000,
+      "current_price": 4500,
+      "drop_usd": 3500,
+      "drop_pct": 43.8,
+      "last_drop_date": "2026-05-13",
+      "first_seen": "2026-03-30",
+      "posted_date": "2026-03-30",
+      "price_history": [
+        {
+          "price": 8000,
+          "date": "2026-03-30"
+        },
+        {
+          "price": 7000,
+          "date": "2026-03-30"
+        },
+        {
+          "price": 6500,
+          "date": "2026-04-04"
+        },
+        {
+          "price": 4500,
+          "date": "2026-05-13"
         }
       ]
     },
@@ -578,7 +611,7 @@
     },
     {
       "id": "116869967",
-      "title": "5 Digits    رقم جدا مميز الله يهني صاحب النصيب",
+      "title": "5 Digits    76797391",
       "url": "https://www.olx.com.lb/ad/a-43543-ID116869967.html",
       "plate_code": "",
       "plate_type": "Standard",
@@ -766,35 +799,6 @@
         {
           "price": 12000,
           "date": "2026-04-25"
-        }
-      ]
-    },
-    {
-      "id": "116837028",
-      "title": "2178 A for sale",
-      "url": "https://www.olx.com.lb/ad/2178-a-for-sale-ID116837028.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Beirut Port, Beirut",
-      "original_price": 8000,
-      "current_price": 6500,
-      "drop_usd": 1500,
-      "drop_pct": 18.8,
-      "last_drop_date": "2026-04-04",
-      "first_seen": "2026-03-30",
-      "posted_date": "2026-03-30",
-      "price_history": [
-        {
-          "price": 8000,
-          "date": "2026-03-30"
-        },
-        {
-          "price": 7000,
-          "date": "2026-03-30"
-        },
-        {
-          "price": 6500,
-          "date": "2026-04-04"
         }
       ]
     },
@@ -2139,6 +2143,31 @@
       ]
     },
     {
+      "id": "116425399",
+      "title": "نمرة كميون شحن عمومي",
+      "url": "https://www.olx.com.lb/ad/نمرة-شحن-عمومي-ID116425399.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Zahle Town, Zahle",
+      "original_price": 39500,
+      "current_price": 38500,
+      "drop_usd": 1000,
+      "drop_pct": 2.5,
+      "last_drop_date": "2026-05-13",
+      "first_seen": "2026-04-25",
+      "posted_date": "2026-04-25",
+      "price_history": [
+        {
+          "price": 39500,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 38500,
+          "date": "2026-05-13"
+        }
+      ]
+    },
+    {
       "id": "116795756",
       "title": "مرسادس مودال ٢٠٠٢",
       "url": "https://www.olx.com.lb/ad/أرقام-مميزه-للبيع-777710z-777710-b-ID116795756.html",
@@ -2223,6 +2252,42 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "116894126",
+      "title": "PLATE NUMBER رقم مميز",
+      "url": "https://www.olx.com.lb/ad/plate-number-رقم-مميز-ID116894126.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Zalka, Metn",
+      "original_price": 7500,
+      "current_price": 7500,
+      "first_seen": "2026-05-13",
+      "posted_date": "2026-05-13",
+      "price_history": [
+        {
+          "price": 7500,
+          "date": "2026-05-13"
+        }
+      ]
+    },
+    {
+      "id": "116894041",
+      "title": "6 Digits special car plate number",
+      "url": "https://www.olx.com.lb/ad/6-digits-special-car-plate-number-ID116894041.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Ain Saadeh, Metn",
+      "original_price": 3700,
+      "current_price": 3700,
+      "first_seen": "2026-05-13",
+      "posted_date": "2026-05-13",
+      "price_history": [
+        {
+          "price": 3700,
+          "date": "2026-05-13"
+        }
+      ]
+    },
     {
       "id": "116325572",
       "title": "Number for Sale",
@@ -3839,19 +3904,23 @@
       "plate_type": "Standard",
       "location": "Zahle Town, Zahle",
       "original_price": 39500,
-      "current_price": 39500,
+      "current_price": 38500,
       "first_seen": "2026-04-25",
       "posted_date": "2026-04-25",
       "price_history": [
         {
           "price": 39500,
           "date": "2026-04-25"
+        },
+        {
+          "price": 38500,
+          "date": "2026-05-13"
         }
       ]
     },
     {
       "id": "116869967",
-      "title": "5 Digits    رقم جدا مميز الله يهني صاحب النصيب",
+      "title": "5 Digits    76797391",
       "url": "https://www.olx.com.lb/ad/a-43543-ID116869967.html",
       "plate_code": "",
       "plate_type": "Standard",
@@ -6109,7 +6178,7 @@
       "plate_type": "Standard",
       "location": "Beirut Port, Beirut",
       "original_price": 8000,
-      "current_price": 6500,
+      "current_price": 4500,
       "first_seen": "2026-03-30",
       "posted_date": "2026-03-30",
       "price_history": [
@@ -6124,6 +6193,10 @@
         {
           "price": 6500,
           "date": "2026-04-04"
+        },
+        {
+          "price": 4500,
+          "date": "2026-05-13"
         }
       ]
     },
