@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-13T18:10:13.641494",
-  "total_tracked": 542,
+  "generated_at": "2026-05-13T21:34:26.634809",
+  "total_tracked": 544,
   "total_drops": 72,
-  "total_new": 542,
+  "total_new": 544,
   "avg_drop_pct": 20.3,
   "biggest_drop_usd": 20000,
   "drops": [
@@ -2306,6 +2306,42 @@
       "price_history": [
         {
           "price": 2000,
+          "date": "2026-05-13"
+        }
+      ]
+    },
+    {
+      "id": "116895295",
+      "title": "5 digits",
+      "url": "https://www.olx.com.lb/ad/5-digits-ID116895295.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Ain Al Mraiseh, Beirut",
+      "original_price": 3200,
+      "current_price": 3200,
+      "first_seen": "2026-05-13",
+      "posted_date": "2026-05-13",
+      "price_history": [
+        {
+          "price": 3200,
+          "date": "2026-05-13"
+        }
+      ]
+    },
+    {
+      "id": "116895279",
+      "title": "6 digits",
+      "url": "https://www.olx.com.lb/ad/6-digits-ID116895279.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Ain El Remmaneh, Baabda",
+      "original_price": 5000,
+      "current_price": 5000,
+      "first_seen": "2026-05-13",
+      "posted_date": "2026-05-13",
+      "price_history": [
+        {
+          "price": 5000,
           "date": "2026-05-13"
         }
       ]
