@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-12T21:29:58.352551",
+  "generated_at": "2026-05-13T03:39:41.503511",
   "total_tracked": 539,
-  "total_drops": 69,
+  "total_drops": 70,
   "total_new": 539,
-  "avg_drop_pct": 20.6,
+  "avg_drop_pct": 20.4,
   "biggest_drop_usd": 20000,
   "drops": [
     {
@@ -1650,6 +1650,63 @@
         {
           "price": 2800,
           "date": "2026-05-04"
+        }
+      ]
+    },
+    {
+      "id": "116859359",
+      "title": "car plates for sale",
+      "url": "https://www.olx.com.lb/ad/car-plates-for-sale-ID116859359.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Kaslik, Keserouan",
+      "original_price": 4300,
+      "current_price": 4000,
+      "drop_usd": 300,
+      "drop_pct": 7.0,
+      "last_drop_date": "2026-05-13",
+      "first_seen": "2026-04-25",
+      "posted_date": "2026-04-25",
+      "price_history": [
+        {
+          "price": 4300,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 4100,
+          "date": "2026-04-29"
+        },
+        {
+          "price": 7000,
+          "date": "2026-04-29"
+        },
+        {
+          "price": 6500,
+          "date": "2026-05-03"
+        },
+        {
+          "price": 6000,
+          "date": "2026-05-06"
+        },
+        {
+          "price": 4400,
+          "date": "2026-05-07"
+        },
+        {
+          "price": 4100,
+          "date": "2026-05-07"
+        },
+        {
+          "price": 4500,
+          "date": "2026-05-11"
+        },
+        {
+          "price": 4300,
+          "date": "2026-05-12"
+        },
+        {
+          "price": 4000,
+          "date": "2026-05-13"
         }
       ]
     },
@@ -3861,7 +3918,7 @@
       "plate_type": "Standard",
       "location": "Kaslik, Keserouan",
       "original_price": 4300,
-      "current_price": 4300,
+      "current_price": 4000,
       "first_seen": "2026-04-25",
       "posted_date": "2026-04-25",
       "price_history": [
@@ -3900,6 +3957,10 @@
         {
           "price": 4300,
           "date": "2026-05-12"
+        },
+        {
+          "price": 4000,
+          "date": "2026-05-13"
         }
       ]
     },

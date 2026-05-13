@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 13528,
+  "total_tracked": 13530,
   "total_drops": 327,
-  "total_new": 13528,
+  "total_new": 13530,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -4586,6 +4586,28 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "17407063",
+      "title": "Golf & Skyline View | Ready To Move | High Floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/1/golf-skyline-view-ready-to-move-high-fl-2-242220/",
+      "area": "Dubai Sports City",
+      "category": "Apartment",
+      "size": "625",
+      "bedrooms": "1",
+      "price": 1350000,
+      "first_seen": "2026-05-13"
+    },
+    {
+      "id": "9814204",
+      "title": "Premium High-End Corner Office | JVT | High ROI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/1/premium-high-end-corner-office-jvt-high-2-106710/",
+      "area": "Jumeirah Village Triangle (JVT)",
+      "category": "Office",
+      "size": "3316",
+      "bedrooms": "",
+      "price": 6964251,
+      "first_seen": "2026-05-13"
+    },
     {
       "id": "9814211",
       "title": "Newly Upgraded I Good Investment I Furnished",
@@ -10063,30 +10085,8 @@
       "bedrooms": "2",
       "price": 6000000,
       "first_seen": "2026-05-08"
-    },
-    {
-      "id": "17334029",
-      "title": "3 Bedrooms | with Roof top | End Corner Unit | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/4/16/3-bedrooms-with-roof-top-end-corner-uni-2-254494/",
-      "area": "DAMAC Hills 2 (Akoya by DAMAC)",
-      "category": "Villa",
-      "size": "2063",
-      "bedrooms": "3",
-      "price": 2050000,
-      "first_seen": "2026-05-08"
-    },
-    {
-      "id": "17405020",
-      "title": "1BR Apartment | Eleve by Deyaar | Downtown Jebel Ali | Panoramic City Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/1/1br-apartment-eleve-by-deyaar-downtown--2-292867/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "846",
-      "bedrooms": "1",
-      "price": 1284095,
-      "first_seen": "2026-05-08"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-12"
+  "last_updated": "2026-05-13"
 }
