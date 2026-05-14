@@ -4805,7 +4805,7 @@
       }
     ],
     "first_seen": "2026-03-01",
-    "last_seen": "2026-05-11",
+    "last_seen": "2026-05-14",
     "last_updated": "2026-03-07",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -12167,7 +12167,7 @@
     "location": "Kaslik, Keserouan",
     "district": "Keserouan",
     "original_price": 4300,
-    "current_price": 4000,
+    "current_price": 6600,
     "price_history": [
       {
         "price": 4300,
@@ -12208,11 +12208,15 @@
       {
         "price": 4000,
         "date": "2026-05-13"
+      },
+      {
+        "price": 6600,
+        "date": "2026-05-14"
       }
     ],
     "first_seen": "2026-04-25",
     "last_seen": "2026-05-14",
-    "last_updated": "2026-05-13",
+    "last_updated": "2026-05-14",
     "posted_date": "2026-04-25",
     "drop_usd": 300,
     "drop_pct": 7.0,
@@ -14406,6 +14410,54 @@
     "last_seen": "2026-05-14",
     "last_updated": "2026-05-13",
     "posted_date": "2026-05-13",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "114944305": {
+    "id": "114944305",
+    "title": "Plate Number",
+    "url": "https://www.olx.com.lb/ad/plate-number-ID114944305.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Beit Chabeb, Metn",
+    "district": "Metn",
+    "original_price": 5500,
+    "current_price": 5500,
+    "price_history": [
+      {
+        "price": 5500,
+        "date": "2026-05-14"
+      }
+    ],
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "last_updated": "2026-05-14",
+    "posted_date": "2026-05-14",
+    "drop_usd": 0,
+    "drop_pct": 0,
+    "last_drop_date": null
+  },
+  "116895607": {
+    "id": "116895607",
+    "title": "55807",
+    "url": "https://www.olx.com.lb/ad/55807-ID116895607.html",
+    "plate_code": "",
+    "plate_type": "Standard",
+    "location": "Beit Chabeb, Metn",
+    "district": "Metn",
+    "original_price": 2500,
+    "current_price": 2500,
+    "price_history": [
+      {
+        "price": 2500,
+        "date": "2026-05-14"
+      }
+    ],
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "last_updated": "2026-05-14",
+    "posted_date": "2026-05-14",
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null
