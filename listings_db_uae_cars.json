@@ -144948,7 +144948,7 @@
   "16800019": {
     "id": "16800019",
     "title": "Toyota YARIS 2014 SE+ 1.5L Full Option Push Start",
-    "price": 17500,
+    "price": 17000,
     "make": "Toyota",
     "model": "Yaris",
     "year": "2014",
@@ -144971,6 +144971,10 @@
       {
         "price": 17500,
         "date": "2026-04-29T10:15:16Z"
+      },
+      {
+        "price": 17000,
+        "date": "2026-05-14T03:36:58Z"
       }
     ],
     "date": "2026-04-16"
@@ -171260,7 +171264,7 @@
   "16815064": {
     "id": "16815064",
     "title": "2019 Dodge Charger 6.4L SRT8 Super Bee - In Amazing Condition",
-    "price": 76000,
+    "price": 68500,
     "make": "Dodge",
     "model": "Charger",
     "year": "2019",
@@ -171275,6 +171279,10 @@
       {
         "price": 76000,
         "date": "2026-04-24T02:48:10Z"
+      },
+      {
+        "price": 68500,
+        "date": "2026-05-14T03:36:58Z"
       }
     ],
     "date": "2026-04-23"
@@ -205552,7 +205560,7 @@
   "16819405": {
     "id": "16819405",
     "title": "Land Rover Range Rover Sport SVR 2016 GCC Specs",
-    "price": 89500,
+    "price": 83500,
     "make": "Land Rover",
     "model": "Range Rover Sport",
     "year": "2016",
@@ -205571,6 +205579,10 @@
       {
         "price": 89500,
         "date": "2026-05-06T17:50:47Z"
+      },
+      {
+        "price": 83500,
+        "date": "2026-05-14T03:36:58Z"
       }
     ],
     "date": "2026-05-05"
@@ -207980,7 +207992,7 @@
   "16828346": {
     "id": "16828346",
     "title": "GCC 2013 Mercedes-Benz S350 AMG 3.5L V6 | Luxury  Performance",
-    "price": 44000,
+    "price": 42000,
     "make": "Mercedes-Benz",
     "model": "S-Class",
     "year": "2013",
@@ -207995,6 +208007,10 @@
       {
         "price": 44000,
         "date": "2026-05-05T21:12:28Z"
+      },
+      {
+        "price": 42000,
+        "date": "2026-05-14T03:36:58Z"
       }
     ],
     "date": "2026-05-05"
@@ -233754,5 +233770,49 @@
       }
     ],
     "date": "2026-05-13"
+  },
+  "16794586": {
+    "id": "16794586",
+    "title": "Nissan Patrol V6 SE 2017 - GCC Specs - Well Maintained LADY DRIVEN",
+    "price": 52500,
+    "make": "Nissan",
+    "model": "Patrol",
+    "year": "2017",
+    "kilometers": "170432",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Silicon Oasis (DSO)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/4/6/nissan-patrol-v6-se-2017-gcc-specs-well-ma-2-519---d5cf28a75f9540b2b5a5ec849ff97bab/",
+    "first_seen": "2026-05-14T03:36:58Z",
+    "prices": [
+      {
+        "price": 52500,
+        "date": "2026-05-14T03:36:58Z"
+      }
+    ],
+    "date": "2026-05-14"
+  },
+  "16667529": {
+    "id": "16667529",
+    "title": "2020. Rx350. Gcc spec.",
+    "price": 123000,
+    "make": "Lexus",
+    "model": "RX-Series",
+    "year": "2020",
+    "kilometers": "67000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/rx-series/2025/12/11/2020-rx350-gcc-spec-2-658---1cffa684d53c4107aa50dd662cda586f/",
+    "first_seen": "2026-05-14T03:36:58Z",
+    "prices": [
+      {
+        "price": 123000,
+        "date": "2026-05-14T03:36:58Z"
+      }
+    ],
+    "date": "2026-05-14"
   }
 }
