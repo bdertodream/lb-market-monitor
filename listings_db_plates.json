@@ -11068,16 +11068,20 @@
     "location": "Hadath, Baabda",
     "district": "Baabda",
     "original_price": 2900,
-    "current_price": 2900,
+    "current_price": 3000,
     "price_history": [
       {
         "price": 2900,
         "date": "2026-04-19"
+      },
+      {
+        "price": 3000,
+        "date": "2026-05-14"
       }
     ],
     "first_seen": "2026-04-19",
     "last_seen": "2026-05-14",
-    "last_updated": "2026-04-19",
+    "last_updated": "2026-05-14",
     "posted_date": "2026-04-19",
     "drop_usd": 0,
     "drop_pct": 0,
@@ -12624,7 +12628,7 @@
     "location": "Dekwaneh, Metn",
     "district": "Metn",
     "original_price": 3400,
-    "current_price": 3200,
+    "current_price": 3300,
     "price_history": [
       {
         "price": 3400,
@@ -12656,6 +12660,10 @@
       },
       {
         "price": 3200,
+        "date": "2026-05-14"
+      },
+      {
+        "price": 3300,
         "date": "2026-05-14"
       }
     ],
