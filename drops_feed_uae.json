@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 14260,
-  "total_drops": 348,
-  "total_new": 14260,
+  "total_tracked": 14262,
+  "total_drops": 349,
+  "total_new": 14262,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -4877,9 +4877,45 @@
       "bedrooms": "5",
       "date": "2026-05-15",
       "first_seen": "2026-04-28"
+    },
+    {
+      "id": "9803787",
+      "title": "INVESTOR DEAL | UNFURNISHED | LOWEST PRICE",
+      "old_price": 1200000,
+      "new_price": 1000000,
+      "drop_pct": 16.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/12/investor-deal-unfurnished-lowest-price-2-337453/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "444",
+      "bedrooms": "",
+      "date": "2026-05-16",
+      "first_seen": "2026-03-08"
     }
   ],
   "new_listings": [
+    {
+      "id": "9813994",
+      "title": "Investor Deal! Shop in Cluster D JLT | Near Metro",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/4/30/investor-deal-shop-in-cluster-d-jlt-nea-2-670098/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Shop",
+      "size": "455",
+      "bedrooms": "",
+      "price": 1500000,
+      "first_seen": "2026-05-16"
+    },
+    {
+      "id": "9811554",
+      "title": "Ready to Move | Marina View | Furnished Office",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/15/ready-to-move-marina-view-furnished-off-2-236743/",
+      "area": "Dubai Marina",
+      "category": "Office",
+      "size": "3619",
+      "bedrooms": "",
+      "price": 22000000,
+      "first_seen": "2026-05-16"
+    },
     {
       "id": "17464520",
       "title": "Area Expert | Options Available | 4 Bed",
@@ -10357,30 +10393,8 @@
       "bedrooms": "1",
       "price": 1800000,
       "first_seen": "2026-05-14"
-    },
-    {
-      "id": "17360582",
-      "title": "1 Bedroom | Crest Grande | Balcony | Multiple Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/22/1-bedroom-crest-grande-balcony-multiple-2-797147/",
-      "area": "Sobha Hartland",
-      "category": "Apartment",
-      "size": "733",
-      "bedrooms": "1",
-      "price": 1650000,
-      "first_seen": "2026-05-14"
-    },
-    {
-      "id": "17230417",
-      "title": "Lowest Price | Unfurnished | Studio with balcony | Rented",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/24/lowest-price-unfurnished-studio-with-ba-2-111399/",
-      "area": "DAMAC Hills 2 (Akoya by DAMAC)",
-      "category": "Apartment",
-      "size": "420",
-      "bedrooms": "0",
-      "price": 510000,
-      "first_seen": "2026-05-14"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-15"
+  "last_updated": "2026-05-16"
 }
