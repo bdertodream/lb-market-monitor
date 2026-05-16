@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-16T03:02:46.716187",
+  "generated_at": "2026-05-16T06:32:23.122973",
   "total_tracked": 559,
   "total_drops": 78,
   "total_new": 559,
-  "avg_drop_pct": 19.6,
-  "biggest_drop_usd": 20000,
+  "avg_drop_pct": 20.3,
+  "biggest_drop_usd": 23100,
   "drops": [
     {
       "id": "116828807",
@@ -140,6 +140,35 @@
         {
           "price": 2000,
           "date": "2026-05-06"
+        }
+      ]
+    },
+    {
+      "id": "116425399",
+      "title": "نمرة تاكسي عمومي",
+      "url": "https://www.olx.com.lb/ad/نمرة-شحن-عمومي-ID116425399.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Zahle Town, Zahle",
+      "original_price": 39500,
+      "current_price": 16400,
+      "drop_usd": 23100,
+      "drop_pct": 58.5,
+      "last_drop_date": "2026-05-16",
+      "first_seen": "2026-04-25",
+      "posted_date": "2026-04-25",
+      "price_history": [
+        {
+          "price": 39500,
+          "date": "2026-04-25"
+        },
+        {
+          "price": 38500,
+          "date": "2026-05-13"
+        },
+        {
+          "price": 16400,
+          "date": "2026-05-16"
         }
       ]
     },
@@ -2317,31 +2346,6 @@
       ]
     },
     {
-      "id": "116425399",
-      "title": "نمرة كميون شحن عمومي",
-      "url": "https://www.olx.com.lb/ad/نمرة-شحن-عمومي-ID116425399.html",
-      "plate_code": "",
-      "plate_type": "Standard",
-      "location": "Zahle Town, Zahle",
-      "original_price": 39500,
-      "current_price": 38500,
-      "drop_usd": 1000,
-      "drop_pct": 2.5,
-      "last_drop_date": "2026-05-13",
-      "first_seen": "2026-04-25",
-      "posted_date": "2026-04-25",
-      "price_history": [
-        {
-          "price": 39500,
-          "date": "2026-04-25"
-        },
-        {
-          "price": 38500,
-          "date": "2026-05-13"
-        }
-      ]
-    },
-    {
       "id": "116795756",
       "title": "مرسادس مودال ٢٠٠٢",
       "url": "https://www.olx.com.lb/ad/أرقام-مميزه-للبيع-777710z-777710-b-ID116795756.html",
@@ -4420,13 +4424,13 @@
     },
     {
       "id": "116425399",
-      "title": "نمرة كميون شحن عمومي",
+      "title": "نمرة تاكسي عمومي",
       "url": "https://www.olx.com.lb/ad/نمرة-شحن-عمومي-ID116425399.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Zahle Town, Zahle",
       "original_price": 39500,
-      "current_price": 38500,
+      "current_price": 16400,
       "first_seen": "2026-04-25",
       "posted_date": "2026-04-25",
       "price_history": [
@@ -4437,6 +4441,10 @@
         {
           "price": 38500,
           "date": "2026-05-13"
+        },
+        {
+          "price": 16400,
+          "date": "2026-05-16"
         }
       ]
     },
