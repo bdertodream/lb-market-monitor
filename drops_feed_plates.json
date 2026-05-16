@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T13:31:09.941424",
-  "total_tracked": 561,
+  "generated_at": "2026-05-16T17:09:05.512413",
+  "total_tracked": 562,
   "total_drops": 78,
-  "total_new": 561,
+  "total_new": 562,
   "avg_drop_pct": 20.3,
   "biggest_drop_usd": 23100,
   "drops": [
@@ -2484,6 +2484,24 @@
       "price_history": [
         {
           "price": 4000,
+          "date": "2026-05-16"
+        }
+      ]
+    },
+    {
+      "id": "116342520",
+      "title": "SPECIAL VIP number !!!",
+      "url": "https://www.olx.com.lb/ad/special-vip-number-ID116342520.html",
+      "plate_code": "",
+      "plate_type": "Standard",
+      "location": "Beirut Port, Beirut",
+      "original_price": 120000,
+      "current_price": 120000,
+      "first_seen": "2026-05-16",
+      "posted_date": "2026-05-16",
+      "price_history": [
+        {
+          "price": 120000,
           "date": "2026-05-16"
         }
       ]
@@ -10554,19 +10572,23 @@
     },
     {
       "id": "116311586",
-      "title": "SPECIAL number golden plate 7807 T",
+      "title": "SPECIAL number golden plate 7807 T // 7807 M",
       "url": "https://www.olx.com.lb/ad/golden-plate-7807-t-ID116311586.html",
       "plate_code": "",
       "plate_type": "Standard",
       "location": "Dbaye, Metn",
       "original_price": 6000,
-      "current_price": 6000,
+      "current_price": 12000,
       "first_seen": "2026-03-01",
       "posted_date": "2026-03-01",
       "price_history": [
         {
           "price": 6000,
           "date": "2026-03-01"
+        },
+        {
+          "price": 12000,
+          "date": "2026-05-16"
         }
       ]
     },
