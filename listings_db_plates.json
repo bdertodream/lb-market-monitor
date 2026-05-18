@@ -10294,7 +10294,8 @@
     "posted_date": "2026-04-11",
     "drop_usd": 1800,
     "drop_pct": 36.0,
-    "last_drop_date": "2026-04-12"
+    "last_drop_date": "2026-04-12",
+    "stale": true
   },
   "116850357": {
     "id": "116850357",
@@ -12922,7 +12923,8 @@
     "posted_date": "2026-05-01",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116877464": {
     "id": "116877464",
@@ -13295,7 +13297,8 @@
     "posted_date": "2026-05-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116882612": {
     "id": "116882612",
@@ -13695,7 +13698,8 @@
     "posted_date": "2026-05-07",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116886839": {
     "id": "116886839",
