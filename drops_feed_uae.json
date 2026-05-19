@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 14543,
+  "total_tracked": 14546,
   "total_drops": 365,
-  "total_new": 14543,
+  "total_new": 14546,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -5118,6 +5118,39 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "9813265",
+      "title": "Premium Office Space | High Floor | Prime location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/26/premium-office-space-high-floor-prime-l-2-266933/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "1771",
+      "bedrooms": "",
+      "price": 3000000,
+      "first_seen": "2026-05-19"
+    },
+    {
+      "id": "9814217",
+      "title": "Fully Fitted | Furnished | Great Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/1/fully-fitted-furnished-great-location-2-188484/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "2202",
+      "bedrooms": "",
+      "price": 5300000,
+      "first_seen": "2026-05-19"
+    },
+    {
+      "id": "9785334",
+      "title": "High Footfall | Payment Plan | 4 Star Hotel",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/10/14/high-footfall-payment-plan-4-star-hotel-2-322794/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Shop",
+      "size": "8264",
+      "bedrooms": "",
+      "price": 16770000,
+      "first_seen": "2026-05-19"
+    },
     {
       "id": "9812083",
       "title": "Penthouse Loft Office | Luxurious | Prime Location",
@@ -10584,41 +10617,8 @@
       "bedrooms": "",
       "price": 2031000,
       "first_seen": "2026-05-15"
-    },
-    {
-      "id": "9816625",
-      "title": "Best Price | Smart Investment | Central Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/15/best-price-smart-investment-central-loc-2-153560/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "840",
-      "bedrooms": "",
-      "price": 2640000,
-      "first_seen": "2026-05-15"
-    },
-    {
-      "id": "17468623",
-      "title": "FOR SALE \u2013 High-Value 1BR Investment | Modern Living | Great ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/14/for-sale-high-value-1br-investment-mode-2-395342/",
-      "area": "International City",
-      "category": "Apartment",
-      "size": "773",
-      "bedrooms": "1",
-      "price": 840000,
-      "first_seen": "2026-05-15"
-    },
-    {
-      "id": "17426400",
-      "title": "Cash-Mortgage | Ready to Move | Spacious Apartment",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/6/brand-new-spacious-balcony-kitchen-appl-2-192861/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Apartment",
-      "size": "730",
-      "bedrooms": "1",
-      "price": 1180000,
-      "first_seen": "2026-05-15"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-18"
+  "last_updated": "2026-05-19"
 }
