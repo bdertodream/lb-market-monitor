@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 14706,
+  "total_tracked": 14708,
   "total_drops": 370,
-  "total_new": 14706,
+  "total_new": 14708,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -5188,6 +5188,28 @@
     }
   ],
   "new_listings": [
+    {
+      "id": "9816482",
+      "title": "Full Floor Office | Off-Plan | JVC",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/14/full-floor-office-off-plan-jvc-2-316511/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Office",
+      "size": "15495",
+      "bedrooms": "",
+      "price": 31121700,
+      "first_seen": "2026-05-20"
+    },
+    {
+      "id": "9816480",
+      "title": "Combined Office Units | Off-Plan | JVC",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/14/combined-office-units-off-plan-jvc-2-442592/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Office",
+      "size": "9604",
+      "bedrooms": "",
+      "price": 19311780,
+      "first_seen": "2026-05-20"
+    },
     {
       "id": "9813265",
       "title": "Premium Office Space | High Floor | Prime location",
@@ -10665,30 +10687,8 @@
       "bedrooms": "1",
       "price": 1490000,
       "first_seen": "2026-05-15"
-    },
-    {
-      "id": "17470660",
-      "title": "Furnished | Vacant | Brand New | Negotiable |Cash Buyer",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/15/fully-furnished-vacant-brand-new-negoti-2-206814/",
-      "area": "Dubai Science Park",
-      "category": "Apartment",
-      "size": "743",
-      "bedrooms": "1",
-      "price": 800000,
-      "first_seen": "2026-05-15"
-    },
-    {
-      "id": "17318237",
-      "title": "Below OP | Full Sea View | First Row Sea",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/13/op-price-full-sea-view-high-roi-2-183974/",
-      "area": "Mina Rashid",
-      "category": "Apartment",
-      "size": "1220",
-      "bedrooms": "2",
-      "price": 3650000,
-      "first_seen": "2026-05-15"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-19"
+  "last_updated": "2026-05-20"
 }
