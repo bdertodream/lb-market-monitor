@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 15004,
-  "total_drops": 389,
-  "total_new": 15004,
+  "total_tracked": 15005,
+  "total_drops": 390,
+  "total_new": 15005,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -5451,6 +5451,20 @@
       "bedrooms": "",
       "date": "2026-05-21",
       "first_seen": "2026-03-09"
+    },
+    {
+      "id": "9811678",
+      "title": "BEST LOWEST PRICED | HIGH FLOOR | NEXT TO METRO",
+      "old_price": 1300000,
+      "new_price": 1200000,
+      "drop_pct": 7.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/15/next-to-metro-high-floor-good-roi-2-318538/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "872",
+      "bedrooms": "",
+      "date": "2026-05-21",
+      "first_seen": "2026-04-15"
     }
   ],
   "new_listings": [
@@ -7113,6 +7127,17 @@
       "size": "947",
       "bedrooms": "",
       "price": 2382591,
+      "first_seen": "2026-05-21"
+    },
+    {
+      "id": "9816233",
+      "title": "INVESTOR DEAL | RETAIL | READY IN 2026",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/5/13/investor-deal-retail-ready-in-2026-2-130523/",
+      "area": "Jumeirah Village Triangle (JVT)",
+      "category": "Shop",
+      "size": "1210",
+      "bedrooms": "",
+      "price": 3025725,
       "first_seen": "2026-05-21"
     },
     {
@@ -10941,17 +10966,6 @@
       "size": "1592",
       "bedrooms": "2",
       "price": 3636828,
-      "first_seen": "2026-05-18"
-    },
-    {
-      "id": "17480496",
-      "title": "Burj Khalifa View | Multiple Unit | OP Deal",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/18/burj-khalifa-view-multiple-unit-op-deal-2-330714/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "957",
-      "bedrooms": "1",
-      "price": 2739828,
       "first_seen": "2026-05-18"
     }
   ],
