@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 15005,
-  "total_drops": 390,
-  "total_new": 15005,
+  "total_tracked": 15016,
+  "total_drops": 391,
+  "total_new": 15016,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -5465,9 +5465,144 @@
       "bedrooms": "",
       "date": "2026-05-21",
       "first_seen": "2026-04-15"
+    },
+    {
+      "id": "9804697",
+      "title": "Limited A+ Grade Office | Burj Khalifa View | 40/60 PP | Investor Choice DM For Equity Report | A+ Grade Amenities",
+      "old_price": 2750000,
+      "new_price": 2000000,
+      "drop_pct": 27.3,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/18/limited-a-grade-office-burj-khalifa-vie-2-119895/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "743",
+      "bedrooms": "",
+      "date": "2026-05-22",
+      "first_seen": "2026-03-08"
     }
   ],
   "new_listings": [
+    {
+      "id": "9812654",
+      "title": "Furnished Office | 4 Parking | Vacant Now",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/21/furnished-office-4-parking-vacant-now-2-413091/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "2313",
+      "bedrooms": "",
+      "price": 6800000,
+      "first_seen": "2026-05-22"
+    },
+    {
+      "id": "9812648",
+      "title": "Premium Office | Commercial Tower | High ROI Gain",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/21/premium-office-commercial-tower-high-ro-2-913470/",
+      "area": "DAMAC Hills",
+      "category": "Office",
+      "size": "693",
+      "bedrooms": "",
+      "price": 8447000,
+      "first_seen": "2026-05-22"
+    },
+    {
+      "id": "9812608",
+      "title": "Burj Khalifa and Creek view | Premium Full Floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/21/burj-khalifa-and-creek-view-premium-ful-2-276619/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "8036",
+      "bedrooms": "",
+      "price": 29500000,
+      "first_seen": "2026-05-22"
+    },
+    {
+      "id": "9812512",
+      "title": "3 Combined Offices | Prime Business Bay Location | Vacant on Transfer",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/20/3-combined-offices-prime-business-bay-l-2-195077/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "314",
+      "bedrooms": "",
+      "price": 2400000,
+      "first_seen": "2026-05-22"
+    },
+    {
+      "id": "9812476",
+      "title": "For Sale Office | Vacant for rent | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/20/for-sale-office-vacant-for-rent-prime-l-2-144147/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "1122",
+      "bedrooms": "",
+      "price": 1900000,
+      "first_seen": "2026-05-22"
+    },
+    {
+      "id": "9812461",
+      "title": "Genuine Resale | Full Canal View | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/20/genuine-resale-full-canal-view-prime-lo-2-156620/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "357",
+      "bedrooms": "",
+      "price": 1224000,
+      "first_seen": "2026-05-22"
+    },
+    {
+      "id": "9812460",
+      "title": "Investors Deal | Prime location | Canal View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/20/investors-deal-prime-location-canal-vie-2-332305/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "631",
+      "bedrooms": "",
+      "price": 2550000,
+      "first_seen": "2026-05-22"
+    },
+    {
+      "id": "9809103",
+      "title": "Luxury Office | Canal View | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/27/luxury-office-canal-view-prime-location-2-223999/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1487",
+      "bedrooms": "",
+      "price": 3999000,
+      "first_seen": "2026-05-22"
+    },
+    {
+      "id": "9804709",
+      "title": "10M FOR FULL FLOOR OFFICE SPACE IN BUSINESS BAY | RENTED",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/18/full-floor-for-sale-in-business-bay-ren-2-286178/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1765",
+      "bedrooms": "",
+      "price": 10000000,
+      "first_seen": "2026-05-22"
+    },
+    {
+      "id": "9804689",
+      "title": "Full Floor JBC5 | Grade A Tower | Notice Served",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/commercial-floor/2026/2/18/full-floor-jbc5-grade-a-tower-notice-se-2-986039/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Commercial Floor",
+      "size": "11172",
+      "bedrooms": "",
+      "price": 40000000,
+      "first_seen": "2026-05-22"
+    },
+    {
+      "id": "9804647",
+      "title": "D3 View | Prime Location | Loft Office",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/18/d3-view-prime-location-loft-office-2-759366/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "2467",
+      "bedrooms": "",
+      "price": 12307000,
+      "first_seen": "2026-05-22"
+    },
     {
       "id": "9812453",
       "title": "Luxury Fit-out | Near Metro | Furnished",
@@ -10846,129 +10981,8 @@
       "bedrooms": "1",
       "price": 3400000,
       "first_seen": "2026-05-18"
-    },
-    {
-      "id": "17364018",
-      "title": "5 Bedroom | The Nest Al Barari | Luxury Property",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/4/23/5-bedroom-the-nest-al-barari-luxury-pro-2-303428/",
-      "area": "Al Barari",
-      "category": "Villa",
-      "size": "11656",
-      "bedrooms": "5",
-      "price": 50000000,
-      "first_seen": "2026-05-18"
-    },
-    {
-      "id": "17437965",
-      "title": "Fully Furnished | Premium Living | Gated Community",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/8/fully-furnished-premium-living-gated-co-2-947457/",
-      "area": "Jumeirah Golf Estates",
-      "category": "Apartment",
-      "size": "723",
-      "bedrooms": "1",
-      "price": 1300000,
-      "first_seen": "2026-05-18"
-    },
-    {
-      "id": "17364011",
-      "title": "PARK VIEW | BEST PRICE | PRIME LOCATION",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/4/23/park-view-best-price-prime-location-2-301542/",
-      "area": "Jumeirah Golf Estates",
-      "category": "Townhouse",
-      "size": "3160",
-      "bedrooms": "3",
-      "price": 5610000,
-      "first_seen": "2026-05-18"
-    },
-    {
-      "id": "17363999",
-      "title": "Best Price | Prime Location | Jasmine Lane",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/4/23/best-price-prime-location-jasmine-lane-2-114895/",
-      "area": "Jumeirah Golf Estates",
-      "category": "Townhouse",
-      "size": "2203",
-      "bedrooms": "3",
-      "price": 4199999,
-      "first_seen": "2026-05-18"
-    },
-    {
-      "id": "17364007",
-      "title": "Investor Opportunity | Best Price | Landscaped",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/4/23/investor-opportunity-best-price-landsca-2-150221/",
-      "area": "Jumeirah Golf Estates",
-      "category": "Townhouse",
-      "size": "2297",
-      "bedrooms": "3",
-      "price": 4250000,
-      "first_seen": "2026-05-18"
-    },
-    {
-      "id": "17479934",
-      "title": "Priced to Sell | VOT | Renovation Opportunity",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/18/priced-to-sell-vot-renovation-opportuni-2-759973/",
-      "area": "Arabian Ranches",
-      "category": "Villa",
-      "size": "5000",
-      "bedrooms": "5",
-      "price": 11499999,
-      "first_seen": "2026-05-18"
-    },
-    {
-      "id": "17297051",
-      "title": "Effective Design | Rented Assets | Price To Sell",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/7/effective-design-rented-assets-price-to-2-353668/",
-      "area": "Dubai Production City (IMPZ)",
-      "category": "Apartment",
-      "size": "1256",
-      "bedrooms": "2",
-      "price": 975000,
-      "first_seen": "2026-05-18"
-    },
-    {
-      "id": "17460120",
-      "title": "Below OP | Near Lagoon | Motivated seller | Vastu",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/13/below-op-near-lagoon-motivated-seller-v-2-260711/",
-      "area": "The Oasis by Emaar",
-      "category": "Villa",
-      "size": "8506",
-      "bedrooms": "4",
-      "price": 13950000,
-      "first_seen": "2026-05-18"
-    },
-    {
-      "id": "17273779",
-      "title": "Meydan View | 1-bedroom Apartment | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/2/meydan-view-1-bedroom-apartment-prime-l-2-120075/",
-      "area": "Meydan",
-      "category": "Apartment",
-      "size": "490",
-      "bedrooms": "1",
-      "price": 1300000,
-      "first_seen": "2026-05-18"
-    },
-    {
-      "id": "17342137",
-      "title": "SMART HOME | PARK VIEW | FULLY FURNISHED",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/18/smart-home-park-view-fully-furnished-2-198887/",
-      "area": "Arjan",
-      "category": "Apartment",
-      "size": "412",
-      "bedrooms": "0",
-      "price": 725000,
-      "first_seen": "2026-05-18"
-    },
-    {
-      "id": "17480494",
-      "title": "Multiple Unit Available | Panoramic View | OP Deal",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/18/multiple-unit-available-panoramic-view--2-171990/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Apartment",
-      "size": "1592",
-      "bedrooms": "2",
-      "price": 3636828,
-      "first_seen": "2026-05-18"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-21"
+  "last_updated": "2026-05-22"
 }

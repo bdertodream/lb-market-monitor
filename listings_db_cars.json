@@ -10146,7 +10146,8 @@
     "drop_usd": 500,
     "drop_pct": 3.3,
     "last_drop_date": "2026-05-12",
-    "posted_date": "2026-03-01"
+    "posted_date": "2026-03-01",
+    "stale": true
   },
   "116765960": {
     "id": "116765960",
@@ -14461,7 +14462,8 @@
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
-    "posted_date": "2026-03-01"
+    "posted_date": "2026-03-01",
+    "stale": true
   },
   "116768039": {
     "id": "116768039",
@@ -16628,7 +16630,8 @@
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
-    "posted_date": "2026-03-01"
+    "posted_date": "2026-03-01",
+    "stale": true
   },
   "116695021": {
     "id": "116695021",
@@ -16660,7 +16663,8 @@
     "drop_usd": 1000,
     "drop_pct": 2.0,
     "last_drop_date": "2026-05-13",
-    "posted_date": "2026-03-01"
+    "posted_date": "2026-03-01",
+    "stale": true
   },
   "116615700": {
     "id": "116615700",
@@ -16692,7 +16696,8 @@
     "drop_usd": 1000,
     "drop_pct": 2.6,
     "last_drop_date": "2026-05-13",
-    "posted_date": "2026-03-01"
+    "posted_date": "2026-03-01",
+    "stale": true
   },
   "116596121": {
     "id": "116596121",
@@ -16805,7 +16810,8 @@
     "drop_usd": 0,
     "drop_pct": 0,
     "last_drop_date": null,
-    "posted_date": "2026-03-01"
+    "posted_date": "2026-03-01",
+    "stale": true
   },
   "116577668": {
     "id": "116577668",
@@ -16898,7 +16904,8 @@
     "drop_usd": 5000,
     "drop_pct": 5.3,
     "last_drop_date": "2026-05-06",
-    "posted_date": "2026-03-01"
+    "posted_date": "2026-03-01",
+    "stale": true
   },
   "116810414": {
     "id": "116810414",
@@ -27340,7 +27347,8 @@
     "drop_usd": 200,
     "drop_pct": 1.4,
     "last_drop_date": "2026-05-05",
-    "posted_date": "2026-03-01"
+    "posted_date": "2026-03-01",
+    "stale": true
   },
   "116645782": {
     "id": "116645782",
@@ -27438,7 +27446,8 @@
     "drop_usd": 2500,
     "drop_pct": 4.4,
     "last_drop_date": "2026-05-05",
-    "posted_date": "2026-03-01"
+    "posted_date": "2026-03-01",
+    "stale": true
   },
   "115883000": {
     "id": "115883000",
@@ -28329,7 +28338,8 @@
     "drop_usd": 2500,
     "drop_pct": 6.8,
     "last_drop_date": "2026-04-07",
-    "posted_date": "2026-03-01"
+    "posted_date": "2026-03-01",
+    "stale": true
   },
   "116313008": {
     "id": "116313008",
@@ -28410,7 +28420,8 @@
     "drop_usd": 1100,
     "drop_pct": 1.4,
     "last_drop_date": "2026-04-14",
-    "posted_date": "2026-03-01"
+    "posted_date": "2026-03-01",
+    "stale": true
   },
   "116109230": {
     "id": "116109230",
@@ -230275,7 +230286,8 @@
     "posted_date": "2026-04-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116844055": {
     "id": "116844055",
@@ -247642,7 +247654,8 @@
     "posted_date": "2026-04-09",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116847664": {
     "id": "116847664",
@@ -255829,7 +255842,8 @@
     "posted_date": "2026-04-11",
     "drop_usd": 300,
     "drop_pct": 1.9,
-    "last_drop_date": "2026-05-12"
+    "last_drop_date": "2026-05-12",
+    "stale": true
   },
   "116850085": {
     "id": "116850085",
@@ -260930,7 +260944,8 @@
     "posted_date": "2026-04-12",
     "drop_usd": 1000,
     "drop_pct": 4.8,
-    "last_drop_date": "2026-05-05"
+    "last_drop_date": "2026-05-05",
+    "stale": true
   },
   "116851334": {
     "id": "116851334",
@@ -262415,7 +262430,8 @@
     "posted_date": "2026-04-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116851770": {
     "id": "116851770",
@@ -274430,7 +274446,8 @@
     "posted_date": "2026-04-15",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116854305": {
     "id": "116854305",
@@ -300957,7 +300974,8 @@
     "posted_date": "2026-04-20",
     "drop_usd": 700,
     "drop_pct": 6.1,
-    "last_drop_date": "2026-04-26"
+    "last_drop_date": "2026-04-26",
+    "stale": true
   },
   "116861620": {
     "id": "116861620",
@@ -306230,7 +306248,8 @@
     "posted_date": "2026-04-21",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "115937010": {
     "id": "115937010",
@@ -323627,7 +323646,8 @@
     "posted_date": "2026-04-25",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116869072": {
     "id": "116869072",
@@ -327985,7 +328005,8 @@
     "posted_date": "2026-04-25",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116870388": {
     "id": "116870388",
@@ -330460,7 +330481,8 @@
     "posted_date": "2026-04-26",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116870723": {
     "id": "116870723",
@@ -332408,7 +332430,8 @@
     "posted_date": "2026-04-27",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116871561": {
     "id": "116871561",
@@ -334774,7 +334797,8 @@
     "posted_date": "2026-04-27",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116872180": {
     "id": "116872180",
@@ -336557,7 +336581,8 @@
     "posted_date": "2026-04-27",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116872871": {
     "id": "116872871",
@@ -339669,7 +339694,8 @@
     "posted_date": "2026-04-28",
     "drop_usd": 2000,
     "drop_pct": 4.0,
-    "last_drop_date": "2026-05-13"
+    "last_drop_date": "2026-05-13",
+    "stale": true
   },
   "116873191": {
     "id": "116873191",
@@ -346265,7 +346291,8 @@
     "posted_date": "2026-04-29",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116874747": {
     "id": "116874747",
@@ -346968,7 +346995,8 @@
     "posted_date": "2026-04-29",
     "drop_usd": 2000,
     "drop_pct": 6.2,
-    "last_drop_date": "2026-05-04"
+    "last_drop_date": "2026-05-04",
+    "stale": true
   },
   "116875197": {
     "id": "116875197",
@@ -361565,7 +361593,8 @@
     "posted_date": "2026-05-02",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116878613": {
     "id": "116878613",
@@ -363085,7 +363114,8 @@
     "posted_date": "2026-05-02",
     "drop_usd": 600,
     "drop_pct": 5.3,
-    "last_drop_date": "2026-05-08"
+    "last_drop_date": "2026-05-08",
+    "stale": true
   },
   "116878996": {
     "id": "116878996",
@@ -363331,7 +363361,8 @@
     "posted_date": "2026-05-02",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116878889": {
     "id": "116878889",
@@ -363717,7 +363748,8 @@
     "posted_date": "2026-05-02",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116879233": {
     "id": "116879233",
@@ -367310,7 +367342,8 @@
     "posted_date": "2026-05-03",
     "drop_usd": 250,
     "drop_pct": 4.8,
-    "last_drop_date": "2026-05-12"
+    "last_drop_date": "2026-05-12",
+    "stale": true
   },
   "116880385": {
     "id": "116880385",
@@ -371852,7 +371885,8 @@
     "posted_date": "2026-05-04",
     "drop_usd": 200,
     "drop_pct": 0.7,
-    "last_drop_date": "2026-05-04"
+    "last_drop_date": "2026-05-04",
+    "stale": true
   },
   "116881426": {
     "id": "116881426",
@@ -372045,7 +372079,8 @@
     "posted_date": "2026-05-04",
     "drop_usd": 501,
     "drop_pct": 2.2,
-    "last_drop_date": "2026-05-13"
+    "last_drop_date": "2026-05-13",
+    "stale": true
   },
   "116881397": {
     "id": "116881397",
@@ -373322,7 +373357,8 @@
     "posted_date": "2026-05-04",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116882132": {
     "id": "116882132",
@@ -373697,7 +373733,8 @@
     "posted_date": "2026-05-04",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116882015": {
     "id": "116882015",
@@ -374527,7 +374564,8 @@
     "posted_date": "2026-05-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116882832": {
     "id": "116882832",
@@ -374917,7 +374955,8 @@
     "posted_date": "2026-05-05",
     "drop_usd": 500,
     "drop_pct": 3.0,
-    "last_drop_date": "2026-05-13"
+    "last_drop_date": "2026-05-13",
+    "stale": true
   },
   "116882710": {
     "id": "116882710",
@@ -375094,7 +375133,8 @@
     "posted_date": "2026-05-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116882588": {
     "id": "116882588",
@@ -377630,7 +377670,8 @@
     "posted_date": "2026-05-05",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116882859": {
     "id": "116882859",
@@ -379328,7 +379369,8 @@
     "posted_date": "2026-05-06",
     "drop_usd": 800,
     "drop_pct": 10.3,
-    "last_drop_date": "2026-05-13"
+    "last_drop_date": "2026-05-13",
+    "stale": true
   },
   "116884038": {
     "id": "116884038",
@@ -381918,7 +381960,8 @@
     "posted_date": "2026-05-06",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116884345": {
     "id": "116884345",
@@ -385668,7 +385711,8 @@
     "posted_date": "2026-05-07",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116885644": {
     "id": "116885644",
@@ -387460,7 +387504,8 @@
     "posted_date": "2026-05-07",
     "drop_usd": 4500,
     "drop_pct": 16.1,
-    "last_drop_date": "2026-05-09"
+    "last_drop_date": "2026-05-09",
+    "stale": true
   },
   "116886130": {
     "id": "116886130",
@@ -390708,7 +390753,8 @@
     "posted_date": "2026-05-07",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116886701": {
     "id": "116886701",
@@ -391000,7 +391046,8 @@
     "posted_date": "2026-05-07",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116886612": {
     "id": "116886612",
@@ -399321,7 +399368,8 @@
     "posted_date": "2026-05-09",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116889305": {
     "id": "116889305",
@@ -401140,7 +401188,8 @@
     "posted_date": "2026-05-10",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116756923": {
     "id": "116756923",
@@ -406438,7 +406487,8 @@
     "posted_date": "2026-05-11",
     "drop_usd": 1000,
     "drop_pct": 4.5,
-    "last_drop_date": "2026-05-13"
+    "last_drop_date": "2026-05-13",
+    "stale": true
   },
   "116749684": {
     "id": "116749684",
@@ -406590,7 +406640,8 @@
     "posted_date": "2026-05-11",
     "drop_usd": 500,
     "drop_pct": 9.1,
-    "last_drop_date": "2026-05-12"
+    "last_drop_date": "2026-05-12",
+    "stale": true
   },
   "116772517": {
     "id": "116772517",
@@ -409833,7 +409884,8 @@
     "posted_date": "2026-05-11",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116891875": {
     "id": "116891875",
@@ -410645,7 +410697,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892189": {
     "id": "116892189",
@@ -410673,7 +410726,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116155956": {
     "id": "116155956",
@@ -410705,7 +410759,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892161": {
     "id": "116892161",
@@ -410733,7 +410788,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892123": {
     "id": "116892123",
@@ -411083,7 +411139,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892597": {
     "id": "116892597",
@@ -411140,7 +411197,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892587": {
     "id": "116892587",
@@ -411168,7 +411226,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892581": {
     "id": "116892581",
@@ -411196,7 +411255,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892566": {
     "id": "116892566",
@@ -411224,7 +411284,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892542": {
     "id": "116892542",
@@ -411256,7 +411317,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 100,
     "drop_pct": 1.6,
-    "last_drop_date": "2026-05-13"
+    "last_drop_date": "2026-05-13",
+    "stale": true
   },
   "116892530": {
     "id": "116892530",
@@ -411284,7 +411346,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892521": {
     "id": "116892521",
@@ -411312,7 +411375,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892519": {
     "id": "116892519",
@@ -411340,7 +411404,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892511": {
     "id": "116892511",
@@ -411368,7 +411433,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892507": {
     "id": "116892507",
@@ -411424,7 +411490,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892501": {
     "id": "116892501",
@@ -411452,7 +411519,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892494": {
     "id": "116892494",
@@ -411480,7 +411548,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892493": {
     "id": "116892493",
@@ -411508,7 +411577,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892483": {
     "id": "116892483",
@@ -411536,7 +411606,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892478": {
     "id": "116892478",
@@ -411564,7 +411635,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892473": {
     "id": "116892473",
@@ -411604,7 +411676,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 300,
     "drop_pct": 2.0,
-    "last_drop_date": "2026-05-13"
+    "last_drop_date": "2026-05-13",
+    "stale": true
   },
   "116892472": {
     "id": "116892472",
@@ -411632,7 +411705,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892466": {
     "id": "116892466",
@@ -411660,7 +411734,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892461": {
     "id": "116892461",
@@ -411688,7 +411763,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892445": {
     "id": "116892445",
@@ -411716,7 +411792,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892442": {
     "id": "116892442",
@@ -411744,7 +411821,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892434": {
     "id": "116892434",
@@ -411772,7 +411850,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892433": {
     "id": "116892433",
@@ -411800,7 +411879,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892431": {
     "id": "116892431",
@@ -411828,7 +411908,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892421": {
     "id": "116892421",
@@ -411856,7 +411937,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892414": {
     "id": "116892414",
@@ -411884,7 +411966,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892409": {
     "id": "116892409",
@@ -411912,7 +411995,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892405": {
     "id": "116892405",
@@ -411940,7 +412024,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892402": {
     "id": "116892402",
@@ -411968,7 +412053,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892384": {
     "id": "116892384",
@@ -411996,7 +412082,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892381": {
     "id": "116892381",
@@ -412024,7 +412111,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892375": {
     "id": "116892375",
@@ -412052,7 +412140,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892372": {
     "id": "116892372",
@@ -412080,7 +412169,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892369": {
     "id": "116892369",
@@ -412108,7 +412198,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892368": {
     "id": "116892368",
@@ -412136,7 +412227,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892355": {
     "id": "116892355",
@@ -412164,7 +412256,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892350": {
     "id": "116892350",
@@ -412192,7 +412285,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892348": {
     "id": "116892348",
@@ -412220,7 +412314,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892337": {
     "id": "116892337",
@@ -412248,7 +412343,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892333": {
     "id": "116892333",
@@ -412276,7 +412372,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892331": {
     "id": "116892331",
@@ -412304,7 +412401,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892330": {
     "id": "116892330",
@@ -412360,7 +412458,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892286": {
     "id": "116892286",
@@ -412388,7 +412487,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892261": {
     "id": "116892261",
@@ -412472,7 +412572,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892253": {
     "id": "116892253",
@@ -412500,7 +412601,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892243": {
     "id": "116892243",
@@ -412528,7 +412630,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892240": {
     "id": "116892240",
@@ -412556,7 +412659,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892232": {
     "id": "116892232",
@@ -412584,7 +412688,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892227": {
     "id": "116892227",
@@ -412612,7 +412717,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892221": {
     "id": "116892221",
@@ -412640,7 +412746,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892218": {
     "id": "116892218",
@@ -412668,7 +412775,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892211": {
     "id": "116892211",
@@ -412696,7 +412804,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892206": {
     "id": "116892206",
@@ -412724,7 +412833,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892205": {
     "id": "116892205",
@@ -412752,7 +412862,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892195": {
     "id": "116892195",
@@ -412780,7 +412891,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893018": {
     "id": "116893018",
@@ -412808,7 +412920,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892994": {
     "id": "116892994",
@@ -412836,7 +412949,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892985": {
     "id": "116892985",
@@ -412864,7 +412978,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892980": {
     "id": "116892980",
@@ -412892,7 +413007,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892975": {
     "id": "116892975",
@@ -412920,7 +413036,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892907": {
     "id": "116892907",
@@ -412948,7 +413065,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892901": {
     "id": "116892901",
@@ -412976,7 +413094,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892895": {
     "id": "116892895",
@@ -413004,7 +413123,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892882": {
     "id": "116892882",
@@ -413032,7 +413152,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892878": {
     "id": "116892878",
@@ -413064,7 +413185,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892874": {
     "id": "116892874",
@@ -413092,7 +413214,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892871": {
     "id": "116892871",
@@ -413148,7 +413271,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892865": {
     "id": "116892865",
@@ -413204,7 +413328,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892837": {
     "id": "116892837",
@@ -413232,7 +413357,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892825": {
     "id": "116892825",
@@ -413260,7 +413386,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892820": {
     "id": "116892820",
@@ -413288,7 +413415,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892789": {
     "id": "116892789",
@@ -413316,7 +413444,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892786": {
     "id": "116892786",
@@ -413373,7 +413502,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892765": {
     "id": "116892765",
@@ -413401,7 +413531,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892760": {
     "id": "116892760",
@@ -413429,7 +413560,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116507051": {
     "id": "116507051",
@@ -413457,7 +413589,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892732": {
     "id": "116892732",
@@ -413489,7 +413622,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892731": {
     "id": "116892731",
@@ -413517,7 +413651,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892728": {
     "id": "116892728",
@@ -413545,7 +413680,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892718": {
     "id": "116892718",
@@ -413602,7 +413738,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116892680": {
     "id": "116892680",
@@ -413716,7 +413853,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893313": {
     "id": "116893313",
@@ -413748,7 +413886,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893307": {
     "id": "116893307",
@@ -413776,7 +413915,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893289": {
     "id": "116893289",
@@ -413804,7 +413944,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893288": {
     "id": "116893288",
@@ -413832,7 +413973,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893273": {
     "id": "116893273",
@@ -413889,7 +414031,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893250": {
     "id": "116893250",
@@ -413917,7 +414060,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893247": {
     "id": "116893247",
@@ -413945,7 +414089,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116884626": {
     "id": "116884626",
@@ -413973,7 +414118,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893223": {
     "id": "116893223",
@@ -414001,7 +414147,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893219": {
     "id": "116893219",
@@ -414029,7 +414176,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893216": {
     "id": "116893216",
@@ -414057,7 +414205,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893209": {
     "id": "116893209",
@@ -414113,7 +414262,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893204": {
     "id": "116893204",
@@ -414141,7 +414291,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893195": {
     "id": "116893195",
@@ -414169,7 +414320,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893190": {
     "id": "116893190",
@@ -414197,7 +414349,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893186": {
     "id": "116893186",
@@ -414225,7 +414378,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893183": {
     "id": "116893183",
@@ -414253,7 +414407,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893179": {
     "id": "116893179",
@@ -414281,7 +414436,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893178": {
     "id": "116893178",
@@ -414309,7 +414465,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893163": {
     "id": "116893163",
@@ -414365,7 +414522,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893145": {
     "id": "116893145",
@@ -414393,7 +414551,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893141": {
     "id": "116893141",
@@ -414421,7 +414580,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893122": {
     "id": "116893122",
@@ -414507,7 +414667,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116602216": {
     "id": "116602216",
@@ -414535,7 +414696,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893082": {
     "id": "116893082",
@@ -414563,7 +414725,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893076": {
     "id": "116893076",
@@ -414591,7 +414754,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893063": {
     "id": "116893063",
@@ -414619,7 +414783,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893051": {
     "id": "116893051",
@@ -414647,7 +414812,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893035": {
     "id": "116893035",
@@ -414675,7 +414841,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893033": {
     "id": "116893033",
@@ -414731,7 +414898,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893024": {
     "id": "116893024",
@@ -414788,7 +414956,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116842352": {
     "id": "116842352",
@@ -414816,7 +414985,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893536": {
     "id": "116893536",
@@ -414844,7 +415014,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893525": {
     "id": "116893525",
@@ -414872,7 +415043,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893522": {
     "id": "116893522",
@@ -414900,7 +415072,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893520": {
     "id": "116893520",
@@ -414984,7 +415157,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893513": {
     "id": "116893513",
@@ -415041,7 +415215,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893510": {
     "id": "116893510",
@@ -415069,7 +415244,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893506": {
     "id": "116893506",
@@ -415097,7 +415273,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893505": {
     "id": "116893505",
@@ -415153,7 +415330,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893496": {
     "id": "116893496",
@@ -415181,7 +415359,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893489": {
     "id": "116893489",
@@ -415209,7 +415388,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893486": {
     "id": "116893486",
@@ -415237,7 +415417,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893475": {
     "id": "116893475",
@@ -415265,7 +415446,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893448": {
     "id": "116893448",
@@ -415293,7 +415475,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116636265": {
     "id": "116636265",
@@ -415321,7 +415504,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893431": {
     "id": "116893431",
@@ -415377,7 +415561,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893416": {
     "id": "116893416",
@@ -415461,7 +415646,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893398": {
     "id": "116893398",
@@ -415521,7 +415707,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893389": {
     "id": "116893389",
@@ -415549,7 +415736,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116661205": {
     "id": "116661205",
@@ -415577,7 +415765,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116724277": {
     "id": "116724277",
@@ -415605,7 +415794,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893372": {
     "id": "116893372",
@@ -415633,7 +415823,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893351": {
     "id": "116893351",
@@ -415661,7 +415852,8 @@
     "posted_date": "2026-05-12",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893609": {
     "id": "116893609",
@@ -415689,7 +415881,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893597": {
     "id": "116893597",
@@ -415717,7 +415910,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116781635": {
     "id": "116781635",
@@ -415745,7 +415939,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893585": {
     "id": "116893585",
@@ -415773,7 +415968,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893583": {
     "id": "116893583",
@@ -415801,7 +415997,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893582": {
     "id": "116893582",
@@ -415829,7 +416026,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116543274": {
     "id": "116543274",
@@ -415997,7 +416195,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894280": {
     "id": "116894280",
@@ -416054,7 +416253,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894271": {
     "id": "116894271",
@@ -416082,7 +416282,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894262": {
     "id": "116894262",
@@ -416110,7 +416311,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894220": {
     "id": "116894220",
@@ -416138,7 +416340,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894209": {
     "id": "116894209",
@@ -416166,7 +416369,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894193": {
     "id": "116894193",
@@ -416194,7 +416398,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894192": {
     "id": "116894192",
@@ -416222,7 +416427,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894180": {
     "id": "116894180",
@@ -416250,7 +416456,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894174": {
     "id": "116894174",
@@ -416278,7 +416485,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894123": {
     "id": "116894123",
@@ -416306,7 +416514,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894075": {
     "id": "116894075",
@@ -416334,7 +416543,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116801833": {
     "id": "116801833",
@@ -416362,7 +416572,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894032": {
     "id": "116894032",
@@ -416390,7 +416601,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894022": {
     "id": "116894022",
@@ -416418,7 +416630,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894019": {
     "id": "116894019",
@@ -416446,7 +416659,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893999": {
     "id": "116893999",
@@ -416474,7 +416688,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893995": {
     "id": "116893995",
@@ -416502,7 +416717,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893984": {
     "id": "116893984",
@@ -416530,7 +416746,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893982": {
     "id": "116893982",
@@ -416558,7 +416775,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893977": {
     "id": "116893977",
@@ -416586,7 +416804,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893955": {
     "id": "116893955",
@@ -416674,7 +416893,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116371819": {
     "id": "116371819",
@@ -416702,7 +416922,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893917": {
     "id": "116893917",
@@ -416730,7 +416951,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893886": {
     "id": "116893886",
@@ -416758,7 +416980,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893873": {
     "id": "116893873",
@@ -416786,7 +417009,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893869": {
     "id": "116893869",
@@ -416814,7 +417038,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893866": {
     "id": "116893866",
@@ -416842,7 +417067,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116721138": {
     "id": "116721138",
@@ -416870,7 +417096,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893845": {
     "id": "116893845",
@@ -416898,7 +417125,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893840": {
     "id": "116893840",
@@ -416926,7 +417154,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893839": {
     "id": "116893839",
@@ -416954,7 +417183,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893834": {
     "id": "116893834",
@@ -416982,7 +417212,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116779738": {
     "id": "116779738",
@@ -417010,7 +417241,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893806": {
     "id": "116893806",
@@ -417038,7 +417270,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893794": {
     "id": "116893794",
@@ -417066,7 +417299,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893781": {
     "id": "116893781",
@@ -417094,7 +417328,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893773": {
     "id": "116893773",
@@ -417122,7 +417357,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893771": {
     "id": "116893771",
@@ -417150,7 +417386,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893764": {
     "id": "116893764",
@@ -417178,7 +417415,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893746": {
     "id": "116893746",
@@ -417206,7 +417444,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893735": {
     "id": "116893735",
@@ -417267,7 +417506,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 200,
     "drop_pct": 2.2,
-    "last_drop_date": "2026-05-13"
+    "last_drop_date": "2026-05-13",
+    "stale": true
   },
   "116893715": {
     "id": "116893715",
@@ -417295,7 +417535,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893710": {
     "id": "116893710",
@@ -417323,7 +417564,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893702": {
     "id": "116893702",
@@ -417351,7 +417593,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893692": {
     "id": "116893692",
@@ -417379,7 +417622,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893670": {
     "id": "116893670",
@@ -417407,7 +417651,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893660": {
     "id": "116893660",
@@ -417435,7 +417680,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893646": {
     "id": "116893646",
@@ -417463,7 +417709,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893644": {
     "id": "116893644",
@@ -417491,7 +417738,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116893551": {
     "id": "116893551",
@@ -417519,7 +417767,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894848": {
     "id": "116894848",
@@ -417747,7 +417996,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116839348": {
     "id": "116839348",
@@ -418423,7 +418673,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894575": {
     "id": "116894575",
@@ -420063,7 +420314,8 @@
     "posted_date": "2026-05-13",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116894932": {
     "id": "116894932",
@@ -421791,7 +422043,8 @@
     "posted_date": "2026-05-14",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116895548": {
     "id": "116895548",
@@ -422831,7 +423084,8 @@
     "posted_date": "2026-05-14",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116895841": {
     "id": "116895841",
@@ -423195,7 +423449,8 @@
     "posted_date": "2026-05-14",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116895777": {
     "id": "116895777",
@@ -424455,7 +424710,8 @@
     "posted_date": "2026-05-14",
     "drop_usd": 0,
     "drop_pct": 0,
-    "last_drop_date": null
+    "last_drop_date": null,
+    "stale": true
   },
   "116896349": {
     "id": "116896349",
