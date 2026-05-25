@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 15300,
+  "total_tracked": 15301,
   "total_drops": 407,
-  "total_new": 15300,
+  "total_new": 15301,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -5707,6 +5707,17 @@
   ],
   "new_listings": [
     {
+      "id": "9814237",
+      "title": "Stunning Interior| Natural Light| Fully Furnished",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/1/stunning-interior-natural-light-fully-f-2-235527/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "726",
+      "bedrooms": "",
+      "price": 3248888,
+      "first_seen": "2026-05-25"
+    },
+    {
       "id": "9812984",
       "title": "Vacant | Fully Furnished | Lake View | Low Floor",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/23/investor-deal-fully-furnished-rented-ti-2-218617/",
@@ -11194,19 +11205,8 @@
       "bedrooms": "0",
       "price": 520000,
       "first_seen": "2026-05-20"
-    },
-    {
-      "id": "17475022",
-      "title": "Open House 24 May | 12 PM to 2 PM | By Appointment",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/16/exclusive-fully-upgraded-corner-plot-2-244448/",
-      "area": "Arabian Ranches",
-      "category": "Villa",
-      "size": "3166",
-      "bedrooms": "4",
-      "price": 8850000,
-      "first_seen": "2026-05-20"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-24"
+  "last_updated": "2026-05-25"
 }
