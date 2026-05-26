@@ -184385,8 +184385,8 @@
   },
   "16800670": {
     "id": "16800670",
-    "title": "MG RX5 2024 GCC specs",
-    "price": 66750,
+    "title": "MG RX5 2024 GCC specs | Warranty",
+    "price": 62750,
     "make": "MG",
     "model": "RX5",
     "year": "2024",
@@ -184401,6 +184401,10 @@
       {
         "price": 66750,
         "date": "2026-04-27T21:11:42Z"
+      },
+      {
+        "price": 62750,
+        "date": "2026-05-26T03:34:37Z"
       }
     ],
     "date": "2026-04-27"
@@ -184593,8 +184597,8 @@
   },
   "16805209": {
     "id": "16805209",
-    "title": "Mercedes-Benz GLB 35 AMG 2020 GCC specs",
-    "price": 149750,
+    "title": "Mercedes-Benz GLB 35 AMG 2020 GCC specs | Warranty",
+    "price": 144750,
     "make": "Mercedes-Benz",
     "model": "GLB-Class",
     "year": "2020",
@@ -184609,6 +184613,10 @@
       {
         "price": 149750,
         "date": "2026-04-28T03:04:23Z"
+      },
+      {
+        "price": 144750,
+        "date": "2026-05-26T03:34:37Z"
       }
     ],
     "date": "2026-04-28"
@@ -239914,7 +239922,7 @@
   "16839495": {
     "id": "16839495",
     "title": "C200 2016 Japan Specs / 2.0L Turbo v4",
-    "price": 42500,
+    "price": 44500,
     "make": "Mercedes-Benz",
     "model": "C-Class",
     "year": "2016",
@@ -239941,6 +239949,10 @@
       {
         "price": 42500,
         "date": "2026-05-25T21:08:14Z"
+      },
+      {
+        "price": 44500,
+        "date": "2026-05-26T03:34:37Z"
       }
     ],
     "date": "2026-05-14"
@@ -271189,6 +271201,116 @@
       {
         "price": 169750,
         "date": "2026-05-25T21:08:14Z"
+      }
+    ],
+    "date": "2026-05-25"
+  },
+  "16841258": {
+    "id": "16841258",
+    "title": "BMW 735i 2026 GCC | Agency Warranty",
+    "price": 385750,
+    "make": "BMW",
+    "model": "7-Series",
+    "year": "2026",
+    "kilometers": "24000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/5/16/bmw-735i-2026-gcc-agency-warranty-2-195---0859b631514b43c28c24df4d7282cbca/",
+    "first_seen": "2026-05-26T03:34:37Z",
+    "prices": [
+      {
+        "price": 385750,
+        "date": "2026-05-26T03:34:37Z"
+      }
+    ],
+    "date": "2026-05-26"
+  },
+  "16836658": {
+    "id": "16836658",
+    "title": "Range Rover Sport Dynamic HSE P400 2024 GCC | Agency Warranty | Service Contract",
+    "price": 455750,
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "year": "2024",
+    "kilometers": "27000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/5/12/range-rover-sport-dynamic-hse-p400-2024-gc-2-265---caedcab1571a4018a4f6daac93b2e6b2/",
+    "first_seen": "2026-05-26T03:34:37Z",
+    "prices": [
+      {
+        "price": 455750,
+        "date": "2026-05-26T03:34:37Z"
+      }
+    ],
+    "date": "2026-05-26"
+  },
+  "16843120": {
+    "id": "16843120",
+    "title": "Hyundai Santa Fe 2024 GCC | Agency Warranty",
+    "price": 145750,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "year": "2024",
+    "kilometers": "37000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/santa-fe/2026/5/18/hyundai-santa-fe-2024-gcc-agency-warranty-2-328---190e87ec96114f419bdce23a1113f0d6/",
+    "first_seen": "2026-05-26T03:34:37Z",
+    "prices": [
+      {
+        "price": 145750,
+        "date": "2026-05-26T03:34:37Z"
+      }
+    ],
+    "date": "2026-05-25"
+  },
+  "16839892": {
+    "id": "16839892",
+    "title": "Jeep Wrangler Sahara 80th Anniversary 2021 GCC under Agency Warranty",
+    "price": 114750,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2021",
+    "kilometers": "78000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler/2026/5/15/jeep-wrangler-sahara-80th-anniversary-2021-2-301---288ee8f441db44199740c8e3b1ed6b2f/",
+    "first_seen": "2026-05-26T03:34:37Z",
+    "prices": [
+      {
+        "price": 114750,
+        "date": "2026-05-26T03:34:37Z"
+      }
+    ],
+    "date": "2026-05-25"
+  },
+  "16851717": {
+    "id": "16851717",
+    "title": "Jeep Grand Cherokee Limited 2019 | GCC Specs | Low Mileage",
+    "price": 48000,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2019",
+    "kilometers": "150000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "International City Phase 2 (Warsan 4)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/5/25/jeep-grand-cherokee-limited-2019-gcc-specs-2-316---d3d2fd41d8934d1eb28a2d81fe08a445/",
+    "first_seen": "2026-05-26T03:34:37Z",
+    "prices": [
+      {
+        "price": 48000,
+        "date": "2026-05-26T03:34:37Z"
       }
     ],
     "date": "2026-05-25"

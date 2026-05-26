@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 15436,
-  "total_drops": 417,
-  "total_new": 15436,
+  "total_tracked": 15438,
+  "total_drops": 418,
+  "total_new": 15438,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -5843,9 +5843,45 @@
       "bedrooms": "",
       "date": "2026-05-25",
       "first_seen": "2026-05-25"
+    },
+    {
+      "id": "9802814",
+      "title": "Brand New Spacious Retail Shop | By Binghatti | Jumeirah Village Circle",
+      "old_price": 5607584,
+      "new_price": 5085295,
+      "drop_pct": 9.3,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/7/brand-new-spacious-retail-shop-by-bingh-2-116291/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Shop",
+      "size": "1753",
+      "bedrooms": "",
+      "date": "2026-05-26",
+      "first_seen": "2026-03-25"
     }
   ],
   "new_listings": [
+    {
+      "id": "9800365",
+      "title": "Shell & Core | Strong ROI | Long Term Investment | Brandnew",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/1/22/shell-core-strong-roi-long-term-investm-2-274946/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Shop",
+      "size": "1061",
+      "bedrooms": "",
+      "price": 3500000,
+      "first_seen": "2026-05-26"
+    },
+    {
+      "id": "9800323",
+      "title": "Business Center / Fitted Furnished / Open Views",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/22/open-views-vacant-fitted-and-furnished-2-609265/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "9305",
+      "bedrooms": "",
+      "price": 55814700,
+      "first_seen": "2026-05-26"
+    },
     {
       "id": "9814237",
       "title": "Stunning Interior| Natural Light| Fully Furnished",
@@ -11323,30 +11359,8 @@
       "bedrooms": "5",
       "price": 5600000,
       "first_seen": "2026-05-21"
-    },
-    {
-      "id": "17499794",
-      "title": "On Sheikh Zayed Road | Next to Metro | Investor Product | High ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/21/on-sheikh-zayed-road-next-to-metro-inve-2-127136/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "440",
-      "bedrooms": "0",
-      "price": 780000,
-      "first_seen": "2026-05-21"
-    },
-    {
-      "id": "17470482",
-      "title": "1BR Apartment | Binghatti Aquarise | Multiple Views | Furnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/15/1br-apartment-binghatti-aquarise-multip-2-189727/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "790",
-      "bedrooms": "1",
-      "price": 1906000,
-      "first_seen": "2026-05-21"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-25"
+  "last_updated": "2026-05-26"
 }
