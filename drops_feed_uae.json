@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
   "total_tracked": 15495,
-  "total_drops": 419,
+  "total_drops": 420,
   "total_new": 15495,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
@@ -5871,6 +5871,20 @@
       "bedrooms": "1",
       "date": "2026-05-26",
       "first_seen": "2026-04-01"
+    },
+    {
+      "id": "9813353",
+      "title": "Burj Khalifa View | Luxury Furnished | Premium Office",
+      "old_price": 58500000,
+      "new_price": 55500000,
+      "drop_pct": 5.1,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/26/burj-khalifa-view-luxury-furnished-prem-2-260947/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "10122",
+      "bedrooms": "",
+      "date": "2026-05-27",
+      "first_seen": "2026-04-26"
     }
   ],
   "new_listings": [
@@ -11376,5 +11390,5 @@
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-26"
+  "last_updated": "2026-05-27"
 }
