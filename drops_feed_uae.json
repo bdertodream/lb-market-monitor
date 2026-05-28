@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 15526,
+  "total_tracked": 15528,
   "total_drops": 422,
-  "total_new": 15526,
+  "total_new": 15528,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -5917,6 +5917,28 @@
   ],
   "new_listings": [
     {
+      "id": "9813467",
+      "title": "Rare Dubai Hills | Investor Opp | Retail",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/4/27/rare-dubai-hills-investor-opp-retail-2-143982/",
+      "area": "Dubai Hills Estate",
+      "category": "Shop",
+      "size": "1081",
+      "bedrooms": "",
+      "price": 7800000,
+      "first_seen": "2026-05-28"
+    },
+    {
+      "id": "9813403",
+      "title": "Fully Upgraded | Prime Location | Full Canal Views",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/27/fully-upgraded-prime-location-full-cana-2-594846/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "822",
+      "bedrooms": "",
+      "price": 1800000,
+      "first_seen": "2026-05-28"
+    },
+    {
       "id": "17516743",
       "title": "Designer Luxury Villa | Pool | Smart Home",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/25/designer-luxury-villa-pool-smart-home-2-906565/",
@@ -6226,7 +6248,7 @@
     },
     {
       "id": "17520420",
-      "title": "Luxury Resort-Style Living | Binghatti Hillside | Smart Modern Residences | Elegant Contemporary De",
+      "title": "Luxury Resort-Style Living | Binghatti Hillside | Smart Modern Residences | Elegant Contemporary Design | High ROI Investment",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/27/luxury-resort-style-living-binghatti-hi-2-313413/",
       "area": "Dubai Science Park",
       "category": "Apartment",
@@ -11393,30 +11415,8 @@
       "bedrooms": "6",
       "price": 12600000,
       "first_seen": "2026-05-22"
-    },
-    {
-      "id": "17417288",
-      "title": "Spacious Villa | Ready to Move in | Community View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/4/spacious-villa-ready-to-move-in-communi-2-205569/",
-      "area": "The Villa",
-      "category": "Villa",
-      "size": "5400",
-      "bedrooms": "5",
-      "price": 7500000,
-      "first_seen": "2026-05-22"
-    },
-    {
-      "id": "17479493",
-      "title": "Next to Sports Court and Spinneys | Modern Layout",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/17/next-to-sports-court-and-spinneys-moder-2-187111/",
-      "area": "The Villa",
-      "category": "Villa",
-      "size": "9597",
-      "bedrooms": "5",
-      "price": 8750000,
-      "first_seen": "2026-05-22"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-27"
+  "last_updated": "2026-05-28"
 }
