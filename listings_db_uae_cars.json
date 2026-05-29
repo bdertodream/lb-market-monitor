@@ -200464,7 +200464,7 @@
   "16824709": {
     "id": "16824709",
     "title": "BMW X5 xDrive50i M Sport kit 2016 GCC Specs",
-    "price": 57000,
+    "price": 59500,
     "make": "BMW",
     "model": "X5",
     "year": "2016",
@@ -200479,6 +200479,10 @@
       {
         "price": 57000,
         "date": "2026-05-02T13:21:26Z"
+      },
+      {
+        "price": 59500,
+        "date": "2026-05-29T03:38:01Z"
       }
     ],
     "date": "2026-05-02"
@@ -226852,7 +226856,7 @@
   "16834443": {
     "id": "16834443",
     "title": "Hyundai Santa Fe Grand Edition 2016 GCC Specs",
-    "price": 35000,
+    "price": 33000,
     "make": "Hyundai",
     "model": "Santa Fe",
     "year": "2016",
@@ -226871,6 +226875,10 @@
       {
         "price": 35000,
         "date": "2026-05-24T13:26:51Z"
+      },
+      {
+        "price": 33000,
+        "date": "2026-05-29T03:38:01Z"
       }
     ],
     "date": "2026-05-10"
@@ -231458,7 +231466,7 @@
   "16836117": {
     "id": "16836117",
     "title": "Audi A5 S-line 2014 GCC Specs - Pristine Condition",
-    "price": 22000,
+    "price": 21000,
     "make": "Audi",
     "model": "A5",
     "year": "2014",
@@ -231477,6 +231485,10 @@
       {
         "price": 22000,
         "date": "2026-05-21T11:26:15Z"
+      },
+      {
+        "price": 21000,
+        "date": "2026-05-29T03:38:01Z"
       }
     ],
     "date": "2026-05-12"
@@ -274809,6 +274821,116 @@
       {
         "price": 9500,
         "date": "2026-05-28T21:56:03Z"
+      }
+    ],
+    "date": "2026-05-28"
+  },
+  "16853060": {
+    "id": "16853060",
+    "title": "2012 Kia Sportage LX GCC Specs",
+    "price": 18000,
+    "make": "Kia",
+    "model": "Sportage",
+    "year": "2012",
+    "kilometers": "275000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Jaddaf",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/sportage/2026/5/29/2012-kia-sportage-lx-gcc-specs-2-649---6896ff3270684fff8d4651e74d5937d2/",
+    "first_seen": "2026-05-29T03:38:01Z",
+    "prices": [
+      {
+        "price": 18000,
+        "date": "2026-05-29T03:38:01Z"
+      }
+    ],
+    "date": "2026-05-29"
+  },
+  "16847082": {
+    "id": "16847082",
+    "title": "2022 Land Rover Range Rover HSE P530 V8 GCC",
+    "price": 415000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2022",
+    "kilometers": "72000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/5/21/land-rover-range-rover-hse-p530-2022-gcc-s-2-884---100173cb6cb442b0b3a6df5252e31680/",
+    "first_seen": "2026-05-29T03:38:01Z",
+    "prices": [
+      {
+        "price": 415000,
+        "date": "2026-05-29T03:38:01Z"
+      }
+    ],
+    "date": "2026-05-28"
+  },
+  "16840476": {
+    "id": "16840476",
+    "title": "Toyota FJ Cruiser 2023 GCC specs - GXR - Last Production Month!",
+    "price": 189000,
+    "make": "Toyota",
+    "model": "FJ Cruiser",
+    "year": "2023",
+    "kilometers": "16000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/fj-cruiser/2026/5/15/toyota-fj-cruiser-2023-gcc-specs-gxr-last--2-075---1f8cd6a6fa7d44f6bde30d384bd5ef2a/",
+    "first_seen": "2026-05-29T03:38:01Z",
+    "prices": [
+      {
+        "price": 189000,
+        "date": "2026-05-29T03:38:01Z"
+      }
+    ],
+    "date": "2026-05-28"
+  },
+  "16839339": {
+    "id": "16839339",
+    "title": "Aston Martin V8 Vantage S SP10 2016 GCC specs",
+    "price": 200000,
+    "make": "Aston Martin",
+    "model": "Vantage",
+    "year": "2016",
+    "kilometers": "61000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/aston-martin/vantage/2026/5/14/aston-martin-v8-vantage-s-sp10-2016-gcc-sp-2-660---0ccd60dbe5eb448dbf3c18a91de77bd5/",
+    "first_seen": "2026-05-29T03:38:01Z",
+    "prices": [
+      {
+        "price": 200000,
+        "date": "2026-05-29T03:38:01Z"
+      }
+    ],
+    "date": "2026-05-28"
+  },
+  "16853480": {
+    "id": "16853480",
+    "title": "Audi R8 2022 European specs",
+    "price": 389000,
+    "make": "Audi",
+    "model": "R8",
+    "year": "2022",
+    "kilometers": "51300",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/r8/2026/5/28/audi-r8-2022-european-specs-2-663---3456ccd54ebb4f2ab29c43e41b43158c/",
+    "first_seen": "2026-05-29T03:38:01Z",
+    "prices": [
+      {
+        "price": 389000,
+        "date": "2026-05-29T03:38:01Z"
       }
     ],
     "date": "2026-05-28"
