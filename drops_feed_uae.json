@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 15597,
-  "total_drops": 427,
-  "total_new": 15597,
+  "total_tracked": 15599,
+  "total_drops": 430,
+  "total_new": 15599,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -5983,9 +5983,73 @@
       "bedrooms": "",
       "date": "2026-05-29",
       "first_seen": "2026-05-14"
+    },
+    {
+      "id": "17367513",
+      "title": "2 Bedrooms | High Floor | Corner | Vacant",
+      "old_price": 3099000,
+      "new_price": 2900000,
+      "drop_pct": 6.4,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/24/2-bedroom-high-floor-corner-vacant-2-181840/",
+      "area": "Dubai Creek Harbour",
+      "category": "Apartment",
+      "size": "1123",
+      "bedrooms": "2",
+      "date": "2026-05-30",
+      "first_seen": "2026-04-29"
+    },
+    {
+      "id": "17358867",
+      "title": "4M Type | Renovation Opportunity | Vacant",
+      "old_price": 3599990,
+      "new_price": 3400000,
+      "drop_pct": 5.6,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/4/22/4m-type-renovation-opportunity-vacant-2-121106/",
+      "area": "The Springs",
+      "category": "Villa",
+      "size": "1647",
+      "bedrooms": "2",
+      "date": "2026-05-30",
+      "first_seen": "2026-04-29"
+    },
+    {
+      "id": "17182279",
+      "title": "Hot Deal | Brand New | Huge Layout with Pool View",
+      "old_price": 2700000,
+      "new_price": 2400000,
+      "drop_pct": 11.1,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/10/hot-deal-brand-new-huge-layout-with-poo-2-164149/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "1595",
+      "bedrooms": "2",
+      "date": "2026-05-30",
+      "first_seen": "2026-05-02"
     }
   ],
   "new_listings": [
+    {
+      "id": "9813730",
+      "title": "Handover Soon |Commercial Zone |High ROI Yield",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/28/handover-soon-commercial-zone-high-roi--2-285103/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Office",
+      "size": "1092",
+      "bedrooms": "",
+      "price": 3200000,
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "9813843",
+      "title": "Premium Office | 2 Title Deeds | High Floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/29/premium-office-2-title-deeds-high-floor-2-278381/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "3281",
+      "bedrooms": "",
+      "price": 7697986,
+      "first_seen": "2026-05-30"
+    },
     {
       "id": "17092823",
       "title": "Resort-Style Living | Beach Access | High Demand",
@@ -11463,30 +11527,8 @@
       "bedrooms": "4",
       "price": 6100000,
       "first_seen": "2026-05-22"
-    },
-    {
-      "id": "17504526",
-      "title": "Next To Metro | 50/50 PP | Growing Location | High Roi | Upcoming Downtown",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/22/next-to-metro-5050-pp-growing-location--2-173155/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "621",
-      "bedrooms": "1",
-      "price": 840000,
-      "first_seen": "2026-05-22"
-    },
-    {
-      "id": "17454085",
-      "title": "Quiet Location | Large Layout | Spacious | 4 BR",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/12/quiet-location-large-layout-spacious-4--2-311545/",
-      "area": "Arabian Ranches 2",
-      "category": "Villa",
-      "size": "4650",
-      "bedrooms": "4",
-      "price": 6899998,
-      "first_seen": "2026-05-22"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-05-29"
+  "last_updated": "2026-05-30"
 }
