@@ -54612,7 +54612,7 @@
   "16688063": {
     "id": "16688063",
     "title": "JEEP CHEROKEE (D) 2.0 LONGITUDE AWD",
-    "price": 22900,
+    "price": 24900,
     "make": "Jeep",
     "model": "Cherokee",
     "year": "2015",
@@ -54631,6 +54631,10 @@
       {
         "price": 22900,
         "date": "2026-05-04T03:02:15Z"
+      },
+      {
+        "price": 24900,
+        "date": "2026-05-31T03:53:24Z"
       }
     ],
     "date": "2026-03-17"
@@ -54638,7 +54642,7 @@
   "16683152": {
     "id": "16683152",
     "title": "KIA THE BOLD SPORTAGE (D) 2.0 2WD Luxuary",
-    "price": 35900,
+    "price": 37900,
     "make": "Kia",
     "model": "Sportage",
     "year": "2019",
@@ -54657,6 +54661,10 @@
       {
         "price": 35900,
         "date": "2026-05-04T03:02:15Z"
+      },
+      {
+        "price": 37900,
+        "date": "2026-05-31T03:53:24Z"
       }
     ],
     "date": "2026-03-17"
@@ -54738,7 +54746,7 @@
   "16703068": {
     "id": "16703068",
     "title": "THE NEW SPARK (G) 1.0 LS",
-    "price": 19000,
+    "price": 19900,
     "make": "Chevrolet",
     "model": "Spark",
     "year": "2019",
@@ -54757,6 +54765,10 @@
       {
         "price": 19000,
         "date": "2026-05-04T03:02:15Z"
+      },
+      {
+        "price": 19900,
+        "date": "2026-05-31T03:53:24Z"
       }
     ],
     "date": "2026-03-17"
@@ -160548,7 +160560,7 @@
   "16785802": {
     "id": "16785802",
     "title": "Audi Q7 S line 2020 GCC | WITH FULL SERVICE HISTORY BY AUDI DEALER | NEVER HAD ACCIDENT OR PAINT",
-    "price": 103000,
+    "price": 110000,
     "make": "Audi",
     "model": "Q7",
     "year": "2020",
@@ -160563,6 +160575,10 @@
       {
         "price": 103000,
         "date": "2026-04-20T10:07:52Z"
+      },
+      {
+        "price": 110000,
+        "date": "2026-05-31T03:53:24Z"
       }
     ],
     "date": "2026-04-20"
@@ -160614,7 +160630,7 @@
   "16785836": {
     "id": "16785836",
     "title": "Zotye T700 Royal 2020 - GCC Specs - Excellent Condition - with every single option",
-    "price": 38500,
+    "price": 33500,
     "make": "Zotye",
     "model": "T700",
     "year": "2020",
@@ -160629,6 +160645,10 @@
       {
         "price": 38500,
         "date": "2026-04-20T10:07:52Z"
+      },
+      {
+        "price": 33500,
+        "date": "2026-05-31T03:53:24Z"
       }
     ],
     "date": "2026-04-20"
@@ -186724,7 +186744,7 @@
   "16810466": {
     "id": "16810466",
     "title": "Hyundai Grandeur 2.5 Premium 2020 - Korean Specs - Excellent Condition",
-    "price": 52000,
+    "price": 54900,
     "make": "Hyundai",
     "model": "Grandeur",
     "year": "2020",
@@ -186739,6 +186759,10 @@
       {
         "price": 52000,
         "date": "2026-04-28T10:22:52Z"
+      },
+      {
+        "price": 54900,
+        "date": "2026-05-31T03:53:24Z"
       }
     ],
     "date": "2026-04-28"
@@ -186746,7 +186770,7 @@
   "16810501": {
     "id": "16810501",
     "title": "Hyundai Tucson 2019, Korean Specs",
-    "price": 34000,
+    "price": 36900,
     "make": "Hyundai",
     "model": "Tucson",
     "year": "2019",
@@ -186761,6 +186785,10 @@
       {
         "price": 34000,
         "date": "2026-04-28T10:22:52Z"
+      },
+      {
+        "price": 36900,
+        "date": "2026-05-31T03:53:24Z"
       }
     ],
     "date": "2026-04-28"
@@ -212638,7 +212666,7 @@
   "16829340": {
     "id": "16829340",
     "title": "Ford F-Series Pickup Shelby ||| SHELBY CERTIFICATE AVAILABLE ||| Literally Iike brand new |",
-    "price": 289000,
+    "price": 298000,
     "make": "Ford",
     "model": "F-Series Pickup",
     "year": "2022",
@@ -212657,6 +212685,10 @@
       {
         "price": 289000,
         "date": "2026-05-09T17:05:07Z"
+      },
+      {
+        "price": 298000,
+        "date": "2026-05-31T03:53:24Z"
       }
     ],
     "date": "2026-05-06"
@@ -234788,7 +234820,7 @@
   "16810445": {
     "id": "16810445",
     "title": "Mercedes-Benz C-Class C200 2022 - Korean Specs - Excellent Condition!",
-    "price": 130000,
+    "price": 133900,
     "make": "Mercedes-Benz",
     "model": "C-Class",
     "year": "2022",
@@ -234803,6 +234835,10 @@
       {
         "price": 130000,
         "date": "2026-05-13T06:55:05Z"
+      },
+      {
+        "price": 133900,
+        "date": "2026-05-31T03:53:24Z"
       }
     ],
     "date": "2026-05-13"
@@ -279321,6 +279357,72 @@
       {
         "price": 114999,
         "date": "2026-05-30T20:58:45Z"
+      }
+    ],
+    "date": "2026-05-30"
+  },
+  "16670149": {
+    "id": "16670149",
+    "title": "Honda Civic 2.0 LXI 2020 American SPECS LADY DRIVEN",
+    "price": 26500,
+    "make": "Honda",
+    "model": "Civic",
+    "year": "2020",
+    "kilometers": "96604",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Nahda (Dubai)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/honda/civic/2025/12/13/honda-civic-18-lxi-2020-american-specs-lad-2-286---63d227ba2212486c88494b1dbf5dd8d9/",
+    "first_seen": "2026-05-31T03:53:24Z",
+    "prices": [
+      {
+        "price": 26500,
+        "date": "2026-05-31T03:53:24Z"
+      }
+    ],
+    "date": "2026-05-31"
+  },
+  "16855289": {
+    "id": "16855289",
+    "title": "Lexus GS 350 2013 - Japanese Specs",
+    "price": 29500,
+    "make": "Lexus",
+    "model": "GS-Series",
+    "year": "2013",
+    "kilometers": "146000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Sobha Hartland",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/gs-series/2026/5/30/lexus-gs-350-2013-japanese-specs-2-122---5be70e6d22ea4d9b944040d5818ad162/",
+    "first_seen": "2026-05-31T03:53:24Z",
+    "prices": [
+      {
+        "price": 29500,
+        "date": "2026-05-31T03:53:24Z"
+      }
+    ],
+    "date": "2026-05-30"
+  },
+  "16855221": {
+    "id": "16855221",
+    "title": "2023 Hongqi E-HS9 EV | GCC Specs | Luxury Electric SUV",
+    "price": 120000,
+    "make": "Hongqi",
+    "model": "E-HS9",
+    "year": "2023",
+    "kilometers": "82000",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "area": "Maple 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hongqi/e-hs9/2026/5/30/2023-hongqi-e-hs9-ev-gcc-specs-luxury-elec-2-872---3d7a0db391a94c14879d2e475b7f2b82/",
+    "first_seen": "2026-05-31T03:53:24Z",
+    "prices": [
+      {
+        "price": 120000,
+        "date": "2026-05-31T03:53:24Z"
       }
     ],
     "date": "2026-05-30"
