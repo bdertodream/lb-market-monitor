@@ -5606,7 +5606,7 @@
   "16690213": {
     "id": "16690213",
     "title": "Infiniti QX50 2019 Excellent Condition",
-    "price": 45500,
+    "price": 43500,
     "make": "Infiniti",
     "model": "QX50",
     "year": "{'label': 'Year', 'value': 2019}",
@@ -5621,6 +5621,10 @@
       {
         "price": 45500,
         "date": "2026-03-08T18:30:05Z"
+      },
+      {
+        "price": 43500,
+        "date": "2026-05-31T10:17:10Z"
       }
     ],
     "date": "2026-03-08"
@@ -20270,7 +20274,7 @@
   "16654825": {
     "id": "16654825",
     "title": "Toyota Yaris 2021 GCC Excellent condition",
-    "price": 30500,
+    "price": 29000,
     "make": "Toyota",
     "model": "Yaris",
     "year": "2021",
@@ -20285,6 +20289,10 @@
       {
         "price": 30500,
         "date": "2026-03-10T17:48:28Z"
+      },
+      {
+        "price": 29000,
+        "date": "2026-05-31T10:17:10Z"
       }
     ],
     "date": "2026-03-10"
@@ -36794,7 +36802,7 @@
   "16741976": {
     "id": "16741976",
     "title": "GCC SPECS AGMC WARRANTY - 2023 BMW M4 CSL 1/1000 WORLDWIDE EXPOSED CARBON FIBRE + LASERLIGHT TECH",
-    "price": 479000,
+    "price": 475000,
     "make": "BMW",
     "model": "M4",
     "year": "2023",
@@ -36817,6 +36825,10 @@
       {
         "price": 479000,
         "date": "2026-05-11T07:45:27Z"
+      },
+      {
+        "price": 475000,
+        "date": "2026-05-31T10:17:10Z"
       }
     ],
     "date": "2026-03-13"
@@ -64536,7 +64548,7 @@
   "16674262": {
     "id": "16674262",
     "title": "Hyundai Sonata 2012 GCC Excellent condition",
-    "price": 15500,
+    "price": 14500,
     "make": "Hyundai",
     "model": "Sonata",
     "year": "2012",
@@ -64555,6 +64567,10 @@
       {
         "price": 15500,
         "date": "2026-05-17T09:50:20Z"
+      },
+      {
+        "price": 14500,
+        "date": "2026-05-31T10:17:10Z"
       }
     ],
     "date": "2026-03-21"
@@ -197670,7 +197686,7 @@
   "16823430": {
     "id": "16823430",
     "title": "GCC Specs Porsche 911 Carrera GTS 2026 - High Spec - Brand New",
-    "price": 795000,
+    "price": 778000,
     "make": "Porsche",
     "model": "Carrera / 911",
     "year": "2026",
@@ -197679,12 +197695,16 @@
     "fuel_type": "Petrol",
     "area": "Dubai Production City (IMPZ)",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/carrera/2026/5/1/gcc-specs-porsche-911-carrera-gts-2026-hig-2-666---ad9616262bd14c68b36abb7a4f5009bd/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/911/2026/5/1/gcc-specs-porsche-911-carrera-gts-2026-hig-2-666---ad9616262bd14c68b36abb7a4f5009bd/",
     "first_seen": "2026-05-01T13:28:15Z",
     "prices": [
       {
         "price": 795000,
         "date": "2026-05-01T13:28:15Z"
+      },
+      {
+        "price": 778000,
+        "date": "2026-05-31T10:17:10Z"
       }
     ],
     "date": "2026-05-01"
@@ -200787,8 +200807,8 @@
   },
   "16824744": {
     "id": "16824744",
-    "title": "Mercedes-Benz GLS 450 2017 - GCC Specs",
-    "price": 78500,
+    "title": "Mercedes-Benz GLS 450 2017 - American specifications",
+    "price": 62500,
     "make": "Mercedes-Benz",
     "model": "GLS-Class",
     "year": "2017",
@@ -200803,6 +200823,10 @@
       {
         "price": 78500,
         "date": "2026-05-02T13:21:26Z"
+      },
+      {
+        "price": 62500,
+        "date": "2026-05-31T10:17:10Z"
       }
     ],
     "date": "2026-05-02"
@@ -252634,7 +252658,7 @@
   "16843755": {
     "id": "16843755",
     "title": "GCC SPECS AL NABOODAH WARRANTY - 2026 PORSCHE 911 TURBO S CABRIOLET - CARBON PACKAGE - PCCB",
-    "price": 1550000,
+    "price": 1499000,
     "make": "Porsche",
     "model": "911",
     "year": "2026",
@@ -252649,6 +252673,10 @@
       {
         "price": 1550000,
         "date": "2026-05-18T21:14:11Z"
+      },
+      {
+        "price": 1499000,
+        "date": "2026-05-31T10:17:10Z"
       }
     ],
     "date": "2026-05-18"
@@ -279578,5 +279606,335 @@
       }
     ],
     "date": "2026-05-30"
+  },
+  "16852855": {
+    "id": "16852855",
+    "title": "Nissan Juke S 2013 GCC Specs",
+    "price": 15500,
+    "make": "Nissan",
+    "model": "Juke",
+    "year": "2013",
+    "kilometers": "135000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Business Bay",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/juke/2026/5/27/nissan-juke-s-2013-gcc-specs-2-467---60277add284b4340929814c3e4dccc4e/",
+    "first_seen": "2026-05-31T10:17:10Z",
+    "prices": [
+      {
+        "price": 15500,
+        "date": "2026-05-31T10:17:10Z"
+      }
+    ],
+    "date": "2026-05-31"
+  },
+  "16855674": {
+    "id": "16855674",
+    "title": "Peugeot 308 Turbo Allure 1600 CC 2016 | GCC Specs | Low Mileage | New Condition",
+    "price": 16500,
+    "make": "Peugeot",
+    "model": "308",
+    "year": "2016",
+    "kilometers": "109000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Dubai Silicon Oasis (DSO)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/peugeot/308/2026/5/31/peugeot-308-turbo-allure-1600-cc-2016-gcc--2-698---5d6663c8613b4e5f82012ee717e5b0dd/",
+    "first_seen": "2026-05-31T10:17:10Z",
+    "prices": [
+      {
+        "price": 16500,
+        "date": "2026-05-31T10:17:10Z"
+      }
+    ],
+    "date": "2026-05-31"
+  },
+  "16855656": {
+    "id": "16855656",
+    "title": "Hyundai Elantra 2023 | Korean Specs | Excellent Condition",
+    "price": 43500,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": "2023",
+    "kilometers": "79000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/elantra/2026/5/31/hyundai-elantra-2023-korean-specs-excellen-2-621---336c694f350b4b50971abedfab0e1290/",
+    "first_seen": "2026-05-31T10:17:10Z",
+    "prices": [
+      {
+        "price": 43500,
+        "date": "2026-05-31T10:17:10Z"
+      }
+    ],
+    "date": "2026-05-31"
+  },
+  "16855642": {
+    "id": "16855642",
+    "title": "Peugeot 208 2015 GCC Specs - Well Maintained Compact Hatchback",
+    "price": 11900,
+    "make": "Peugeot",
+    "model": "208",
+    "year": "2015",
+    "kilometers": "172000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/peugeot/208/2026/5/31/peugeot-208-2015-gcc-specs-well-maintained-2-089---e591dbb606aa4edd8cb823c5ab3dd2ff/",
+    "first_seen": "2026-05-31T10:17:10Z",
+    "prices": [
+      {
+        "price": 11900,
+        "date": "2026-05-31T10:17:10Z"
+      }
+    ],
+    "date": "2026-05-31"
+  },
+  "16833713": {
+    "id": "16833713",
+    "title": "Drive with confidence. We offer premium quality vehicles backed by a comprehensive 3-Year Warranty a",
+    "price": 135450,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": "2023",
+    "kilometers": "13800",
+    "body_type": "Soft Top Convertible",
+    "fuel_type": "Petrol",
+    "area": "Al Mankhool",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/c-class/2026/5/10/2023-mercedes-benz-c-class-c-300-cabriolet-2-388---83af8dd2584b41c1a7ffa7da386b4262/",
+    "first_seen": "2026-05-31T10:17:10Z",
+    "prices": [
+      {
+        "price": 135450,
+        "date": "2026-05-31T10:17:10Z"
+      }
+    ],
+    "date": "2026-05-31"
+  },
+  "16850990": {
+    "id": "16850990",
+    "title": "#Warranty 3YearWarranty #ServiceContract #UsedCars #QualityCars #CarSales #PremiumVehicles #AutoGems",
+    "price": 128000,
+    "make": "Mercedes-Benz",
+    "model": "GLB-Class",
+    "year": "2025",
+    "kilometers": "31500",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Marina",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/glb-class/2026/5/25/2025-mercedes-benz-glb-250-american-specs--2-436---5b34a28a87a64879b543208b7cd77f73/",
+    "first_seen": "2026-05-31T10:17:10Z",
+    "prices": [
+      {
+        "price": 128000,
+        "date": "2026-05-31T10:17:10Z"
+      }
+    ],
+    "date": "2026-05-31"
+  },
+  "16855609": {
+    "id": "16855609",
+    "title": "UNDER WARRANTY IN AGENCY //AGENCY SERVICE CONTRACT//LIKE NEW DODGE CHARGER RT 5.7 HIMI TOP LINE",
+    "price": 98500,
+    "make": "Dodge",
+    "model": "Charger",
+    "year": "2021",
+    "kilometers": "82000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Discovery Gardens",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dodge/charger/2026/5/31/under-warranty-in-agency-agency-service-co-2-564---6cd817e11f154a959786ad7aa1ed5735/",
+    "first_seen": "2026-05-31T10:17:10Z",
+    "prices": [
+      {
+        "price": 98500,
+        "date": "2026-05-31T10:17:10Z"
+      }
+    ],
+    "date": "2026-05-31"
+  },
+  "16832445": {
+    "id": "16832445",
+    "title": "Mercedes-Benz S300 | 2012 | GCC specs",
+    "price": 33000,
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": "2012",
+    "kilometers": "200000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Warqaa 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/5/9/mercedes-benz-s-class-s-300-2012-gcc-specs-2-386---3d981b3bea184744a81892b956ca6126/",
+    "first_seen": "2026-05-31T10:17:10Z",
+    "prices": [
+      {
+        "price": 33000,
+        "date": "2026-05-31T10:17:10Z"
+      }
+    ],
+    "date": "2026-05-31"
+  },
+  "16855570": {
+    "id": "16855570",
+    "title": "Toyota Land Cruiser 4.0 VXR 2026 GCC Specs - Brand New Luxury  Performance",
+    "price": 330000,
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/5/31/toyota-land-cruiser-40-vxr-2026-gcc-specs--2-915---b33bbdd3fede4d1cb1d01c2c17a7ce05/",
+    "first_seen": "2026-05-31T10:17:10Z",
+    "prices": [
+      {
+        "price": 330000,
+        "date": "2026-05-31T10:17:10Z"
+      }
+    ],
+    "date": "2026-05-31"
+  },
+  "16827422": {
+    "id": "16827422",
+    "title": "\u0631\u064a\u0646\u0648 \u062f\u0633\u062a\u0631 2020 \u0646\u0638\u064a\u0641\u0629 \u0648\u0635\u064a\u0627\u0646\u0647 \u0634\u0627\u0645\u0644\u0629",
+    "price": 21000,
+    "make": "Renault",
+    "model": "Duster",
+    "year": "2020",
+    "kilometers": "132000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Twar 4",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/renault/duster/2026/5/5/2020-2-964---ed7f363603d14a8f9925441dacb1a7ea/",
+    "first_seen": "2026-05-31T10:17:10Z",
+    "prices": [
+      {
+        "price": 21000,
+        "date": "2026-05-31T10:17:10Z"
+      }
+    ],
+    "date": "2026-05-31"
+  },
+  "16855569": {
+    "id": "16855569",
+    "title": "Lexus RX 350h Premier 2025 | GCC Specs | Brand New",
+    "price": 230000,
+    "make": "Lexus",
+    "model": "RX-Series",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/rx-series/2026/5/31/lexus-rx-350h-premier-2025-gcc-specs-brand-2-986---6c9f337454fd426a98ae9268c05897ef/",
+    "first_seen": "2026-05-31T10:17:10Z",
+    "prices": [
+      {
+        "price": 230000,
+        "date": "2026-05-31T10:17:10Z"
+      }
+    ],
+    "date": "2026-05-31"
+  },
+  "16855565": {
+    "id": "16855565",
+    "title": "Lexus LX 700h Signature 2025 GCC Specs",
+    "price": 498000,
+    "make": "Lexus",
+    "model": "LX-Series",
+    "year": "2025",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/lx-series/2026/5/31/lexus-lx-700h-signature-2025-gcc-specs-2-469---c6ee993f95b74f72ad6794a3f26c599c/",
+    "first_seen": "2026-05-31T10:17:10Z",
+    "prices": [
+      {
+        "price": 498000,
+        "date": "2026-05-31T10:17:10Z"
+      }
+    ],
+    "date": "2026-05-31"
+  },
+  "16855553": {
+    "id": "16855553",
+    "title": "TOYOTA LANDCRUISER GXR DIESEL 3.3 MODEL 2026 GCC",
+    "price": 249000,
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/5/31/toyota-landcruiser-gxr-diesel-33-model-202-2-148---0a03d770712246b487ebc1bf800d6909/",
+    "first_seen": "2026-05-31T10:17:10Z",
+    "prices": [
+      {
+        "price": 249000,
+        "date": "2026-05-31T10:17:10Z"
+      }
+    ],
+    "date": "2026-05-31"
+  },
+  "16839717": {
+    "id": "16839717",
+    "title": "BMW X1 2011 GCC SPECIFICATION WELL MAINTAINED RTA PASS IN SUPERB CONDITION",
+    "price": 13500,
+    "make": "BMW",
+    "model": "X1",
+    "year": "2011",
+    "kilometers": "190000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x1/2026/5/15/bmw-x1-2011-gcc-specification-well-maintai-2-095---3203b96a608b49a49cf12206601045c6/",
+    "first_seen": "2026-05-31T10:17:10Z",
+    "prices": [
+      {
+        "price": 13500,
+        "date": "2026-05-31T10:17:10Z"
+      }
+    ],
+    "date": "2026-05-31"
+  },
+  "16845386": {
+    "id": "16845386",
+    "title": "Mitsubishi L200 Double Cab 2023 2WD Manual - Diesel new car",
+    "price": 52000,
+    "make": "Mitsubishi",
+    "model": "L200",
+    "year": "2023",
+    "kilometers": "0",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/l200/2026/5/20/mitsubishi-l200-double-cab-2023-2wd-manual-2-363---033b49f92d7e473da945bbc094191c02/",
+    "first_seen": "2026-05-31T10:17:10Z",
+    "prices": [
+      {
+        "price": 52000,
+        "date": "2026-05-31T10:17:10Z"
+      }
+    ],
+    "date": "2026-05-31"
   }
 }
