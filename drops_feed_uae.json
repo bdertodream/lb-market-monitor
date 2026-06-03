@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 15992,
+  "total_tracked": 15994,
   "total_drops": 439,
-  "total_new": 15992,
+  "total_new": 15994,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -6155,6 +6155,28 @@
   ],
   "new_listings": [
     {
+      "id": "17524619",
+      "title": "OPEN VIEW | HOT DEAL | NO COMMSION",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/30/open-view-hot-deal-no-commsion-cash-bac-2-797621/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "380",
+      "bedrooms": "0",
+      "price": 589300,
+      "first_seen": "2026-06-03"
+    },
+    {
+      "id": "9767917",
+      "title": "Build Your Dream Villa | Custom Design | prime residential plot.",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/2/build-your-dream-villa-custom-design-pr-2-864203/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "9656",
+      "bedrooms": "",
+      "price": 4300000,
+      "first_seen": "2026-06-03"
+    },
+    {
       "id": "17469361",
       "title": "Huge Plot | Lovely Feel | Vastu",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/15/huge-plot-lovely-feel-vastu-2-163111/",
@@ -11631,30 +11653,8 @@
       "bedrooms": "",
       "price": 3500000,
       "first_seen": "2026-05-26"
-    },
-    {
-      "id": "9800323",
-      "title": "Business Center / Fitted Furnished / Open Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/22/open-views-vacant-fitted-and-furnished-2-609265/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "9305",
-      "bedrooms": "",
-      "price": 55814700,
-      "first_seen": "2026-05-26"
-    },
-    {
-      "id": "17089814",
-      "title": "Original Price | Luxury Villa | Genuine Resale",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/16/original-price-luxury-villa-genuine-res-2-317839/",
-      "area": "Palm Jebel Ali",
-      "category": "Villa",
-      "size": "7562",
-      "bedrooms": "5",
-      "price": 21700000,
-      "first_seen": "2026-05-26"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-06-02"
+  "last_updated": "2026-06-03"
 }
