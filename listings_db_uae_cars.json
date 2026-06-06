@@ -146116,7 +146116,7 @@
   "16791783": {
     "id": "16791783",
     "title": "AED 1,045 P.M | Ford Edge 3.5 V6 Titanium 2017 - GCC Specs -under warranty | ORIGINAL PAINT",
-    "price": 38000,
+    "price": 36000,
     "make": "Ford",
     "model": "Edge",
     "year": "2017",
@@ -146135,6 +146135,10 @@
       {
         "price": 38000,
         "date": "2026-05-11T21:26:34Z"
+      },
+      {
+        "price": 36000,
+        "date": "2026-06-06T03:31:08Z"
       }
     ],
     "date": "2026-04-16"
@@ -151419,8 +151423,8 @@
   },
   "16798929": {
     "id": "16798929",
-    "title": "2014 Ford Edge SE - GCC Specs",
-    "price": 15000,
+    "title": "2014 Ford Edge SE - GCC Specs 3.5L V6",
+    "price": 13500,
     "make": "Ford",
     "model": "Edge",
     "year": "2014",
@@ -151435,6 +151439,10 @@
       {
         "price": 15000,
         "date": "2026-04-16T20:58:06Z"
+      },
+      {
+        "price": 13500,
+        "date": "2026-06-06T03:31:08Z"
       }
     ],
     "date": "2026-04-16"
@@ -184582,7 +184590,7 @@
   "16819133": {
     "id": "16819133",
     "title": "AED 580 P.M | Hyundai Sonata GL 2018 - GCC Specs - Excellent Condition",
-    "price": 30999,
+    "price": 29500,
     "make": "Hyundai",
     "model": "Sonata",
     "year": "2018",
@@ -184601,6 +184609,10 @@
       {
         "price": 30999,
         "date": "2026-05-16T03:03:25Z"
+      },
+      {
+        "price": 29500,
+        "date": "2026-06-06T03:31:08Z"
       }
     ],
     "date": "2026-04-27"
@@ -291752,7 +291764,7 @@
   "16850721": {
     "id": "16850721",
     "title": "2026 Jetour Dashing | GCC | 3 Years Service | 10 Years Warranty",
-    "price": 73900,
+    "price": 74900,
     "make": "Jetour",
     "model": "Dashing",
     "year": "2026",
@@ -291767,6 +291779,10 @@
       {
         "price": 73900,
         "date": "2026-06-05T14:51:47Z"
+      },
+      {
+        "price": 74900,
+        "date": "2026-06-06T03:31:08Z"
       }
     ],
     "date": "2026-06-05"
@@ -293267,6 +293283,50 @@
       {
         "price": 17000,
         "date": "2026-06-05T21:27:18Z"
+      }
+    ],
+    "date": "2026-06-05"
+  },
+  "16816209": {
+    "id": "16816209",
+    "title": "AED 1,104 P.M | 2023 Kia Seltos GT Line - GCC Specs - Excellent Condition under warranty",
+    "price": 66000,
+    "make": "Kia",
+    "model": "Seltos",
+    "year": "2023",
+    "kilometers": "30200",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/kia/seltos/2026/4/25/aed-1104-pm-2023-kia-seltos-gt-line-gcc-sp-2-460---a422bc4d74eb4589a6c516541daccf3a/",
+    "first_seen": "2026-06-06T03:31:08Z",
+    "prices": [
+      {
+        "price": 66000,
+        "date": "2026-06-06T03:31:08Z"
+      }
+    ],
+    "date": "2026-06-05"
+  },
+  "16862444": {
+    "id": "16862444",
+    "title": "Jaguar X-Type 2006 S | GCC Specs | Well Maintained",
+    "price": 12000,
+    "make": "Jaguar",
+    "model": "X-Type",
+    "year": "2006",
+    "kilometers": "112000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Mizhar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jaguar/x-type/2026/6/5/jaguar-x-type-2006-s-gcc-specs-well-mainta-2-718---e555b77dee424b2fbcfb436c9970ffdc/",
+    "first_seen": "2026-06-06T03:31:08Z",
+    "prices": [
+      {
+        "price": 12000,
+        "date": "2026-06-06T03:31:08Z"
       }
     ],
     "date": "2026-06-05"
