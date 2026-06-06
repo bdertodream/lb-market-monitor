@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 16433,
-  "total_drops": 456,
-  "total_new": 16433,
+  "total_tracked": 16437,
+  "total_drops": 457,
+  "total_new": 16437,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -6389,6 +6389,20 @@
       "bedrooms": "",
       "date": "2026-06-06",
       "first_seen": "2026-04-23"
+    },
+    {
+      "id": "9813998",
+      "title": "Available Now | Open Layout | Close To Metro",
+      "old_price": 1600000,
+      "new_price": 1475000,
+      "drop_pct": 7.8,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/30/available-now-open-layout-close-to-metr-2-549016/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "1092",
+      "bedrooms": "",
+      "date": "2026-06-06",
+      "first_seen": "2026-05-04"
     }
   ],
   "new_listings": [
@@ -6724,7 +6738,7 @@
     },
     {
       "id": "17548059",
-      "title": "BEST PRICED 4 Bed in MEADOWS | Amazing Location",
+      "title": "Unbeatable Value |Meadows 5 |Type 6 | Lake View |",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/5/best-priced-4-bed-in-meadows-amazing-lo-2-912941/",
       "area": "The Meadows",
       "category": "Villa",
@@ -6940,6 +6954,50 @@
       "size": "7700",
       "bedrooms": "",
       "price": 15500000,
+      "first_seen": "2026-06-06"
+    },
+    {
+      "id": "17519500",
+      "title": "VACANT READY TO MOVE | FULLY FURNISHED | MID FLOOR",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/26/vacant-ready-to-move-fully-furnished-mi-2-188363/",
+      "area": "Dubai Science Park",
+      "category": "Apartment",
+      "size": "408",
+      "bedrooms": "0",
+      "price": 675000,
+      "first_seen": "2026-06-06"
+    },
+    {
+      "id": "9819249",
+      "title": "Skyline View Office | Cove Boulevard | High-End Facilities",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/6/skyline-view-office-cove-boulevard-high-2-147809/",
+      "area": "Dubai Land Residence Complex (DLRC)",
+      "category": "Office",
+      "size": "1387",
+      "bedrooms": "",
+      "price": 2000000,
+      "first_seen": "2026-06-06"
+    },
+    {
+      "id": "9819264",
+      "title": "FULLY FURNISHED | INVESTOR DEAL | GRADE A",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/6/fully-furnished-investor-deal-grade-a-2-713868/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1596",
+      "bedrooms": "",
+      "price": 7707840,
+      "first_seen": "2026-06-06"
+    },
+    {
+      "id": "9819262",
+      "title": "Trophy Asset Facing Main Boulevard Early Handover",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/6/6/trophy-asset-facing-main-boulevard-earl-2-135865/",
+      "area": "Dubai South",
+      "category": "Shop",
+      "size": "1502",
+      "bedrooms": "",
+      "price": 5550000,
       "first_seen": "2026-06-06"
     },
     {
@@ -11846,50 +11904,6 @@
       "size": "835",
       "bedrooms": "",
       "price": 1900000,
-      "first_seen": "2026-06-02"
-    },
-    {
-      "id": "9815734",
-      "title": "Vacant | 2 Parking Spaces | Low Floor",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/10/vacant-2-parking-spaces-low-floor-2-860481/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "2354",
-      "bedrooms": "",
-      "price": 4471498,
-      "first_seen": "2026-06-02"
-    },
-    {
-      "id": "9767833",
-      "title": "2 Villas Plot | Op Deals | Close To Park",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/2/op-deals-close-to-park-2-villas-plot-2-861495/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "10427",
-      "bedrooms": "",
-      "price": 3232000,
-      "first_seen": "2026-06-02"
-    },
-    {
-      "id": "9767692",
-      "title": "Huge Price Reduction | Park Backing Plot",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/2/huge-price-reduction-park-backing-plot-2-178559/",
-      "area": "Jumeirah Park",
-      "category": "Land",
-      "size": "8133",
-      "bedrooms": "",
-      "price": 12900000,
-      "first_seen": "2026-06-02"
-    },
-    {
-      "id": "17480065",
-      "title": "Greenbelt | 3 Bed + Maids | Opposite Pool",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/18/greenbelt-three-bedrooms-opposite-pool-2-143673/",
-      "area": "Mudon",
-      "category": "Villa",
-      "size": "2345",
-      "bedrooms": "3",
-      "price": 3250000,
       "first_seen": "2026-06-02"
     }
   ],
