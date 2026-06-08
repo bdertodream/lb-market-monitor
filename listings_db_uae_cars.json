@@ -95341,8 +95341,8 @@
   },
   "16789923": {
     "id": "16789923",
-    "title": "SKODA SCALA # 2023 GCC # AGENCY MAINTAINED # ACCIDENT FREE CAR FOR SALE AED 48000.",
-    "price": 45000,
+    "title": "SKODA SCALA # 2023 GCC # AGENCY MAINTAINED # ACCIDENT FREE CAR FOR SALE AED 43000/-",
+    "price": 43000,
     "make": "Skoda",
     "model": "Scala",
     "year": "2023",
@@ -95361,6 +95361,10 @@
       {
         "price": 45000,
         "date": "2026-04-28T06:38:01Z"
+      },
+      {
+        "price": 43000,
+        "date": "2026-06-08T04:02:21Z"
       }
     ],
     "date": "2026-04-02"
@@ -239783,8 +239787,8 @@
   },
   "16821942": {
     "id": "16821942",
-    "title": "2015 BMW X1 SDrive18i #GCC GOOD CONDITION",
-    "price": 24500,
+    "title": "2015 BMW X1 SDrive18i #GCC# ACCIDENT FREE AND WELL MAINTAINED",
+    "price": 23500,
     "make": "BMW",
     "model": "X1",
     "year": "2015",
@@ -239799,6 +239803,10 @@
       {
         "price": 24500,
         "date": "2026-05-14T10:23:58Z"
+      },
+      {
+        "price": 23500,
+        "date": "2026-06-08T04:02:21Z"
       }
     ],
     "date": "2026-05-14"
@@ -297257,6 +297265,28 @@
       {
         "price": 39900,
         "date": "2026-06-07T21:14:16Z"
+      }
+    ],
+    "date": "2026-06-07"
+  },
+  "16864681": {
+    "id": "16864681",
+    "title": "BMW X5 xDrive40i M Sport 2019 | GCC Specs | Low Mileage",
+    "price": 109000,
+    "make": "BMW",
+    "model": "X5",
+    "year": "2019",
+    "kilometers": "153000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai Creek Harbour",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/6/7/bmw-x5-xdrive40i-m-sport-2019-gcc-specs-lo-2-286---f1663555f0af4b1685d4386879520c64/",
+    "first_seen": "2026-06-08T04:02:21Z",
+    "prices": [
+      {
+        "price": 109000,
+        "date": "2026-06-08T04:02:21Z"
       }
     ],
     "date": "2026-06-07"
