@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 16606,
-  "total_drops": 461,
-  "total_new": 16606,
+  "total_tracked": 16608,
+  "total_drops": 462,
+  "total_new": 16608,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -6459,9 +6459,45 @@
       "bedrooms": "1",
       "date": "2026-06-08",
       "first_seen": "2026-06-06"
+    },
+    {
+      "id": "9802430",
+      "title": "Shop for Sale | Oxford Tower | Ground Floor",
+      "old_price": 4500000,
+      "new_price": 4200000,
+      "drop_pct": 6.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/4/shop-for-sale-oxford-tower-ground-floor-2-670950/",
+      "area": "Business Bay",
+      "category": "Shop",
+      "size": "1029",
+      "bedrooms": "",
+      "date": "2026-06-09",
+      "first_seen": "2026-03-16"
     }
   ],
   "new_listings": [
+    {
+      "id": "17559435",
+      "title": "Palm View | Best Layout | Vacant | High Floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/8/palm-view-best-layout-vacant-high-floor-2-178764/",
+      "area": "Dubai Harbour",
+      "category": "Apartment",
+      "size": "712",
+      "bedrooms": "1",
+      "price": 2750000,
+      "first_seen": "2026-06-09"
+    },
+    {
+      "id": "9814223",
+      "title": "Vacant | Fully Furnished | Canal Views",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/1/vacant-fully-furnished-canal-views-2-887764/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "668",
+      "bedrooms": "",
+      "price": 3500000,
+      "first_seen": "2026-06-09"
+    },
     {
       "id": "9815543",
       "title": "Stunning Layout | Bright Space | Negotiable",
@@ -11939,30 +11975,8 @@
       "bedrooms": "3",
       "price": 8300000,
       "first_seen": "2026-06-04"
-    },
-    {
-      "id": "17524619",
-      "title": "OPEN VIEW | HOT DEAL | NO COMMSION",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/30/open-view-hot-deal-no-commsion-cash-bac-2-797621/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "380",
-      "bedrooms": "0",
-      "price": 589300,
-      "first_seen": "2026-06-03"
-    },
-    {
-      "id": "9767917",
-      "title": "Build Your Dream Villa | Custom Design | prime residential plot.",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/2/build-your-dream-villa-custom-design-pr-2-864203/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "9656",
-      "bedrooms": "",
-      "price": 4300000,
-      "first_seen": "2026-06-03"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-06-08"
+  "last_updated": "2026-06-09"
 }

@@ -1,37 +1,9 @@
 {
-  "total_tracked": 12761,
-  "total_drops": 501,
-  "total_new": 12761,
-  "last_updated": "2026-06-08T21:50:58Z",
+  "total_tracked": 12765,
+  "total_drops": 502,
+  "total_new": 12765,
+  "last_updated": "2026-06-09T03:32:02Z",
   "drops": [
-    {
-      "id": "16774776",
-      "title": "Single Owner, Full Service History  Under Warranty  Audi S3 2022, GCC Top Option, Zero Accident",
-      "old_price": 133000,
-      "new_price": 125000,
-      "drop_pct": 6.0,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/s3/2026/3/14/single-owner-full-service-history-under-wa-2-849---e020c6e97e634777bbd01a690f4a3b04/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "S3",
-      "year": "2022",
-      "mileage": "100000",
-      "date": "2026-05-16T06:33:06Z"
-    },
-    {
-      "id": "16817069",
-      "title": "GCC SPECS | Excellent Condition",
-      "old_price": 59999,
-      "new_price": 49999,
-      "drop_pct": 16.7,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx50/2026/4/25/limited-time-offer-918-aed-pm-one-year-war-2-001---b0e6759561d6479fa5032f39ffa1f6e3/",
-      "category": "Used Cars",
-      "make": "Infiniti",
-      "model": "QX50",
-      "year": "2021",
-      "mileage": "130000",
-      "date": "2026-05-16T09:51:22Z"
-    },
     {
       "id": "16792102",
       "title": "1,303/pm | XC60 R-Design | Agency Warranty and Service Contract",
@@ -7003,9 +6975,85 @@
       "year": "2025",
       "mileage": "16900",
       "date": "2026-06-08T21:50:58Z"
+    },
+    {
+      "id": "16854074",
+      "title": "Jeep Grand Cherokee Limited V6 3.6L 2018, GCC Specs, Excellent Condition, Original Paint, 2 Keys",
+      "old_price": 66000,
+      "new_price": 62500,
+      "drop_pct": 5.3,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/5/29/jeep-grand-cherokee-limited-v6-36l-2018-gc-2-422---3f6ed801f4a446ecafef0371eac09bf0/",
+      "category": "Used Cars",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "year": "2018",
+      "mileage": "120000",
+      "date": "2026-06-09T03:32:02Z"
+    },
+    {
+      "id": "16744808",
+      "title": "Velar 2019 ||| Final price  ||| Never had accident  | Recently service done | In perfect condition",
+      "old_price": 84500,
+      "new_price": 78500,
+      "drop_pct": 7.1,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-velar/2026/2/14/land-rover-velar-2019-never-had-accident-r-2-421---ca69f61fb1774ab5b016fc5a4057de1e/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Range Rover Velar",
+      "year": "2019",
+      "mileage": "129800",
+      "date": "2026-06-09T03:32:02Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16857682",
+      "title": "2018 Ford Explorer Sport | GCC | Single Owner | Agency Maintained | Extended Warranty till 220k km",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/6/2/2018-ford-explorer-sport-gcc-single-owner--2-281---62fd19aa374e4b0884a1c26d7d98db2a/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "Explorer",
+      "year": "2018",
+      "mileage": "189000",
+      "price": 69500,
+      "first_seen": "2026-06-09T03:32:02Z"
+    },
+    {
+      "id": "16865998",
+      "title": "Infiniti QX80 Limited Edition 2015 | GCC Specs | Pristine Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx80/2026/6/8/infiniti-qx80-limited-edition-2015-gcc-spe-2-524---06a146a85ab44a8e954758beaf7625b1/",
+      "category": "Used Cars",
+      "make": "Infiniti",
+      "model": "QX80",
+      "year": "2015",
+      "mileage": "164000",
+      "price": 58000,
+      "first_seen": "2026-06-09T03:32:02Z"
+    },
+    {
+      "id": "16866000",
+      "title": "6-cylinder 3.6 engineJeep Wrangler Sport Black Mountain 2024 | American Specs | Trail Ready",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler-unlimited/2026/6/8/6-cylinder-36-enginejeep-wrangler-sport-bl-2-478---a43e2f53625249c595d1e9a1117eb32d/",
+      "category": "Used Cars",
+      "make": "Jeep",
+      "model": "Wrangler Unlimited",
+      "year": "2024",
+      "mileage": "28000",
+      "price": 128000,
+      "first_seen": "2026-06-09T03:32:02Z"
+    },
+    {
+      "id": "16865987",
+      "title": "Well-Maintained Ford F-150 XLT 2013 | GCC Specs | Reliable Workhorse",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/f-150/2026/6/8/well-maintained-ford-f-150-xlt-2013-gcc-sp-2-117---2751e35f04e948e682c0d6830f041d35/",
+      "category": "Used Cars",
+      "make": "Ford",
+      "model": "F-150",
+      "year": "2013",
+      "mileage": "248000",
+      "price": 42000,
+      "first_seen": "2026-06-09T03:32:02Z"
+    },
     {
       "id": "16818983",
       "title": "GCC VERY CLEAN NO 2023 Chevrolet Groove LT - GCC Specs - Like New",
@@ -11131,7 +11179,7 @@
       "model": "Dashing",
       "year": "2026",
       "mileage": "0",
-      "price": 74900,
+      "price": 76900,
       "first_seen": "2026-06-05T14:51:47Z"
     },
     {
@@ -12956,54 +13004,6 @@
       "year": "2023",
       "mileage": "60070",
       "price": 199990,
-      "first_seen": "2026-06-03T19:50:05Z"
-    },
-    {
-      "id": "16857328",
-      "title": "GCC SPECS AL TAYER WARRANTY - 2024 RANGE ROVER SPORT SV EDITION ONE V8 CARBON BRONZE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/6/1/gcc-specs-al-tayer-warranty-2024-range-rov-2-848---d562df60e4414d76956e7987bbe8c748/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Sport",
-      "year": "2024",
-      "mileage": "5000",
-      "price": 775000,
-      "first_seen": "2026-06-03T19:50:05Z"
-    },
-    {
-      "id": "16859732",
-      "title": "Brand New | GCC Specs | 6 Years Warranty | AED 1,275 Monthly",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/jetour/dashing/2026/6/3/brand-new-gcc-specs-6-years-warranty-aed-1-2-376---f8dd978b2dc64b87bd2385fa8c0fe148/",
-      "category": "Used Cars",
-      "make": "Jetour",
-      "model": "Dashing",
-      "year": "2026",
-      "mileage": "200",
-      "price": 79999,
-      "first_seen": "2026-06-03T19:50:05Z"
-    },
-    {
-      "id": "16859719",
-      "title": "MINI Cooper S 2023 | Iconic 3-Door Hatch | GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mini/cooper/2026/6/3/mini-cooper-s-2023-iconic-3-door-hatch-gcc-2-659---410c60bca7cc40d3ac94656e62dde718/",
-      "category": "Used Cars",
-      "make": "MINI",
-      "model": "Cooper",
-      "year": "2023",
-      "mileage": "55703",
-      "price": 73999,
-      "first_seen": "2026-06-03T19:50:05Z"
-    },
-    {
-      "id": "16814085",
-      "title": "Lamborghini Aventador 2017",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/aventador-s/2026/4/23/2017-lamborghini-aventador-s-gcc-specs-sup-2-338---ebd0541e023c4bc18666cc2c8c37e9f5/",
-      "category": "Used Cars",
-      "make": "Lamborghini",
-      "model": "Aventador S",
-      "year": "2017",
-      "mileage": "13000",
-      "price": 1049000,
       "first_seen": "2026-06-03T19:50:05Z"
     }
   ]
