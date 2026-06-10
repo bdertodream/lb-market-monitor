@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
   "total_tracked": 16753,
-  "total_drops": 465,
+  "total_drops": 466,
   "total_new": 16753,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
@@ -6515,6 +6515,20 @@
       "bedrooms": "",
       "date": "2026-06-09",
       "first_seen": "2026-03-08"
+    },
+    {
+      "id": "9808006",
+      "title": "INVESTOR DEAL | HANDOVER 2027 | MAIN ROAD VIEW",
+      "old_price": 2600600,
+      "new_price": 1994850,
+      "drop_pct": 23.3,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/16/investor-deal-handover-2027-main-road-v-2-301899/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Office",
+      "size": "799",
+      "bedrooms": "",
+      "date": "2026-06-10",
+      "first_seen": "2026-03-16"
     }
   ],
   "new_listings": [
@@ -12020,5 +12034,5 @@
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-06-09"
+  "last_updated": "2026-06-10"
 }
