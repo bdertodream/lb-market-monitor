@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 17100,
-  "total_drops": 482,
-  "total_new": 17100,
+  "total_tracked": 17103,
+  "total_drops": 483,
+  "total_new": 17103,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -6753,6 +6753,20 @@
       "bedrooms": "",
       "date": "2026-06-12",
       "first_seen": "2026-05-22"
+    },
+    {
+      "id": "17218417",
+      "title": "Park View | Vacant Now | High Floor",
+      "old_price": 4000000,
+      "new_price": 3800000,
+      "drop_pct": 5.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/18/park-view-vacant-now-high-floor-2-112612/",
+      "area": "Dubai Hills Estate",
+      "category": "Apartment",
+      "size": "1400",
+      "bedrooms": "3",
+      "date": "2026-06-12",
+      "first_seen": "2026-05-14"
     }
   ],
   "new_listings": [
@@ -7842,7 +7856,7 @@
       "category": "Apartment",
       "size": "844",
       "bedrooms": "1",
-      "price": 1305640,
+      "price": 1405640,
       "first_seen": "2026-06-12"
     },
     {
@@ -8041,6 +8055,39 @@
       "size": "18090",
       "bedrooms": "",
       "price": 28000000,
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "17399866",
+      "title": "Cash Offer of 20 % || Fully Furnished || 2 Bedrooms For the Price of 1 Bedroom",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/30/4-discount-on-registration-fees-cash-of-2-157462/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "968",
+      "bedrooms": "2",
+      "price": 960000,
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "17435978",
+      "title": "INVESTOR DEAL | PRIME LOCATION | LOWEST PRICE",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/7/investor-deal-prime-location-lowest-pri-2-257044/",
+      "area": "DAMAC Lagoons",
+      "category": "Apartment",
+      "size": "380",
+      "bedrooms": "0",
+      "price": 680000,
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "9817333",
+      "title": "HIGH FLOOR | FURNISHED | CLOSE TO METRO | BALCONY",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/20/high-floor-furnished-close-to-metro-bal-2-260372/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1995",
+      "bedrooms": "",
+      "price": 3750000,
       "first_seen": "2026-06-12"
     },
     {
@@ -12221,39 +12268,6 @@
       "size": "1180",
       "bedrooms": "",
       "price": 2596814,
-      "first_seen": "2026-06-08"
-    },
-    {
-      "id": "9815477",
-      "title": "Premium Office Space | Fully Fitted | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/8/premium-office-space-fully-fitted-vacan-2-158341/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1109",
-      "bedrooms": "",
-      "price": 2050000,
-      "first_seen": "2026-06-08"
-    },
-    {
-      "id": "9815519",
-      "title": "Office for Sale | Business Tower | High Floor",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/8/office-for-sale-business-tower-high-flo-2-477750/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "956",
-      "bedrooms": "",
-      "price": 1530000,
-      "first_seen": "2026-06-08"
-    },
-    {
-      "id": "9815457",
-      "title": "High Floor | Rented | Unfurnished | Spacious",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/8/high-floor-rented-unfurnished-spacious-2-232111/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1198",
-      "bedrooms": "",
-      "price": 2600000,
       "first_seen": "2026-06-08"
     }
   ],
