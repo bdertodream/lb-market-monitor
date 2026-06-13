@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 17103,
+  "total_tracked": 17107,
   "total_drops": 483,
-  "total_new": 17103,
+  "total_new": 17107,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -6771,6 +6771,50 @@
   ],
   "new_listings": [
     {
+      "id": "17520165",
+      "title": "Best Layout | 2 En Suites | Palm and Marina Views",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/27/best-layout-2-en-suites-palm-and-marina-2-207988/",
+      "area": "Dubai Harbour",
+      "category": "Apartment",
+      "size": "1239",
+      "bedrooms": "2",
+      "price": 4100000,
+      "first_seen": "2026-06-13"
+    },
+    {
+      "id": "9816293",
+      "title": "Canal Views | High Floor Office",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/13/canal-views-high-floor-office-2-258412/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1075",
+      "bedrooms": "",
+      "price": 2100000,
+      "first_seen": "2026-06-13"
+    },
+    {
+      "id": "9816270",
+      "title": "Premium Office | Excellent Connectivity | JVC",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/13/premium-office-excellent-connectivity-j-2-121665/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Office",
+      "size": "1461",
+      "bedrooms": "",
+      "price": 2050000,
+      "first_seen": "2026-06-13"
+    },
+    {
+      "id": "9816243",
+      "title": "Furnished Office | Vacant | 11 Parkings",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/13/furnished-office-vacant-11-parkings-2-294919/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "2458",
+      "bedrooms": "",
+      "price": 6500000,
+      "first_seen": "2026-06-13"
+    },
+    {
       "id": "17576419",
       "title": "Exclusive | High Floor | Golf + Canal View",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/11/exclusive-high-floor-golf-canal-view-2-169609/",
@@ -12225,52 +12269,8 @@
       "bedrooms": "1",
       "price": 1249999,
       "first_seen": "2026-06-09"
-    },
-    {
-      "id": "9771155",
-      "title": "NEW | Unique opportunity | GCC only",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/9/new-unique-opportunity-gcc-only-2-236478/",
-      "area": "Jumeirah",
-      "category": "Land",
-      "size": "5600",
-      "bedrooms": "",
-      "price": 7000000,
-      "first_seen": "2026-06-09"
-    },
-    {
-      "id": "9815543",
-      "title": "Stunning Layout | Bright Space | Negotiable",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/8/stunning-layout-bright-space-negotiable-2-134593/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "752",
-      "bedrooms": "",
-      "price": 1800000,
-      "first_seen": "2026-06-08"
-    },
-    {
-      "id": "9815518",
-      "title": "Shell & Core | Retail | Park Towers DIFC",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/5/8/shell-core-retail-park-towers-difc-2-799024/",
-      "area": "DIFC",
-      "category": "Shop",
-      "size": "450",
-      "bedrooms": "",
-      "price": 1350000,
-      "first_seen": "2026-06-08"
-    },
-    {
-      "id": "9815514",
-      "title": "Fitted | High Floor | Incredible Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/8/fitted-high-floor-incredible-views-2-459395/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1180",
-      "bedrooms": "",
-      "price": 2596814,
-      "first_seen": "2026-06-08"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-06-12"
+  "last_updated": "2026-06-13"
 }
