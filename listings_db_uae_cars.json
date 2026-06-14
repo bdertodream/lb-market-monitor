@@ -1901,8 +1901,8 @@
   },
   "16730459": {
     "id": "16730459",
-    "title": "MITSUBISHI ASX 2022 2.0L GCC (780/-MONTHLY)",
-    "price": 49500,
+    "title": "MITSUBISHI ASX 2022 2.0L GCC (712/-MONTHLY)",
+    "price": 45500,
     "make": "Mitsubishi",
     "model": "ASX",
     "year": "{'label': 'Year', 'value': 2022}",
@@ -1917,6 +1917,10 @@
       {
         "price": 49500,
         "date": "2026-03-08T13:42:36Z"
+      },
+      {
+        "price": 45500,
+        "date": "2026-06-14T14:03:36Z"
       }
     ],
     "date": "2026-03-08"
@@ -233608,7 +233612,7 @@
   "16831848": {
     "id": "16831848",
     "title": "2020 Audi RSQ8 | 12 Months Warranty | Dragon Orange | Special Order | 2 Keys",
-    "price": 199999,
+    "price": 194999,
     "make": "Audi",
     "model": "RS Q8",
     "year": "2020",
@@ -233627,6 +233631,10 @@
       {
         "price": 199999,
         "date": "2026-05-24T13:26:51Z"
+      },
+      {
+        "price": 194999,
+        "date": "2026-06-14T14:03:36Z"
       }
     ],
     "date": "2026-05-12"
@@ -237737,8 +237745,8 @@
   },
   "16837245": {
     "id": "16837245",
-    "title": "720-Monthly l GCC l Cruise, Camera, GPS l Accident Free",
-    "price": 47999,
+    "title": "705-Monthly l GCC l Cruise, Camera, GPS l Accident Free",
+    "price": 45999,
     "make": "Toyota",
     "model": "Corolla",
     "year": "2022",
@@ -237753,6 +237761,10 @@
       {
         "price": 47999,
         "date": "2026-05-13T10:37:34Z"
+      },
+      {
+        "price": 45999,
+        "date": "2026-06-14T14:03:36Z"
       }
     ],
     "date": "2026-05-13"
@@ -308548,7 +308560,7 @@
   "16861031": {
     "id": "16861031",
     "title": "2022 Audi SQ5 SportBack quattro S tronic",
-    "price": 135000,
+    "price": 130000,
     "make": "Audi",
     "model": "SQ5",
     "year": "2022",
@@ -308563,6 +308575,10 @@
       {
         "price": 135000,
         "date": "2026-06-12T08:39:03Z"
+      },
+      {
+        "price": 130000,
+        "date": "2026-06-14T14:03:36Z"
       }
     ],
     "date": "2026-06-12"
@@ -308684,7 +308700,7 @@
   "16870580": {
     "id": "16870580",
     "title": "G63  2016 GCC Up Nardo Gray Brabus 2016",
-    "price": 197000,
+    "price": 199500,
     "make": "Mercedes-Benz",
     "model": "G-Class",
     "year": "2016",
@@ -308699,6 +308715,10 @@
       {
         "price": 197000,
         "date": "2026-06-12T14:59:32Z"
+      },
+      {
+        "price": 199500,
+        "date": "2026-06-14T14:03:36Z"
       }
     ],
     "date": "2026-06-12"
@@ -313177,6 +313197,248 @@
       {
         "price": 32000,
         "date": "2026-06-14T10:49:31Z"
+      }
+    ],
+    "date": "2026-06-14"
+  },
+  "16791994": {
+    "id": "16791994",
+    "title": "2023 Polestar 2 Long Range ONLY 377 KMS  is a premium electric  Dealer Warranty",
+    "price": 86000,
+    "make": "Polestar",
+    "model": "2",
+    "year": "2023",
+    "kilometers": "1200",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Dubai Festival City",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/polestar/2/2026/4/4/2023-polestar-2-long-range-only-377-kms-is-2-640---61bde6ae81724461a3bc68238527c32a/",
+    "first_seen": "2026-06-14T14:03:36Z",
+    "prices": [
+      {
+        "price": 86000,
+        "date": "2026-06-14T14:03:36Z"
+      }
+    ],
+    "date": "2026-06-14"
+  },
+  "16872671": {
+    "id": "16872671",
+    "title": "2019 Mercedes-Benz V-Class Maybach Conversion",
+    "price": 90000,
+    "make": "Mercedes-Benz",
+    "model": "V-Class",
+    "year": "2019",
+    "kilometers": "290000",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Hacienda",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/v-class/2026/6/14/2019-mercedes-benz-v-class-maybach-convers-2-054---62580a4617f74d39bd338c5d8a7524bb/",
+    "first_seen": "2026-06-14T14:03:36Z",
+    "prices": [
+      {
+        "price": 90000,
+        "date": "2026-06-14T14:03:36Z"
+      }
+    ],
+    "date": "2026-06-14"
+  },
+  "16864531": {
+    "id": "16864531",
+    "title": "URGENT SELL//BMW X5 xDrive50i Luxury-Line 2014 | GCC Specs | V8 Engine",
+    "price": 42000,
+    "make": "BMW",
+    "model": "X5",
+    "year": "2014",
+    "kilometers": "170400",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "The Greens",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/6/7/bmw-x5-xdrive50i-luxury-line-2014-gcc-spec-2-290---518a843e34f049cb92275ceb8d152c2a/",
+    "first_seen": "2026-06-14T14:03:36Z",
+    "prices": [
+      {
+        "price": 42000,
+        "date": "2026-06-14T14:03:36Z"
+      }
+    ],
+    "date": "2026-06-14"
+  },
+  "16856191": {
+    "id": "16856191",
+    "title": "2015 Mitsubishi Pajero GLS MID | GCC Specs | Well Maintained",
+    "price": 22500,
+    "make": "Mitsubishi",
+    "model": "Pajero",
+    "year": "2015",
+    "kilometers": "145000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Business Bay",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/pajero/2026/5/31/2015-mitsubishi-pajero-gls-mid-gcc-specs-w-2-003---da33aa84bded480bbf1d0a6528c45b74/",
+    "first_seen": "2026-06-14T14:03:36Z",
+    "prices": [
+      {
+        "price": 22500,
+        "date": "2026-06-14T14:03:36Z"
+      }
+    ],
+    "date": "2026-06-14"
+  },
+  "16825619": {
+    "id": "16825619",
+    "title": "GCC Specs Mazda CX-9 Limited 2014 - Well Maintained",
+    "price": 23500,
+    "make": "Mazda",
+    "model": "CX-9",
+    "year": "2014",
+    "kilometers": "145000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Twar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/cx-9/2026/5/3/gcc-specs-mazda-cx-9-limited-2014-well-mai-2-212---e24fa670d65b410ca9ccd0ea7fda65dd/",
+    "first_seen": "2026-06-14T14:03:36Z",
+    "prices": [
+      {
+        "price": 23500,
+        "date": "2026-06-14T14:03:36Z"
+      }
+    ],
+    "date": "2026-06-14"
+  },
+  "16872556": {
+    "id": "16872556",
+    "title": "RANGE ROVER | VOGUE AUTOBIOGRAPHY | P530 GCC SPECS DEALER WARRANTY AL TAYER",
+    "price": 499000,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2022",
+    "kilometers": "46000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/6/14/range-rover-vogue-autobiography-p530-gcc-s-2-093---fb082c475b294a259a0fd91972ac5142/",
+    "first_seen": "2026-06-14T14:03:36Z",
+    "prices": [
+      {
+        "price": 499000,
+        "date": "2026-06-14T14:03:36Z"
+      }
+    ],
+    "date": "2026-06-14"
+  },
+  "16872544": {
+    "id": "16872544",
+    "title": "FERRARI | 488 PISTA | 2020MY | LOW MILEAGE FULL SERVICE HISTORY",
+    "price": 1870000,
+    "make": "Ferrari",
+    "model": "488 Pista",
+    "year": "2020",
+    "kilometers": "3900",
+    "body_type": "Sports Car",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ferrari/488-pista/2026/6/14/ferrari-488-pista-2020my-low-mileage-full--2-162---cfc1351917e846bc96980e120dc893c7/",
+    "first_seen": "2026-06-14T14:03:36Z",
+    "prices": [
+      {
+        "price": 1870000,
+        "date": "2026-06-14T14:03:36Z"
+      }
+    ],
+    "date": "2026-06-14"
+  },
+  "16872528": {
+    "id": "16872528",
+    "title": "Audi Q7 3.0 TFSI quattro 2015 GCC Specs full option with 360 camera",
+    "price": 18900,
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2015",
+    "kilometers": "150000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Qusais Industrial 5",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q7/2026/6/14/audi-q7-30-tfsi-quattro-2015-gcc-specs-ful-2-080---42404045ba50403e8dbbacfe0269b199/",
+    "first_seen": "2026-06-14T14:03:36Z",
+    "prices": [
+      {
+        "price": 18900,
+        "date": "2026-06-14T14:03:36Z"
+      }
+    ],
+    "date": "2026-06-14"
+  },
+  "16872527": {
+    "id": "16872527",
+    "title": "2018 Chevrolet Aveo LT | GCC Specs | Well Maintained",
+    "price": 12999,
+    "make": "Chevrolet",
+    "model": "Aveo",
+    "year": "2018",
+    "kilometers": "112000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Barsha Heights (Tecom)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/aveo/2026/6/14/2018-chevrolet-aveo-lt-gcc-specs-well-main-2-569---28a899dfba204f4f93690deebfa2f438/",
+    "first_seen": "2026-06-14T14:03:36Z",
+    "prices": [
+      {
+        "price": 12999,
+        "date": "2026-06-14T14:03:36Z"
+      }
+    ],
+    "date": "2026-06-14"
+  },
+  "16861143": {
+    "id": "16861143",
+    "title": "Ford Edge Limited 2011 GCC Specs",
+    "price": 9500,
+    "make": "Ford",
+    "model": "Edge",
+    "year": "2011",
+    "kilometers": "170000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Business Bay",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/edge/2026/6/4/ford-edge-limited-2011-gcc-specs-2-688---1eb3fe7bbb424b1e9555c4db4187fff6/",
+    "first_seen": "2026-06-14T14:03:36Z",
+    "prices": [
+      {
+        "price": 9500,
+        "date": "2026-06-14T14:03:36Z"
+      }
+    ],
+    "date": "2026-06-14"
+  },
+  "16862936": {
+    "id": "16862936",
+    "title": "2021 Nissan Kicks S | American Specs | Well Maintained",
+    "price": 26000,
+    "make": "Nissan",
+    "model": "Kicks",
+    "year": "2021",
+    "kilometers": "116500",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/kicks/2026/6/6/2021-nissan-kicks-s-american-specs-well-ma-14-542---9a47c5868642411fbf178dfb3b3a0054/",
+    "first_seen": "2026-06-14T14:03:36Z",
+    "prices": [
+      {
+        "price": 26000,
+        "date": "2026-06-14T14:03:36Z"
       }
     ],
     "date": "2026-06-14"
