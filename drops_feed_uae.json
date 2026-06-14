@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 17196,
-  "total_drops": 485,
-  "total_new": 17196,
+  "total_tracked": 17199,
+  "total_drops": 487,
+  "total_new": 17199,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -6795,9 +6795,70 @@
       "bedrooms": "1",
       "date": "2026-06-13",
       "first_seen": "2026-05-20"
+    },
+    {
+      "id": "9816482",
+      "title": "Full Floor Office | Off-Plan | JVC",
+      "old_price": 31121700,
+      "new_price": 29050852,
+      "drop_pct": 6.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/14/full-floor-office-off-plan-jvc-2-316511/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Office",
+      "size": "15495",
+      "bedrooms": "",
+      "date": "2026-06-14",
+      "first_seen": "2026-05-20"
+    },
+    {
+      "id": "9816480",
+      "title": "Combined Office Units | Off-Plan | JVC",
+      "old_price": 19311780,
+      "new_price": 18005868,
+      "drop_pct": 6.8,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/14/combined-office-units-off-plan-jvc-2-442592/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Office",
+      "size": "9604",
+      "bedrooms": "",
+      "date": "2026-06-14",
+      "first_seen": "2026-05-20"
     }
   ],
   "new_listings": [
+    {
+      "id": "17580016",
+      "title": "Biggest 4 Bed, Very Negotiable, Close to Pool",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/12/biggest-4-bed-very-negotiable-close-to--2-140187/",
+      "area": "The Meadows",
+      "category": "Villa",
+      "size": "4170",
+      "bedrooms": "4",
+      "price": 11500000,
+      "first_seen": "2026-06-14"
+    },
+    {
+      "id": "9815992",
+      "title": "Guaranteed ROI | Prime Location | Investor Deal",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/5/12/guaranteed-roi-prime-location-investor--2-211725/",
+      "area": "Jebel Ali",
+      "category": "Shop",
+      "size": "880",
+      "bedrooms": "",
+      "price": 5894850,
+      "first_seen": "2026-06-14"
+    },
+    {
+      "id": "9815991",
+      "title": "Prime Strategic Location | Good Returns | Suitable for all businesses | Flexible Payment Plan.",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/5/12/prime-strategic-location-good-returns-s-2-335136/",
+      "area": "Jebel Ali",
+      "category": "Shop",
+      "size": "2191",
+      "bedrooms": "",
+      "price": 8765259,
+      "first_seen": "2026-06-14"
+    },
     {
       "id": "17520165",
       "title": "Best Layout | 2 En Suites | Palm and Marina Views",
@@ -12264,41 +12325,8 @@
       "bedrooms": "0",
       "price": 779999,
       "first_seen": "2026-06-09"
-    },
-    {
-      "id": "17565715",
-      "title": "Exclusive island Living | Beach Access | Premium Quality",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/9/exclusive-island-living-beach-access-pr-2-127843/",
-      "area": "Dubai Islands",
-      "category": "Apartment",
-      "size": "832",
-      "bedrooms": "1",
-      "price": 2457000,
-      "first_seen": "2026-06-09"
-    },
-    {
-      "id": "17565520",
-      "title": "Luxurious Seafront 2BR | Attractive PP | Capital Appreciation",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/9/spacious-2br-waterfront-luxury-3565-pp--2-299036/",
-      "area": "Dubai Islands",
-      "category": "Apartment",
-      "size": "1190",
-      "bedrooms": "2",
-      "price": 2620000,
-      "first_seen": "2026-06-09"
-    },
-    {
-      "id": "17565462",
-      "title": "1BR Beachfront Living | 35/65 PP | Community Expert",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/9/luxury-1br-beachfront-living-3565-pp-du-2-243404/",
-      "area": "Dubai Islands",
-      "category": "Apartment",
-      "size": "861",
-      "bedrooms": "1",
-      "price": 1900000,
-      "first_seen": "2026-06-09"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-06-13"
+  "last_updated": "2026-06-14"
 }
