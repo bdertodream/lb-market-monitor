@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 17211,
+  "total_tracked": 17213,
   "total_drops": 488,
-  "total_new": 17211,
+  "total_new": 17213,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -6841,6 +6841,28 @@
   ],
   "new_listings": [
     {
+      "id": "9816609",
+      "title": "Off-Plan Duplex Retail | Strategic Investment",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/5/15/off-plan-duplex-retail-strategic-invest-2-236858/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Shop",
+      "size": "7873",
+      "bedrooms": "",
+      "price": 18351473,
+      "first_seen": "2026-06-15"
+    },
+    {
+      "id": "9815869",
+      "title": "Premium Fitted ||| Burj View ||| Vacant",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/11/premium-fitted-burj-view-vacant-2-202692/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1314",
+      "bedrooms": "",
+      "price": 3285000,
+      "first_seen": "2026-06-15"
+    },
+    {
       "id": "17580016",
       "title": "Biggest 4 Bed, Very Negotiable, Close to Pool",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/12/biggest-4-bed-very-negotiable-close-to--2-140187/",
@@ -12317,30 +12339,8 @@
       "bedrooms": "",
       "price": 1400000,
       "first_seen": "2026-06-09"
-    },
-    {
-      "id": "9770544",
-      "title": "GREAT INVESTMENT | FREE HOLD | PREMIUM PLOT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/8/great-investment-free-hold-premium-plot-2-195674/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "10333",
-      "bedrooms": "",
-      "price": 3260000,
-      "first_seen": "2026-06-09"
-    },
-    {
-      "id": "17558039",
-      "title": "Move in Today | Extended | Internal and Quiet",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/8/move-in-today-extended-internal-and-qui-2-369225/",
-      "area": "Arabian Ranches 2",
-      "category": "Villa",
-      "size": "4309",
-      "bedrooms": "4",
-      "price": 9700000,
-      "first_seen": "2026-06-09"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-06-14"
+  "last_updated": "2026-06-15"
 }
