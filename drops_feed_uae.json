@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 17428,
+  "total_tracked": 17429,
   "total_drops": 500,
-  "total_new": 17428,
+  "total_new": 17429,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "9817613",
+      "title": "INVESTOR DEAL | HIGH ROI | PRIME LOCATION",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/22/investor-deal-high-roi-prime-location-2-226307/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1573",
+      "bedrooms": "",
+      "price": 6750000,
+      "first_seen": "2026-06-17"
+    },
+    {
       "id": "17544165",
       "title": "2BR + Maid | Spacious Layout | Investor Deal",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/4/2br-maid-spacious-layout-investor-deal-2-191875/",
@@ -12496,19 +12507,8 @@
       "bedrooms": "2",
       "price": 14200000,
       "first_seen": "2026-06-11"
-    },
-    {
-      "id": "17497362",
-      "title": "Lowest In The Market | Canal | Brand New | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/21/lowest-in-the-market-canal-brand-new-va-2-337823/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "1501",
-      "bedrooms": "2",
-      "price": 3199990,
-      "first_seen": "2026-06-11"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-06-16"
+  "last_updated": "2026-06-17"
 }
