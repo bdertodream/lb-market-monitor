@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 17559,
+  "total_tracked": 17567,
   "total_drops": 500,
-  "total_new": 17559,
+  "total_new": 17567,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17037952",
-      "title": "Ramadan Offer|40/60Plan|Full Amenities View|1%Monthly",
-      "old_price": 1684000,
-      "new_price": 1009000,
-      "drop_pct": 40.1,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/4/ramadan-offer4060planfull-amenities-vie-2-407021/",
-      "area": "Dubai Land Residence Complex",
-      "category": "Apartment",
-      "size": "768",
-      "bedrooms": "1",
-      "date": "2026-03-10",
-      "first_seen": "2026-03-08"
-    },
     {
       "id": "17130926",
       "title": "Single Row | Central Hub | Best Location",
@@ -7005,6 +6991,20 @@
       "bedrooms": "5",
       "date": "2026-06-17",
       "first_seen": "2026-05-18"
+    },
+    {
+      "id": "9740293",
+      "title": "Multiple Options / AREA specialist / G+1",
+      "old_price": 3200000,
+      "new_price": 2999000,
+      "drop_pct": 6.3,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/2/10/multiple-options-area-specialist-g1-2-179499/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "9443",
+      "bedrooms": "",
+      "date": "2026-06-17",
+      "first_seen": "2026-03-13"
     }
   ],
   "new_listings": [
@@ -8447,6 +8447,94 @@
       "size": "18054",
       "bedrooms": "",
       "price": 7221680,
+      "first_seen": "2026-06-17"
+    },
+    {
+      "id": "17600896",
+      "title": "Spacious 4BR Villa | Large Plot | Landscaped Garden",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/17/spacious-4br-villa-rahat-mudon-large-pl-2-210143/",
+      "area": "Mudon",
+      "category": "Villa",
+      "size": "6958",
+      "bedrooms": "4",
+      "price": 8189000,
+      "first_seen": "2026-06-17"
+    },
+    {
+      "id": "17600838",
+      "title": "High Floor | Spacious Design | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/17/high-floor-spacious-design-prime-locati-2-280786/",
+      "area": "Dubai Marina",
+      "category": "Apartment",
+      "size": "2009",
+      "bedrooms": "2",
+      "price": 7000000,
+      "first_seen": "2026-06-17"
+    },
+    {
+      "id": "17600828",
+      "title": "High Number | Luxury Living | Multiple Options",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/17/high-number-luxury-living-multiple-opti-2-201499/",
+      "area": "Palm Jebel Ali",
+      "category": "Villa",
+      "size": "13556",
+      "bedrooms": "7",
+      "price": 31990000,
+      "first_seen": "2026-06-17"
+    },
+    {
+      "id": "17592938",
+      "title": "Spacious Layout | Separate Dining | Bright Unit",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/16/spacious-layout-separate-dining-bright--2-183534/",
+      "area": "Downtown Dubai",
+      "category": "Apartment",
+      "size": "1418",
+      "bedrooms": "2",
+      "price": 3500000,
+      "first_seen": "2026-06-17"
+    },
+    {
+      "id": "17380186",
+      "title": "Furnished | Spacious | Sea View | High Floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/27/furnished-spacious-sea-view-high-floor-2-189255/",
+      "area": "Dubai Marina",
+      "category": "Apartment",
+      "size": "1803",
+      "bedrooms": "3",
+      "price": 2400000,
+      "first_seen": "2026-06-17"
+    },
+    {
+      "id": "17380181",
+      "title": "Spacious Layout | High Floor | Partial Sea View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/27/spacious-layout-high-floor-partial-sea--2-225311/",
+      "area": "Dubai Marina",
+      "category": "Apartment",
+      "size": "1423",
+      "bedrooms": "2",
+      "price": 4600000,
+      "first_seen": "2026-06-17"
+    },
+    {
+      "id": "9774615",
+      "title": "Custom Build Villa Oppurtunity|Direct Beach Access",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/17/custom-build-villa-oppurtunitydirect-be-2-595785/",
+      "area": "Palm Jebel Ali",
+      "category": "Land",
+      "size": "23528",
+      "bedrooms": "",
+      "price": 47000000,
+      "first_seen": "2026-06-17"
+    },
+    {
+      "id": "9774223",
+      "title": "Park View | Prime Location | Upscale Community Living",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/17/park-view-prime-location-upscale-commun-2-211627/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "9687",
+      "bedrooms": "",
+      "price": 3390000,
       "first_seen": "2026-06-17"
     },
     {
@@ -12418,94 +12506,6 @@
       "size": "1750",
       "bedrooms": "",
       "price": 4800000,
-      "first_seen": "2026-06-12"
-    },
-    {
-      "id": "9820462",
-      "title": "Furnished Office | Investment | Canal View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/12/furnished-office-investment-canal-view-2-116809/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1103",
-      "bedrooms": "",
-      "price": 3200000,
-      "first_seen": "2026-06-12"
-    },
-    {
-      "id": "9820460",
-      "title": "Low Floor | Fitted | Open Views | Community Expert",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/12/low-floor-fitted-open-views-community-e-2-217668/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1137",
-      "bedrooms": "",
-      "price": 1800000,
-      "first_seen": "2026-06-12"
-    },
-    {
-      "id": "9772262",
-      "title": "Premium Freehold Residential Plot in Jebel Ali Hills \u2013 Meraas Master Community",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/12/premium-freehold-residential-plot-in-je-2-237847/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "9842",
-      "bedrooms": "",
-      "price": 3850000,
-      "first_seen": "2026-06-12"
-    },
-    {
-      "id": "9772232",
-      "title": "Massive Development Opportunity: 18 Plots in PA08",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/12/massive-development-opportunity-18-plot-2-245956/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "16562",
-      "bedrooms": "",
-      "price": 5465612,
-      "first_seen": "2026-06-12"
-    },
-    {
-      "id": "9772230",
-      "title": "18-Plot Development Portfolio in PA08",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/12/18-plot-development-portfolio-in-pa08-2-332560/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "10261",
-      "bedrooms": "",
-      "price": 3796729,
-      "first_seen": "2026-06-12"
-    },
-    {
-      "id": "9772222",
-      "title": "18 Plots Bulk Sale @ AED 450/SQFT | PA08",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/12/18-plots-bulk-sale-aed-450sqft-pa08-2-944961/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "16329",
-      "bedrooms": "",
-      "price": 5715523,
-      "first_seen": "2026-06-12"
-    },
-    {
-      "id": "9772209",
-      "title": "18-Plot Bulk Land Opportunity in PA08",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/12/18-plot-bulk-land-opportunity-in-pa08-2-714871/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "9687",
-      "bedrooms": "",
-      "price": 3778122,
-      "first_seen": "2026-06-12"
-    },
-    {
-      "id": "9772202",
-      "title": "TWIN PLOTS|VASTU COMPLIANT|PRIME LOCATION|FREEHOLD",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/12/twin-plotsvastu-compliantprime-location-2-201331/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "9688",
-      "bedrooms": "",
-      "price": 3850000,
       "first_seen": "2026-06-12"
     }
   ],
