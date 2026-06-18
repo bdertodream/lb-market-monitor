@@ -251398,7 +251398,7 @@
   "16841844": {
     "id": "16841844",
     "title": "\ud83d\udd25 2018 Volkswagen Jetta SE 2.5L | GCC Specs | Stylish | Fuel Efficient | Excellent Condition \ud83d\udd25",
-    "price": 23000,
+    "price": 21000,
     "make": "Volkswagen",
     "model": "Jetta",
     "year": "2018",
@@ -251413,6 +251413,10 @@
       {
         "price": 23000,
         "date": "2026-05-17T09:50:20Z"
+      },
+      {
+        "price": 21000,
+        "date": "2026-06-18T03:59:37Z"
       }
     ],
     "date": "2026-05-17"
@@ -319859,6 +319863,28 @@
       {
         "price": 39500,
         "date": "2026-06-17T22:01:57Z"
+      }
+    ],
+    "date": "2026-06-17"
+  },
+  "16841906": {
+    "id": "16841906",
+    "title": "GCC 2019 INFINITI QX30 Luxury | 1.6L 4Cyl | Premium Compact Crossover",
+    "price": 33000,
+    "make": "Infiniti",
+    "model": "QX30",
+    "year": "2019",
+    "kilometers": "149000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx30/2026/5/17/gcc-2019-infiniti-qx30-luxury-16l-4cyl-pre-2-808---15aeb290c1884aadabdb95d08e64dd7c/",
+    "first_seen": "2026-06-18T03:59:37Z",
+    "prices": [
+      {
+        "price": 33000,
+        "date": "2026-06-18T03:59:37Z"
       }
     ],
     "date": "2026-06-17"
