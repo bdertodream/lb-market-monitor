@@ -1,39 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 17903,
+  "total_tracked": 17904,
   "total_drops": 500,
-  "total_new": 17903,
+  "total_new": 17904,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "16440279",
-      "title": "Brand New and Fully Upgraded Kitchen | Furnished",
-      "old_price": 2650009,
-      "new_price": 2500000,
-      "drop_pct": 5.7,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/10/1/brand-new-upgraded-unit-ready-to-move-i-2-588436/",
-      "area": "Dubai Hills Estate",
-      "category": "Apartment",
-      "size": "1021",
-      "bedrooms": "2",
-      "date": "2026-03-13",
-      "first_seen": "2026-03-08"
-    },
-    {
-      "id": "17158506",
-      "title": "Premium Apartment for Sale in Lagoon Views \u2013 District One",
-      "old_price": 2100000,
-      "new_price": 1985000,
-      "drop_pct": 5.5,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/4/premium-apartment-for-sale-in-lagoon-vi-2-246314/",
-      "area": "Mohammed Bin Rashid City",
-      "category": "Apartment",
-      "size": "855",
-      "bedrooms": "1",
-      "date": "2026-03-13",
-      "first_seen": "2026-03-08"
-    },
     {
       "id": "9806936",
       "title": "Vacant | Furnished Open Space | 4 Parkings",
@@ -7005,9 +6977,48 @@
       "bedrooms": "",
       "date": "2026-06-21",
       "first_seen": "2026-04-20"
+    },
+    {
+      "id": "9817569",
+      "title": "Corner Office | Grade A Tower | Meadows View",
+      "old_price": 3999999,
+      "new_price": 3500000,
+      "drop_pct": 12.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/22/corner-office-grade-a-tower-meadows-vie-2-321414/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "1399",
+      "bedrooms": "",
+      "date": "2026-06-22",
+      "first_seen": "2026-05-22"
+    },
+    {
+      "id": "9780571",
+      "title": "Best Priced Retail Unit in Business Bay",
+      "old_price": 1250000,
+      "new_price": 1100000,
+      "drop_pct": 12.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/9/9/best-priced-retail-unit-in-business-bay-2-230443/",
+      "area": "Business Bay",
+      "category": "Shop",
+      "size": "290",
+      "bedrooms": "",
+      "date": "2026-06-22",
+      "first_seen": "2026-04-21"
     }
   ],
   "new_listings": [
+    {
+      "id": "17601883",
+      "title": "Unique | Stylish | limited edition unit | Upgraded Unit | 1 BHK",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/18/unique-stylish-limited-edition-unit-upg-2-565800/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Apartment",
+      "size": "879",
+      "bedrooms": "1",
+      "price": 2079000,
+      "first_seen": "2026-06-22"
+    },
     {
       "id": "17613910",
       "title": "Creek Tower View | 37k To Book | High Capital Growth | Future Downtown",
@@ -12496,19 +12507,8 @@
       "bedrooms": "0",
       "price": 499000,
       "first_seen": "2026-06-16"
-    },
-    {
-      "id": "17338288",
-      "title": "Prime Location | Semi-Detached | Spacious Home",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/4/17/prime-location-semi-detached-spacious-h-2-118589/",
-      "area": "Mudon",
-      "category": "Villa",
-      "size": "3194",
-      "bedrooms": "3",
-      "price": 3700000,
-      "first_seen": "2026-06-16"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-06-21"
+  "last_updated": "2026-06-22"
 }
