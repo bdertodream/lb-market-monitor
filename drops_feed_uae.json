@@ -1,39 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 18381,
+  "total_tracked": 18383,
   "total_drops": 500,
-  "total_new": 18381,
+  "total_new": 18383,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9806378",
-      "title": "Fitted | Partition | Near Metro | Ready",
-      "old_price": 6600000,
-      "new_price": 5500000,
-      "drop_pct": 16.7,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/3/fitted-partition-near-metro-ready-2-164954/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "2358",
-      "bedrooms": "",
-      "date": "2026-03-17",
-      "first_seen": "2026-03-11"
-    },
-    {
-      "id": "9806121",
-      "title": "Urgent Sale | Lake View | High Floor | Vacant",
-      "old_price": 1490000,
-      "new_price": 1390000,
-      "drop_pct": 6.7,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/28/premium-lake-view-furnished-close-to-me-2-141677/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "895",
-      "bedrooms": "",
-      "date": "2026-03-17",
-      "first_seen": "2026-03-14"
-    },
     {
       "id": "9807302",
       "title": "Vacant | Fitted Office | DAMAC Executive Heights",
@@ -7005,9 +6977,59 @@
       "bedrooms": "",
       "date": "2026-06-24",
       "first_seen": "2026-05-21"
+    },
+    {
+      "id": "9818027",
+      "title": "Vacant Now | Community Views | Partitioned",
+      "old_price": 2900000,
+      "new_price": 2600000,
+      "drop_pct": 10.3,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/25/vacant-now-community-views-partitioned-2-105094/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "1771",
+      "bedrooms": "",
+      "date": "2026-06-25",
+      "first_seen": "2026-05-25"
+    },
+    {
+      "id": "9744241",
+      "title": "Hot Deal | Price Negotiable | Motivated Seller",
+      "old_price": 80000000,
+      "new_price": 70000000,
+      "drop_pct": 12.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/2/25/palm-jumeriah-frond-l-renovated-marina--2-157127/",
+      "area": "Palm Jumeirah",
+      "category": "Land",
+      "size": "14697",
+      "bedrooms": "",
+      "date": "2026-06-25",
+      "first_seen": "2026-03-24"
     }
   ],
   "new_listings": [
+    {
+      "id": "17580970",
+      "title": "Waterfront Living with Infinity Bridge & Burj View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/12/waterfront-living-with-infinity-bridge--2-248856/",
+      "area": "Dubai Islands",
+      "category": "Apartment",
+      "size": "1924",
+      "bedrooms": "3",
+      "price": 3963569,
+      "first_seen": "2026-06-25"
+    },
+    {
+      "id": "17628329",
+      "title": "best size and price at the community open view",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/24/best-size-and-price-at-the-community-op-2-598109/",
+      "area": "Mohammed Bin Rashid City (MBR City)",
+      "category": "Apartment",
+      "size": "871",
+      "bedrooms": "1",
+      "price": 1275000,
+      "first_seen": "2026-06-25"
+    },
     {
       "id": "17570055",
       "title": "Rental Appeal | Prime Amenities | Cheapest in Market",
@@ -12485,30 +12507,8 @@
       "bedrooms": "",
       "price": 25950000,
       "first_seen": "2026-06-20"
-    },
-    {
-      "id": "9817296",
-      "title": "Fitted | Close to Al Khail Road | Premium Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/20/fitted-close-to-al-khail-road-premium-l-2-514865/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "655",
-      "bedrooms": "",
-      "price": 1638525,
-      "first_seen": "2026-06-20"
-    },
-    {
-      "id": "9817288",
-      "title": "Exclusive | 8% Net ROI | Corner unit with Balcony",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/20/exclusive-8-net-roi-corner-unit-with-ba-2-724601/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "3103",
-      "bedrooms": "",
-      "price": 13900000,
-      "first_seen": "2026-06-20"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-06-24"
+  "last_updated": "2026-06-25"
 }
