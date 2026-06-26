@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 18523,
+  "total_tracked": 18524,
   "total_drops": 500,
-  "total_new": 18523,
+  "total_new": 18524,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "9818086",
+      "title": "Furnished | Near Metro | 5 Parking| Vacant",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/26/furnished-near-metro-5-parkingsvacant-2-355636/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "3824",
+      "bedrooms": "",
+      "price": 9560475,
+      "first_seen": "2026-06-26"
+    },
+    {
       "id": "17580970",
       "title": "Waterfront Living with Infinity Bridge & Burj View",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/12/waterfront-living-with-infinity-bridge--2-248856/",
@@ -12496,19 +12507,8 @@
       "bedrooms": "",
       "price": 2600000,
       "first_seen": "2026-06-23"
-    },
-    {
-      "id": "9776853",
-      "title": "Park Facing | G+1 | Villa Plot",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/23/park-facing-g1-villa-plot-2-522908/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "10039",
-      "bedrooms": "",
-      "price": 3400000,
-      "first_seen": "2026-06-23"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-06-25"
+  "last_updated": "2026-06-26"
 }
