@@ -1,39 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 18658,
+  "total_tracked": 18665,
   "total_drops": 500,
-  "total_new": 18658,
+  "total_new": 18665,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9803436",
-      "title": "Prime Location | Fully Furnished | Fitted",
-      "old_price": 7500000,
-      "new_price": 5850000,
-      "drop_pct": 22.0,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/11/prime-location-fully-furnished-fitted-2-197500/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "2673",
-      "bedrooms": "",
-      "date": "2026-03-18",
-      "first_seen": "2026-03-18"
-    },
-    {
-      "id": "9807418",
-      "title": "Full Floor | Premium Grade A | Prime Location",
-      "old_price": 37700000,
-      "new_price": 31000000,
-      "drop_pct": 17.8,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/10/full-floor-premium-grade-a-prime-locati-2-301579/",
-      "area": "Sheikh Zayed Road",
-      "category": "Office",
-      "size": "6499",
-      "bedrooms": "",
-      "date": "2026-03-18",
-      "first_seen": "2026-03-14"
-    },
     {
       "id": "17109809",
       "title": "5 Bed Lakefront Miami Villa | 16m Pool",
@@ -7005,6 +6977,34 @@
       "bedrooms": "",
       "date": "2026-06-26",
       "first_seen": "2026-04-02"
+    },
+    {
+      "id": "17368965",
+      "title": "MODERN LIVING | CITY WALK EXPERT | BRAND NEW",
+      "old_price": 2200000,
+      "new_price": 1970000,
+      "drop_pct": 10.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/24/be-the-first-tenant-city-walk-expert-br-2-335730/",
+      "area": "Al Wasl",
+      "category": "Apartment",
+      "size": "749",
+      "bedrooms": "1",
+      "date": "2026-06-26",
+      "first_seen": "2026-04-29"
+    },
+    {
+      "id": "9765737",
+      "title": "Near To SZR | Best Location | Investors Deal",
+      "old_price": 4432091,
+      "new_price": 3348691,
+      "drop_pct": 24.4,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/5/21/near-to-szr-investors-deal-best-locatio-2-239508/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "9849",
+      "bedrooms": "",
+      "date": "2026-06-26",
+      "first_seen": "2026-05-21"
     }
   ],
   "new_listings": [
@@ -7692,7 +7692,7 @@
     },
     {
       "id": "9823071",
-      "title": "Exclusive Premium Office in Al Manara Tower | Fully Furnished | Luxury Fit-Out | High Floor | Vacan",
+      "title": "Exclusive Premium Office in Al Manara Tower | Fully Furnished | Luxury Fit-Out | High Floor | Vacant on Transfer",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/26/exclusive-premium-office-in-al-manara-t-2-225609/",
       "area": "Business Bay",
       "category": "Office",
@@ -8491,6 +8491,83 @@
       "size": "3735",
       "bedrooms": "",
       "price": 42000000,
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "17535191",
+      "title": "Large Balcony | 50/50 Payment Plan | Q2 2026",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/2/large-balcony-5050-payment-plan-q2-2026-2-312369/",
+      "area": "Dubai Science Park",
+      "category": "Apartment",
+      "size": "751",
+      "bedrooms": "1",
+      "price": 1240658,
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "17641109",
+      "title": "10% ROI | 6 Years Payment Plan | On Metro | Fully Furnished",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/26/10-roi-6-years-payment-plan-on-metro-fu-2-194332/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "663",
+      "bedrooms": "1",
+      "price": 890000,
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "17567139",
+      "title": "Summer Offer Price 1,129,000 AED | 6% OFF + 4% DLD Waiver",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/9/6-off-4-dld-waiver-spacious-semi-furnis-2-309729/",
+      "area": "Jumeirah Village Triangle (JVT)",
+      "category": "Apartment",
+      "size": "712",
+      "bedrooms": "1",
+      "price": 1200000,
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "17628424",
+      "title": "Hot Deal | Fully Furnished | Smart Home | Recent handover",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/24/hot-deal-fully-furnished-smart-home-rec-2-203991/",
+      "area": "Dubai Science Park",
+      "category": "Apartment",
+      "size": "1023",
+      "bedrooms": "2",
+      "price": 1700000,
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "17640718",
+      "title": "High Rentals | Pool Facing | Near Metro |nSmart",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/26/high-rentals-pool-facing-near-metro-nsm-2-134214/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "686",
+      "bedrooms": "1",
+      "price": 1086283,
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "17637759",
+      "title": "Sky-High Living with Study | Panoramic Marina Skyline Views",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/26/sky-high-living-with-study-panoramic-ma-2-186020/",
+      "area": "Jumeirah Village Triangle (JVT)",
+      "category": "Apartment",
+      "size": "1010",
+      "bedrooms": "1",
+      "price": 1400000,
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "9823140",
+      "title": "PRIME OFFICE | BUSINESS HUB | 5 PARKING",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/26/prime-office-business-hub-5-parking-2-226381/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Office",
+      "size": "2568",
+      "bedrooms": "",
+      "price": 5007073,
       "first_seen": "2026-06-26"
     },
     {
@@ -12429,83 +12506,6 @@
       "size": "1473",
       "bedrooms": "3",
       "price": 4100000,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "id": "17618857",
-      "title": "Income-Generating 1-Bedroom Apartment | Renovated Kitchen | DEC Tower 1, Dubai Marina",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/22/income-generating-1-bedroom-apartment-r-2-324876/",
-      "area": "Dubai Marina",
-      "category": "Apartment",
-      "size": "749",
-      "bedrooms": "1",
-      "price": 1000000,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "id": "17194541",
-      "title": "1Bed | large layout | high floor| Q3 2026",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/12/1-bed-2-bath-large-layout-high-floor-q3-2-128487/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "1002",
-      "bedrooms": "1",
-      "price": 2210000,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "id": "17493181",
-      "title": "Best Price | Mid Floor Unit | Vacant Now",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/20/mid-floor-unit-well-priced-vacant-now-2-317480/",
-      "area": "Dubai Hills Estate",
-      "category": "Apartment",
-      "size": "994",
-      "bedrooms": "2",
-      "price": 2250000,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "id": "17620985",
-      "title": "Internal I Vot I Vastu I One Bed Downstairs",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/23/internal-i-upgraded-i-vastu-i-one-bed-d-2-299269/",
-      "area": "Jumeirah Park",
-      "category": "Villa",
-      "size": "3627",
-      "bedrooms": "4",
-      "price": 8199995,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "id": "17618959",
-      "title": "Golf View | View Today | Well Priced",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/22/golf-view-view-today-well-priced-2-198495/",
-      "area": "Jumeirah Golf Estates",
-      "category": "Villa",
-      "size": "5677",
-      "bedrooms": "5",
-      "price": 22500000,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "id": "17554200",
-      "title": "Furnished | Spacious | Upgraded | Balcony",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/6/furnished-spacious-upgraded-balcony-2-106543/",
-      "area": "Dubai Marina",
-      "category": "Apartment",
-      "size": "1103",
-      "bedrooms": "2",
-      "price": 1825000,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "id": "17620936",
-      "title": "2 Bedrooms On High Floor | Mada",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/23/2-bedrooms-on-high-floor-mada-2-781009/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "1522",
-      "bedrooms": "2",
-      "price": 3000000,
       "first_seen": "2026-06-23"
     }
   ],
