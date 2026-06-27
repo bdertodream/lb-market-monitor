@@ -7,20 +7,6 @@
   "biggest_drop_usd": 0,
   "drops": [
     {
-      "id": "17109809",
-      "title": "5 Bed Lakefront Miami Villa | 16m Pool",
-      "old_price": 49950000,
-      "new_price": 45000000,
-      "drop_pct": 9.9,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/20/5-bed-lakefront-miami-villa-16m-pool-2-381958/",
-      "area": "Jumeirah Islands",
-      "category": "Villa",
-      "size": "6200",
-      "bedrooms": "5",
-      "date": "2026-03-18",
-      "first_seen": "2026-03-09"
-    },
-    {
       "id": "17102670",
       "title": "Fully Upgraded and Customised Villa | with Pool",
       "old_price": 13500000,
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-06-26",
       "first_seen": "2026-05-21"
+    },
+    {
+      "id": "9818110",
+      "title": "View Today | Burj Khalifa View | 5 Parking",
+      "old_price": 33500000,
+      "new_price": 29500000,
+      "drop_pct": 11.9,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/27/view-today-burj-khalifa-view-5-parking-2-295061/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "4355",
+      "bedrooms": "",
+      "date": "2026-06-27",
+      "first_seen": "2026-05-27"
     }
   ],
   "new_listings": [
@@ -12510,5 +12510,5 @@
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-06-26"
+  "last_updated": "2026-06-27"
 }
