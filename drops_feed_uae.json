@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 18669,
+  "total_tracked": 18672,
   "total_drops": 500,
-  "total_new": 18669,
+  "total_new": 18672,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17102670",
-      "title": "Fully Upgraded and Customised Villa | with Pool",
-      "old_price": 13500000,
-      "new_price": 12500000,
-      "drop_pct": 7.4,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/18/fully-upgraded-and-customised-villa-wit-2-205980/",
-      "area": "The Villa",
-      "category": "Villa",
-      "size": "6169",
-      "bedrooms": "5",
-      "date": "2026-03-18",
-      "first_seen": "2026-03-08"
-    },
     {
       "id": "17027130",
       "title": "Rare Large Plot | Stand Alone | Luxury",
@@ -7005,9 +6991,56 @@
       "bedrooms": "",
       "date": "2026-06-27",
       "first_seen": "2026-05-27"
+    },
+    {
+      "id": "17453003",
+      "title": "High Spec | Bespoke Renovations | Agents Welcome",
+      "old_price": 15500000,
+      "new_price": 14500000,
+      "drop_pct": 6.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/12/high-spec-bespoke-renovations-prime-vie-2-272890/",
+      "area": "Dubai Harbour",
+      "category": "Apartment",
+      "size": "2131",
+      "bedrooms": "3",
+      "date": "2026-06-27",
+      "first_seen": "2026-05-21"
     }
   ],
   "new_listings": [
+    {
+      "id": "17641895",
+      "title": "Vacant on Transfer | Great Location | Landscaped",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/27/vacant-on-transfer-great-location-lands-2-181773/",
+      "area": "Jumeirah Park",
+      "category": "Villa",
+      "size": "3880",
+      "bedrooms": "4",
+      "price": 8350000,
+      "first_seen": "2026-06-27"
+    },
+    {
+      "id": "9823157",
+      "title": "Business Bay Office | Crystal Tower | City & Pool View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/27/business-bay-office-crystal-tower-city--2-188854/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "795",
+      "bedrooms": "",
+      "price": 2500000,
+      "first_seen": "2026-06-27"
+    },
+    {
+      "id": "9778705",
+      "title": "Exclusive Land | Investment | Prime Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/27/exclusive-land-investment-prime-locatio-2-352282/",
+      "area": "Jebel Ali",
+      "category": "Land",
+      "size": "9688",
+      "bedrooms": "",
+      "price": 3400000,
+      "first_seen": "2026-06-27"
+    },
     {
       "id": "9818086",
       "title": "Furnished | Near Metro | 5 Parking| Vacant",
@@ -12473,39 +12506,6 @@
       "size": "981",
       "bedrooms": "2",
       "price": 2850000,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "id": "17529228",
-      "title": "MUST SELL THIS WEEK | OP DEAL | CALL NOW",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/1/must-sell-this-week-op-deal-call-now-2-158803/",
-      "area": "The Oasis by Emaar",
-      "category": "Villa",
-      "size": "10333",
-      "bedrooms": "5",
-      "price": 16000000,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "id": "17443523",
-      "title": "Vacant on transfer | Opposite the pool",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/5/9/vastu-best-price-on-the-market-new-2-152016/",
-      "area": "Tilal Al Ghaf",
-      "category": "Townhouse",
-      "size": "2153",
-      "bedrooms": "3",
-      "price": 3600000,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "id": "17450487",
-      "title": "High Floor | Burj & Fountain Views | DT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/11/high-floor-burj-fountain-views-dt-2-298313/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "1575",
-      "bedrooms": "3",
-      "price": 7499000,
       "first_seen": "2026-06-23"
     }
   ],
