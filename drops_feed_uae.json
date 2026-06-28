@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 18726,
+  "total_tracked": 18728,
   "total_drops": 500,
-  "total_new": 18726,
+  "total_new": 18728,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17027130",
-      "title": "Rare Large Plot | Stand Alone | Luxury",
-      "old_price": 5999990,
-      "new_price": 5600000,
-      "drop_pct": 6.7,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/2/rare-large-plot-stand-alone-l-luxury-2-186005/",
-      "area": "Dubai South",
-      "category": "Villa",
-      "size": "9105",
-      "bedrooms": "3",
-      "date": "2026-03-19",
-      "first_seen": "2026-03-12"
-    },
     {
       "id": "9807515",
       "title": "Full Floor | Premium Grade A | Prime Location",
@@ -7005,9 +6991,45 @@
       "bedrooms": "3",
       "date": "2026-06-27",
       "first_seen": "2026-05-21"
+    },
+    {
+      "id": "9777672",
+      "title": "Furnished Vacant | Prime Business Bay Location",
+      "old_price": 25135600,
+      "new_price": 1400000,
+      "drop_pct": 94.4,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/8/18/furnished-office-great-quality-business-2-137286/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "588",
+      "bedrooms": "",
+      "date": "2026-06-28",
+      "first_seen": "2026-03-23"
     }
   ],
   "new_listings": [
+    {
+      "id": "17645415",
+      "title": "10% ROI | 50/50 Payment Plan | On Metro | Fully Furnished | Priority Allocation",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/27/10-roi-5050-payment-plan-on-metro-fully-2-241603/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "685",
+      "bedrooms": "1",
+      "price": 952000,
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "9775255",
+      "title": "Row Plot | Experienced construction management | 4 floors",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/19/row-plot-experienced-construction-manag-2-252390/",
+      "area": "Dubai Hills Estate",
+      "category": "Land",
+      "size": "7553",
+      "bedrooms": "",
+      "price": 23000000,
+      "first_seen": "2026-06-28"
+    },
     {
       "id": "17641895",
       "title": "Vacant on Transfer | Great Location | Landscaped",
@@ -8638,7 +8660,7 @@
     },
     {
       "id": "17639842",
-      "title": "Special Bulk Deal | Metro Connected | Top Agency Allocation | Fully Furnished | Best Investor Product",
+      "title": "Special Bulk Deal | Metro Connected | Top Agency Allocation | Fully Furnished | Best Investor Produ",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/26/10-12-roi-10-discount-top-agency-alloca-2-845389/",
       "area": "Jebel Ali",
       "category": "Apartment",
@@ -12485,30 +12507,8 @@
       "bedrooms": "2",
       "price": 3400000,
       "first_seen": "2026-06-23"
-    },
-    {
-      "id": "17565960",
-      "title": "Best Price | Mid Floor | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/9/best-price-mid-floor-prime-location-2-121926/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Apartment",
-      "size": "752",
-      "bedrooms": "1",
-      "price": 1490000,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "id": "17581011",
-      "title": "Cheapest Unit | 4BR G+1 Type | Mortgage",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/6/12/cheapest-unit-4br-g1-type-mortgage-2-874448/",
-      "area": "Mudon",
-      "category": "Townhouse",
-      "size": "2468",
-      "bedrooms": "4",
-      "price": 4000000,
-      "first_seen": "2026-06-23"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-06-27"
+  "last_updated": "2026-06-28"
 }
