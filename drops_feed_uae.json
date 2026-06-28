@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 18735,
+  "total_tracked": 18741,
   "total_drops": 500,
-  "total_new": 18735,
+  "total_new": 18741,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9806014",
-      "title": "Open-Plan Office | Lynx Business Tower | Corner Unit | Downtown & Highway View",
-      "old_price": 1000000,
-      "new_price": 850000,
-      "drop_pct": 15.0,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/27/open-plan-office-lynx-business-tower-co-2-232596/",
-      "area": "Dubai Silicon Oasis (DSO)",
-      "category": "Office",
-      "size": "777",
-      "bedrooms": "",
-      "date": "2026-03-19",
-      "first_seen": "2026-03-15"
-    },
     {
       "id": "17066451",
       "title": "Luxury Living | Waterfront Community | Investor Deal",
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-06-28",
       "first_seen": "2026-03-23"
+    },
+    {
+      "id": "9777672",
+      "title": "Furnished Vacant | Prime Business Bay Location",
+      "old_price": 25135600,
+      "new_price": 1400000,
+      "drop_pct": 94.4,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/8/18/furnished-office-great-quality-business-2-137286/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "588",
+      "bedrooms": "",
+      "date": "2026-06-28",
+      "first_seen": "2026-03-23"
     }
   ],
   "new_listings": [
@@ -7105,6 +7105,72 @@
       "size": "1268",
       "bedrooms": "",
       "price": 1650000,
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "17288760",
+      "title": "Full Marina View | Fully Upgraded | VOT | High Floor",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/6/full-marina-view-fully-upgraded-vot-hig-2-249409/",
+      "area": "Dubai Marina",
+      "category": "Apartment",
+      "size": "1490",
+      "bedrooms": "2",
+      "price": 2700000,
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "17565667",
+      "title": "Vacant | Partial Canal View | Investors Deal",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/9/vacant-partial-canal-view-investors-dea-2-110585/",
+      "area": "Business Bay",
+      "category": "Apartment",
+      "size": "459",
+      "bedrooms": "0",
+      "price": 949000,
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "17645825",
+      "title": "Direct Metro Access | Guaranteed 10% ROI | Post-Handover Payment Plan | Fully Furnished",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/28/direct-metro-access-guaranteed-10-roi-p-2-316737/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "638",
+      "bedrooms": "1",
+      "price": 950000,
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "9823330",
+      "title": "15% ROI | 50/50 Payment Plan | On Metro | Guaranteed Unit",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/28/15-roi-5050-payment-plan-on-metro-guara-2-329830/",
+      "area": "Jebel Ali",
+      "category": "Office",
+      "size": "874",
+      "bedrooms": "",
+      "price": 1419897,
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "9823329",
+      "title": "High Visibility | 50/50 Payment Plan | On Metro | Premium Space",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/6/28/high-visibility-5050-payment-plan-on-me-2-304983/",
+      "area": "Jebel Ali",
+      "category": "Shop",
+      "size": "1256",
+      "bedrooms": "",
+      "price": 2423860,
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "9823328",
+      "title": "15% ROI | 50/50 Payment Plan | On Metro | Guaranteed Unit",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/28/15-roi-5050-payment-plan-on-metro-guara-2-300198/",
+      "area": "Jebel Ali",
+      "category": "Office",
+      "size": "705",
+      "bedrooms": "",
+      "price": 1422881,
       "first_seen": "2026-06-28"
     },
     {
@@ -8451,7 +8517,7 @@
     },
     {
       "id": "17639934",
-      "title": "10-12% Roi | Cancellation Unit | Designer Lobby | Fully Furnished | Top Notch Developer",
+      "title": "Furnished | On Sheikh Zayed Road | Direct Metro Access | Designer Lobby | 10-12% Roi",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/26/10-12-roi-top-agency-priority-free-prop-2-964297/",
       "area": "Jebel Ali",
       "category": "Apartment",
@@ -8737,7 +8803,7 @@
     },
     {
       "id": "17639842",
-      "title": "Special Bulk Deal | Metro Connected | Top Agency Allocation | Fully Furnished | Best Investor Product",
+      "title": "Furnished | Cancellation Unit | Metro Connected | Guaranteed Unit | 10-12% Yearly Roi",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/26/10-12-roi-10-discount-top-agency-alloca-2-845389/",
       "area": "Jebel Ali",
       "category": "Apartment",
@@ -12440,72 +12506,6 @@
       "size": "9384",
       "bedrooms": "",
       "price": 16891542,
-      "first_seen": "2026-06-24"
-    },
-    {
-      "id": "9778056",
-      "title": "Palm Jebel Ali | Frond L Plot | Sea View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/24/palm-jebel-ali-frond-l-plot-sea-view-2-257754/",
-      "area": "Palm Jebel Ali",
-      "category": "Land",
-      "size": "23895",
-      "bedrooms": "",
-      "price": 55000000,
-      "first_seen": "2026-06-24"
-    },
-    {
-      "id": "17631326",
-      "title": "10% ROI | 50/50 Payment Plan | In Front Of Metro | Fully Furnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/24/10-roi-5050-payment-plan-in-front-of-me-2-156685/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "380",
-      "bedrooms": "0",
-      "price": 666000,
-      "first_seen": "2026-06-24"
-    },
-    {
-      "id": "17630923",
-      "title": "Furnished Studio | Jebal Ali Downtown City View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/24/furnished-studio-jebal-ali-downtown-cit-2-178017/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "330",
-      "bedrooms": "0",
-      "price": 539000,
-      "first_seen": "2026-06-24"
-    },
-    {
-      "id": "17572516",
-      "title": "Modern Studio | Stunning Views | High ROI & Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/10/modern-studio-stunning-views-high-roi-p-2-205678/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Apartment",
-      "size": "357",
-      "bedrooms": "0",
-      "price": 575000,
-      "first_seen": "2026-06-24"
-    },
-    {
-      "id": "17471159",
-      "title": "Luxury Apartment in JVT | Near Future Gold Line | Prime Family Community",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/15/luxury-apartment-in-jvt-near-future-gol-2-975713/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Apartment",
-      "size": "336",
-      "bedrooms": "0",
-      "price": 710000,
-      "first_seen": "2026-06-24"
-    },
-    {
-      "id": "17437783",
-      "title": "1BR in JVT | Binghatti Luxuria | High ROI | Prime Community Living",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/8/1br-in-jvt-binghatti-luxuria-high-roi-p-2-878237/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Apartment",
-      "size": "742",
-      "bedrooms": "1",
-      "price": 1150000,
       "first_seen": "2026-06-24"
     }
   ],
