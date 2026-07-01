@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 19131,
+  "total_tracked": 19132,
   "total_drops": 500,
-  "total_new": 19131,
+  "total_new": 19132,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "17658606",
+      "title": "Fully Furnished | 1 BR | High ROI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/30/fully-furnished-1-br-high-roi-2-205271/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "610",
+      "bedrooms": "1",
+      "price": 1100000,
+      "first_seen": "2026-07-01"
+    },
+    {
       "id": "17653741",
       "title": "Lake-Facing Private Home in Jumeirah Islands",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/30/lake-facing-private-home-in-jumeirah-is-2-290523/",
@@ -12496,19 +12507,8 @@
       "bedrooms": "1",
       "price": 2199999,
       "first_seen": "2026-06-26"
-    },
-    {
-      "id": "17638641",
-      "title": "Do Hotels and Residences, Dubai Islands, Dubai",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/26/do-hotels-and-residences-dubai-islands--2-304623/",
-      "area": "Dubai Islands",
-      "category": "Apartment",
-      "size": "852",
-      "bedrooms": "1",
-      "price": 2469000,
-      "first_seen": "2026-06-26"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-06-30"
+  "last_updated": "2026-07-01"
 }
