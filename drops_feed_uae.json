@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 19193,
+  "total_tracked": 19204,
   "total_drops": 500,
-  "total_new": 19193,
+  "total_new": 19204,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "16776294",
-      "title": "Best Price Burj View | Brand New | Vacant",
-      "old_price": 5674999,
-      "new_price": 5349999,
-      "drop_pct": 5.7,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/12/11/brand-new-burj-khalifa-view-ready-now-2-336459/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "1164",
-      "bedrooms": "2",
-      "date": "2026-03-25",
-      "first_seen": "2026-03-10"
-    },
     {
       "id": "15890164",
       "title": "HermesInspired Signature Beachfront Mansion",
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-07-01",
       "first_seen": "2026-06-04"
+    },
+    {
+      "id": "17601217",
+      "title": "Prime Villa | Beside Park | Vastu Living | VOT",
+      "old_price": 5200000,
+      "new_price": 4790000,
+      "drop_pct": 7.9,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/18/vastu-villa-with-maids-room-vacant-on-t-2-198770/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Villa",
+      "size": "3159",
+      "bedrooms": "4",
+      "date": "2026-07-01",
+      "first_seen": "2026-06-29"
     }
   ],
   "new_listings": [
@@ -7686,6 +7686,127 @@
       "area": "Jebel Ali",
       "category": "Land",
       "size": "10000",
+      "bedrooms": "",
+      "price": 4000000,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "17664108",
+      "title": "Mercedes-Benz Residence | Burj Khalifa View | Private Pool",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/1/mercedes-benz-residence-burj-khalifa-vi-2-168931/",
+      "area": "Downtown Dubai",
+      "category": "Apartment",
+      "size": "1836",
+      "bedrooms": "2",
+      "price": 10299999,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "16298867",
+      "title": "BRAND NEW | LUXURY UPGRADE | FULLY FURNISHED",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/8/30/prime-location-brand-new-direct-beach-a-2-170301/",
+      "area": "Dubai Creek Harbour",
+      "category": "Apartment",
+      "size": "1068",
+      "bedrooms": "2",
+      "price": 2775000,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "17356662",
+      "title": "Single Row | Main Park| Multiple options",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/4/22/single-row-main-park-multiple-options-2-197654/",
+      "area": "Mudon",
+      "category": "Townhouse",
+      "size": "2217",
+      "bedrooms": "3",
+      "price": 3500000,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "17453493",
+      "title": "Brand New | Backing on to Green Belt",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/5/12/brand-new-backing-on-to-green-belt-2-199390/",
+      "area": "Mudon",
+      "category": "Townhouse",
+      "size": "2350",
+      "bedrooms": "3",
+      "price": 3450000,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "17628357",
+      "title": "Brand New | Smart Home System | Close to the Metro",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/24/brand-new-smart-home-system-close-to-th-2-354351/",
+      "area": "Al Furjan",
+      "category": "Apartment",
+      "size": "834",
+      "bedrooms": "1",
+      "price": 1300000,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "17574487",
+      "title": "Cheap Price | Close to Metro | Opportunity Deal",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/11/cheap-price-close-to-metro-opportunity--2-265781/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "733",
+      "bedrooms": "1",
+      "price": 1000000,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "17628250",
+      "title": "Brand New | Closed Kitchen | Smart Home System",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/24/brand-new-closed-kitchen-smart-home-sys-2-227718/",
+      "area": "Al Furjan",
+      "category": "Apartment",
+      "size": "984",
+      "bedrooms": "2",
+      "price": 1550000,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "9824007",
+      "title": "Close to Metro | On SZR | High ROI Potential",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/1/close-to-metro-on-szr-high-roi-potentia-2-201723/",
+      "area": "Jebel Ali",
+      "category": "Office",
+      "size": "1578",
+      "bedrooms": "",
+      "price": 2651097,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "9824003",
+      "title": "Close to Metro | On SZR | High ROI Potential",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/1/close-to-metro-on-szr-high-roi-potentia-2-219773/",
+      "area": "Jebel Ali",
+      "category": "Office",
+      "size": "1578",
+      "bedrooms": "",
+      "price": 2651097,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "9824000",
+      "title": "HURRY | MAIN ROAD FACING | CAME FROM CANCELLATION |HANDOVER THIS YEAR",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/7/1/hurry-main-road-facing-came-from-cancel-2-103805/",
+      "area": "Al Furjan",
+      "category": "Shop",
+      "size": "988",
+      "bedrooms": "",
+      "price": 2899000,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "9780271",
+      "title": "Near Golf | Near Handover | Prime location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/7/1/near-golf-near-handover-prime-location-2-249354/",
+      "area": "Dubai South",
+      "category": "Land",
+      "size": "4581",
       "bedrooms": "",
       "price": 4000000,
       "first_seen": "2026-07-01"
@@ -11614,7 +11735,7 @@
       "category": "Villa",
       "size": "3159",
       "bedrooms": "4",
-      "price": 5200000,
+      "price": 4790000,
       "first_seen": "2026-06-29"
     },
     {
@@ -12385,127 +12506,6 @@
       "size": "1510",
       "bedrooms": "",
       "price": 3966000,
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "9823230",
-      "title": "EXCLUSIVE UNIT | 15% ROI | GREAT OFFERS",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/6/27/exclusive-unit-15-roi-great-offers-2-373503/",
-      "area": "Jebel Ali",
-      "category": "Shop",
-      "size": "1417",
-      "bedrooms": "",
-      "price": 2990500,
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "9823228",
-      "title": "PREMIUM RETAIL | NEXT TO METRO | BEST OFFERS",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/6/27/premium-retail-next-to-metro-best-offer-2-274033/",
-      "area": "Jebel Ali",
-      "category": "Shop",
-      "size": "1109",
-      "bedrooms": "",
-      "price": 3100950,
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "9766708",
-      "title": "Huge Plot | Skyline View | Beachfront",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/5/25/huge-plot-skyline-view-beachfront-2-153022/",
-      "area": "Palm Jebel Ali",
-      "category": "Land",
-      "size": "24324",
-      "bedrooms": "",
-      "price": 50000000,
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "9778043",
-      "title": "Prime Location | Single Row | G+1",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/24/prime-location-single-row-g1-2-362393/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "6462",
-      "bedrooms": "",
-      "price": 2883470,
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "9777962",
-      "title": "Close to SZR | Prime Location | G+1",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/24/close-to-szr-prime-location-g1-2-322974/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "6625",
-      "bedrooms": "",
-      "price": 2955970,
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "17589256",
-      "title": "TOP LUXURY COMMUNITY|PRIME LOCATION| HANDOVER 2030",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/15/top-luxury-communityprime-location-hand-2-182312/",
-      "area": "The Oasis by Emaar",
-      "category": "Villa",
-      "size": "7278",
-      "bedrooms": "4",
-      "price": 13931888,
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "17644419",
-      "title": "Direct Metro Station | 10% Guaranteed ROI | Fully Furnished & Easy Payment plan",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/27/direct-metro-station-10-guaranteed-roi--2-298488/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "663",
-      "bedrooms": "1",
-      "price": 891000,
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "17570685",
-      "title": "Below Price | High ROI | Dubai's Rising Hotspot",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/10/below-price-high-roi-dubais-rising-hots-2-862605/",
-      "area": "Dubai Science Park",
-      "category": "Apartment",
-      "size": "446",
-      "bedrooms": "0",
-      "price": 845000,
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "17550137",
-      "title": "Luxury 1 Bedroom | With Views | Premium Investment",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/5/luxury-1-bedroom-with-views-premium-inv-2-136182/",
-      "area": "Dubai Science Park",
-      "category": "Apartment",
-      "size": "828",
-      "bedrooms": "1",
-      "price": 1400000,
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "17627277",
-      "title": "FULLY FURNISHED | MULTIPLE OPTIONS | INVESTOR DEAL",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/24/fully-furnished-multiple-options-invest-2-285509/",
-      "area": "Al Furjan",
-      "category": "Apartment",
-      "size": "404",
-      "bedrooms": "0",
-      "price": 590000,
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "9823247",
-      "title": "BEST RETAIL OFFERS | MULTIPLE UNTS | CALL FOR OFFERS",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/6/27/best-retail-offers-multiple-unts-call-f-2-161909/",
-      "area": "Jebel Ali",
-      "category": "Shop",
-      "size": "954",
-      "bedrooms": "",
-      "price": 2890500,
       "first_seen": "2026-06-27"
     }
   ],
