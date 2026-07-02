@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 19221,
+  "total_tracked": 19224,
   "total_drops": 500,
-  "total_new": 19221,
+  "total_new": 19224,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "15890164",
-      "title": "HermesInspired Signature Beachfront Mansion",
-      "old_price": 137000000,
-      "new_price": 130000000,
-      "drop_pct": 5.1,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2025/6/9/hermes-inspired-signature-beachfront-ma-2-290832/",
-      "area": "The World Islands",
-      "category": "Villa",
-      "size": "32791",
-      "bedrooms": "5",
-      "date": "2026-03-25",
-      "first_seen": "2026-03-24"
-    },
     {
       "id": "17215167",
       "title": "Park Backing | 4B2 | Handed Over | Best Priced",
@@ -7005,9 +6991,56 @@
       "bedrooms": "4",
       "date": "2026-07-01",
       "first_seen": "2026-06-29"
+    },
+    {
+      "id": "9818431",
+      "title": "High Floor I Fitted and Spacious I Prime Location",
+      "old_price": 1600000,
+      "new_price": 1440000,
+      "drop_pct": 10.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/1/high-floor-i-fitted-and-spacious-i-prim-2-237702/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "854",
+      "bedrooms": "",
+      "date": "2026-07-02",
+      "first_seen": "2026-06-01"
     }
   ],
   "new_listings": [
+    {
+      "id": "17501523",
+      "title": "Elevated Unit | Motivated Seller | Largest Plot",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/21/close-to-amenities-single-row-more-priv-2-166439/",
+      "area": "Jebel Ali",
+      "category": "Villa",
+      "size": "7718",
+      "bedrooms": "4",
+      "price": 9600000,
+      "first_seen": "2026-07-02"
+    },
+    {
+      "id": "17660961",
+      "title": "Pool View ! 40% Post Handover ! Modern_ Furnished ! Dec 2026",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/1/pool-view-40-post-handover-modern-fully-2-756655/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "347",
+      "bedrooms": "0",
+      "price": 749888,
+      "first_seen": "2026-07-02"
+    },
+    {
+      "id": "9818300",
+      "title": "Furnished | Sold as Vacant or Rented | Grade A",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/1/furnished-sold-as-vacant-or-rented-grad-2-225318/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "9637",
+      "bedrooms": "",
+      "price": 22896000,
+      "first_seen": "2026-07-02"
+    },
     {
       "id": "17658606",
       "title": "Fully Furnished | 1 BR | High ROI",
@@ -12474,41 +12507,8 @@
       "bedrooms": "",
       "price": 2500000,
       "first_seen": "2026-06-27"
-    },
-    {
-      "id": "9778705",
-      "title": "Exclusive Land | Investment | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/27/exclusive-land-investment-prime-locatio-2-352282/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "9688",
-      "bedrooms": "",
-      "price": 3400000,
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "17565684",
-      "title": "INVESTOR DEAL | LAGOON VIEW | HIGH FLOOR | BELOW OP",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/9/investor-deal-lagoon-view-high-floor-be-2-133070/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "308",
-      "bedrooms": "0",
-      "price": 560000,
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "16414197",
-      "title": "Spacious Studio | 8% ROI | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/9/25/spacious-studio-prime-location-kappa-ac-2-266644/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "403",
-      "bedrooms": "0",
-      "price": 480807,
-      "first_seen": "2026-06-27"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-01"
+  "last_updated": "2026-07-02"
 }
