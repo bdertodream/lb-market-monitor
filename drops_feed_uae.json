@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 19468,
+  "total_tracked": 19470,
   "total_drops": 500,
-  "total_new": 19468,
+  "total_new": 19470,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "16811878",
-      "title": "Luxury 3BR Residence for Sale | Residences 11 | High-End Community Living",
-      "old_price": 4800000,
-      "new_price": 4500000,
-      "drop_pct": 6.2,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/12/18/luxury-3br-residence-for-sale-residence-2-209169/",
-      "area": "Mohammed Bin Rashid City",
-      "category": "Apartment",
-      "size": "1947",
-      "bedrooms": "3",
-      "date": "2026-03-30",
-      "first_seen": "2026-03-26"
-    },
     {
       "id": "9806798",
       "title": "Investor Deal | High ROI | Prime Location",
@@ -7005,9 +6991,45 @@
       "bedrooms": "",
       "date": "2026-07-03",
       "first_seen": "2026-06-09"
+    },
+    {
+      "id": "9796103",
+      "title": "Freehold labour camp for sale in Jebel Ali 1",
+      "old_price": 22500000,
+      "new_price": 20000000,
+      "drop_pct": 11.1,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/staff-accomm/2025/12/24/freehold-labour-camp-for-sale-in-jebel--2-836173/",
+      "area": "Jebel Ali",
+      "category": "Staff Accommodation",
+      "size": "11211",
+      "bedrooms": "",
+      "date": "2026-07-04",
+      "first_seen": "2026-03-13"
     }
   ],
   "new_listings": [
+    {
+      "id": "9818709",
+      "title": "Great Investment | High ROI | Prime Commercial Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/3/great-investment-high-roi-prime-commerc-2-196826/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Office",
+      "size": "855",
+      "bedrooms": "",
+      "price": 3572058,
+      "first_seen": "2026-07-04"
+    },
+    {
+      "id": "9824387",
+      "title": "Ready Soon | Shell and Core |Concept Ready",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/7/3/ready-soon-shell-and-core-concept-ready-2-197123/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Shop",
+      "size": "4170",
+      "bedrooms": "",
+      "price": 9000000,
+      "first_seen": "2026-07-04"
+    },
     {
       "id": "17518702",
       "title": "Brand New | Exclusive | Lowest Price",
@@ -12485,30 +12507,8 @@
       "bedrooms": "3",
       "price": 7250000,
       "first_seen": "2026-06-30"
-    },
-    {
-      "id": "17616060",
-      "title": "High Floor | Burj Khalifa View | Largest Layout",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/22/high-floor-burj-khalifa-view-largest-la-2-243969/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "1886",
-      "bedrooms": "3",
-      "price": 8800000,
-      "first_seen": "2026-06-30"
-    },
-    {
-      "id": "17656404",
-      "title": "Burj Khalifa View | Branded by W | High Floor",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/30/burj-khalifa-view-branded-by-w-high-flo-2-267110/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "1466",
-      "bedrooms": "3",
-      "price": 4850000,
-      "first_seen": "2026-06-30"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-03"
+  "last_updated": "2026-07-04"
 }
