@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 19552,
+  "total_tracked": 19554,
   "total_drops": 500,
-  "total_new": 19552,
+  "total_new": 19554,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17193415",
-      "title": "Lagoon Living | Mortgageable | Genuine Resale",
-      "old_price": 2750000,
-      "new_price": 2550000,
-      "drop_pct": 7.3,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/12/lagoon-living-mortgageable-genuine-resa-2-128890/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "2073",
-      "bedrooms": "3",
-      "date": "2026-03-31",
-      "first_seen": "2026-03-30"
-    },
     {
       "id": "17123603",
       "title": "Full Burj Khalifa View | Motivated Seller",
@@ -7005,6 +6991,20 @@
       "bedrooms": "2",
       "date": "2026-07-05",
       "first_seen": "2026-07-02"
+    },
+    {
+      "id": "9822424",
+      "title": "Fully Renovated | Vacant | Turnkey Office",
+      "old_price": 5000000,
+      "new_price": 4500000,
+      "drop_pct": 10.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/23/fully-renovated-vacant-turnkey-office-2-317739/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "2005",
+      "bedrooms": "",
+      "date": "2026-07-05",
+      "first_seen": "2026-06-23"
     }
   ],
   "new_listings": [
@@ -7325,6 +7325,28 @@
       "size": "1841",
       "bedrooms": "",
       "price": 2850000,
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "9805199",
+      "title": "Prime Retail Shop | High Visibility | Premium Commercial Investment | TIMEZ by Danube | Dubai Silic",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/22/retail-unit-primary-off-plan-timez-by-d-2-661211/",
+      "area": "Dubai Silicon Oasis (DSO)",
+      "category": "Shop",
+      "size": "1227",
+      "bedrooms": "",
+      "price": 3876000,
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "9823903",
+      "title": "Unfurnished | Spacious and Fitted | Great Offer",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/1/unfurnished-spacious-and-fitted-great-o-2-504848/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1668",
+      "bedrooms": "",
+      "price": 3300000,
       "first_seen": "2026-07-05"
     },
     {
@@ -11311,7 +11333,7 @@
     },
     {
       "id": "9823905",
-      "title": "Retail I Prime Location I Vacant",
+      "title": "ROAD FACING I RETAIL I INVESTOR DEAL",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/7/1/retail-i-prime-location-i-vacant-2-769837/",
       "area": "Jumeirah Village Circle (JVC)",
       "category": "Shop",
@@ -12484,28 +12506,6 @@
       "size": "4519",
       "bedrooms": "4",
       "price": 5600000,
-      "first_seen": "2026-06-30"
-    },
-    {
-      "id": "17655769",
-      "title": "Fully Furnished | Community View | Largest Layout",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/30/fully-furnished-community-view-largest--2-950808/",
-      "area": "Dubai Hills Estate",
-      "category": "Apartment",
-      "size": "1628",
-      "bedrooms": "2",
-      "price": 3299000,
-      "first_seen": "2026-06-30"
-    },
-    {
-      "id": "17654410",
-      "title": "READY TO MOVE l HIGH QUALITY l BEST VIEW",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/30/ready-to-move-l-high-quality-l-best-vie-2-316963/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "792",
-      "bedrooms": "1",
-      "price": 890000,
       "first_seen": "2026-06-30"
     }
   ],
