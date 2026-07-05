@@ -1,23 +1,9 @@
 {
-  "total_tracked": 15717,
-  "total_drops": 500,
-  "total_new": 15717,
-  "last_updated": "2026-07-04T20:58:43Z",
+  "total_tracked": 15719,
+  "total_drops": 501,
+  "total_new": 15719,
+  "last_updated": "2026-07-05T03:24:35Z",
   "drops": [
-    {
-      "id": "16858780",
-      "title": "Ford Explorer Limited 2016 GCC Specs Excellent Condition 2 Keys",
-      "old_price": 29500,
-      "new_price": 24500,
-      "drop_pct": 16.9,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/explorer/2026/6/3/ford-explorer-limited-2016-gcc-specs-2-210---14671259275047789b7fa9e966fb1118/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Explorer",
-      "year": "2016",
-      "mileage": "121000",
-      "date": "2026-06-09T18:06:38Z"
-    },
     {
       "id": "16852744",
       "title": "Renault Duster SE 2019 GCC Specs",
@@ -7003,9 +6989,47 @@
       "year": "2019",
       "mileage": "13000",
       "date": "2026-07-04T17:06:34Z"
+    },
+    {
+      "id": "16867757",
+      "title": "KIA PEGAS  2023 GCC HOME USED CAR",
+      "old_price": 26000,
+      "new_price": 23000,
+      "drop_pct": 11.5,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/pegas/2026/6/10/kia-pegas-2023-gcc-home-used-car-2-392---0409dd1c63484f15a858ec8386f21d77/",
+      "category": "Used Cars",
+      "make": "Kia",
+      "model": "Pegas",
+      "year": "2023",
+      "mileage": "118000",
+      "date": "2026-07-05T03:24:35Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16898145",
+      "title": "Dodge ram 1500 bighorn lone star 4x4  NIGHT EDITION 2020",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/ram/1500/2026/7/5/dodge-ram-1500-bighorn-lone-star-4x4-night-2-511---2bbb8ba8d3934f909f23726cc6c3ab00/",
+      "category": "Used Cars",
+      "make": "RAM",
+      "model": "1500",
+      "year": "2020",
+      "mileage": "190000",
+      "price": 90000,
+      "first_seen": "2026-07-05T03:24:35Z"
+    },
+    {
+      "id": "16898116",
+      "title": "Nissan Sunny SL 2021 | GCC PERSONAL USED ACCIDENT FREE",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sunny/2026/7/4/nissan-sunny-sl-2021-gcc-personal-used-acc-2-226---f6c58feb9b424676a4015f101f3a56f7/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Sunny",
+      "year": "2021",
+      "mileage": "72000",
+      "price": 19000,
+      "first_seen": "2026-07-05T03:24:35Z"
+    },
     {
       "id": "16896834",
       "title": "Volvo XC90 T6 Highline Top 2016 | GCC | v4 2.0L Turbo AWD",
@@ -11743,7 +11767,7 @@
       "model": "G-Class",
       "year": "2016",
       "mileage": "121000",
-      "price": 179999,
+      "price": 173000,
       "first_seen": "2026-07-01T21:29:24Z"
     },
     {
@@ -12980,30 +13004,6 @@
       "year": "2023",
       "mileage": "50700",
       "price": 255000,
-      "first_seen": "2026-07-01T14:36:16Z"
-    },
-    {
-      "id": "16893638",
-      "title": "Toyota Coaster 2012 Japanese Specs - 30 Seats Well Maintained Passenger Van With Low KM",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/coaster/2026/7/1/toyota-coaster-2012-japanese-specs-30-seat-2-616---cc835a499514400dab7a367322162cc2/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Coaster",
-      "year": "2012",
-      "mileage": "167400",
-      "price": 68000,
-      "first_seen": "2026-07-01T14:36:16Z"
-    },
-    {
-      "id": "16893616",
-      "title": "Mercedes-Benz G-Class G 63 AMG 2021 | High Spec | 30,000 kms",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/7/1/mercedes-benz-g-class-g-63-amg-2021-high-s-2-396---4260d8ac176a4ff8976136919b5e41a3/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "G-Class",
-      "year": "2021",
-      "mileage": "30000",
-      "price": 549000,
       "first_seen": "2026-07-01T14:36:16Z"
     }
   ]

@@ -309130,7 +309130,7 @@
   "16867757": {
     "id": "16867757",
     "title": "KIA PEGAS  2023 GCC HOME USED CAR",
-    "price": 26000,
+    "price": 23000,
     "make": "Kia",
     "model": "Pegas",
     "year": "2023",
@@ -309145,6 +309145,10 @@
       {
         "price": 26000,
         "date": "2026-06-10T22:04:05Z"
+      },
+      {
+        "price": 23000,
+        "date": "2026-07-05T03:24:35Z"
       }
     ],
     "date": "2026-06-10"
@@ -362142,7 +362146,7 @@
   "16894382": {
     "id": "16894382",
     "title": "Mercedes-Benz G-Class G 63 AMG Edition 1 2016 | GCC Specs | Pristine Condition",
-    "price": 179999,
+    "price": 173000,
     "make": "Mercedes-Benz",
     "model": "G-Class",
     "year": "2016",
@@ -362165,6 +362169,10 @@
       {
         "price": 179999,
         "date": "2026-07-03T10:36:17Z"
+      },
+      {
+        "price": 173000,
+        "date": "2026-07-05T03:24:35Z"
       }
     ],
     "date": "2026-07-01"
@@ -371605,6 +371613,50 @@
       {
         "price": 129999,
         "date": "2026-07-04T20:58:43Z"
+      }
+    ],
+    "date": "2026-07-04"
+  },
+  "16898145": {
+    "id": "16898145",
+    "title": "Dodge ram 1500 bighorn lone star 4x4  NIGHT EDITION 2020",
+    "price": 90000,
+    "make": "RAM",
+    "model": "1500",
+    "year": "2020",
+    "kilometers": "190000",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Petrol",
+    "area": "Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ram/1500/2026/7/5/dodge-ram-1500-bighorn-lone-star-4x4-night-2-511---2bbb8ba8d3934f909f23726cc6c3ab00/",
+    "first_seen": "2026-07-05T03:24:35Z",
+    "prices": [
+      {
+        "price": 90000,
+        "date": "2026-07-05T03:24:35Z"
+      }
+    ],
+    "date": "2026-07-05"
+  },
+  "16898116": {
+    "id": "16898116",
+    "title": "Nissan Sunny SL 2021 | GCC PERSONAL USED ACCIDENT FREE",
+    "price": 19000,
+    "make": "Nissan",
+    "model": "Sunny",
+    "year": "2021",
+    "kilometers": "72000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sunny/2026/7/4/nissan-sunny-sl-2021-gcc-personal-used-acc-2-226---f6c58feb9b424676a4015f101f3a56f7/",
+    "first_seen": "2026-07-05T03:24:35Z",
+    "prices": [
+      {
+        "price": 19000,
+        "date": "2026-07-05T03:24:35Z"
       }
     ],
     "date": "2026-07-04"
