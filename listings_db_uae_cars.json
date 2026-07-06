@@ -326544,7 +326544,7 @@
   "16878785": {
     "id": "16878785",
     "title": "Jeep Wrangler Sport 2016 GCC Specs",
-    "price": 47000,
+    "price": 43500,
     "make": "Jeep",
     "model": "Wrangler",
     "year": "2016",
@@ -326559,6 +326559,10 @@
       {
         "price": 47000,
         "date": "2026-06-19T12:06:50Z"
+      },
+      {
+        "price": 43500,
+        "date": "2026-07-06T03:32:58Z"
       }
     ],
     "date": "2026-06-19"
@@ -328978,7 +328982,7 @@
   "16879453": {
     "id": "16879453",
     "title": "2014 NISSAN ALTIMA GCC IN VERY GOOD CONDITION",
-    "price": 12900,
+    "price": 12500,
     "make": "Nissan",
     "model": "Altima",
     "year": "2014",
@@ -328993,6 +328997,10 @@
       {
         "price": 12900,
         "date": "2026-06-20T03:40:53Z"
+      },
+      {
+        "price": 12500,
+        "date": "2026-07-06T03:32:58Z"
       }
     ],
     "date": "2026-06-20"
@@ -352220,7 +352228,7 @@
   "16889351": {
     "id": "16889351",
     "title": "2020 Dodge Challenger GT - GCC Specs - Excellent Condition",
-    "price": 75000,
+    "price": 72000,
     "make": "Dodge",
     "model": "Challenger",
     "year": "2020",
@@ -352235,6 +352243,10 @@
       {
         "price": 75000,
         "date": "2026-06-27T17:11:22Z"
+      },
+      {
+        "price": 72000,
+        "date": "2026-07-06T03:32:58Z"
       }
     ],
     "date": "2026-06-27"
@@ -373051,6 +373063,28 @@
       {
         "price": 33500,
         "date": "2026-07-05T21:00:30Z"
+      }
+    ],
+    "date": "2026-07-05"
+  },
+  "16899090": {
+    "id": "16899090",
+    "title": "Porsche Cayenne GTS 2009 | GCC Specs | V8 Performance",
+    "price": 45000,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": "2009",
+    "kilometers": "130000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Mirdif",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/7/5/porsche-cayenne-gts-2009-gcc-specs-v8-perf-2-160---df546a52cbd648ee98381cea6a4618d4/",
+    "first_seen": "2026-07-06T03:32:58Z",
+    "prices": [
+      {
+        "price": 45000,
+        "date": "2026-07-06T03:32:58Z"
       }
     ],
     "date": "2026-07-05"

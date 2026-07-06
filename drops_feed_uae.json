@@ -7,34 +7,6 @@
   "biggest_drop_usd": 0,
   "drops": [
     {
-      "id": "17123603",
-      "title": "Full Burj Khalifa View | Motivated Seller",
-      "old_price": 5850000,
-      "new_price": 5300000,
-      "drop_pct": 9.4,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/24/best-view-of-burj-vacant-on-transfers-2-105239/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "1484",
-      "bedrooms": "2",
-      "date": "2026-04-01",
-      "first_seen": "2026-03-30"
-    },
-    {
-      "id": "9749536",
-      "title": "G+7 PRIME MIX-USED PLOT | WARSAN 4 | BEST LOCATION",
-      "old_price": 17000000,
-      "new_price": 15500000,
-      "drop_pct": 8.8,
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/3/24/prime-mixed-use-plot-warsan-4-g7-2-428491/",
-      "area": "International City",
-      "category": "Land",
-      "size": "24618",
-      "bedrooms": "",
-      "date": "2026-04-01",
-      "first_seen": "2026-03-24"
-    },
-    {
       "id": "16024227",
       "title": "High Floor Unit with Burj Khalifa View | 02 Series",
       "old_price": 9600000,
@@ -7005,6 +6977,34 @@
       "bedrooms": "",
       "date": "2026-07-05",
       "first_seen": "2026-06-23"
+    },
+    {
+      "id": "9809441",
+      "title": "High ROI | Multiple Units | Prime Location",
+      "old_price": 790000,
+      "new_price": 690000,
+      "drop_pct": 12.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/30/fitted-office-tamani-arts-burj-downtown-2-195681/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "314",
+      "bedrooms": "",
+      "date": "2026-07-06",
+      "first_seen": "2026-03-30"
+    },
+    {
+      "id": "9809439",
+      "title": "Rented Office | Investor Deal | Prime Location",
+      "old_price": 800000,
+      "new_price": 700000,
+      "drop_pct": 12.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/30/burj-khalifa-view-office-tamani-arts-sh-2-105335/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "314",
+      "bedrooms": "",
+      "date": "2026-07-06",
+      "first_seen": "2026-03-30"
     }
   ],
   "new_listings": [
@@ -7329,7 +7329,7 @@
     },
     {
       "id": "9805199",
-      "title": "Prime Retail Shop | High Visibility | Premium Commercial Investment | TIMEZ by Danube | Dubai Silic",
+      "title": "Prime Retail Shop | High Visibility | Premium Commercial Investment | TIMEZ by Danube | Dubai Silicon Oasis",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/22/retail-unit-primary-off-plan-timez-by-d-2-661211/",
       "area": "Dubai Silicon Oasis (DSO)",
       "category": "Shop",
@@ -12510,5 +12510,5 @@
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-05"
+  "last_updated": "2026-07-06"
 }
