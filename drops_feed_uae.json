@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 20042,
+  "total_tracked": 20052,
   "total_drops": 500,
-  "total_new": 20042,
+  "total_new": 20052,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9809441",
-      "title": "High ROI | Multiple Units | Prime Location",
-      "old_price": 850000,
-      "new_price": 790000,
-      "drop_pct": 7.1,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/30/fitted-office-tamani-arts-burj-downtown-2-195681/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "314",
-      "bedrooms": "",
-      "date": "2026-04-04",
-      "first_seen": "2026-03-30"
-    },
     {
       "id": "9803085",
       "title": "Business Oriented | Spacious | Good Location",
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-07-10",
       "first_seen": "2026-06-25"
+    },
+    {
+      "id": "9778332",
+      "title": "High ROI I Prime Retail I Best Offer",
+      "old_price": 4500000,
+      "new_price": 900000,
+      "drop_pct": 80.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/8/22/high-roi-i-prime-retail-i-best-offer-2-924140/",
+      "area": "DIFC",
+      "category": "Shop",
+      "size": "379",
+      "bedrooms": "",
+      "date": "2026-07-10",
+      "first_seen": "2026-06-25"
     }
   ],
   "new_listings": [
@@ -7472,7 +7472,7 @@
     },
     {
       "id": "17567567",
-      "title": "SIGNATURE MANSION | Crystal Lagoon Community | High ROI",
+      "title": "Rare 6BR Mansion | EMAAR's Mirage | Waterfront Villa Collection",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/9/signature-mansion-crystal-lagoon-commun-2-297590/",
       "area": "The Oasis by Emaar",
       "category": "Villa",
@@ -7952,6 +7952,116 @@
       "size": "8098",
       "bedrooms": "",
       "price": 14900000,
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "17704534",
+      "title": "Type B Middle | Vastu | Vacant On Transfer",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/7/10/type-b-middle-vastu-vacant-on-transfer-2-218611/",
+      "area": "The Lakes",
+      "category": "Townhouse",
+      "size": "3034",
+      "bedrooms": "4",
+      "price": 6850000,
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "17706677",
+      "title": "Priority Booking | Lowest Price Guaranteed | 10-12% ROI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/10/priority-booking-lowest-price-guarantee-2-317706/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "626",
+      "bedrooms": "1",
+      "price": 952000,
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "17552572",
+      "title": "Large Layout with Private Pool | Pool View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/6/large-layout-with-private-pool-pool-vie-2-195726/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "1521",
+      "bedrooms": "2",
+      "price": 2300000,
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "17430964",
+      "title": "Investor Deal | High ROI | Motivated Seller",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/7/investor-deal-high-roi-motivated-seller-2-470542/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "756",
+      "bedrooms": "1",
+      "price": 1128423,
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "17622379",
+      "title": "Fully Furnished | Completion Soon | Investor Deal",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/23/fully-furnished-completion-soon-investo-2-226441/",
+      "area": "Jumeirah Village Triangle (JVT)",
+      "category": "Apartment",
+      "size": "565",
+      "bedrooms": "1",
+      "price": 910000,
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "17701883",
+      "title": "Below OP | Prime Investment Deal | Lagoon View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/9/below-op-prime-investment-deal-hot-offe-2-344177/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "689",
+      "bedrooms": "1",
+      "price": 950000,
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "17706589",
+      "title": "10% ROI | Steps Away From Metro | 50/50 Payment Plan | Fully Furnished",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/10/10-roi-steps-away-from-metro-5050-payme-2-224125/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "380",
+      "bedrooms": "0",
+      "price": 667411,
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "17706547",
+      "title": "Metro-Connected | Cancellation Opportunity | 10\u201312% ROI | Priority Allocation",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/10/metro-connected-cancellation-opportunit-2-103139/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "663",
+      "bedrooms": "1",
+      "price": 891000,
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "17706495",
+      "title": "Direct Metro Station Access | 11% ROI | 6 Years Payment Plan",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/10/direct-metro-station-access-11-roi-6-ye-2-224109/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "380",
+      "bedrooms": "0",
+      "price": 649000,
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "9772856",
+      "title": "Ready to Build | Investor Deal",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/6/13/ready-to-build-investor-deal-2-209549/",
+      "area": "DAMAC Hills 2 (Akoya by DAMAC)",
+      "category": "Land",
+      "size": "1882",
+      "bedrooms": "",
+      "price": 790000,
       "first_seen": "2026-07-10"
     },
     {
@@ -12396,116 +12506,6 @@
       "size": "1447",
       "bedrooms": "2",
       "price": 3000000,
-      "first_seen": "2026-07-05"
-    },
-    {
-      "id": "9824538",
-      "title": "5 Min Away For Circle Mall | 30/70 Payment Plan Very Flexible",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/5/5-min-away-for-circle-mall-3070-payment-2-285505/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Office",
-      "size": "2314",
-      "bedrooms": "",
-      "price": 3550000,
-      "first_seen": "2026-07-05"
-    },
-    {
-      "id": "9824536",
-      "title": "Fitted with Partitions | High ROI Potential | Vastu",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/5/fitted-with-partitions-potential-upgrad-2-205737/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "2559",
-      "bedrooms": "",
-      "price": 8200000,
-      "first_seen": "2026-07-05"
-    },
-    {
-      "id": "17670920",
-      "title": "Park-Facing 2BR | Greencrest Tower | Pool & Garden Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/3/park-facing-2br-greencrest-tower-pool-g-2-340637/",
-      "area": "Dubai Hills Estate",
-      "category": "Apartment",
-      "size": "1439",
-      "bedrooms": "2",
-      "price": 2985888,
-      "first_seen": "2026-07-05"
-    },
-    {
-      "id": "17623410",
-      "title": "MORTGAGE ELIGIBLE | MULTIPLE OPTIONS | GOOD PRICE",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/23/mortgage-eligible-multiple-options-good-2-188656/",
-      "area": "The Valley by Emaar",
-      "category": "Villa",
-      "size": "10009",
-      "bedrooms": "5",
-      "price": 8199900,
-      "first_seen": "2026-07-05"
-    },
-    {
-      "id": "16946060",
-      "title": "1BED ON CANAL",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/15/1bed-on-canal-2-180895/",
-      "area": "Dubai Islands",
-      "category": "Apartment",
-      "size": "834",
-      "bedrooms": "1",
-      "price": 1937270,
-      "first_seen": "2026-07-05"
-    },
-    {
-      "id": "17275168",
-      "title": "Sea View Studio | Peace Avenue | Furnished Apartment",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/2/sea-view-studio-peace-avenue-furnished--2-269127/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "440",
-      "bedrooms": "0",
-      "price": 842359,
-      "first_seen": "2026-07-05"
-    },
-    {
-      "id": "17674629",
-      "title": "Single Row Internal | Vastu N/E | Skyline",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/7/4/single-row-internal-vastu-ne-skyline-2-887247/",
-      "area": "Jebel Ali",
-      "category": "Townhouse",
-      "size": "2882",
-      "bedrooms": "3",
-      "price": 5000000,
-      "first_seen": "2026-07-05"
-    },
-    {
-      "id": "17674628",
-      "title": "Priced To Sell | By Amenities | Ready Now",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/7/4/priced-to-sell-by-amenities-ready-now-2-171600/",
-      "area": "Jebel Ali",
-      "category": "Townhouse",
-      "size": "2761",
-      "bedrooms": "4",
-      "price": 5600000,
-      "first_seen": "2026-07-05"
-    },
-    {
-      "id": "16684121",
-      "title": "D1 Modern | Roof Top Terrace | Skyline views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2025/11/21/d1-modern-30-phpp-4-bedrooms-2-297722/",
-      "area": "Dubai Hills Estate",
-      "category": "Villa",
-      "size": "5371",
-      "bedrooms": "4",
-      "price": 18900000,
-      "first_seen": "2026-07-05"
-    },
-    {
-      "id": "9823901",
-      "title": "Ready To Access | Fully Equipped | Nearby Metro",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/1/ready-to-access-fully-equipped-nearby-m-2-824743/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1067",
-      "bedrooms": "",
-      "price": 2250000,
       "first_seen": "2026-07-05"
     }
   ],
