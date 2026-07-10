@@ -7,20 +7,6 @@
   "biggest_drop_usd": 0,
   "drops": [
     {
-      "id": "16897956",
-      "title": "4th Floor | Fitted | Canal Pool/Burj Khalifa View",
-      "old_price": 2950000,
-      "new_price": 2450000,
-      "drop_pct": 16.9,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/6/4th-floor-fitted-canal-poolburj-khalifa-2-324025/",
-      "area": "Mina Rashid",
-      "category": "Apartment",
-      "size": "1163",
-      "bedrooms": "2",
-      "date": "2026-04-03",
-      "first_seen": "2026-03-12"
-    },
-    {
       "id": "17107264",
       "title": "Fully Renovated | Turnkey I Private Pool I VOT",
       "old_price": 5800000,
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-07-09",
       "first_seen": "2026-04-21"
+    },
+    {
+      "id": "9819031",
+      "title": "Vacant | Community View | Unfurnished",
+      "old_price": 795000,
+      "new_price": 749000,
+      "drop_pct": 5.8,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/5/vacant-community-view-unfurnished-2-485583/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "314",
+      "bedrooms": "",
+      "date": "2026-07-10",
+      "first_seen": "2026-06-05"
     }
   ],
   "new_listings": [
@@ -12510,5 +12510,5 @@
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-07-10"
 }
