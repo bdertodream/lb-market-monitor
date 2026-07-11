@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 20062,
+  "total_tracked": 20064,
   "total_drops": 500,
-  "total_new": 20062,
+  "total_new": 20064,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,28 @@
   ],
   "new_listings": [
     {
+      "id": "17704640",
+      "title": "Type 10 | Five Bedrooms | Vacant on Transfer",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/10/type-10-five-bedrooms-vacant-on-transfe-2-321583/",
+      "area": "The Meadows",
+      "category": "Villa",
+      "size": "4207",
+      "bedrooms": "5",
+      "price": 11350000,
+      "first_seen": "2026-07-11"
+    },
+    {
+      "id": "17704642",
+      "title": "Fully Upgraded | Private Pool | Type 5",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/10/fully-upgraded-private-pool-type-5-2-243516/",
+      "area": "The Lakes",
+      "category": "Villa",
+      "size": "3779",
+      "bedrooms": "3",
+      "price": 13000000,
+      "first_seen": "2026-07-11"
+    },
+    {
       "id": "17703762",
       "title": "Fully Furnished and Fully designed l WALKING TO METRO | Flexible payment plan | 15% ROI | NO COMMIS",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/10/fully-furnished-and-fully-designed-l-wa-2-246114/",
@@ -12485,30 +12507,8 @@
       "bedrooms": "5",
       "price": 20950000,
       "first_seen": "2026-07-06"
-    },
-    {
-      "id": "17678712",
-      "title": "2BR + Study | Marina View | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/5/2br-study-marina-view-vacant-2-160555/",
-      "area": "Dubai Marina",
-      "category": "Apartment",
-      "size": "1557",
-      "bedrooms": "2",
-      "price": 3500000,
-      "first_seen": "2026-07-06"
-    },
-    {
-      "id": "17644700",
-      "title": "A REAL HOME | 5 BEDS | UPGRADED | CUL-DE-SAC",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/27/a-real-home-5-beds-upgraded-cul-de-sac-2-323715/",
-      "area": "The Meadows",
-      "category": "Villa",
-      "size": "3820",
-      "bedrooms": "5",
-      "price": 12500000,
-      "first_seen": "2026-07-06"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-10"
+  "last_updated": "2026-07-11"
 }
