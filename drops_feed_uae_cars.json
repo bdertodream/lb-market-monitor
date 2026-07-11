@@ -1,37 +1,9 @@
 {
-  "total_tracked": 16474,
+  "total_tracked": 16480,
   "total_drops": 502,
-  "total_new": 16474,
-  "last_updated": "2026-07-11T16:59:07Z",
+  "total_new": 16480,
+  "last_updated": "2026-07-11T20:47:37Z",
   "drops": [
-    {
-      "id": "16751312",
-      "title": "2,155 P.M | 0% Downpayment | Perfect Condition!",
-      "old_price": 117999,
-      "new_price": 109999,
-      "drop_pct": 6.8,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/a4/2026/2/20/2644-pm-0-downpayment-perfect-condition-2-040---9668e9aa2a7c403ba8a61681ff65f92d/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "A4",
-      "year": "2023",
-      "mileage": "30000",
-      "date": "2026-06-17T12:17:25Z"
-    },
-    {
-      "id": "16607213",
-      "title": "1,626 P.M | 0% Downpayment | Perfect Condition!",
-      "old_price": 88999,
-      "new_price": 82999,
-      "drop_pct": 6.7,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lincoln/corsair/2025/10/22/2057-pm-corsair-awd-0-downpayment-perfect--2-652---c9aa1116c01e4d179484bcca54687c56/",
-      "category": "Used Cars",
-      "make": "Lincoln",
-      "model": "Corsair",
-      "year": "2022",
-      "mileage": "61000",
-      "date": "2026-06-17T12:17:25Z"
-    },
     {
       "id": "16750041",
       "title": "1,861 P.M | 0% Downpayment | Agency History!",
@@ -7003,9 +6975,109 @@
       "year": "2026",
       "mileage": "0",
       "date": "2026-07-11T16:59:07Z"
+    },
+    {
+      "id": "16901563",
+      "title": "Volkswagen T-Roc Life 2024 GCC Specs",
+      "old_price": 61000,
+      "new_price": 56000,
+      "drop_pct": 8.2,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/t-roc/2026/7/7/volkswagen-t-roc-life-2024-gcc-specs-2-974---ca1b39a0e1f34b25ac4be6848cfd7bfb/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "T-Roc",
+      "year": "2024",
+      "mileage": "31000",
+      "date": "2026-07-11T20:47:37Z"
+    },
+    {
+      "id": "16714950",
+      "title": "4,505 P.M | GLE 53 AMG 4Matic | 0% Downpayment | Warranty",
+      "old_price": 249999,
+      "new_price": 229999,
+      "drop_pct": 8.0,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-class/2026/1/21/5288-pm-gle-53-amg-0-downpayment-warranty--2-038---e976f6644c094ee983f091a79021a29e/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "GLE-Class",
+      "year": "2020",
+      "mileage": "59000",
+      "date": "2026-07-11T20:47:37Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16906326",
+      "title": "Mercedes-Benz GLA 250 4MATIC 2019 | GCC Specs | Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gla-class/2026/7/11/mercedes-benz-gla-250-4matic-2019-gcc-spec-2-183---1aa7dba6f2e14728bc017e4646d35ebf/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "GLA-Class",
+      "year": "2019",
+      "mileage": "146000",
+      "price": 54000,
+      "first_seen": "2026-07-11T20:47:37Z"
+    },
+    {
+      "id": "16906318",
+      "title": "Pristine 2021 BMW X5 M50i xDrive | GCC Specs | Low Mileage",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/7/11/pristine-2021-bmw-x5-m50i-xdrive-gcc-specs-2-280---c9e1814614a542a294cf2472397a1d0b/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "X5",
+      "year": "2021",
+      "mileage": "81000",
+      "price": 165000,
+      "first_seen": "2026-07-11T20:47:37Z"
+    },
+    {
+      "id": "16906317",
+      "title": "Jeep Grand Cherokee L Limited 2022 GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee-l/2026/7/11/jeep-grand-cherokee-l-limited-2022-gcc-spe-2-122---48322bc4f0ca4fe4b462f55b9a23ac60/",
+      "category": "Used Cars",
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "year": "2022",
+      "mileage": "88000",
+      "price": 97000,
+      "first_seen": "2026-07-11T20:47:37Z"
+    },
+    {
+      "id": "16906241",
+      "title": "Brand New 2025 MINI Cooper S | GCC | Full Agency Service",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mini/cooper/2026/7/11/brand-new-2025-mini-cooper-s-gcc-full-agen-2-083---a2ce0dc2f02e42b495ca6fdfaa54c428/",
+      "category": "Used Cars",
+      "make": "MINI",
+      "model": "Cooper",
+      "year": "2025",
+      "mileage": "11000",
+      "price": 113000,
+      "first_seen": "2026-07-11T20:47:37Z"
+    },
+    {
+      "id": "16899353",
+      "title": "Nissan Sentra SV 2017 - American Specs - Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sentra/2026/7/6/nissan-sentra-sv-2017-american-specs-excel-2-291---46a175a48eed4456ad00c28da14cebdd/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Sentra",
+      "year": "2017",
+      "mileage": "260000",
+      "price": 15999,
+      "first_seen": "2026-07-11T20:47:37Z"
+    },
+    {
+      "id": "16905897",
+      "title": "2022 Rolls-Royce Phantom, Two-Tone, Illuminated Spirit of Ecstasy, Rear Screens, Dealer Warranty!!",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/phantom/2026/7/11/2022-rolls-royce-phantom-two-tone-illumina-2-763---3d8162a437ad42bfa46347432858385e/",
+      "category": "Used Cars",
+      "make": "Rolls-Royce",
+      "model": "Phantom",
+      "year": "2022",
+      "mileage": "20170",
+      "price": 1395000,
+      "first_seen": "2026-07-11T20:47:37Z"
+    },
     {
       "id": "16906171",
       "title": "BMW X6 xDrive40i M Sport 2025 GCC Specs  | AGMC Warranty  Service Contract",
@@ -12835,7 +12907,7 @@
       "model": "T-Roc",
       "year": "2024",
       "mileage": "31000",
-      "price": 61000,
+      "price": 56000,
       "first_seen": "2026-07-07T21:25:19Z"
     },
     {
@@ -12932,78 +13004,6 @@
       "year": "2021",
       "mileage": "81111",
       "price": 22500,
-      "first_seen": "2026-07-07T17:59:49Z"
-    },
-    {
-      "id": "16837537",
-      "title": "NO CONVENIENCE FEES | UNDER WARRANTY | 0% DOWN PAYMENT | CERTIFIED PRE-OWNED |",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/yaris/2026/5/13/no-convenience-fees-under-warranty-0-down--2-361---c845b75fd3fe4b359fa2ebea27078bc6/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Yaris",
-      "year": "2022",
-      "mileage": "96012",
-      "price": 33000,
-      "first_seen": "2026-07-07T17:59:49Z"
-    },
-    {
-      "id": "16878390",
-      "title": "2022 Mercedes-Benz G-Class G 63 AMG | G MANUFAKTUR GCC Specs | Pristine Condition",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/6/19/2022-mercedes-benz-g-class-g-63-amg-g-manu-2-347---71df7748762c4d54a949cdba41397aaa/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "G-Class",
-      "year": "2022",
-      "mileage": "29000",
-      "price": 640000,
-      "first_seen": "2026-07-07T17:59:49Z"
-    },
-    {
-      "id": "16893971",
-      "title": "Toyota Frontlander 2026 Chinese Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/frontlander/2026/7/1/toyota-frontlander-2026-chinese-specs-2-633---cb4119f7bdfb4fe5be3c28f1c1280ca3/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Frontlander",
-      "year": "2026",
-      "mileage": "0",
-      "price": 82000,
-      "first_seen": "2026-07-07T17:59:49Z"
-    },
-    {
-      "id": "16729332",
-      "title": "Range Rover P530 | 2023 GCC 49k km | V8 Agency Warranty | Service Contract  History",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/2/2/range-rover-p530-2023-gcc-49k-km-v8-agency-2-545---cad0ed4fea354274886daabf42264404/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover",
-      "year": "2023",
-      "mileage": "49000",
-      "price": 499000,
-      "first_seen": "2026-07-07T17:59:49Z"
-    },
-    {
-      "id": "16875797",
-      "title": "Ford Bronco Wildtrak 2023 GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/bronco/2026/6/17/ford-bronco-wildtrak-2023-gcc-specs-2-667---d6df0cd3e1f847ffa9d0fd367d640e24/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Bronco",
-      "year": "2023",
-      "mileage": "27000",
-      "price": 179000,
-      "first_seen": "2026-07-07T17:59:49Z"
-    },
-    {
-      "id": "16901342",
-      "title": "0% DOWN PAYMENT! | \u2600\ufe0f THE HOLIDAY WINDOW | PREMIUM | IMMEDIATE OWNERSHIP | GCC SPECS | WARRANTY",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/shark-6/2026/7/7/0-down-payment-the-holiday-window-premium--2-766---bbc9ac4039e341c6b2b3ab08db66d5a1/",
-      "category": "Used Cars",
-      "make": "BYD",
-      "model": "Shark 6",
-      "year": "2026",
-      "mileage": "8350",
-      "price": 164990,
       "first_seen": "2026-07-07T17:59:49Z"
     }
   ]
