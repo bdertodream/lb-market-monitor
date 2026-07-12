@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 20179,
+  "total_tracked": 20181,
   "total_drops": 500,
-  "total_new": 20179,
+  "total_new": 20181,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,28 @@
   ],
   "new_listings": [
     {
+      "id": "17711369",
+      "title": "Prime Umm Suqeim 1 Villa | 10,000 Sq.Ft | Direct Owner",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/11/prime-umm-suqeim-1-villa-10000-sqft-direct-2-532/",
+      "area": "Umm Suqeim",
+      "category": "Villa",
+      "size": "10000",
+      "bedrooms": "9",
+      "price": 35000000,
+      "first_seen": "2026-07-12"
+    },
+    {
+      "id": "9810278",
+      "title": "Burj Khalifa View | High Floor | High ROI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/6/burj-khalifa-view-high-floor-high-roi-2-889196/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "742",
+      "bedrooms": "",
+      "price": 2690000,
+      "first_seen": "2026-07-12"
+    },
+    {
       "id": "17704640",
       "title": "Type 10 | Five Bedrooms | Vacant on Transfer",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/10/type-10-five-bedrooms-vacant-on-transfe-2-321583/",
@@ -8220,7 +8242,7 @@
     },
     {
       "id": "17711355",
-      "title": "Fully Furnished and Fully designed l WALKING TO METRO | Flexible payment plan | 15% ROI | NO COMMIS",
+      "title": "Fully Furnished and Fully designed l WALKING TO METRO | Flexible payment plan | 15% ROI | NO COMMISSION",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/11/fully-furnished-and-fully-designed-l-wa-2-265843/",
       "area": "Jebel Ali",
       "category": "Apartment",
@@ -12485,30 +12507,8 @@
       "bedrooms": "",
       "price": 1388888,
       "first_seen": "2026-07-07"
-    },
-    {
-      "id": "9824946",
-      "title": "Office Space for Rent in Jumeirah Lake Towers",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/7/office-space-for-rent-in-jumeirah-lake--2-208332/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "1092",
-      "bedrooms": "",
-      "price": 1400000,
-      "first_seen": "2026-07-07"
-    },
-    {
-      "id": "9824944",
-      "title": "Ultra Luxury | Turn Key Unit | Furnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/7/ultra-luxury-turn-key-unit-furnished-2-118980/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "1267",
-      "bedrooms": "",
-      "price": 2550000,
-      "first_seen": "2026-07-07"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-11"
+  "last_updated": "2026-07-12"
 }
