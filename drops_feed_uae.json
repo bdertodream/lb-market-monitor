@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 20204,
+  "total_tracked": 20206,
   "total_drops": 500,
-  "total_new": 20204,
+  "total_new": 20206,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,28 @@
   ],
   "new_listings": [
     {
+      "id": "9820586",
+      "title": "MOVE-IN READY | FITTED OFFICE| AREA EXPERT",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/12/move-in-ready-fitted-office-area-expert-2-849212/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "1077",
+      "bedrooms": "",
+      "price": 2500000,
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "9814212",
+      "title": "Half Floor I Rare Find I Furnished I Rented",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/1/half-floor-i-rare-find-i-furnished-i-re-2-459506/",
+      "area": "DIFC",
+      "category": "Office",
+      "size": "4941",
+      "bedrooms": "",
+      "price": 33500000,
+      "first_seen": "2026-07-13"
+    },
+    {
       "id": "17711369",
       "title": "Prime Umm Suqeim 1 Villa | 10,000 Sq.Ft | Direct Owner",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/11/prime-umm-suqeim-1-villa-10000-sqft-direct-2-532/",
@@ -12485,30 +12507,8 @@
       "bedrooms": "2",
       "price": 2699950,
       "first_seen": "2026-07-07"
-    },
-    {
-      "id": "17654165",
-      "title": "Brand New | Ground Floor| Spacious Layout | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/30/brand-new-ground-floor-spacious-layout--2-458579/",
-      "area": "Dubai Hills Estate",
-      "category": "Apartment",
-      "size": "876",
-      "bedrooms": "1",
-      "price": 1590000,
-      "first_seen": "2026-07-07"
-    },
-    {
-      "id": "17676920",
-      "title": "UPGRADED | PARK | VACANT ON TRANSFER",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/7/4/upgraded-pool-park-vot-2-171198/",
-      "area": "Mudon",
-      "category": "Townhouse",
-      "size": "3136",
-      "bedrooms": "3",
-      "price": 4750000,
-      "first_seen": "2026-07-07"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-12"
+  "last_updated": "2026-07-13"
 }
