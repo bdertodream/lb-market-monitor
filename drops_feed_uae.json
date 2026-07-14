@@ -7,20 +7,6 @@
   "biggest_drop_usd": 0,
   "drops": [
     {
-      "id": "17002666",
-      "title": "Skyline Serenity | Luxury 1-Bedroom | Waterfront Living",
-      "old_price": 3950000,
-      "new_price": 3599000,
-      "drop_pct": 8.9,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/28/skyline-serenity-luxury-1-bedroom-water-2-173518/",
-      "area": "Dubai Harbour",
-      "category": "Apartment",
-      "size": "840",
-      "bedrooms": "1",
-      "date": "2026-04-07",
-      "first_seen": "2026-03-08"
-    },
-    {
       "id": "17290438",
       "title": "Fully Upgraded | Fully Furnished | High ROI",
       "old_price": 2300000,
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-07-13",
       "first_seen": "2026-06-25"
+    },
+    {
+      "id": "9778332",
+      "title": "High ROI I Prime Retail I Best Offer",
+      "old_price": 4500000,
+      "new_price": 900000,
+      "drop_pct": 80.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/8/22/high-roi-i-prime-retail-i-best-offer-2-924140/",
+      "area": "DIFC",
+      "category": "Shop",
+      "size": "379",
+      "bedrooms": "",
+      "date": "2026-07-14",
+      "first_seen": "2026-06-25"
     }
   ],
   "new_listings": [
@@ -12510,5 +12510,5 @@
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-13"
+  "last_updated": "2026-07-14"
 }
