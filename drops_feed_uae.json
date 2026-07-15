@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 20454,
+  "total_tracked": 20464,
   "total_drops": 500,
-  "total_new": 20454,
+  "total_new": 20464,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9802883",
-      "title": "Spacious | Ready for Custom Fit Out | Vacant",
-      "old_price": 1900000,
-      "new_price": 1800000,
-      "drop_pct": 5.3,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/7/spacious-ready-for-custom-fit-out-vacan-2-130755/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1023",
-      "bedrooms": "",
-      "date": "2026-04-10",
-      "first_seen": "2026-03-18"
-    },
     {
       "id": "9802875",
       "title": "Partitioned Office | Vacant | Well Maintained",
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-07-15",
       "first_seen": "2026-06-25"
+    },
+    {
+      "id": "9778332",
+      "title": "High ROI I Prime Retail I Best Offer",
+      "old_price": 4500000,
+      "new_price": 900000,
+      "drop_pct": 80.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/8/22/high-roi-i-prime-retail-i-best-offer-2-924140/",
+      "area": "DIFC",
+      "category": "Shop",
+      "size": "379",
+      "bedrooms": "",
+      "date": "2026-07-15",
+      "first_seen": "2026-06-25"
     }
   ],
   "new_listings": [
@@ -7072,6 +7072,116 @@
       "size": "380",
       "bedrooms": "0",
       "price": 649000,
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "17723718",
+      "title": "Corner Unit | Lagoon View | Large Plot",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/14/corner-unit-lagoon-view-large-plot-2-315676/",
+      "area": "DAMAC Lagoons",
+      "category": "Villa",
+      "size": "4800",
+      "bedrooms": "5",
+      "price": 7500000,
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "17707682",
+      "title": "7 bedroom | Vastu | Pool | 8 car park",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/11/7-bedroom-vastu-pool-8-car-park-2-843418/",
+      "area": "Al Furjan",
+      "category": "Villa",
+      "size": "6580",
+      "bedrooms": "7",
+      "price": 9750000,
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "17670668",
+      "title": "1 Bed | Vacant | Cheapest on Market | Balcony",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/3/1-bed-low-floor-vacant-under-market-2-328098/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Apartment",
+      "size": "752",
+      "bedrooms": "1",
+      "price": 1489999,
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "17724131",
+      "title": "2 Bed + Storage | Vacant | Low Floor | Cheap",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/14/2-bed-storage-vacant-low-floor-cheap-2-178276/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Apartment",
+      "size": "1268",
+      "bedrooms": "2",
+      "price": 2049999,
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "17492072",
+      "title": "2 Bed + Maids | Marina View | Next to Metro",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/20/2-bedroom-apartment-furnished-near-metr-2-967909/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Apartment",
+      "size": "1658",
+      "bedrooms": "2",
+      "price": 2650000,
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "17494622",
+      "title": "1 Bed | Lake + Marina Views | Balcony | VOT",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/20/1-bedroom-marina-view-lake-view-vot-2-298310/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Apartment",
+      "size": "751",
+      "bedrooms": "1",
+      "price": 1650000,
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "17694354",
+      "title": "Vacant | Large Loft | Marina Views",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/8/vacant-large-loft-marina-views-2-210565/",
+      "area": "Jumeirah Beach Residence (JBR)",
+      "category": "Apartment",
+      "size": "2039",
+      "bedrooms": "2",
+      "price": 3600000,
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "17363695",
+      "title": "MOVE IN READY | IMMACULATE | CORNER UNIT",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/23/low-floor-2bed-corner-unit-huge-layout-2-298726/",
+      "area": "Dubai Creek Harbour",
+      "category": "Apartment",
+      "size": "1343",
+      "bedrooms": "2",
+      "price": 3175000,
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "9826267",
+      "title": "Central Location| Grade A| Vacant unit",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/15/central-location-grade-a-vacant-unit-2-678708/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "2553",
+      "bedrooms": "",
+      "price": 10500000,
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "9783850",
+      "title": "Corner Plot | Backing Green Area | DDA: B+G+1+R",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/7/15/corner-plot-backing-green-area-dda-bg1r-2-154348/",
+      "area": "Dubai Hills Estate",
+      "category": "Land",
+      "size": "14918",
+      "bedrooms": "",
+      "price": 47000000,
       "first_seen": "2026-07-15"
     },
     {
@@ -10112,7 +10222,7 @@
     },
     {
       "id": "17624067",
-      "title": "Exclusive 3br Single Row | Brand New |",
+      "title": "Brand New | Single Row | Keys in Hand |",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/6/23/exclusive-3br-single-row-brand-new-2-224097/",
       "area": "Arabian Ranches 3",
       "category": "Townhouse",
@@ -12397,116 +12507,6 @@
       "bedrooms": "0",
       "price": 650000,
       "first_seen": "2026-07-10"
-    },
-    {
-      "id": "17706934",
-      "title": "Steps Away From Metro | 10% ROI | 6 Year's PP | Fully Furnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/10/steps-away-from-metro-10-roi-6-years-pp-2-167928/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "380",
-      "bedrooms": "0",
-      "price": 652000,
-      "first_seen": "2026-07-10"
-    },
-    {
-      "id": "17706929",
-      "title": "Hot Cancellation | 10% ROI | 50/50 PP | Fully Furnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/10/hot-cancellation-10-roi-5050-pp-fully-f-2-166740/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "663",
-      "bedrooms": "1",
-      "price": 890000,
-      "first_seen": "2026-07-10"
-    },
-    {
-      "id": "17706920",
-      "title": "12% ROI | On Metro | Fully Furnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/10/12-roi-on-metro-fully-furnished-2-241880/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "380",
-      "bedrooms": "0",
-      "price": 686113,
-      "first_seen": "2026-07-10"
-    },
-    {
-      "id": "17706909",
-      "title": "On Metro Station | 11% ROI | 6 years payment Plan | Pool View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/10/on-metro-station-11-roi-6-years-payment-2-135810/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "663",
-      "bedrooms": "1",
-      "price": 889999,
-      "first_seen": "2026-07-10"
-    },
-    {
-      "id": "17338968",
-      "title": "Elegant Living | Investor Deal | Skyline View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/17/elegant-living-investor-deal-skyline-vi-2-595861/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "801",
-      "bedrooms": "1",
-      "price": 1100000,
-      "first_seen": "2026-07-10"
-    },
-    {
-      "id": "17309635",
-      "title": "Fully Furnished | Elegant Style | Book Now",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/10/fully-furnished-elegant-style-book-now-2-116889/",
-      "area": "Al Barari",
-      "category": "Apartment",
-      "size": "1231",
-      "bedrooms": "1",
-      "price": 2650000,
-      "first_seen": "2026-07-10"
-    },
-    {
-      "id": "17706816",
-      "title": "Distress Sale | Lowest Priced Unit | Private Metro Access",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/10/distress-sale-lowest-priced-unit-privat-2-249901/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "380",
-      "bedrooms": "0",
-      "price": 651999,
-      "first_seen": "2026-07-10"
-    },
-    {
-      "id": "17706804",
-      "title": "Priority Access | Metro connected l Lowest Launch Price | Earn 12% ROI",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/10/priority-access-metro-connected-l-lowes-2-242150/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "638",
-      "bedrooms": "1",
-      "price": 953000,
-      "first_seen": "2026-07-10"
-    },
-    {
-      "id": "9819602",
-      "title": "Turnkey office | Landmark Address | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/8/turnkey-office-landmark-address-vacant-2-298320/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "8517",
-      "bedrooms": "",
-      "price": 80000000,
-      "first_seen": "2026-07-09"
-    },
-    {
-      "id": "9819523",
-      "title": "FULLY FURNISHED | GRADE A | INVESTOR DEAL",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/8/fully-furnished-grade-a-investor-deal-2-199290/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "2326",
-      "bedrooms": "",
-      "price": 12008962,
-      "first_seen": "2026-07-09"
     }
   ],
   "tracked": 1966,
