@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 20513,
+  "total_tracked": 20515,
   "total_drops": 500,
-  "total_new": 20513,
+  "total_new": 20515,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17110299",
-      "title": "Actual 10% ROI | Fully Furnished Studio | Open View",
-      "old_price": 559000,
-      "new_price": 528000,
-      "drop_pct": 5.5,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/20/actual-10-roi-fully-furnished-studio-op-2-266385/",
-      "area": "Al Furjan",
-      "category": "Apartment",
-      "size": "390",
-      "bedrooms": "0",
-      "date": "2026-04-10",
-      "first_seen": "2026-03-21"
-    },
     {
       "id": "9788889",
       "title": "LUXURY OFFICE | BURJ KHALIFA VIEWS | VACANT",
@@ -7005,9 +6991,45 @@
       "bedrooms": "",
       "date": "2026-07-15",
       "first_seen": "2026-07-03"
+    },
+    {
+      "id": "9810773",
+      "title": "Premium Fully Fitted Office | High ROI | Prime Business Bay Location",
+      "old_price": 3400000,
+      "new_price": 3050000,
+      "drop_pct": 10.3,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/4/9/premium-fully-fitted-office-high-roi-pr-2-199902/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1229",
+      "bedrooms": "",
+      "date": "2026-07-16",
+      "first_seen": "2026-04-09"
     }
   ],
   "new_listings": [
+    {
+      "id": "9782639",
+      "title": "Exclusive | Multiple Options | Next to Park",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/7/10/exclusive-multiple-options-next-to-park-2-327455/",
+      "area": "Pearl Jumeirah",
+      "category": "Land",
+      "size": "9037",
+      "bedrooms": "",
+      "price": 22000000,
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "9782633",
+      "title": "Exclusive | Multiple Options | Next to Park",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/7/10/exclusive-multiple-options-next-to-park-2-116301/",
+      "area": "Pearl Jumeirah",
+      "category": "Land",
+      "size": "9818",
+      "bedrooms": "",
+      "price": 30000000,
+      "first_seen": "2026-07-16"
+    },
     {
       "id": "17725837",
       "title": "50/50 PAYMENT PLAN | LAUNCH PRICE | NO COMMISSION",
@@ -12485,30 +12507,8 @@
       "bedrooms": "3",
       "price": 5400000,
       "first_seen": "2026-07-10"
-    },
-    {
-      "id": "17630068",
-      "title": "Modern | Prime Location | Investment Potential",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/24/modern-prime-location-investment-potent-2-101541/",
-      "area": "Jumeirah Golf Estates",
-      "category": "Villa",
-      "size": "2383",
-      "bedrooms": "3",
-      "price": 5678777,
-      "first_seen": "2026-07-10"
-    },
-    {
-      "id": "17503077",
-      "title": "Green Belt | Best Location | Closed Kitchen",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/22/green-belt-best-location-closed-kitchen-2-203323/",
-      "area": "Tilal Al Ghaf",
-      "category": "Villa",
-      "size": "3411",
-      "bedrooms": "4",
-      "price": 7500000,
-      "first_seen": "2026-07-10"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-15"
+  "last_updated": "2026-07-16"
 }
