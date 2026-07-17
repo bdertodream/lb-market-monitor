@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 20651,
+  "total_tracked": 20659,
   "total_drops": 500,
-  "total_new": 20651,
+  "total_new": 20659,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9803228",
-      "title": "Retail Business | Best Price | Business Prime Location",
-      "old_price": 8500000,
-      "new_price": 7500000,
-      "drop_pct": 11.8,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/2/10/retail-business-best-price-business-pri-2-273675/",
-      "area": "Business Bay",
-      "category": "Shop",
-      "size": "1795",
-      "bedrooms": "",
-      "date": "2026-04-12",
-      "first_seen": "2026-03-12"
-    },
     {
       "id": "17309473",
       "title": "Off-Plan Studio Apartment | Coventry 2 | Unfurnished | Prime Investment Opportunity | High ROI Pote",
@@ -7005,6 +6991,20 @@
       "bedrooms": "4",
       "date": "2026-07-17",
       "first_seen": "2026-05-15"
+    },
+    {
+      "id": "9778332",
+      "title": "High ROI I Prime Retail I Best Offer",
+      "old_price": 4500000,
+      "new_price": 900000,
+      "drop_pct": 80.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/8/22/high-roi-i-prime-retail-i-best-offer-2-924140/",
+      "area": "DIFC",
+      "category": "Shop",
+      "size": "379",
+      "bedrooms": "",
+      "date": "2026-07-17",
+      "first_seen": "2026-06-25"
     }
   ],
   "new_listings": [
@@ -7776,6 +7776,94 @@
       "size": "1080",
       "bedrooms": "",
       "price": 1600000,
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "17740546",
+      "title": "Hot Cancellation | 10% ROI | On Metro | 6 Years PP",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/17/hot-cancellation-10-roi-on-metro-6-year-2-278554/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "380",
+      "bedrooms": "0",
+      "price": 650000,
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "17661460",
+      "title": "Townhouse | Best priced | Brand new | Investor deal",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/7/1/townhouse-best-priced-brand-new-investo-2-206791/",
+      "area": "Dubai Creek Harbour",
+      "category": "Townhouse",
+      "size": "1941",
+      "bedrooms": "3",
+      "price": 4900000,
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "17740516",
+      "title": "10% ROI | 50/50 Payment Plan | On Metro | Fully Furnished | Priority Allocation",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/17/10-roi-5050-payment-plan-on-metro-fully-2-270805/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "380",
+      "bedrooms": "0",
+      "price": 666999,
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "17740508",
+      "title": "Hot Cancellation | High Floor | 10% NET ROI | Fully Furnished",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/17/hot-cancellation-high-floor-10-net-roi--2-337425/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "380",
+      "bedrooms": "0",
+      "price": 652000,
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "17726110",
+      "title": "Corner Unit | Waterfront Living | Below OP",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/15/corner-unit-waterfront-living-below-op-2-133501/",
+      "area": "Dubai Harbour",
+      "category": "Apartment",
+      "size": "1193",
+      "bedrooms": "1",
+      "price": 4424273,
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "17740394",
+      "title": "Invest Smart | 10% Guaranteed ROI | Direct Metro Access | Fully Furnished",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/17/invest-smart-10-guaranteed-roi-direct-m-2-542622/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "685",
+      "bedrooms": "1",
+      "price": 898000,
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "17693453",
+      "title": "Large Terrace | Upgraded | Spacious",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/8/top-floor-upgraded-spacious-2-243741/",
+      "area": "Jumeirah Golf Estates",
+      "category": "Apartment",
+      "size": "2886",
+      "bedrooms": "4",
+      "price": 6400000,
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "9784818",
+      "title": "BELOW OP DEAL | LOW CASH FLOW | INVESTOR DEAL",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/7/17/below-op-deal-low-cash-flow-investor-de-2-107471/",
+      "area": "DAMAC Lagoons",
+      "category": "Land",
+      "size": "1550",
+      "bedrooms": "",
+      "price": 2400000,
       "first_seen": "2026-07-17"
     },
     {
@@ -11883,7 +11971,7 @@
     },
     {
       "id": "17704760",
-      "title": "Greenbelt | Best Location | Large Plot",
+      "title": "True Corner Unit | Best Priced Option | Large Plot",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/10/greenbelt-best-location-large-plot-2-627688/",
       "area": "Dubai Hills Estate",
       "category": "Villa",
@@ -12418,94 +12506,6 @@
       "size": "2458",
       "bedrooms": "",
       "price": 9999999,
-      "first_seen": "2026-07-11"
-    },
-    {
-      "id": "17624398",
-      "title": "Coastal Living | Signature Villa | Prime Value",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/23/coastal-living-signature-villa-prime-va-2-249221/",
-      "area": "Palm Jebel Ali",
-      "category": "Villa",
-      "size": "7379",
-      "bedrooms": "7",
-      "price": 32990000,
-      "first_seen": "2026-07-11"
-    },
-    {
-      "id": "17707940",
-      "title": "Invest from AED 649K | Prime SZR | Flexible Payment Plan",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/11/prime-szr-location-smart-home-flexible--2-805342/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "399",
-      "bedrooms": "0",
-      "price": 649000,
-      "first_seen": "2026-07-11"
-    },
-    {
-      "id": "17708303",
-      "title": "Full Lake View | Upgraded EF | 4 Beds",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/11/full-lake-view-upgraded-ef-4-beds-2-778430/",
-      "area": "Jumeirah Islands",
-      "category": "Villa",
-      "size": "5250",
-      "bedrooms": "4",
-      "price": 28990000,
-      "first_seen": "2026-07-11"
-    },
-    {
-      "id": "17561428",
-      "title": "Large Layout| Furnished| Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/8/large-layout-furnished-prime-location-2-158907/",
-      "area": "Dubai Marina",
-      "category": "Apartment",
-      "size": "1199",
-      "bedrooms": "1",
-      "price": 1600000,
-      "first_seen": "2026-07-11"
-    },
-    {
-      "id": "17456629",
-      "title": "VACANT | ON BEACHFRONT | MOTIVATED SELLER",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/12/vacant-on-beachfront-motivated-seller-2-443034/",
-      "area": "Dubai South",
-      "category": "Villa",
-      "size": "4003",
-      "bedrooms": "5",
-      "price": 6000000,
-      "first_seen": "2026-07-11"
-    },
-    {
-      "id": "17693771",
-      "title": "Port View | Spacious Layout | Close to Metro SZR",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/8/port-view-spacious-layout-close-to-metr-2-195265/",
-      "area": "Jebel Ali",
-      "category": "Apartment",
-      "size": "781",
-      "bedrooms": "1",
-      "price": 999999,
-      "first_seen": "2026-07-11"
-    },
-    {
-      "id": "17682105",
-      "title": "Iconic Uptown Tower | High Floor | Sea, Marina & Sunset views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/6/iconic-uptown-tower-high-floor-sea-mari-2-119779/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Apartment",
-      "size": "806",
-      "bedrooms": "1",
-      "price": 2900000,
-      "first_seen": "2026-07-11"
-    },
-    {
-      "id": "17693602",
-      "title": "RESALE I 2 YEAR POST HANDOVER I BUY NOW",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/8/resale-i-2-year-post-handover-i-buy-now-2-194857/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "401",
-      "bedrooms": "0",
-      "price": 519000,
       "first_seen": "2026-07-11"
     }
   ],
