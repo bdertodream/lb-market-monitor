@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 20581,
+  "total_tracked": 20582,
   "total_drops": 500,
-  "total_new": 20581,
+  "total_new": 20582,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "15274563",
+      "title": "SPACIOUS 4 BEDROOM VILLA | PRIME LOCATION | READY",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2025/1/20/spacious-4-bed-rooms-villa-prime-location-2-493/",
+      "area": "Jumeirah",
+      "category": "Villa",
+      "size": "4881",
+      "bedrooms": "4",
+      "price": 16000000,
+      "first_seen": "2026-07-17"
+    },
+    {
       "id": "9782639",
       "title": "Exclusive | Multiple Options | Next to Park",
       "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/7/10/exclusive-multiple-options-next-to-park-2-327455/",
@@ -12496,19 +12507,8 @@
       "bedrooms": "",
       "price": 2519532,
       "first_seen": "2026-07-11"
-    },
-    {
-      "id": "9825745",
-      "title": "OFFICE FOR SALE | INVESTOR DEAL | NEXT TO UPCOMING METRO",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/11/office-for-sale-investment-deal-next-to-2-105762/",
-      "area": "Dubai Silicon Oasis (DSO)",
-      "category": "Office",
-      "size": "999",
-      "bedrooms": "",
-      "price": 1199184,
-      "first_seen": "2026-07-11"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-16"
+  "last_updated": "2026-07-17"
 }
