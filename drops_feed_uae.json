@@ -1,39 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 20781,
+  "total_tracked": 20783,
   "total_drops": 500,
-  "total_new": 20781,
+  "total_new": 20783,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9809070",
-      "title": "For Sale | Spacious Office | Downtown",
-      "old_price": 2600000,
-      "new_price": 2300000,
-      "drop_pct": 11.5,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/27/for-sale-spacious-office-downtown-2-578514/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1193",
-      "bedrooms": "",
-      "date": "2026-04-14",
-      "first_seen": "2026-03-27"
-    },
-    {
-      "id": "17066031",
-      "title": "Full Burj Khalifa View |Vacant | High Floor",
-      "old_price": 7500000,
-      "new_price": 7100000,
-      "drop_pct": 5.3,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/10/full-burj-khalifa-view-vacant-high-floo-2-283862/",
-      "area": "Downtown Dubai",
-      "category": "Apartment",
-      "size": "1699",
-      "bedrooms": "2",
-      "date": "2026-04-15",
-      "first_seen": "2026-03-27"
-    },
     {
       "id": "17253395",
       "title": "FREEHOLD | 2BHK WITH MAIDS ROOM | CLOSE KITCHEN | VACANT",
@@ -7005,6 +6977,34 @@
       "bedrooms": "",
       "date": "2026-07-18",
       "first_seen": "2026-07-14"
+    },
+    {
+      "id": "9778332",
+      "title": "High ROI I Prime Retail I Best Offer",
+      "old_price": 4500000,
+      "new_price": 900000,
+      "drop_pct": 80.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/8/22/high-roi-i-prime-retail-i-best-offer-2-924140/",
+      "area": "DIFC",
+      "category": "Shop",
+      "size": "379",
+      "bedrooms": "",
+      "date": "2026-07-18",
+      "first_seen": "2026-06-25"
+    },
+    {
+      "id": "9821755",
+      "title": "Retail Shop | Samana Barari Avenue | Majan | Shell & Core | 2028 Handover",
+      "old_price": 1230000,
+      "new_price": 1107344,
+      "drop_pct": 10.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/6/19/retail-shop-samana-barari-avenue-majan--2-139835/",
+      "area": "Majan",
+      "category": "Shop",
+      "size": "595",
+      "bedrooms": "",
+      "date": "2026-07-18",
+      "first_seen": "2026-07-04"
     }
   ],
   "new_listings": [
@@ -8348,6 +8348,28 @@
       "size": "1333",
       "bedrooms": "",
       "price": 4100000,
+      "first_seen": "2026-07-18"
+    },
+    {
+      "id": "17735069",
+      "title": "Luxury | Magnolia Collection | Close to handover",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/16/luxury-magnolia-collection-close-to-han-2-292935/",
+      "area": "Jumeirah Golf Estates",
+      "category": "Villa",
+      "size": "15769",
+      "bedrooms": "6",
+      "price": 53000000,
+      "first_seen": "2026-07-18"
+    },
+    {
+      "id": "9827006",
+      "title": "HIGH-END UPGRADE | METRO ACCESS | VACANT",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/18/high-end-upgrade-metro-access-vacant-2-171427/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "878",
+      "bedrooms": "",
+      "price": 2200000,
       "first_seen": "2026-07-18"
     },
     {
@@ -11773,7 +11795,7 @@
     },
     {
       "id": "9826242",
-      "title": "High-End Office Space | Premium Furnished | Modern",
+      "title": "High-End Office Space | Premium Fitted | Modern",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/14/high-end-office-space-premium-furnished-2-237174/",
       "area": "Business Bay",
       "category": "Office",
@@ -12484,28 +12506,6 @@
       "size": "1394",
       "bedrooms": "2",
       "price": 3499995,
-      "first_seen": "2026-07-13"
-    },
-    {
-      "id": "17689203",
-      "title": "Best-Priced Studio | High ROI | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/7/best-priced-studio-high-roi-prime-locat-2-268670/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "359",
-      "bedrooms": "0",
-      "price": 750000,
-      "first_seen": "2026-07-13"
-    },
-    {
-      "id": "17657893",
-      "title": "3BR Apartment | Park & Pool Views (Cash Price) dubai South",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/30/3br-apartment-oasis-residences-dubai-so-2-329270/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "1332",
-      "bedrooms": "3",
-      "price": 1342009,
       "first_seen": "2026-07-13"
     }
   ],
