@@ -1,53 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 20780,
+  "total_tracked": 20781,
   "total_drops": 500,
-  "total_new": 20780,
+  "total_new": 20781,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17168310",
-      "title": "Furnished 3BR Apartment | Prime Mirdif Location | Spacious 1775 sqft",
-      "old_price": 3000000,
-      "new_price": 2600000,
-      "drop_pct": 13.3,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/6/furnished-3br-apartment-prime-mirdif-lo-2-323098/",
-      "area": "Mirdif",
-      "category": "Apartment",
-      "size": "1775",
-      "bedrooms": "3",
-      "date": "2026-04-14",
-      "first_seen": "2026-03-09"
-    },
-    {
-      "id": "9807199",
-      "title": "Exclusive | Grade A Tower | Vacant Now | Fitted",
-      "old_price": 8900000,
-      "new_price": 8200000,
-      "drop_pct": 7.9,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/9/exclusive-grade-a-tower-vacant-now-fitt-2-281271/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "2559",
-      "bedrooms": "",
-      "date": "2026-04-14",
-      "first_seen": "2026-03-09"
-    },
-    {
-      "id": "17192600",
-      "title": "High End Living | Off Plan Best Price | High ROI",
-      "old_price": 1260000,
-      "new_price": 1100000,
-      "drop_pct": 12.7,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/12/high-end-living-off-plan-best-price-hig-2-440678/",
-      "area": "Motor City",
-      "category": "Apartment",
-      "size": "632",
-      "bedrooms": "1",
-      "date": "2026-04-14",
-      "first_seen": "2026-03-13"
-    },
     {
       "id": "9809070",
       "title": "For Sale | Spacious Office | Downtown",
@@ -7005,6 +6963,48 @@
       "bedrooms": "",
       "date": "2026-07-18",
       "first_seen": "2026-03-24"
+    },
+    {
+      "id": "9778332",
+      "title": "High ROI I Prime Retail I Best Offer",
+      "old_price": 4500000,
+      "new_price": 900000,
+      "drop_pct": 80.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/8/22/high-roi-i-prime-retail-i-best-offer-2-924140/",
+      "area": "DIFC",
+      "category": "Shop",
+      "size": "379",
+      "bedrooms": "",
+      "date": "2026-07-18",
+      "first_seen": "2026-06-25"
+    },
+    {
+      "id": "9821756",
+      "title": "Retail Shop | Samana Barari Avenue | Majan | Shell & Core | 2028 Handover",
+      "old_price": 761165,
+      "new_price": 608932,
+      "drop_pct": 20.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/6/19/retail-shop-samana-barari-avenue-majan--2-149706/",
+      "area": "Majan",
+      "category": "Shop",
+      "size": "350",
+      "bedrooms": "",
+      "date": "2026-07-18",
+      "first_seen": "2026-07-04"
+    },
+    {
+      "id": "9783777",
+      "title": "Luxury Villa Plot | Burj View | Merge Opportunity",
+      "old_price": 18600000,
+      "new_price": 16999999,
+      "drop_pct": 8.6,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/7/14/luxury-villa-plot-burj-view-merge-oppor-2-268879/",
+      "area": "Mohammed Bin Rashid City (MBR City)",
+      "category": "Land",
+      "size": "7748",
+      "bedrooms": "",
+      "date": "2026-07-18",
+      "first_seen": "2026-07-14"
     }
   ],
   "new_listings": [
@@ -8337,6 +8337,17 @@
       "size": "9644",
       "bedrooms": "",
       "price": 13000000,
+      "first_seen": "2026-07-18"
+    },
+    {
+      "id": "9826543",
+      "title": "Investor\u2019s Choice | Best ROI Retail Investment | Perfect Location",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/7/16/investors-choice-best-roi-retail-invest-2-232743/",
+      "area": "Business Bay",
+      "category": "Shop",
+      "size": "1333",
+      "bedrooms": "",
+      "price": 4100000,
       "first_seen": "2026-07-18"
     },
     {
@@ -9738,7 +9749,7 @@
     },
     {
       "id": "17733330",
-      "title": "Brand New | Near Lagoon | Family Home",
+      "title": "Brand New Near to Lagoons Mortgagable",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/7/16/brand-new-near-lagoon-family-home-2-212892/",
       "area": "DAMAC Lagoons",
       "category": "Townhouse",
@@ -11449,7 +11460,7 @@
       "category": "Land",
       "size": "7748",
       "bedrooms": "",
-      "price": 18600000,
+      "price": 16999999,
       "first_seen": "2026-07-14"
     },
     {
@@ -12495,17 +12506,6 @@
       "size": "1332",
       "bedrooms": "3",
       "price": 1342009,
-      "first_seen": "2026-07-13"
-    },
-    {
-      "id": "17580521",
-      "title": "EXCLUSIVE | WATERFRONT LUXURY LIVING |AZIZI VENICE | RESALE",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/12/exclusive-waterfront-luxury-living-aziz-2-167010/",
-      "area": "Dubai South",
-      "category": "Apartment",
-      "size": "365",
-      "bedrooms": "0",
-      "price": 650000,
       "first_seen": "2026-07-13"
     }
   ],
