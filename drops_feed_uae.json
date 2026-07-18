@@ -7,20 +7,6 @@
   "biggest_drop_usd": 0,
   "drops": [
     {
-      "id": "17309473",
-      "title": "Off-Plan Studio Apartment | Coventry 2 | Unfurnished | Prime Investment Opportunity | High ROI Pote",
-      "old_price": 570000,
-      "new_price": 538000,
-      "drop_pct": 5.6,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/10/off-plan-studio-apartment-coventry-2-un-2-315759/",
-      "area": "International City",
-      "category": "Apartment",
-      "size": "420",
-      "bedrooms": "0",
-      "date": "2026-04-13",
-      "first_seen": "2026-04-10"
-    },
-    {
       "id": "9803660",
       "title": "Fitted Office for Sale Vacating in June",
       "old_price": 1200000,
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-07-17",
       "first_seen": "2026-06-25"
+    },
+    {
+      "id": "9778332",
+      "title": "High ROI I Prime Retail I Best Offer",
+      "old_price": 4500000,
+      "new_price": 900000,
+      "drop_pct": 80.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/8/22/high-roi-i-prime-retail-i-best-offer-2-924140/",
+      "area": "DIFC",
+      "category": "Shop",
+      "size": "379",
+      "bedrooms": "",
+      "date": "2026-07-18",
+      "first_seen": "2026-06-25"
     }
   ],
   "new_listings": [
@@ -12510,5 +12510,5 @@
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-17"
+  "last_updated": "2026-07-18"
 }
