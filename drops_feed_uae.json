@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 20783,
+  "total_tracked": 20785,
   "total_drops": 500,
-  "total_new": 20783,
+  "total_new": 20785,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17253395",
-      "title": "FREEHOLD | 2BHK WITH MAIDS ROOM | CLOSE KITCHEN | VACANT",
-      "old_price": 1444300,
-      "new_price": 1350000,
-      "drop_pct": 6.5,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/3/29/freehold-2bhk-with-maids-room-close-kit-2-173639/",
-      "area": "Dubai Silicon Oasis (DSO)",
-      "category": "Apartment",
-      "size": "1269",
-      "bedrooms": "2",
-      "date": "2026-04-15",
-      "first_seen": "2026-03-30"
-    },
     {
       "id": "9751516",
       "title": "Phase 8 G+1 |Most Prestigious Next to Largest Park",
@@ -7005,9 +6991,45 @@
       "bedrooms": "",
       "date": "2026-07-18",
       "first_seen": "2026-07-04"
+    },
+    {
+      "id": "9778332",
+      "title": "High ROI I Prime Retail I Best Offer",
+      "old_price": 4500000,
+      "new_price": 900000,
+      "drop_pct": 80.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/8/22/high-roi-i-prime-retail-i-best-offer-2-924140/",
+      "area": "DIFC",
+      "category": "Shop",
+      "size": "379",
+      "bedrooms": "",
+      "date": "2026-07-19",
+      "first_seen": "2026-06-25"
     }
   ],
   "new_listings": [
+    {
+      "id": "17744863",
+      "title": "Hot Cancellation | High Floor | 10% NET ROI | Fully Furnished",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/18/-2-237987/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "685",
+      "bedrooms": "1",
+      "price": 896000,
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "17744783",
+      "title": "10% Guaranteed ROI | Direct Metro Access | Fully Furnished & Designer Interiors",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/18/10-guaranteed-roi-direct-metro-access-f-2-200070/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "633",
+      "bedrooms": "1",
+      "price": 898000,
+      "first_seen": "2026-07-19"
+    },
     {
       "id": "17729740",
       "title": "Modern Design | Vacant Now | Single Row",
@@ -12485,30 +12507,8 @@
       "bedrooms": "2",
       "price": 4900000,
       "first_seen": "2026-07-13"
-    },
-    {
-      "id": "17630460",
-      "title": "Top Floor | Brand New | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/24/top-floor-brand-new-multiple-cheques-2-152710/",
-      "area": "Dubai Creek Harbour",
-      "category": "Apartment",
-      "size": "644",
-      "bedrooms": "1",
-      "price": 1799999,
-      "first_seen": "2026-07-13"
-    },
-    {
-      "id": "17695494",
-      "title": "Cheapest Online | Marina & Sea View | Vacant",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/8/cheapest-online-marina-sea-view-vacant-2-729783/",
-      "area": "Dubai Harbour",
-      "category": "Apartment",
-      "size": "1394",
-      "bedrooms": "2",
-      "price": 3499995,
-      "first_seen": "2026-07-13"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-18"
+  "last_updated": "2026-07-19"
 }
