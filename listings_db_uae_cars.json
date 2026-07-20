@@ -163452,7 +163452,7 @@
   "16785802": {
     "id": "16785802",
     "title": "Audi Q7 S line 2020 GCC | WITH FULL SERVICE HISTORY BY AUDI DEALER | NEVER HAD ACCIDENT OR PAINT",
-    "price": 99000,
+    "price": 97500,
     "make": "Audi",
     "model": "Q7",
     "year": "2020",
@@ -163475,6 +163475,10 @@
       {
         "price": 99000,
         "date": "2026-06-24T03:36:08Z"
+      },
+      {
+        "price": 97500,
+        "date": "2026-07-20T02:55:43Z"
       }
     ],
     "date": "2026-04-20"
@@ -165838,7 +165842,7 @@
   "16809858": {
     "id": "16809858",
     "title": "AGMC Service History / 2 Keys | BMW X5 xDrive35i 2014 GCC Specifications ( Single Owner )",
-    "price": 29000,
+    "price": 27000,
     "make": "BMW",
     "model": "X5",
     "year": "2014",
@@ -165861,6 +165865,10 @@
       {
         "price": 29000,
         "date": "2026-06-27T13:43:45Z"
+      },
+      {
+        "price": 27000,
+        "date": "2026-07-20T02:55:43Z"
       }
     ],
     "date": "2026-04-20"
@@ -228474,7 +228482,7 @@
   "16829794": {
     "id": "16829794",
     "title": "AGMC Service History / Low Mileage | BMW 740Li Luxury 2015 GCC Specifications ( Single Owner )",
-    "price": 37000,
+    "price": 34000,
     "make": "BMW",
     "model": "7-Series",
     "year": "2015",
@@ -228493,6 +228501,10 @@
       {
         "price": 37000,
         "date": "2026-06-05T08:07:32Z"
+      },
+      {
+        "price": 34000,
+        "date": "2026-07-20T02:55:43Z"
       }
     ],
     "date": "2026-05-09"
@@ -365928,7 +365940,7 @@
   "16894430": {
     "id": "16894430",
     "title": "Stunning 2022 BMW M3 Competition | American Specs | Low Mileage",
-    "price": 199000,
+    "price": 194000,
     "make": "BMW",
     "model": "M3",
     "year": "2022",
@@ -365947,6 +365959,10 @@
       {
         "price": 199000,
         "date": "2026-07-10T03:19:23Z"
+      },
+      {
+        "price": 194000,
+        "date": "2026-07-20T02:55:43Z"
       }
     ],
     "date": "2026-07-01"
@@ -409352,7 +409368,7 @@
   "16914037": {
     "id": "16914037",
     "title": "2019 Mercedes-Benz CLS 450 4MATIC - Elegant Design  High Performance",
-    "price": 98500,
+    "price": 97500,
     "make": "Mercedes-Benz",
     "model": "CLS-Class",
     "year": "2019",
@@ -409367,6 +409383,10 @@
       {
         "price": 98500,
         "date": "2026-07-18T20:47:48Z"
+      },
+      {
+        "price": 97500,
+        "date": "2026-07-20T02:55:43Z"
       }
     ],
     "date": "2026-07-18"
@@ -409814,7 +409834,7 @@
   "16912626": {
     "id": "16912626",
     "title": "2016 Renault Samsung - Korean Specs -",
-    "price": 9999,
+    "price": 11999,
     "make": "Renault",
     "model": "Samsung SM7",
     "year": "2016",
@@ -409833,6 +409853,10 @@
       {
         "price": 9999,
         "date": "2026-07-19T09:52:40Z"
+      },
+      {
+        "price": 11999,
+        "date": "2026-07-20T02:55:43Z"
       }
     ],
     "date": "2026-07-19"
@@ -410738,5 +410762,49 @@
       }
     ],
     "date": "2026-07-18"
+  },
+  "16914965": {
+    "id": "16914965",
+    "title": "Pristine 2019 Mercedes-Benz S 560 4MATIC | Luxury  Power | American Specs",
+    "price": 124500,
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": "2019",
+    "kilometers": "109800",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/7/19/pristine-2019-mercedes-benz-s-560-4matic-l-2-039---7468b4ffdbb1464c9f75b57a365c8844/",
+    "first_seen": "2026-07-20T02:55:43Z",
+    "prices": [
+      {
+        "price": 124500,
+        "date": "2026-07-20T02:55:43Z"
+      }
+    ],
+    "date": "2026-07-19"
+  },
+  "16914951": {
+    "id": "16914951",
+    "title": "BMW 1-Series 120i 2016 GCC Specs | Pristine Condition",
+    "price": 19500,
+    "make": "BMW",
+    "model": "1-Series",
+    "year": "2016",
+    "kilometers": "141000",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Barsha Heights (Tecom)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/1-series/2026/7/19/bmw-1-series-120i-2016-gcc-specs-pristine--2-736---cc05aad80f0441cf954a7dd785eed736/",
+    "first_seen": "2026-07-20T02:55:43Z",
+    "prices": [
+      {
+        "price": 19500,
+        "date": "2026-07-20T02:55:43Z"
+      }
+    ],
+    "date": "2026-07-19"
   }
 }

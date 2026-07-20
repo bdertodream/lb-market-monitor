@@ -1,37 +1,9 @@
 {
-  "total_tracked": 17312,
-  "total_drops": 500,
-  "total_new": 17312,
-  "last_updated": "2026-07-19T20:49:28Z",
+  "total_tracked": 17314,
+  "total_drops": 502,
+  "total_new": 17314,
+  "last_updated": "2026-07-20T02:55:43Z",
   "drops": [
-    {
-      "id": "16838757",
-      "title": "AED 832/month | 0 Downpayment | Free 3 Months Warranty | 30 Day Return | CHEVROLET CAPTIVA 2024",
-      "old_price": 56999,
-      "new_price": 53099,
-      "drop_pct": 6.8,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/captiva/2026/5/14/aed-893month-0-downpayment-free-3-months-w-2-004---5601728853174c0b85edcaa10762c4fe/",
-      "category": "Used Cars",
-      "make": "Chevrolet",
-      "model": "Captiva",
-      "year": "2024",
-      "mileage": "50486",
-      "date": "2026-06-26T07:54:05Z"
-    },
-    {
-      "id": "16769250",
-      "title": "AED 961/m | 0 DP | Free 3 Months Warranty | Service History | 30D Return | VOLKSWAGEN TERAMONT 2023",
-      "old_price": 67190,
-      "new_price": 63195,
-      "drop_pct": 5.9,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/teramont/2026/3/9/aed-1148m-0-dp-free-1-year-warranty-servic-2-466---b27059af7f6d4d5db2ae99d1828f7dbc/",
-      "category": "Used Cars",
-      "make": "Volkswagen",
-      "model": "Teramont",
-      "year": "2023",
-      "mileage": "94085",
-      "date": "2026-06-26T07:54:05Z"
-    },
     {
       "id": "16765206",
       "title": "AED 2,437/m | 0 DP | Manufacturer Warranty | Service History | LAND ROVER RANGE ROVER EVOQUE 2024",
@@ -7003,9 +6975,61 @@
       "year": "2024",
       "mileage": "25491",
       "date": "2026-07-19T16:58:37Z"
+    },
+    {
+      "id": "16829794",
+      "title": "AGMC Service History / Low Mileage | BMW 740Li Luxury 2015 GCC Specifications ( Single Owner )",
+      "old_price": 37000,
+      "new_price": 34000,
+      "drop_pct": 8.1,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/7-series/2026/5/6/agmc-service-history-low-mileage-bmw-740li-2-968---75be123bdb344014bf6f4335f07167b8/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "7-Series",
+      "year": "2015",
+      "mileage": "124000",
+      "date": "2026-07-20T02:55:43Z"
+    },
+    {
+      "id": "16809858",
+      "title": "AGMC Service History / 2 Keys | BMW X5 xDrive35i 2014 GCC Specifications ( Single Owner )",
+      "old_price": 29000,
+      "new_price": 27000,
+      "drop_pct": 6.9,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/4/19/agmc-service-history-2-keys-bmw-x5-xdrive3-2-917---72785d1cde0240c5aa5865815697a7e5/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "X5",
+      "year": "2014",
+      "mileage": "295000",
+      "date": "2026-07-20T02:55:43Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16914965",
+      "title": "Pristine 2019 Mercedes-Benz S 560 4MATIC | Luxury  Power | American Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/s-class/2026/7/19/pristine-2019-mercedes-benz-s-560-4matic-l-2-039---7468b4ffdbb1464c9f75b57a365c8844/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": "2019",
+      "mileage": "109800",
+      "price": 124500,
+      "first_seen": "2026-07-20T02:55:43Z"
+    },
+    {
+      "id": "16914951",
+      "title": "BMW 1-Series 120i 2016 GCC Specs | Pristine Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/1-series/2026/7/19/bmw-1-series-120i-2016-gcc-specs-pristine--2-736---cc05aad80f0441cf954a7dd785eed736/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "1-Series",
+      "year": "2016",
+      "mileage": "141000",
+      "price": 19500,
+      "first_seen": "2026-07-20T02:55:43Z"
+    },
     {
       "id": "16914913",
       "title": "2017 Mercedes-Benz E-Class E 300 4MATIC (European Specs)",
@@ -7435,7 +7459,7 @@
       "model": "Samsung SM7",
       "year": "2016",
       "mileage": "180000",
-      "price": 9999,
+      "price": 11999,
       "first_seen": "2026-07-19T06:30:19Z"
     },
     {
@@ -7543,7 +7567,7 @@
       "model": "CLS-Class",
       "year": "2019",
       "mileage": "124800",
-      "price": 98500,
+      "price": 97500,
       "first_seen": "2026-07-18T20:47:48Z"
     },
     {
@@ -12980,30 +13004,6 @@
       "year": "2016",
       "mileage": "165000",
       "price": 33000,
-      "first_seen": "2026-07-15T10:03:14Z"
-    },
-    {
-      "id": "16909894",
-      "title": "3,500 AED Monthy | 2024 Lana Rover Velar Dynamic-Se  | GCC | AL Tayyer Warranty and Service 5 years",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-velar/2026/7/15/3500-aed-monthy-2024-lana-rover-velar-dyna-2-812---d293d679c1d748efa0b68e264df28eb7/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Velar",
-      "year": "2024",
-      "mileage": "31500",
-      "price": 235000,
-      "first_seen": "2026-07-15T10:03:14Z"
-    },
-    {
-      "id": "16886685",
-      "title": "2,370 Monthly Payment | 2021 BMW X7 40i Pure Excellence 2021 | Full Service History",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x7/2026/6/25/2370-monthly-payment-2021-bmw-x7-40i-pure--2-052---2d9dee2619f24a49bdd35c6e18f94daf/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "X7",
-      "year": "2021",
-      "mileage": "179500",
-      "price": 149000,
       "first_seen": "2026-07-15T10:03:14Z"
     }
   ]
