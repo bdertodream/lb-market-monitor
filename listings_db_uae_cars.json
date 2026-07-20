@@ -23812,7 +23812,7 @@
   "16682954": {
     "id": "16682954",
     "title": "FSH 2.5L not negotiable \u0635\u064a\u0627\u0646\u0629 \u0627\u0644\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0633\u0639\u0631 \u0646\u0647\u0627\u0626\u064a",
-    "price": 34000,
+    "price": 32000,
     "make": "Ford",
     "model": "Escape",
     "year": "2020",
@@ -23847,6 +23847,10 @@
       {
         "price": 34000,
         "date": "2026-06-21T17:28:42Z"
+      },
+      {
+        "price": 32000,
+        "date": "2026-07-20T06:46:12Z"
       }
     ],
     "date": "2026-03-11"
@@ -200924,7 +200928,7 @@
   "16816019": {
     "id": "16816019",
     "title": "Mercedes-Benz GLE 450 4Matic 2019, GCC Specs-Warranty",
-    "price": 149500,
+    "price": 139500,
     "make": "Mercedes-Benz",
     "model": "GLE-Class",
     "year": "2019",
@@ -200939,6 +200943,10 @@
       {
         "price": 149500,
         "date": "2026-05-01T09:55:04Z"
+      },
+      {
+        "price": 139500,
+        "date": "2026-07-20T06:46:12Z"
       }
     ],
     "date": "2026-05-01"
@@ -266939,8 +266947,8 @@
   },
   "16713500": {
     "id": "16713500",
-    "title": "2021 | BMW | M4  | Competition | GCC Spec | With Full Service History, Warranty and Service Contract",
-    "price": 359000,
+    "title": "2021 | BMW | M4  | Competition | GCC Spec | With Full Service History",
+    "price": 329000,
     "make": "BMW",
     "model": "M4",
     "year": "2021",
@@ -266955,6 +266963,10 @@
       {
         "price": 359000,
         "date": "2026-05-21T11:26:15Z"
+      },
+      {
+        "price": 329000,
+        "date": "2026-07-20T06:46:12Z"
       }
     ],
     "date": "2026-05-21"
@@ -344926,7 +344938,7 @@
   "16876457": {
     "id": "16876457",
     "title": "AED 1527 PM | AUDI S3 2.0 TFSI QUATTRO 2016 | PRISTINE CONDITION | 1 YEAR WARRANTY | GCC",
-    "price": 39000,
+    "price": 37000,
     "make": "Audi",
     "model": "S3",
     "year": "2016",
@@ -344941,6 +344953,10 @@
       {
         "price": 39000,
         "date": "2026-06-24T14:30:46Z"
+      },
+      {
+        "price": 37000,
+        "date": "2026-07-20T06:46:12Z"
       }
     ],
     "date": "2026-06-24"
@@ -358812,7 +358828,7 @@
   "16891065": {
     "id": "16891065",
     "title": "1,839/pm | Dual Motor 300 BHP AMG Line | Gargash Warranty and Service",
-    "price": 119990,
+    "price": 114990,
     "make": "Mercedes-Benz",
     "model": "EQB",
     "year": "2022",
@@ -358827,6 +358843,10 @@
       {
         "price": 119990,
         "date": "2026-06-29T15:47:54Z"
+      },
+      {
+        "price": 114990,
+        "date": "2026-07-20T06:46:12Z"
       }
     ],
     "date": "2026-06-29"
@@ -362882,7 +362902,7 @@
   "16855394": {
     "id": "16855394",
     "title": "Jeep Grand Cherokee Limited 2014 GCC Specs",
-    "price": 29500,
+    "price": 29000,
     "make": "Jeep",
     "model": "Grand Cherokee",
     "year": "2014",
@@ -362901,6 +362921,10 @@
       {
         "price": 29500,
         "date": "2026-07-15T06:14:55Z"
+      },
+      {
+        "price": 29000,
+        "date": "2026-07-20T06:46:12Z"
       }
     ],
     "date": "2026-07-01"
@@ -373036,7 +373060,7 @@
   "16892339": {
     "id": "16892339",
     "title": "1,839/pm | P250 R-Dynamic SE | Warranty and Service Available",
-    "price": 119990,
+    "price": 153990,
     "make": "Land Rover",
     "model": "Range Rover Velar",
     "year": "2020",
@@ -373051,6 +373075,10 @@
       {
         "price": 119990,
         "date": "2026-07-04T06:47:42Z"
+      },
+      {
+        "price": 153990,
+        "date": "2026-07-20T06:46:12Z"
       }
     ],
     "date": "2026-07-04"
@@ -383742,7 +383770,7 @@
   "16893294": {
     "id": "16893294",
     "title": "Zeekr X  Ultra -Available in stock-Supports CarPlay",
-    "price": 318000,
+    "price": 315000,
     "make": "Zeekr",
     "model": "9X",
     "year": "2025",
@@ -383761,6 +383789,10 @@
       {
         "price": 318000,
         "date": "2026-07-15T17:18:39Z"
+      },
+      {
+        "price": 315000,
+        "date": "2026-07-20T06:46:12Z"
       }
     ],
     "date": "2026-07-09"
@@ -410803,6 +410835,248 @@
       {
         "price": 19500,
         "date": "2026-07-20T02:55:43Z"
+      }
+    ],
+    "date": "2026-07-19"
+  },
+  "16488566": {
+    "id": "16488566",
+    "title": "2021 | BMW | M5 | CS Manhart MH5 GTR",
+    "price": 999000,
+    "make": "BMW",
+    "model": "M5",
+    "year": "2021",
+    "kilometers": "4390",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/m5/2025/7/17/2021-bmw-m5-cs-manhart-mh5-gtr-2-423---258b04b7d9b642f0a98bd9a13e1ecf90/",
+    "first_seen": "2026-07-20T06:46:12Z",
+    "prices": [
+      {
+        "price": 999000,
+        "date": "2026-07-20T06:46:12Z"
+      }
+    ],
+    "date": "2026-07-20"
+  },
+  "16605640": {
+    "id": "16605640",
+    "title": "1967 | Ford | Mustang 302",
+    "price": 279000,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "1967",
+    "kilometers": "32816",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2025/10/21/1967-ford-mustang-302-2-167---5c7088e1da764fca9d09b5976a52b738/",
+    "first_seen": "2026-07-20T06:46:12Z",
+    "prices": [
+      {
+        "price": 279000,
+        "date": "2026-07-20T06:46:12Z"
+      }
+    ],
+    "date": "2026-07-20"
+  },
+  "16750863": {
+    "id": "16750863",
+    "title": "2012 | Aston Martin | Virage | GCC Spec",
+    "price": 449000,
+    "make": "Aston Martin",
+    "model": "Virage",
+    "year": "2012",
+    "kilometers": "3158",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/aston-martin/virage/2026/2/20/2012-aston-martin-virage-gcc-spec-2-532---f0ced31d4a9141bb8abd0a0fd0fbdc43/",
+    "first_seen": "2026-07-20T06:46:12Z",
+    "prices": [
+      {
+        "price": 449000,
+        "date": "2026-07-20T06:46:12Z"
+      }
+    ],
+    "date": "2026-07-20"
+  },
+  "16605523": {
+    "id": "16605523",
+    "title": "2023 | Mercedes Benz | V250 | VLINE Design| GCC Spec",
+    "price": 699000,
+    "make": "Mercedes-Benz",
+    "model": "V-Class",
+    "year": "2023",
+    "kilometers": "10828",
+    "body_type": "Van",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/v-class/2025/10/21/2023-mercedes-benz-v250-vline-design-gcc-s-2-864---82495cf4e3bb47b8b74962d41c8a887a/",
+    "first_seen": "2026-07-20T06:46:12Z",
+    "prices": [
+      {
+        "price": 699000,
+        "date": "2026-07-20T06:46:12Z"
+      }
+    ],
+    "date": "2026-07-20"
+  },
+  "16880279": {
+    "id": "16880279",
+    "title": "2022 | Range Rover | Sport SVR",
+    "price": 235000,
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "year": "2022",
+    "kilometers": "88187",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/6/20/2022-range-rover-sport-svr-2-274---f98f769dff3f4fc1aee7696b0c97ee9e/",
+    "first_seen": "2026-07-20T06:46:12Z",
+    "prices": [
+      {
+        "price": 235000,
+        "date": "2026-07-20T06:46:12Z"
+      }
+    ],
+    "date": "2026-07-20"
+  },
+  "16911760": {
+    "id": "16911760",
+    "title": "Chery Tiggo 8 Pro Max Premium 2024 AWD GCC Specs",
+    "price": 69500,
+    "make": "Chery",
+    "model": "Tiggo 8 Pro Max",
+    "year": "2024",
+    "kilometers": "3000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chery/tiggo-8-pro-max/2026/7/16/chery-tiggo-8-pro-max-premium-2024-awd-gcc-2-720---25cf899ffce34cc5a742de8fe9f7672c/",
+    "first_seen": "2026-07-20T06:46:12Z",
+    "prices": [
+      {
+        "price": 69500,
+        "date": "2026-07-20T06:46:12Z"
+      }
+    ],
+    "date": "2026-07-20"
+  },
+  "16914816": {
+    "id": "16914816",
+    "title": "Chery Tiggo 7 Pro Max Premium 2025 GCC Specs",
+    "price": 64500,
+    "make": "Chery",
+    "model": "Tiggo7 Pro Max",
+    "year": "2025",
+    "kilometers": "58000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "International City",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chery/tiggo7-pro-max/2026/7/19/chery-tiggo-7-pro-max-premium-2025-gcc-spe-2-666---4823749aa9f447829d7aff4507c77245/",
+    "first_seen": "2026-07-20T06:46:12Z",
+    "prices": [
+      {
+        "price": 64500,
+        "date": "2026-07-20T06:46:12Z"
+      }
+    ],
+    "date": "2026-07-20"
+  },
+  "16912737": {
+    "id": "16912737",
+    "title": "Nissan Xterra SE 2026 GCC",
+    "price": 102000,
+    "make": "Nissan",
+    "model": "Xterra",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/xterra/2026/7/17/nissan-xterra-se-2026-gcc-2-035---4a6ef43840494408a97586a03ac8a0fa/",
+    "first_seen": "2026-07-20T06:46:12Z",
+    "prices": [
+      {
+        "price": 102000,
+        "date": "2026-07-20T06:46:12Z"
+      }
+    ],
+    "date": "2026-07-20"
+  },
+  "16870983": {
+    "id": "16870983",
+    "title": "MG MG 8 2026 GCC",
+    "price": 82000,
+    "make": "MG",
+    "model": "MG 8",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mg/mg-8/2026/6/13/mg-mg-8-2026-gcc-2-736---c55a1e59e01248348aee6460d1b65a22/",
+    "first_seen": "2026-07-20T06:46:12Z",
+    "prices": [
+      {
+        "price": 82000,
+        "date": "2026-07-20T06:46:12Z"
+      }
+    ],
+    "date": "2026-07-20"
+  },
+  "16894815": {
+    "id": "16894815",
+    "title": "2026 2026 BYD Leopard 5 ADS Ultra (210KM Qiankun Ultra Edition)",
+    "price": 197000,
+    "make": "BYD",
+    "model": "Leopard 5",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "SUV",
+    "fuel_type": "Plug-in Hybrid",
+    "area": "Jebel Ali",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/byd/leopard-5/2026/7/2/2026-2026-byd-leopard-5-ads-ultra-210km-qi-2-431---f82159609ced4300b5e12b780e436b4d/",
+    "first_seen": "2026-07-20T06:46:12Z",
+    "prices": [
+      {
+        "price": 197000,
+        "date": "2026-07-20T06:46:12Z"
+      }
+    ],
+    "date": "2026-07-20"
+  },
+  "16914825": {
+    "id": "16914825",
+    "title": "Alfa Romeo Giulia Super 2019 GCC Specs",
+    "price": 35000,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "year": "2019",
+    "kilometers": "134000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Motor City",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/alfa-romeo/giulia/2026/7/19/alfa-romeo-giulia-super-2019-gcc-specs-2-767---72850524ed1c490e9ebd7bacfa442263/",
+    "first_seen": "2026-07-20T06:46:12Z",
+    "prices": [
+      {
+        "price": 35000,
+        "date": "2026-07-20T06:46:12Z"
       }
     ],
     "date": "2026-07-19"
