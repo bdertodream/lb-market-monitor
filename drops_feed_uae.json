@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 21026,
+  "total_tracked": 21032,
   "total_drops": 500,
-  "total_new": 21026,
+  "total_new": 21032,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9799617",
-      "title": "Fitted Office | Vacant | Spacious | Prime Location | Luxury",
-      "old_price": 6000000,
-      "new_price": 5200000,
-      "drop_pct": 13.3,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/1/17/fitted-office-vacant-spacious-prime-loc-2-166658/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1934",
-      "bedrooms": "",
-      "date": "2026-04-17",
-      "first_seen": "2026-03-19"
-    },
     {
       "id": "17183189",
       "title": "Prime Location | Handover Soon | Mortgage",
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-07-22",
       "first_seen": "2026-06-25"
+    },
+    {
+      "id": "9778332",
+      "title": "High ROI I Prime Retail I Best Offer",
+      "old_price": 4500000,
+      "new_price": 900000,
+      "drop_pct": 80.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/8/22/high-roi-i-prime-retail-i-best-offer-2-924140/",
+      "area": "DIFC",
+      "category": "Shop",
+      "size": "379",
+      "bedrooms": "",
+      "date": "2026-07-22",
+      "first_seen": "2026-06-25"
     }
   ],
   "new_listings": [
@@ -7545,6 +7545,72 @@
       "size": "488024",
       "bedrooms": "",
       "price": 40000000,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "17403066",
+      "title": "Green Park View | Spacious Design | Gated Community",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/4/30/modern-layout-prime-community-2-120169/",
+      "area": "The Valley by Emaar",
+      "category": "Villa",
+      "size": "4335",
+      "bedrooms": "4",
+      "price": 7091888,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "17758246",
+      "title": "Vacant On Transfer | Brand New | Exclusive Cluster",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/7/21/vacant-on-transfer-brand-new-exclusive--2-400171/",
+      "area": "DAMAC Hills",
+      "category": "Townhouse",
+      "size": "3011",
+      "bedrooms": "5",
+      "price": 4200000,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "17667978",
+      "title": "4BR+M Townhouse | Type 4B1 | Premium End Unit",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/7/2/4brm-townhouse-type-4b1-premium-end-uni-2-263663/",
+      "area": "Mudon",
+      "category": "Townhouse",
+      "size": "2468",
+      "bedrooms": "4",
+      "price": 4050000,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "17720844",
+      "title": "High Floor | Exclusive Apt | Astonishing View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/14/high-floor-exclusive-apt-astonishing-vi-2-181600/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "682",
+      "bedrooms": "1",
+      "price": 1360000,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "9822647",
+      "title": "EXCLUSIVE CORNER OFFICE | PRIME LOCATION",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/24/exclusive-corner-office-prime-location-2-243065/",
+      "area": "Arjan",
+      "category": "Office",
+      "size": "1492",
+      "bedrooms": "",
+      "price": 2536400,
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "9786016",
+      "title": "Customize Your own villa in a ready Gated communit",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/7/22/customize-your-own-villa-in-a-ready-gat-2-148750/",
+      "area": "DAMAC Hills 2 (Akoya by DAMAC)",
+      "category": "Land",
+      "size": "1875",
+      "bedrooms": "",
+      "price": 810000,
       "first_seen": "2026-07-22"
     },
     {
@@ -12440,72 +12506,6 @@
       "size": "6135",
       "bedrooms": "4",
       "price": 12500000,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "17733330",
-      "title": "Brand New Near to Lagoons Mortgagable",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/7/16/brand-new-near-lagoon-family-home-2-212892/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "2277",
-      "bedrooms": "4",
-      "price": 2615000,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "17688221",
-      "title": "Vacant | Fully Furnished | Beachfront",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/7/vacant-fully-furnished-beachfront-2-796315/",
-      "area": "Jumeirah",
-      "category": "Apartment",
-      "size": "1206",
-      "bedrooms": "2",
-      "price": 3500000,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "17729088",
-      "title": "Vacant | Skyline View | Upgraded",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/15/vacant-skyline-view-upgraded-2-743694/",
-      "area": "Jumeirah",
-      "category": "Apartment",
-      "size": "1208",
-      "bedrooms": "2",
-      "price": 4200000,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "9826626",
-      "title": "MULTIPLE OPTIONS | SPACIOUS LAYOUT | VACANT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/16/multiple-options-spacious-layout-vacant-2-188630/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1210",
-      "bedrooms": "",
-      "price": 2500000,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "17670431",
-      "title": "Exclusive 3 Beds | Internal Location |Private Pool",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/3/3-beds-internal-location-swimming-pool-2-175486/",
-      "area": "Jumeirah Park",
-      "category": "Villa",
-      "size": "3063",
-      "bedrooms": "3",
-      "price": 8750000,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "17684024",
-      "title": "Exclusive | Vacant on transfer | Garden Hall",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/6/exclusive-vacant-on-transfer-garden-hal-2-302090/",
-      "area": "Jumeirah Islands",
-      "category": "Villa",
-      "size": "5350",
-      "bedrooms": "4",
-      "price": 21000000,
       "first_seen": "2026-07-16"
     }
   ],
