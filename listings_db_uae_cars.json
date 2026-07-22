@@ -1620,7 +1620,7 @@
   "16764417": {
     "id": "16764417",
     "title": "GCC 3 cylinders not negotiable price \u0627\u0644\u0633\u0639\u0631 \u0646\u0647\u0627\u0626\u064a \u0644\u0644\u062c\u0627\u062f\u064a\u0646",
-    "price": 15000,
+    "price": 14500,
     "make": "Ford",
     "model": "Figo",
     "year": "{'label': 'Year', 'value': 2020}",
@@ -1675,6 +1675,10 @@
       {
         "price": 15000,
         "date": "2026-07-17T13:28:25Z"
+      },
+      {
+        "price": 14500,
+        "date": "2026-07-22T06:28:15Z"
       }
     ],
     "date": "2026-03-08"
@@ -218662,7 +218666,7 @@
   "16795426": {
     "id": "16795426",
     "title": "Brand New 2025 Mercedes-Benz V-Class Converted to V300 Maybach Black",
-    "price": 325000,
+    "price": 298000,
     "make": "Mercedes-Benz",
     "model": "V-Class",
     "year": "2025",
@@ -218681,6 +218685,10 @@
       {
         "price": 325000,
         "date": "2026-06-08T12:29:02Z"
+      },
+      {
+        "price": 298000,
+        "date": "2026-07-22T06:28:15Z"
       }
     ],
     "date": "2026-05-07"
@@ -241244,7 +241252,7 @@
   "16837259": {
     "id": "16837259",
     "title": "Volvo XC 60 2020 Black GCC Clean Car",
-    "price": 52000,
+    "price": 49000,
     "make": "Volvo",
     "model": "XC60",
     "year": "2020",
@@ -241259,6 +241267,10 @@
       {
         "price": 52000,
         "date": "2026-05-13T10:37:34Z"
+      },
+      {
+        "price": 49000,
+        "date": "2026-07-22T06:28:15Z"
       }
     ],
     "date": "2026-05-13"
@@ -310420,7 +310432,7 @@
   "16867937": {
     "id": "16867937",
     "title": "Audi A4 S-Line Progress Black - Service Contract - Full Option!",
-    "price": 99950,
+    "price": 98000,
     "make": "Audi",
     "model": "A4",
     "year": "2023",
@@ -310439,6 +310451,10 @@
       {
         "price": 99950,
         "date": "2026-06-19T04:19:50Z"
+      },
+      {
+        "price": 98000,
+        "date": "2026-07-22T06:28:15Z"
       }
     ],
     "date": "2026-06-10"
@@ -320878,7 +320894,7 @@
   "16873381": {
     "id": "16873381",
     "title": "Mitsubishi Pajero 2014 GLS MID GCC Specs",
-    "price": 22000,
+    "price": 21500,
     "make": "Mitsubishi",
     "model": "Pajero",
     "year": "2014",
@@ -320893,6 +320909,10 @@
       {
         "price": 22000,
         "date": "2026-06-15T13:56:13Z"
+      },
+      {
+        "price": 21500,
+        "date": "2026-07-22T06:28:15Z"
       }
     ],
     "date": "2026-06-15"
@@ -354924,7 +354944,7 @@
   "16886604": {
     "id": "16886604",
     "title": "BMW X3M Competition",
-    "price": 229999,
+    "price": 219999,
     "make": "BMW",
     "model": "X3",
     "year": "2020",
@@ -354939,6 +354959,10 @@
       {
         "price": 229999,
         "date": "2026-06-27T17:11:22Z"
+      },
+      {
+        "price": 219999,
+        "date": "2026-07-22T06:28:15Z"
       }
     ],
     "date": "2026-06-27"
@@ -374266,7 +374290,7 @@
   "16885938": {
     "id": "16885938",
     "title": "Toyota Fortuner GXR 2014 GCC Specs - Reliable Family SUV",
-    "price": 46000,
+    "price": 45000,
     "make": "Toyota",
     "model": "Fortuner",
     "year": "2014",
@@ -374281,6 +374305,10 @@
       {
         "price": 46000,
         "date": "2026-07-04T13:26:09Z"
+      },
+      {
+        "price": 45000,
+        "date": "2026-07-22T06:28:15Z"
       }
     ],
     "date": "2026-07-04"
@@ -396408,7 +396436,7 @@
   "16908501": {
     "id": "16908501",
     "title": "Jaguar XF SE 2015 GCC Specs - Excellent Condition",
-    "price": 17000,
+    "price": 15000,
     "make": "Jaguar",
     "model": "XF",
     "year": "2015",
@@ -396423,6 +396451,10 @@
       {
         "price": 17000,
         "date": "2026-07-13T20:57:39Z"
+      },
+      {
+        "price": 15000,
+        "date": "2026-07-22T06:28:15Z"
       }
     ],
     "date": "2026-07-13"
@@ -414955,6 +414987,270 @@
       {
         "price": 99000,
         "date": "2026-07-22T02:37:41Z"
+      }
+    ],
+    "date": "2026-07-21"
+  },
+  "16765477": {
+    "id": "16765477",
+    "title": "Ford Mustang 2022/Premium V4/Warranty",
+    "price": 72500,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2022",
+    "kilometers": "93440",
+    "body_type": "Sports Car",
+    "fuel_type": "Petrol",
+    "area": "Gold and Diamond Park",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/3/5/ford-mustang-2022premium-v4warranty-2-351---4988b0f2658346e1a068c8c05f834a12/",
+    "first_seen": "2026-07-22T06:28:15Z",
+    "prices": [
+      {
+        "price": 72500,
+        "date": "2026-07-22T06:28:15Z"
+      }
+    ],
+    "date": "2026-07-22"
+  },
+  "16881917": {
+    "id": "16881917",
+    "title": "2024 | Porsche | 911 | Turbo S | GCC Spec | Under Warranty and Full Dealer History",
+    "price": 979000,
+    "make": "Porsche",
+    "model": "911",
+    "year": "2024",
+    "kilometers": "14940",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/911/2026/6/22/2024-porsche-911-turbo-s-gcc-spec-under-wa-2-409---bdd595c637be4b3cb781d0f0969ac689/",
+    "first_seen": "2026-07-22T06:28:15Z",
+    "prices": [
+      {
+        "price": 979000,
+        "date": "2026-07-22T06:28:15Z"
+      }
+    ],
+    "date": "2026-07-22"
+  },
+  "16894652": {
+    "id": "16894652",
+    "title": "Nissan Navara PRO-4X 2025 | 2.5 DSL | Auto Transmission | 4x4 | Best Market Price",
+    "price": 98800,
+    "make": "Nissan",
+    "model": "Navara",
+    "year": "2025",
+    "kilometers": "11",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/navara/2026/7/2/nissan-navara-pro-4x-2025-25-dsl-auto-tran-2-001---c0fd3a4df5804e62bf62fb3ba4911113/",
+    "first_seen": "2026-07-22T06:28:15Z",
+    "prices": [
+      {
+        "price": 98800,
+        "date": "2026-07-22T06:28:15Z"
+      }
+    ],
+    "date": "2026-07-22"
+  },
+  "16712131": {
+    "id": "16712131",
+    "title": "Original Paint . Full Servcie History . GCC Specs . Single Owner",
+    "price": 55000,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2016",
+    "kilometers": "141000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Mamzar",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/wrangler/2026/1/19/amazing-mopar-off-road-original-paint-full-2-094---c17d15764c874610bf83607d9d6adab1/",
+    "first_seen": "2026-07-22T06:28:15Z",
+    "prices": [
+      {
+        "price": 55000,
+        "date": "2026-07-22T06:28:15Z"
+      }
+    ],
+    "date": "2026-07-22"
+  },
+  "16917344": {
+    "id": "16917344",
+    "title": "Ford Mustang GT",
+    "price": 104999,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2021",
+    "kilometers": "50860",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/7/22/2021-ford-mustang-gt-v8-performance-canadi-2-287---826213337dbd4e82b6154434c1bd2984/",
+    "first_seen": "2026-07-22T06:28:15Z",
+    "prices": [
+      {
+        "price": 104999,
+        "date": "2026-07-22T06:28:15Z"
+      }
+    ],
+    "date": "2026-07-22"
+  },
+  "16916623": {
+    "id": "16916623",
+    "title": "2026 DongFeng Z9 4WD STD AT \u2013 Premium Double Cab Pickup | In Stock in Dubai",
+    "price": 85000,
+    "make": "DongFeng",
+    "model": "Z9",
+    "year": "2026",
+    "kilometers": "0",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Jebel Ali",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/dongfeng/z9/2026/7/21/2026-dongfeng-z9-4wd-std-at-premium-double-2-371---f5c6c2c6eda44ffda3c6e15283888f8e/",
+    "first_seen": "2026-07-22T06:28:15Z",
+    "prices": [
+      {
+        "price": 85000,
+        "date": "2026-07-22T06:28:15Z"
+      }
+    ],
+    "date": "2026-07-22"
+  },
+  "16917363": {
+    "id": "16917363",
+    "title": "Perfect Ford Mustang Ecoboost 2020 American Specs",
+    "price": 55500,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2020",
+    "kilometers": "95000",
+    "body_type": "Coupe",
+    "fuel_type": "Petrol",
+    "area": "Jumeirah Village Circle (JVC)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/mustang/2026/7/22/perfect-ford-mustang-ecoboost-2020-america-2-556---439863dd15d44fc885e3dd8812b7a4b2/",
+    "first_seen": "2026-07-22T06:28:15Z",
+    "prices": [
+      {
+        "price": 55500,
+        "date": "2026-07-22T06:28:15Z"
+      }
+    ],
+    "date": "2026-07-22"
+  },
+  "16851385": {
+    "id": "16851385",
+    "title": "Mercedes-AMG A45 S+ 4M 2025 Under Mercedes Warranty (1 of 50 Worldwide \u2013 Handbuild AMG Engine \u2013 GCC)",
+    "price": 257000,
+    "make": "Mercedes-Benz",
+    "model": "A-Class",
+    "year": "2025",
+    "kilometers": "335",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Downtown Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/a-class/2026/5/25/mercedes-amg-a45-s-4m-2025-under-mercedes--2-910---cc22a586765d43a7b7c8ecd6d18bdd5d/",
+    "first_seen": "2026-07-22T06:28:15Z",
+    "prices": [
+      {
+        "price": 257000,
+        "date": "2026-07-22T06:28:15Z"
+      }
+    ],
+    "date": "2026-07-22"
+  },
+  "16908815": {
+    "id": "16908815",
+    "title": "Volkswagen ID.3 Pro 2022 | Electric | Chinese Specs | Panoramic Roof",
+    "price": 45999,
+    "make": "Volkswagen",
+    "model": "ID.3",
+    "year": "2022",
+    "kilometers": "117000",
+    "body_type": "Hatchback",
+    "fuel_type": "Electric",
+    "area": "Ras Al Khor Industrial 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/id3/2026/7/14/volkswagen-id3-pro-2022-electric-chinese-s-2-008---b95dc0d3b0694806bdc87ee2c318ec08/",
+    "first_seen": "2026-07-22T06:28:15Z",
+    "prices": [
+      {
+        "price": 45999,
+        "date": "2026-07-22T06:28:15Z"
+      }
+    ],
+    "date": "2026-07-22"
+  },
+  "16917326": {
+    "id": "16917326",
+    "title": "2014 Range Rover Autobiography",
+    "price": 89999,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": "2014",
+    "kilometers": "131695",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/7/22/2014-range-rover-autobiography-2-360---7c48654564ea4fd1bfd82ec4843cbd84/",
+    "first_seen": "2026-07-22T06:28:15Z",
+    "prices": [
+      {
+        "price": 89999,
+        "date": "2026-07-22T06:28:15Z"
+      }
+    ],
+    "date": "2026-07-22"
+  },
+  "16917318": {
+    "id": "16917318",
+    "title": "2020 BMW i3S M",
+    "price": 84999,
+    "make": "BMW",
+    "model": "i3",
+    "year": "2020",
+    "kilometers": "75275",
+    "body_type": "Sedan",
+    "fuel_type": "Electric",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/i3/2026/7/22/2020-bmw-i3s-m-2-620---f4c7b7c1efb64a168ca9ea6d023f4e52/",
+    "first_seen": "2026-07-22T06:28:15Z",
+    "prices": [
+      {
+        "price": 84999,
+        "date": "2026-07-22T06:28:15Z"
+      }
+    ],
+    "date": "2026-07-22"
+  },
+  "16916925": {
+    "id": "16916925",
+    "title": "2022 | Mercedes Benz | G 63 AMG | GCC Spec | Low Mileage",
+    "price": 585000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2022",
+    "kilometers": "30558",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz Industrial Area 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/7/21/2022-mercedes-benz-g-63-amg-gcc-spec-low-m-2-023---c538257eb63a4f59b39cc756d142f9f4/",
+    "first_seen": "2026-07-22T06:28:15Z",
+    "prices": [
+      {
+        "price": 585000,
+        "date": "2026-07-22T06:28:15Z"
       }
     ],
     "date": "2026-07-21"
