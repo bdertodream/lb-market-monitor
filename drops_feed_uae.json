@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 21037,
+  "total_tracked": 21041,
   "total_drops": 500,
-  "total_new": 21037,
+  "total_new": 21041,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9808684",
-      "title": "Hot Deal Fitted & Furnished Office | Rented | Grade A",
-      "old_price": 17277000,
-      "new_price": 14397500,
-      "drop_pct": 16.7,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/3/24/hot-deal-fitted-furnished-office-rented-2-281478/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "5759",
-      "bedrooms": "",
-      "date": "2026-04-17",
-      "first_seen": "2026-03-24"
-    },
     {
       "id": "9784311",
       "title": "10% ROI | Fitted Office | Prime Location",
@@ -7005,9 +6991,67 @@
       "bedrooms": "",
       "date": "2026-07-22",
       "first_seen": "2026-06-25"
+    },
+    {
+      "id": "9778332",
+      "title": "High ROI I Prime Retail I Best Offer",
+      "old_price": 4500000,
+      "new_price": 900000,
+      "drop_pct": 80.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/8/22/high-roi-i-prime-retail-i-best-offer-2-924140/",
+      "area": "DIFC",
+      "category": "Shop",
+      "size": "379",
+      "bedrooms": "",
+      "date": "2026-07-23",
+      "first_seen": "2026-06-25"
     }
   ],
   "new_listings": [
+    {
+      "id": "17763729",
+      "title": "Hot Cancellation | 8-10% Roi | Fully Furnished | Unit Available Now",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/22/hot-cancellation-8-10-roi-fully-furnish-2-812427/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "399",
+      "bedrooms": "0",
+      "price": 645000,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "17763740",
+      "title": "Exclusive 10% Discount | Unit Available Now | Hot Cancellation | Guaranteed Allocation | Fully Furn",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/22/exclusive-10-discount-unit-available-no-2-114711/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "390",
+      "bedrooms": "0",
+      "price": 670000,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "17763736",
+      "title": "Multiple Units | Guaranteed Allocation | 1 Mins To Metro | High Capital Appreciation",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/22/multiple-units-guaranteed-allocation-1--2-130433/",
+      "area": "Jebel Ali",
+      "category": "Apartment",
+      "size": "399",
+      "bedrooms": "0",
+      "price": 649000,
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "9826801",
+      "title": "Commercial Shop for Sale in Binghatti Pinnacle | A Rare Opportunity at a Competitive Price in a Str",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/7/17/commercial-shop-for-sale-in-binghatti-p-2-707587/",
+      "area": "Al Jaddaf",
+      "category": "Shop",
+      "size": "2769",
+      "bedrooms": "",
+      "price": 14000000,
+      "first_seen": "2026-07-23"
+    },
     {
       "id": "17653346",
       "title": "Exclusive | Single Row | Vacant On Transfer",
@@ -12463,52 +12507,8 @@
       "bedrooms": "2",
       "price": 5000000,
       "first_seen": "2026-07-16"
-    },
-    {
-      "id": "9826444",
-      "title": "Out of Traffic | Shell and Core | 37 x Parking",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/15/out-of-traffic-shell-and-core-37-x-park-2-320208/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "10106",
-      "bedrooms": "",
-      "price": 16169840,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "9821789",
-      "title": "Premium Office Space | DLD Waiver | Near to Metro",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/19/premium-office-space-dld-waiver-near-to-2-133637/",
-      "area": "Dubai Sports City",
-      "category": "Office",
-      "size": "328",
-      "bedrooms": "",
-      "price": 813000,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "9826609",
-      "title": "Fitted Office | High Floor | Vacant Now",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/16/fitted-office-high-floor-vacant-now-2-159205/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1049",
-      "bedrooms": "",
-      "price": 2622625,
-      "first_seen": "2026-07-16"
-    },
-    {
-      "id": "9784449",
-      "title": "Prime Freehold Villa Plot | Multiple Options",
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/7/16/prime-freehold-villa-plot-multiple-opti-2-233835/",
-      "area": "Al Mamzar",
-      "category": "Land",
-      "size": "14856",
-      "bedrooms": "",
-      "price": 10500000,
-      "first_seen": "2026-07-16"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-22"
+  "last_updated": "2026-07-23"
 }

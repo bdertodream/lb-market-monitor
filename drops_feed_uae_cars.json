@@ -1,23 +1,9 @@
 {
-  "total_tracked": 17569,
+  "total_tracked": 17570,
   "total_drops": 501,
-  "total_new": 17569,
-  "last_updated": "2026-07-22T21:07:36Z",
+  "total_new": 17570,
+  "last_updated": "2026-07-23T02:43:34Z",
   "drops": [
-    {
-      "id": "16719618",
-      "title": "\u0641\u0648\u0644\u0641\u0648 S9 T5 \u062e\u0644\u064a\u062c\u064a \u0645\u0648\u062f\u064a\u0644 2020 \u0628\u062d\u0627\u0644\u0629 \u0627\u0644\u0648\u0643\u0627\u0644\u0629 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0645\u0627\u0644\u0643 \u0627\u0648\u0644 \u0641\u0644 \u0627\u0648\u0628\u0634\u0646",
-      "old_price": 58000,
-      "new_price": 49000,
-      "drop_pct": 15.5,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/volvo/s90/2026/1/25/s9-t5-2020-2-877---9b50dfec0e7d4cf0a4804e1598f7a873/",
-      "category": "Used Cars",
-      "make": "Volvo",
-      "model": "S90",
-      "year": "2020",
-      "mileage": "160000",
-      "date": "2026-06-28T13:46:50Z"
-    },
     {
       "id": "16856094",
       "title": "Nissan Navara LE 2016 GCC Specs",
@@ -7003,9 +6989,35 @@
       "year": "2008",
       "mileage": "317000",
       "date": "2026-07-22T21:07:36Z"
+    },
+    {
+      "id": "16820988",
+      "title": "Infiniti QX80 Luxury 2016 - GCC Specs - Excellent Condition",
+      "old_price": 65000,
+      "new_price": 46000,
+      "drop_pct": 29.2,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/infiniti/qx80/2026/4/29/infiniti-qx80-luxury-2016-gcc-specs-excell-2-805---9c692fc4c6214ccdabf89779535febe7/",
+      "category": "Used Cars",
+      "make": "Infiniti",
+      "model": "QX80",
+      "year": "2016",
+      "mileage": "147000",
+      "date": "2026-07-23T02:43:34Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16918513",
+      "title": "Porsche Cayenne GTS 2010 | GCC Specs | V8 Performance",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/7/22/porsche-cayenne-gts-2010-gcc-specs-v8-perf-2-869---3772b15823f24d01877fc461b0806d0d/",
+      "category": "Used Cars",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "year": "2010",
+      "mileage": "193738",
+      "price": 17000,
+      "first_seen": "2026-07-23T02:43:34Z"
+    },
     {
       "id": "16918495",
       "title": "Land Rover Range Rover Sport HSE 2016 | GCC Specs | Low Mileage",
@@ -12992,18 +13004,6 @@
       "year": "2024",
       "mileage": "20689",
       "price": 194999,
-      "first_seen": "2026-07-17T09:57:37Z"
-    },
-    {
-      "id": "16900906",
-      "title": "AED 872/month | 0 DP | Free 3 Months Warranty | Service History | 30 Day Return | NISSAN KICKS 2024",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/kicks/2026/7/7/aed-872month-0-dp-free-3-months-warranty-s-2-299---cc64c1b772f74d8db3bcc9e7f7f6bdc0/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Kicks",
-      "year": "2024",
-      "mileage": "46993",
-      "price": 55599,
       "first_seen": "2026-07-17T09:57:37Z"
     }
   ]
