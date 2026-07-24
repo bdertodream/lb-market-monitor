@@ -391106,7 +391106,7 @@
   "16905375": {
     "id": "16905375",
     "title": "Mercedes-Benz CL 63 AMG 2023 | European Specs | Pristine Condition",
-    "price": 580000,
+    "price": 560000,
     "make": "Mercedes-Benz",
     "model": "CL-Class",
     "year": "2023",
@@ -391125,6 +391125,10 @@
       {
         "price": 580000,
         "date": "2026-07-16T17:16:32Z"
+      },
+      {
+        "price": 560000,
+        "date": "2026-07-24T02:39:16Z"
       }
     ],
     "date": "2026-07-11"
@@ -394114,7 +394118,7 @@
   "16907056": {
     "id": "16907056",
     "title": "2015 Porsche 911 GT3 | Japanese Specs | Pristine Condition",
-    "price": 369000,
+    "price": 369999,
     "make": "Porsche",
     "model": "911",
     "year": "2015",
@@ -394137,6 +394141,10 @@
       {
         "price": 369000,
         "date": "2026-07-20T10:52:42Z"
+      },
+      {
+        "price": 369999,
+        "date": "2026-07-24T02:39:16Z"
       }
     ],
     "date": "2026-07-12"
@@ -399014,7 +399022,7 @@
   "16909414": {
     "id": "16909414",
     "title": "Lincoln Navigator Reserve AWD 2022 | GCC Specs | Low Mileage | Pristine Condition",
-    "price": 139000,
+    "price": 139500,
     "make": "Lincoln",
     "model": "Navigator",
     "year": "2022",
@@ -399037,6 +399045,10 @@
       {
         "price": 139000,
         "date": "2026-07-21T17:20:13Z"
+      },
+      {
+        "price": 139500,
+        "date": "2026-07-24T02:39:16Z"
       }
     ],
     "date": "2026-07-14"
@@ -419895,6 +419907,50 @@
       {
         "price": 9500,
         "date": "2026-07-23T21:04:59Z"
+      }
+    ],
+    "date": "2026-07-23"
+  },
+  "16919625": {
+    "id": "16919625",
+    "title": "Ranger XLT 4x4 high rider not negotiable \u062f\u0641\u0639 \u0631\u0628\u0627\u0639\u064a \u0627\u0644\u0633\u0639\u0631 \u0646\u0647\u0627\u0626\u064a",
+    "price": 29000,
+    "make": "Ford",
+    "model": "Ranger",
+    "year": "2017",
+    "kilometers": "170000",
+    "body_type": "Pick Up Truck",
+    "fuel_type": "Diesel",
+    "area": "Deira",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/ford/ranger/2026/7/23/ranger-xlt-4x4-high-rider-not-negotiable-2-004---24bc8588cb154833aed8a7cf93a582bb/",
+    "first_seen": "2026-07-24T02:39:16Z",
+    "prices": [
+      {
+        "price": 29000,
+        "date": "2026-07-24T02:39:16Z"
+      }
+    ],
+    "date": "2026-07-23"
+  },
+  "16919603": {
+    "id": "16919603",
+    "title": "Nissan Maxima SV 2011 | GCC Specs | Well Maintained",
+    "price": 8500,
+    "make": "Nissan",
+    "model": "Maxima",
+    "year": "2011",
+    "kilometers": "277000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Canal Residence West",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/maxima/2026/7/23/nissan-maxima-sv-2011-gcc-specs-well-maint-2-678---4c11a6fa7d664a8a9aaa1c1fdc6ec76f/",
+    "first_seen": "2026-07-24T02:39:16Z",
+    "prices": [
+      {
+        "price": 8500,
+        "date": "2026-07-24T02:39:16Z"
       }
     ],
     "date": "2026-07-23"

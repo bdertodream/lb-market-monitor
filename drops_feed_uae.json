@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 21208,
+  "total_tracked": 21217,
   "total_drops": 500,
-  "total_new": 21208,
+  "total_new": 21217,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9806385",
-      "title": "Vacant | Retail Shop | Available Now",
-      "old_price": 7000000,
-      "new_price": 6500000,
-      "drop_pct": 7.1,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/3/vacant-retail-shop-available-now-2-327609/",
-      "area": "Sobha Hartland",
-      "category": "Shop",
-      "size": "1222",
-      "bedrooms": "",
-      "date": "2026-04-19",
-      "first_seen": "2026-03-11"
-    },
     {
       "id": "9806026",
       "title": "Prime Location | Fitted and Spacious Shop |Vacant",
@@ -7005,9 +6991,122 @@
       "bedrooms": "",
       "date": "2026-07-23",
       "first_seen": "2026-06-25"
+    },
+    {
+      "id": "9778332",
+      "title": "High ROI I Prime Retail I Best Offer",
+      "old_price": 4500000,
+      "new_price": 900000,
+      "drop_pct": 80.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2025/8/22/high-roi-i-prime-retail-i-best-offer-2-924140/",
+      "area": "DIFC",
+      "category": "Shop",
+      "size": "379",
+      "bedrooms": "",
+      "date": "2026-07-24",
+      "first_seen": "2026-06-25"
     }
   ],
   "new_listings": [
+    {
+      "id": "17737214",
+      "title": "Private pool | Designer studio | Fully Furnished",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/17/private-pool-designer-studio-fully-furn-2-111959/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "656",
+      "bedrooms": "0",
+      "price": 775000,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "17617091",
+      "title": "Vacant | Motivated Seller | Burj View | Conner Unit",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/22/partial-burj-view-high-floor-furnished--2-180381/",
+      "area": "Business Bay",
+      "category": "Apartment",
+      "size": "912",
+      "bedrooms": "2",
+      "price": 2980000,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "17392401",
+      "title": "High Floor | Vacant | Brand New | Motivated Seller",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/29/high-floor-vacant-brand-new-180-views-2-107200/",
+      "area": "Za'abeel",
+      "category": "Apartment",
+      "size": "3785",
+      "bedrooms": "3",
+      "price": 22000000,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "17698247",
+      "title": "Luxurious 3bed+Maid | Corner Unit | Vacant Soon",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/9/rare-corner-unit-largest-3-br-layout-in-2-273309/",
+      "area": "Al Wasl",
+      "category": "Apartment",
+      "size": "3058",
+      "bedrooms": "3",
+      "price": 12600000,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "17695795",
+      "title": "Vacant Soon | Legacy | Central Location | Call now",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/8/vacant-soon-legacy-central-location-cal-2-192658/",
+      "area": "Jumeirah Park",
+      "category": "Villa",
+      "size": "3527",
+      "bedrooms": "4",
+      "price": 12000000,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "17604711",
+      "title": "Turnkey Luxury | Large Plot + Pool | Vacant",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/18/turnkey-4m-large-plot-with-pool-vacant-2-911574/",
+      "area": "The Springs",
+      "category": "Villa",
+      "size": "1647",
+      "bedrooms": "3",
+      "price": 4249999,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "17722959",
+      "title": "Renovation Opportunity | Private Pool",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/14/renovation-opportunity-private-pool-2-807748/",
+      "area": "The Meadows",
+      "category": "Villa",
+      "size": "5812",
+      "bedrooms": "5",
+      "price": 11350000,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "17662819",
+      "title": "Open House this weekend | Call now to book",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/1/open-house-this-weekend-call-now-to-boo-2-190980/",
+      "area": "Jumeirah Park",
+      "category": "Villa",
+      "size": "3322",
+      "bedrooms": "4",
+      "price": 10950000,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "17698731",
+      "title": "Burj View | Large Layout | Vacant | Rare",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/9/burj-view-large-layout-vacant-rare-2-228270/",
+      "area": "Downtown Dubai",
+      "category": "Apartment",
+      "size": "1325",
+      "bedrooms": "2",
+      "price": 4050000,
+      "first_seen": "2026-07-24"
+    },
     {
       "id": "17763729",
       "title": "Hot Cancellation | 8-10% Roi | Fully Furnished | Unit Available Now",
@@ -12408,107 +12507,8 @@
       "bedrooms": "1",
       "price": 1230000,
       "first_seen": "2026-07-18"
-    },
-    {
-      "id": "17682051",
-      "title": "Fully Furnished | Prime Location | Downtown City View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/6/furnished-1br-apartment-binghatti-tulip-2-141671/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "512",
-      "bedrooms": "1",
-      "price": 950000,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "id": "17597244",
-      "title": "Stylish Contemporary Home | Modern Living",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/6/17/stylish-contemporary-home-modern-living-2-447363/",
-      "area": "Mudon",
-      "category": "Townhouse",
-      "size": "1805",
-      "bedrooms": "3",
-      "price": 3900000,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "id": "17698253",
-      "title": "Hot Deal | Luxury 4BR Townhouse | Single Row",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/7/9/hot-deal-luxury-4br-townhouse-single-ro-2-492884/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "2315",
-      "bedrooms": "4",
-      "price": 2610000,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "id": "17698248",
-      "title": "Hot Deal | Mediterranean 4BR | Spacious Layout",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/7/9/below-op-mediterranean-4br-spacious-lay-2-211051/",
-      "area": "DAMAC Lagoons",
-      "category": "Townhouse",
-      "size": "2285",
-      "bedrooms": "4",
-      "price": 2650000,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "id": "17689607",
-      "title": "Corner Villa | Ready to Move in | Large Plot",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/7/corner-villa-ready-to-move-in-large-plo-2-288060/",
-      "area": "Dubai South",
-      "category": "Villa",
-      "size": "3614",
-      "bedrooms": "4",
-      "price": 3949999,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "id": "17723619",
-      "title": "Easy to View | Vacant on Transfer | Landscaped",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/7/14/easy-to-view-vacant-on-transfer-landsca-2-656824/",
-      "area": "Arabian Ranches 3",
-      "category": "Townhouse",
-      "size": "1939",
-      "bedrooms": "3",
-      "price": 2800000,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "id": "9826790",
-      "title": "Vacant On Transfer | Premium Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/7/17/vacant-on-transfer-premium-location-2-209961/",
-      "area": "Al Quoz",
-      "category": "Warehouse",
-      "size": "13856",
-      "bedrooms": "",
-      "price": 7000000,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "id": "9826789",
-      "title": "First Akhail I Al Quoz I Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/7/17/first-akhail-i-al-quoz-i-prime-location-2-339052/",
-      "area": "Al Quoz",
-      "category": "Warehouse",
-      "size": "14500",
-      "bedrooms": "",
-      "price": 16000000,
-      "first_seen": "2026-07-18"
-    },
-    {
-      "id": "9826416",
-      "title": "Semi Fitted | Prime Location | Near to Metro",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/15/semi-fitted-prime-location-near-to-metr-2-277507/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1314",
-      "bedrooms": "",
-      "price": 3000000,
-      "first_seen": "2026-07-18"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-23"
+  "last_updated": "2026-07-24"
 }
