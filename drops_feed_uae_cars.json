@@ -1,37 +1,9 @@
 {
-  "total_tracked": 17981,
-  "total_drops": 505,
-  "total_new": 17981,
-  "last_updated": "2026-07-26T20:58:45Z",
+  "total_tracked": 17984,
+  "total_drops": 502,
+  "total_new": 17984,
+  "last_updated": "2026-07-27T02:54:37Z",
   "drops": [
-    {
-      "id": "16688581",
-      "title": "HONDA HR-V (G) 1.8 2WD",
-      "old_price": 29900,
-      "new_price": 25900,
-      "drop_pct": 13.4,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/honda/hr-v/2025/12/30/honda-hr-v-g-18-2wd-2-626---2d3b3406b2c7440a98a28cd46bba3223/",
-      "category": "Used Cars",
-      "make": "Honda",
-      "model": "HR-V",
-      "year": "2016",
-      "mileage": "175735",
-      "date": "2026-07-02T07:33:33Z"
-    },
-    {
-      "id": "16878458",
-      "title": "Chery Tiggo 8 Pro Max Luxury 2025 | GCC Specs | Warranty till 200000 kms",
-      "old_price": 69500,
-      "new_price": 65000,
-      "drop_pct": 6.5,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/chery/tiggo-8-pro-max/2026/6/19/chery-tiggo-8-pro-max-luxury-2025-gcc-spec-2-584---feb64e11b6004ed98398cbb9e7ef4014/",
-      "category": "Used Cars",
-      "make": "Chery",
-      "model": "Tiggo 8 Pro Max",
-      "year": "2025",
-      "mileage": "62000",
-      "date": "2026-07-02T07:33:33Z"
-    },
     {
       "id": "16810466",
       "title": "Hyundai Grandeur 2.5 Premium 2020 - Korean Specs - Excellent Condition",
@@ -7003,9 +6975,73 @@
       "year": "2019",
       "mileage": "92000",
       "date": "2026-07-26T20:58:45Z"
+    },
+    {
+      "id": "16896980",
+      "title": "Porsche Cayenne S 2013 | GCC Specs | V8 Engine",
+      "old_price": 34000,
+      "new_price": 29000,
+      "drop_pct": 14.7,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/7/3/porsche-cayenne-s-2013-gcc-specs-v8-engine-2-915---5681615e3a734b40aae4a6302831c5dc/",
+      "category": "Used Cars",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "year": "2013",
+      "mileage": "169000",
+      "date": "2026-07-27T02:54:37Z"
+    },
+    {
+      "id": "16887632",
+      "title": "Land Rover Range Rover HSE 2018 | GCC Specs | Pristine Condition",
+      "old_price": 99000,
+      "new_price": 89000,
+      "drop_pct": 10.1,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover/2026/6/26/land-rover-range-rover-hse-2018-gcc-specs--2-191---e514eae516d24e00b0a1e5d0d67a7ab9/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "year": "2018",
+      "mileage": "128000",
+      "date": "2026-07-27T02:54:37Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16913871",
+      "title": "GMC Sierra Denali 2017 | American Specs | Pristine Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/sierra/2026/7/18/gmc-sierra-denali-2017-american-specs-pris-2-982---0f4d7a4205544ab3b1e4d1cf5e1960fe/",
+      "category": "Used Cars",
+      "make": "GMC",
+      "model": "Sierra",
+      "year": "2017",
+      "mileage": "226000",
+      "price": 54000,
+      "first_seen": "2026-07-27T02:54:37Z"
+    },
+    {
+      "id": "16913888",
+      "title": "Chrysler 300S 2020 GCC Specs - Excellent Condition orginal paint service history from al Futtaim",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/chrysler/300s/2026/7/18/chrysler-300s-2020-gcc-specs-excellent-con-2-044---0444e294971445e383fa7deaa086c410/",
+      "category": "Used Cars",
+      "make": "Chrysler",
+      "model": "300S",
+      "year": "2020",
+      "mileage": "93549",
+      "price": 68000,
+      "first_seen": "2026-07-27T02:54:37Z"
+    },
+    {
+      "id": "16919752",
+      "title": "Hyundai Santa Fe 2019 Comfort - GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/santa-fe/2026/7/24/hyundai-santa-fe-2019-comfort-gcc-specs-2-540---0ba8d9bddb324655a1893e86630dcc85/",
+      "category": "Used Cars",
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "year": "2019",
+      "mileage": "139000",
+      "price": 49000,
+      "first_seen": "2026-07-27T02:54:37Z"
+    },
     {
       "id": "16922714",
       "title": "Toyota Land Cruiser 2012 GXR | GCC Specs | Reliable V6",
@@ -10135,7 +10171,7 @@
       "model": "Cayenne",
       "year": "2013",
       "mileage": "169000",
-      "price": 34000,
+      "price": 29000,
       "first_seen": "2026-07-24T10:17:12Z"
     },
     {
@@ -12969,42 +13005,6 @@
       "mileage": "131695",
       "price": 89999,
       "first_seen": "2026-07-22T06:28:15Z"
-    },
-    {
-      "id": "16917318",
-      "title": "2020 BMW i3S M",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/i3/2026/7/22/2020-bmw-i3s-m-2-620---f4c7b7c1efb64a168ca9ea6d023f4e52/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "i3",
-      "year": "2020",
-      "mileage": "75275",
-      "price": 84999,
-      "first_seen": "2026-07-22T06:28:15Z"
-    },
-    {
-      "id": "16916925",
-      "title": "2022 | Mercedes Benz | G 63 AMG | GCC Spec | Low Mileage",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/7/21/2022-mercedes-benz-g-63-amg-gcc-spec-low-m-2-023---c538257eb63a4f59b39cc756d142f9f4/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "G-Class",
-      "year": "2022",
-      "mileage": "30558",
-      "price": 585000,
-      "first_seen": "2026-07-22T06:28:15Z"
-    },
-    {
-      "id": "16917294",
-      "title": "AUTOBIOGRAPHY VIP RANGE ROVER SPORT || GCC II FULLY LOADED I| PANORAMIC I| GIVEN WARRANTY",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-sport/2026/7/21/autobiography-vip-range-rover-sport-v8-gcc-2-417---1ea0bc1923064593918db1bacd5c073e/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Sport",
-      "year": "2015",
-      "mileage": "102600",
-      "price": 109000,
-      "first_seen": "2026-07-22T02:37:41Z"
     }
   ]
 }
