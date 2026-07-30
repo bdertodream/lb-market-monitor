@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 21958,
+  "total_tracked": 21959,
   "total_drops": 500,
-  "total_new": 21958,
+  "total_new": 21959,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "17788913",
+      "title": "Fully Upgraded & Furnished | Sea View | Vacant",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/28/fully-upgraded-furnished-sea-view-vacan-2-339395/",
+      "area": "Dubai Creek Harbour",
+      "category": "Apartment",
+      "size": "709",
+      "bedrooms": "1",
+      "price": 1850000,
+      "first_seen": "2026-07-30"
+    },
+    {
       "id": "17750842",
       "title": "Vastu Compliant | Well Priced | Large Plot",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/20/vastu-compliant-well-priced-large-plot-2-242227/",
@@ -12496,19 +12507,8 @@
       "bedrooms": "1",
       "price": 800000,
       "first_seen": "2026-07-27"
-    },
-    {
-      "id": "17442595",
-      "title": "Great Investment | Only 1140 PSF| Vacating Soon | Spacious Layout | Bright Unit",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/5/9/great-investment-only-1140-psf-vacating-2-319023/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "719",
-      "bedrooms": "1",
-      "price": 840000,
-      "first_seen": "2026-07-27"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-29"
+  "last_updated": "2026-07-30"
 }
