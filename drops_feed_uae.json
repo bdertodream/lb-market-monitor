@@ -1,39 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 22077,
+  "total_tracked": 22081,
   "total_drops": 500,
-  "total_new": 22077,
+  "total_new": 22081,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9808330",
-      "title": "Shop for Sale | Al Safa | 2027 Handover | Retail",
-      "old_price": 4500000,
-      "new_price": 3500000,
-      "drop_pct": 22.2,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/18/shop-for-sale-al-safa-2027-handover-ret-2-128133/",
-      "area": "Mohammed Bin Rashid City",
-      "category": "Shop",
-      "size": "835",
-      "bedrooms": "",
-      "date": "2026-04-20",
-      "first_seen": "2026-03-27"
-    },
-    {
-      "id": "9742588",
-      "title": "Prime Residential Plot | Fountain Drive, Al Barari",
-      "old_price": 84000000,
-      "new_price": 70000000,
-      "drop_pct": 16.7,
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/2/18/prime-residential-plot-fountain-drive-a-2-327402/",
-      "area": "Al Barari",
-      "category": "Land",
-      "size": "32595",
-      "bedrooms": "",
-      "date": "2026-04-21",
-      "first_seen": "2026-03-21"
-    },
     {
       "id": "16352354",
       "title": "Fully Furnished | Podium View | Vacant",
@@ -7005,9 +6977,81 @@
       "bedrooms": "4",
       "date": "2026-07-30",
       "first_seen": "2026-06-23"
+    },
+    {
+      "id": "9786222",
+      "title": "Spacious | Furnished | Prime Location | Grade A",
+      "old_price": 3900000,
+      "new_price": 3600000,
+      "drop_pct": 7.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/10/20/spacious-furnished-prime-location-grade-2-177646/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "1351",
+      "bedrooms": "",
+      "date": "2026-07-31",
+      "first_seen": "2026-03-09"
+    },
+    {
+      "id": "9777672",
+      "title": "Furnished Vacant | Prime Business Bay Location",
+      "old_price": 25135600,
+      "new_price": 1400000,
+      "drop_pct": 94.4,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2025/8/18/furnished-office-great-quality-business-2-137286/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "588",
+      "bedrooms": "",
+      "date": "2026-07-31",
+      "first_seen": "2026-03-23"
     }
   ],
   "new_listings": [
+    {
+      "id": "16946867",
+      "title": "1BEDROOM RIXOX VIEW",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/1/15/1bedroom-rixox-view-2-204168/",
+      "area": "Dubai Islands",
+      "category": "Apartment",
+      "size": "794",
+      "bedrooms": "1",
+      "price": 1931602,
+      "first_seen": "2026-07-31"
+    },
+    {
+      "id": "9828526",
+      "title": "Grade A office space for sale | Tenanted | JBC 1, JLT, DMCC",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/30/grade-a-office-space-for-sale-tenanted--2-306162/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "5759",
+      "bedrooms": "",
+      "price": 17277000,
+      "first_seen": "2026-07-31"
+    },
+    {
+      "id": "9827467",
+      "title": "Prime Industrial Warehouse & Land for Sale | Jebel Ali Industrial Area, Dubai",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/7/22/prime-industrial-warehouse-land-for-sal-2-259867/",
+      "area": "Jebel Ali",
+      "category": "Warehouse",
+      "size": "250000",
+      "bedrooms": "",
+      "price": 46000000,
+      "first_seen": "2026-07-31"
+    },
+    {
+      "id": "9827365",
+      "title": "No Agent | Rented | Ready | Close to Metro",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/21/no-agent-rented-ready-close-to-metro-2-842629/",
+      "area": "Barsha Heights (Tecom)",
+      "category": "Office",
+      "size": "2104",
+      "bedrooms": "",
+      "price": 5170000,
+      "first_seen": "2026-07-31"
+    },
     {
       "id": "17788913",
       "title": "Fully Upgraded & Furnished | Sea View | Vacant",
@@ -12463,52 +12507,8 @@
       "bedrooms": "3",
       "price": 1850000,
       "first_seen": "2026-07-27"
-    },
-    {
-      "id": "17750088",
-      "title": "Vacant | Full Atlantis Views | Sea View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/20/vacant-full-atlantis-views-sea-view-2-193293/",
-      "area": "Palm Jumeirah",
-      "category": "Apartment",
-      "size": "1677",
-      "bedrooms": "2",
-      "price": 7300000,
-      "first_seen": "2026-07-27"
-    },
-    {
-      "id": "17717267",
-      "title": "2 Bedroom | High Floor | Landmark Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/13/2-bedroom-high-floor-landmark-views-2-154695/",
-      "area": "Palm Jumeirah",
-      "category": "Apartment",
-      "size": "1885",
-      "bedrooms": "2",
-      "price": 10000000,
-      "first_seen": "2026-07-27"
-    },
-    {
-      "id": "17716428",
-      "title": "High Floor | Palm Facing | Serenia Expert",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/13/high-floor-palm-facing-serenia-expert-2-133685/",
-      "area": "Palm Jumeirah",
-      "category": "Apartment",
-      "size": "2394",
-      "bedrooms": "3",
-      "price": 12500000,
-      "first_seen": "2026-07-27"
-    },
-    {
-      "id": "17710196",
-      "title": "Vacant now | Favoured Tower | Beach Access",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/11/vacant-now-favoured-tower-beach-access-2-312371/",
-      "area": "Palm Jumeirah",
-      "category": "Apartment",
-      "size": "2218",
-      "bedrooms": "3",
-      "price": 4999999,
-      "first_seen": "2026-07-27"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-07-30"
+  "last_updated": "2026-07-31"
 }
