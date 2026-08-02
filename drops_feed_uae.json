@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 22409,
+  "total_tracked": 22410,
   "total_drops": 500,
-  "total_new": 22409,
+  "total_new": 22410,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "9782637",
+      "title": "Prime Villa Land| Choice of Plots| Pearl Jumeirah",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/7/10/prime-villa-land-choice-of-plots-pearl--2-420124/",
+      "area": "Pearl Jumeirah",
+      "category": "Land",
+      "size": "9025",
+      "bedrooms": "",
+      "price": 22500000,
+      "first_seen": "2026-08-02"
+    },
+    {
       "id": "9826409",
       "title": "Exclusive Investor Opportunity | Flexible Payment Plans | High Footfall",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/7/15/exclusive-investor-opportunity-flexible-2-871604/",
@@ -12496,19 +12507,8 @@
       "bedrooms": "4",
       "price": 3900000,
       "first_seen": "2026-07-29"
-    },
-    {
-      "id": "17571351",
-      "title": "Burj View | Community View | Investor Deal",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/10/burj-view-community-view-investor-deal-2-110672/",
-      "area": "Business Bay",
-      "category": "Apartment",
-      "size": "878",
-      "bedrooms": "2",
-      "price": 2120000,
-      "first_seen": "2026-07-29"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-08-01"
+  "last_updated": "2026-08-02"
 }
