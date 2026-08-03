@@ -368164,7 +368164,7 @@
   "16874122": {
     "id": "16874122",
     "title": "2019 BMW 330i GCC | HUD | Harman Kardon | Full History",
-    "price": 77900,
+    "price": 75900,
     "make": "BMW",
     "model": "3-Series",
     "year": "2019",
@@ -368183,6 +368183,10 @@
       {
         "price": 77900,
         "date": "2026-07-27T21:10:54Z"
+      },
+      {
+        "price": 75900,
+        "date": "2026-08-03T02:46:57Z"
       }
     ],
     "date": "2026-07-02"
@@ -425464,7 +425468,7 @@
   "16921049": {
     "id": "16921049",
     "title": "2024 Mercedes-Benz E-Class E 300 - Brand New - Chinese Specs",
-    "price": 188000,
+    "price": 210000,
     "make": "Mercedes-Benz",
     "model": "E-Class",
     "year": "2024",
@@ -425479,6 +425483,10 @@
       {
         "price": 188000,
         "date": "2026-07-25T09:48:00Z"
+      },
+      {
+        "price": 210000,
+        "date": "2026-08-03T02:46:57Z"
       }
     ],
     "date": "2026-07-25"
@@ -444110,5 +444118,27 @@
       }
     ],
     "date": "2026-08-02"
+  },
+  "16930135": {
+    "id": "16930135",
+    "title": "Audi RS3 2.5 TFSI quattro 2021 | GCC Specs | Pristine Condition",
+    "price": 169999,
+    "make": "Audi",
+    "model": "RS3",
+    "year": "2021",
+    "kilometers": "67950",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 3",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/audi/rs3/2026/8/3/audi-rs3-25-tfsi-quattro-2021-gcc-specs-pr-2-786---31433ed8575e43ef9e9bf0bda37979f7/",
+    "first_seen": "2026-08-03T02:46:57Z",
+    "prices": [
+      {
+        "price": 169999,
+        "date": "2026-08-03T02:46:57Z"
+      }
+    ],
+    "date": "2026-08-03"
   }
 }
