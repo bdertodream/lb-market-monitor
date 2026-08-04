@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 22648,
+  "total_tracked": 22649,
   "total_drops": 500,
-  "total_new": 22648,
+  "total_new": 22649,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9807588",
-      "title": "up to 12% roi\\ retail shop\\ limited\\ DURING RAMADAN 7% DISC ON CASH",
-      "old_price": 1339999,
-      "new_price": 1229000,
-      "drop_pct": 8.3,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/3/11/up-to-12-roi-retail-shop-limited-during-2-245974/",
-      "area": "International City",
-      "category": "Shop",
-      "size": "741",
-      "bedrooms": "",
-      "date": "2026-04-23",
-      "first_seen": "2026-03-15"
-    },
     {
       "id": "9807587",
       "title": "up to 12% roi\\ retail shop\\ limited\\ DURING RAMADAN 7% DISC ON CASH",
@@ -7005,9 +6991,34 @@
       "bedrooms": "",
       "date": "2026-08-03",
       "first_seen": "2026-03-08"
+    },
+    {
+      "id": "16771901",
+      "title": "Original Price | High Floor | Park View | Prime Location",
+      "old_price": 1250000,
+      "new_price": 1099000,
+      "drop_pct": 12.1,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/12/10/high-floor-park-view-prime-location-2-314081/",
+      "area": "Dubai Science Park",
+      "category": "Apartment",
+      "size": "752",
+      "bedrooms": "1",
+      "date": "2026-08-04",
+      "first_seen": "2026-08-03"
     }
   ],
   "new_listings": [
+    {
+      "id": "17767887",
+      "title": "Branded | Waterfront Living | Genuine Resale",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/23/branded-waterfront-living-genuine-resal-2-123987/",
+      "area": "Mina Rashid",
+      "category": "Apartment",
+      "size": "1704",
+      "bedrooms": "3",
+      "price": 6990000,
+      "first_seen": "2026-08-04"
+    },
     {
       "id": "17811067",
       "title": "1 Bed | Vacant now | 990 Sqft | Motivated",
@@ -8160,7 +8171,7 @@
       "category": "Apartment",
       "size": "752",
       "bedrooms": "1",
-      "price": 1250000,
+      "price": 1099000,
       "first_seen": "2026-08-03"
     },
     {
@@ -12496,19 +12507,8 @@
       "bedrooms": "",
       "price": 5507199,
       "first_seen": "2026-07-31"
-    },
-    {
-      "id": "9827503",
-      "title": "Shell And Core Office | Binghatti Apex | City And Pool Views",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/22/shell-and-core-office-binghatti-apex-ci-2-287298/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Office",
-      "size": "2578",
-      "bedrooms": "",
-      "price": 5544458,
-      "first_seen": "2026-07-31"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-08-03"
+  "last_updated": "2026-08-04"
 }
