@@ -1,39 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 23257,
+  "total_tracked": 23260,
   "total_drops": 500,
-  "total_new": 23257,
+  "total_new": 23260,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9741967",
-      "title": "Mulberry Plot for Sale Prime Location",
-      "old_price": 1200000,
-      "new_price": 1000000,
-      "drop_pct": 16.7,
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/2/16/mulberry-plot-for-sale-prime-location-2-919153/",
-      "area": "DAMAC Hills 2 (Akoya by DAMAC)",
-      "category": "Land",
-      "size": "1881",
-      "bedrooms": "",
-      "date": "2026-04-25",
-      "first_seen": "2026-03-08"
-    },
-    {
-      "id": "17326482",
-      "title": "READY TO MOVE l GREAT LOCATION l CALL ME",
-      "old_price": 940000,
-      "new_price": 890000,
-      "drop_pct": 5.3,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/14/ready-to-move-l-great-location-l-call-m-2-343477/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "792",
-      "bedrooms": "1",
-      "date": "2026-04-25",
-      "first_seen": "2026-04-14"
-    },
     {
       "id": "17073490",
       "title": "High Floor | Luxury Furnished | Fully Boulevard View",
@@ -7005,6 +6977,34 @@
       "bedrooms": "",
       "date": "2026-08-08",
       "first_seen": "2026-07-01"
+    },
+    {
+      "id": "17328128",
+      "title": "Investor Deal | Stylishly Upgraded | Near to Metro",
+      "old_price": 1000000,
+      "new_price": 949999,
+      "drop_pct": 5.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/15/investor-deal-stylishly-upgraded-near-t-2-166821/",
+      "area": "Al Furjan",
+      "category": "Apartment",
+      "size": "771",
+      "bedrooms": "1",
+      "date": "2026-08-09",
+      "first_seen": "2026-08-01"
+    },
+    {
+      "id": "9829573",
+      "title": "Near Metro | Spacious Office | Best Deal",
+      "old_price": 2300000,
+      "new_price": 2000000,
+      "drop_pct": 13.0,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/8/5/near-metro-spacious-office-best-deal-2-314283/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "1267",
+      "bedrooms": "",
+      "date": "2026-08-09",
+      "first_seen": "2026-08-05"
     }
   ],
   "new_listings": [
@@ -7083,6 +7083,39 @@
       "size": "784",
       "bedrooms": "",
       "price": 1500000,
+      "first_seen": "2026-08-09"
+    },
+    {
+      "id": "17816033",
+      "title": "FULL BURJ KHALIFA AND CREEK VIEW | HIGH FLOOR",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/3/full-burj-khalifa-and-creek-view-high-f-2-199745/",
+      "area": "Za'abeel",
+      "category": "Apartment",
+      "size": "1386",
+      "bedrooms": "2",
+      "price": 3600000,
+      "first_seen": "2026-08-09"
+    },
+    {
+      "id": "9829559",
+      "title": "Corner Office | Amazing View | Vacant Now",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/8/5/corner-office-amazing-view-vacant-now-2-197156/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "2495",
+      "bedrooms": "",
+      "price": 8000000,
+      "first_seen": "2026-08-09"
+    },
+    {
+      "id": "9829556",
+      "title": "Prime Location | Spacious Office | Vacant",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/8/5/prime-location-spacious-office-vacant-2-333589/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "998",
+      "bedrooms": "",
+      "price": 1600000,
       "first_seen": "2026-08-09"
     },
     {
@@ -7296,7 +7329,7 @@
     },
     {
       "id": "17839773",
-      "title": "Guaranteed Premium Unit | Creek Tower Views | 38th Floor | 1st Phase | 10% DP",
+      "title": "Pre Launch Allocation | Creek Tower Views | 38th Floor | 1st Phase | 10% DP",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/8/guaranteed-premium-unit-creek-tower-vie-2-142949/",
       "area": "Dubai Creek Harbour",
       "category": "Apartment",
@@ -11553,7 +11586,7 @@
     },
     {
       "id": "17758732",
-      "title": "Exclusive | Large Layout | Mall Access",
+      "title": "Lowest on the market | Motivated | Ready",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/22/exclusive-large-layout-mall-access-2-909388/",
       "area": "Downtown Dubai",
       "category": "Apartment",
@@ -11834,7 +11867,7 @@
       "category": "Office",
       "size": "1267",
       "bedrooms": "",
-      "price": 2300000,
+      "price": 2000000,
       "first_seen": "2026-08-05"
     },
     {
@@ -12473,39 +12506,6 @@
       "size": "821",
       "bedrooms": "1",
       "price": 2060000,
-      "first_seen": "2026-08-04"
-    },
-    {
-      "id": "17818978",
-      "title": "3BR+Maid | Vacant | Pool View | Balcony | Near Mall and Park",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/4/3brmaid-vacant-pool-view-balcony-near-m-2-872186/",
-      "area": "Mirdif",
-      "category": "Apartment",
-      "size": "1661",
-      "bedrooms": "3",
-      "price": 2500000,
-      "first_seen": "2026-08-04"
-    },
-    {
-      "id": "17800954",
-      "title": "Luxurious | Extended | Pool | Park Backing",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/30/luxurious-extended-pool-park-backing-2-159585/",
-      "area": "Green Community",
-      "category": "Villa",
-      "size": "9000",
-      "bedrooms": "5",
-      "price": 16499999,
-      "first_seen": "2026-08-04"
-    },
-    {
-      "id": "17803612",
-      "title": "| Ready To Move In | Prime Locationbrand New",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/31/ready-to-move-in-prime-locationbrand-ne-2-303818/",
-      "area": "Dubai Creek Harbour",
-      "category": "Apartment",
-      "size": "726",
-      "bedrooms": "1",
-      "price": 1800000,
       "first_seen": "2026-08-04"
     }
   ],
