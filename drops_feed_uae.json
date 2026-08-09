@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 23261,
+  "total_tracked": 23265,
   "total_drops": 500,
-  "total_new": 23261,
+  "total_new": 23265,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17073490",
-      "title": "High Floor | Luxury Furnished | Fully Boulevard View",
-      "old_price": 1070000,
-      "new_price": 1000000,
-      "drop_pct": 6.5,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/11/high-floor-1br-furnished-chiller-free-b-2-330756/",
-      "area": "Meydan",
-      "category": "Apartment",
-      "size": "427",
-      "bedrooms": "1",
-      "date": "2026-04-26",
-      "first_seen": "2026-03-13"
-    },
     {
       "id": "17082653",
       "title": "Spacious 1BR | Big Layout 777 SqFt | Chiller Free | Lagoon View",
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-08-09",
       "first_seen": "2026-08-05"
+    },
+    {
+      "id": "17834697",
+      "title": "Golf Course View | MidFloor | Original Price",
+      "old_price": 1110000,
+      "new_price": 975000,
+      "drop_pct": 12.2,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/7/golf-course-view-midfloor-original-pric-2-175005/",
+      "area": "DAMAC Hills",
+      "category": "Apartment",
+      "size": "702",
+      "bedrooms": "1",
+      "date": "2026-08-09",
+      "first_seen": "2026-08-07"
     }
   ],
   "new_listings": [
@@ -7127,6 +7127,50 @@
       "size": "646",
       "bedrooms": "1",
       "price": 1330000,
+      "first_seen": "2026-08-09"
+    },
+    {
+      "id": "17843301",
+      "title": "4% Discount | 50/50 payment plan | DLD Waiver | Waterfront",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/9/4-discount-5050-payment-plan-dld-waiver-2-742715/",
+      "area": "DAMAC Lagoons",
+      "category": "Apartment",
+      "size": "404",
+      "bedrooms": "0",
+      "price": 650000,
+      "first_seen": "2026-08-09"
+    },
+    {
+      "id": "17822491",
+      "title": "PREMIUM INVESTMENT | TENANTED | INSTANT ROI",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/4/premium-investment-tenanted-instant-roi-2-243067/",
+      "area": "Al Furjan",
+      "category": "Apartment",
+      "size": "771",
+      "bedrooms": "1",
+      "price": 950000,
+      "first_seen": "2026-08-09"
+    },
+    {
+      "id": "9830069",
+      "title": "Street-Facing Shop | S-10 Spain Cluster | Open-Plan Layout",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/8/9/street-facing-shop-s-10-spain-cluster-o-2-237861/",
+      "area": "International City",
+      "category": "Shop",
+      "size": "710",
+      "bedrooms": "",
+      "price": 750000,
+      "first_seen": "2026-08-09"
+    },
+    {
+      "id": "9830066",
+      "title": "Shell & Core Shop | England Cluster | Park View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/8/9/shell-core-shop-england-cluster-park-vi-2-337621/",
+      "area": "International City",
+      "category": "Shop",
+      "size": "419",
+      "bedrooms": "",
+      "price": 525000,
       "first_seen": "2026-08-09"
     },
     {
@@ -8534,7 +8578,7 @@
       "category": "Apartment",
       "size": "702",
       "bedrooms": "1",
-      "price": 1110000,
+      "price": 975000,
       "first_seen": "2026-08-07"
     },
     {
@@ -12462,50 +12506,6 @@
       "size": "941",
       "bedrooms": "1",
       "price": 1240000,
-      "first_seen": "2026-08-04"
-    },
-    {
-      "id": "17814889",
-      "title": "Single Row | Green Belt | Amazing Price",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/3/single-row-green-belt-amazing-price-2-445137/",
-      "area": "Arabian Ranches 3",
-      "category": "Villa",
-      "size": "2040",
-      "bedrooms": "3",
-      "price": 3500000,
-      "first_seen": "2026-08-04"
-    },
-    {
-      "id": "17819435",
-      "title": "Beach Access | Full Sea Views | Ultra-Luxury Living | High-Growth Island Asset",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/4/beach-access-full-sea-views-ultra-luxur-2-129049/",
-      "area": "Dubai Islands",
-      "category": "Apartment",
-      "size": "870",
-      "bedrooms": "1",
-      "price": 2420000,
-      "first_seen": "2026-08-04"
-    },
-    {
-      "id": "17814476",
-      "title": "Fully Renovated | Marina View | Mid Floor",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/3/fully-renovated-marina-view-mid-floor-2-326926/",
-      "area": "Dubai Marina",
-      "category": "Apartment",
-      "size": "1330",
-      "bedrooms": "2",
-      "price": 3600000,
-      "first_seen": "2026-08-04"
-    },
-    {
-      "id": "17819186",
-      "title": "2 BR Ultra Luxury | New Launch | Next Square Mall | 10% DP | EOI Open | No Commission",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/4/2-br-ultra-luxury-new-launch-next-squar-2-324065/",
-      "area": "Dubai Creek Harbour",
-      "category": "Apartment",
-      "size": "1253",
-      "bedrooms": "2",
-      "price": 3060000,
       "first_seen": "2026-08-04"
     }
   ],
