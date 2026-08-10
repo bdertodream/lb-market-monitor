@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 23265,
+  "total_tracked": 23266,
   "total_drops": 500,
-  "total_new": 23265,
+  "total_new": 23266,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "9789824",
+      "title": "0% Commission | Residential Plot | Build Your Own Mansion I Emirates Hills",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/8/9/0-commission-residential-plot-build-you-2-133397/",
+      "area": "Emirates Hills",
+      "category": "Land",
+      "size": "27282",
+      "bedrooms": "",
+      "price": 105551888,
+      "first_seen": "2026-08-10"
+    },
+    {
       "id": "9828322",
       "title": "Spacious Office | Burj Khalifa View | Grade A",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/28/spacious-office-burj-khalifa-view-grade-2-136611/",
@@ -12496,19 +12507,8 @@
       "bedrooms": "3",
       "price": 1388000,
       "first_seen": "2026-08-04"
-    },
-    {
-      "id": "17819445",
-      "title": "Cash Offer | High ROI | High Capital Appreciation",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/4/cash-offer-high-roi-high-capital-apprec-2-240461/",
-      "area": "Dubai Islands",
-      "category": "Apartment",
-      "size": "941",
-      "bedrooms": "1",
-      "price": 1240000,
-      "first_seen": "2026-08-04"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-08-09"
+  "last_updated": "2026-08-10"
 }
