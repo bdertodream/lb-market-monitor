@@ -1,23 +1,9 @@
 {
-  "total_tracked": 19628,
-  "total_drops": 502,
-  "total_new": 19628,
-  "last_updated": "2026-08-12T16:57:01Z",
+  "total_tracked": 19634,
+  "total_drops": 501,
+  "total_new": 19634,
+  "last_updated": "2026-08-12T20:43:45Z",
   "drops": [
-    {
-      "id": "16816019",
-      "title": "Mercedes-Benz GLE 450 4Matic 2019, GCC Specs-Warranty",
-      "old_price": 149500,
-      "new_price": 139500,
-      "drop_pct": 6.7,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-class/2026/4/24/mercedes-benz-gle-450-4matic-2019-gcc-spec-2-856---c71d1fe661de426b8cb9b81eb7b2c0c3/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "GLE-Class",
-      "year": "2019",
-      "mileage": "98900",
-      "date": "2026-07-20T06:46:12Z"
-    },
     {
       "id": "16876457",
       "title": "AED 1527 PM | AUDI S3 2.0 TFSI QUATTRO 2016 | PRISTINE CONDITION | 1 YEAR WARRANTY | GCC",
@@ -7003,9 +6989,95 @@
       "year": "2024",
       "mileage": "33500",
       "date": "2026-08-12T16:57:01Z"
+    },
+    {
+      "id": "16897868",
+      "title": "Toyota Previa SE | Model 2017 | GCC Specs | 7 seater",
+      "old_price": 29500,
+      "new_price": 21500,
+      "drop_pct": 27.1,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/previa/2026/7/4/toyota-previa-se-model-2017-gcc-specs-7-se-2-845---23d66ab2ecd5465fae4fdada5d49354f/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Previa",
+      "year": "2017",
+      "mileage": "81000",
+      "date": "2026-08-12T20:43:45Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16940863",
+      "title": "BYD Leopard 5 Ultra 2026 | Big Battery | Two Diff Lock",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/byd/leopard-5/2026/8/12/byd-leopard-5-ultra-2026-big-battery-two-d-2-068---c6a5a84e514d4edea201747501895dd5/",
+      "category": "Used Cars",
+      "make": "BYD",
+      "model": "Leopard 5",
+      "year": "2026",
+      "mileage": "0",
+      "price": 175000,
+      "first_seen": "2026-08-12T20:43:45Z"
+    },
+    {
+      "id": "16929135",
+      "title": "AED 1,680 P.M | Stunning BMW 330i M Sport 2020 | GCC Specs | Low Mileage | Pristine Condition origin",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/3-series/2026/8/1/aed-1680-pm-stunning-bmw-330i-m-sport-2020-2-555---b6781c23ad32435782237060cef65c50/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "3-Series",
+      "year": "2020",
+      "mileage": "115000",
+      "price": 105000,
+      "first_seen": "2026-08-12T20:43:45Z"
+    },
+    {
+      "id": "16940856",
+      "title": "Mitsubishi Attrage 2025 LOW LOW ORIGINAL MILEAGE",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/attrage/2026/8/12/mitsubishi-attrage-2025-low-low-original-m-2-527---61f4eb2ba3d64f2089e51f3fe15965b6/",
+      "category": "Used Cars",
+      "make": "Mitsubishi",
+      "model": "Attrage",
+      "year": "2025",
+      "mileage": "1200",
+      "price": 29500,
+      "first_seen": "2026-08-12T20:43:45Z"
+    },
+    {
+      "id": "16940846",
+      "title": "Top Of The Range JAC S3 Turbo Luxury GCC Specs Under Warranty Full JAC Service History Single Owner",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jac/s3/2026/8/12/top-of-the-range-jac-s3-turbo-luxury-gcc-s-2-991---3e28d15bb2c4463db2e9b4a8c97ae82e/",
+      "category": "Used Cars",
+      "make": "JAC",
+      "model": "S3",
+      "year": "2022",
+      "mileage": "58000",
+      "price": 24000,
+      "first_seen": "2026-08-12T20:43:45Z"
+    },
+    {
+      "id": "16940767",
+      "title": "Nissan Altima SV 2017 | Well Maintained | American Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/altima/2026/8/12/nissan-altima-sv-2017-well-maintained-amer-2-650---d4dec87eea3642d6b94d291c26dd5e7d/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": "2017",
+      "mileage": "305600",
+      "price": 18000,
+      "first_seen": "2026-08-12T20:43:45Z"
+    },
+    {
+      "id": "16940771",
+      "title": "Bentley Flying Spur V8 S 2015 GCC Specs - Pristine Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bentley/flying-spur/2026/8/12/bentley-flying-spur-v8-s-2015-gcc-specs-pr-2-872---e8589fdbcecd46a4a11595e93a6a8f02/",
+      "category": "Used Cars",
+      "make": "Bentley",
+      "model": "Flying Spur",
+      "year": "2015",
+      "mileage": "83000",
+      "price": 88000,
+      "first_seen": "2026-08-12T20:43:45Z"
+    },
     {
       "id": "16940535",
       "title": "Great deal for Subaru Station  Lovers very clean car!",
@@ -7015,7 +7087,7 @@
       "model": "Forester",
       "year": "2008",
       "mileage": "220000",
-      "price": 7777,
+      "price": 8888,
       "first_seen": "2026-08-12T16:57:01Z"
     },
     {
@@ -12932,78 +13004,6 @@
       "year": "2023",
       "mileage": "20437",
       "price": 28950,
-      "first_seen": "2026-08-07T13:02:49Z"
-    },
-    {
-      "id": "16934979",
-      "title": "UNLIMITED MILEAGE WARANTY / SV + 1.5L + NAVIGATION + CAMERA + SENSORS / IN HOUSE FINANCE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/sunny/2026/8/7/unlimited-mileage-waranty-sv-15l-navigatio-2-760---17ca97c60b664206b43dc98d2ad1fc86/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Sunny",
-      "year": "2023",
-      "mileage": "22378",
-      "price": 27950,
-      "first_seen": "2026-08-07T13:02:49Z"
-    },
-    {
-      "id": "16934970",
-      "title": "UNLIMITED MILEAGE WARRANTY / SEDAN + BLUETOOTH + USB + POWER LOCKS / IN HOUSE FINANCE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/figo/2026/8/7/unlimited-mileage-warranty-sedan-bluetooth-2-051---24b487bd3fe54929ad39f5de507ab766/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Figo",
-      "year": "2020",
-      "mileage": "61769",
-      "price": 16950,
-      "first_seen": "2026-08-07T13:02:49Z"
-    },
-    {
-      "id": "16934968",
-      "title": "UNLIMITED MILEAGE WARRANTY / SEDAN + BLUETOOTH + USB + POWER LOCKS / IN HOUSE FINANCE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/figo/2026/8/7/unlimited-mileage-warranty-sedan-bluetooth-2-536---0dce472096b24c38b8f37cd230557cfa/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Figo",
-      "year": "2020",
-      "mileage": "144570",
-      "price": 12950,
-      "first_seen": "2026-08-07T13:02:49Z"
-    },
-    {
-      "id": "16934966",
-      "title": "UNLIMITED MILEAGE WARRANTY / SEDAN + BLUETOOTH + USB + POWER LOCKS / IN HOUSE FINANCE",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/figo/2026/8/7/unlimited-mileage-warranty-sedan-bluetooth-2-451---835e0ae587f7455396d7e5c4a9cb7cf6/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Figo",
-      "year": "2020",
-      "mileage": "230423",
-      "price": 11750,
-      "first_seen": "2026-08-07T13:02:49Z"
-    },
-    {
-      "id": "16934961",
-      "title": "GCC | First Owner | Sunroof | Apple CarPlay | Excellent Condition | Ready for next owner",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/kia/pegas/2026/8/7/gcc-first-owner-sunroof-apple-carplay-exce-2-505---e98b0d1ed672430bbe189d296f360cf1/",
-      "category": "Used Cars",
-      "make": "Kia",
-      "model": "Pegas",
-      "year": "2020",
-      "mileage": "80000",
-      "price": 22500,
-      "first_seen": "2026-08-07T13:02:49Z"
-    },
-    {
-      "id": "16897130",
-      "title": "2021 Ram 1500 Rebel with the 5.7L HEMI V8 | Clean Tittle | low Mileage |",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ram/1500/2026/7/4/2021-ram-1500-rebel-with-the-57l-hemi-v8-c-2-262---9a2731469e64445e86479aab5b70f999/",
-      "category": "Used Cars",
-      "make": "RAM",
-      "model": "1500",
-      "year": "2021",
-      "mileage": "22600",
-      "price": 119999,
       "first_seen": "2026-08-07T13:02:49Z"
     }
   ]
