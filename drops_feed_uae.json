@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 23571,
+  "total_tracked": 23572,
   "total_drops": 500,
-  "total_new": 23571,
+  "total_new": 23572,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17371497",
-      "title": "Lagoon view | Multiple options | Payment plan",
-      "old_price": 3399999,
-      "new_price": 3172300,
-      "drop_pct": 6.7,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/25/lagoon-view-middle-floor-posthandover-p-2-236205/",
-      "area": "Sobha Hartland",
-      "category": "Apartment",
-      "size": "1611",
-      "bedrooms": "3",
-      "date": "2026-04-28",
-      "first_seen": "2026-04-28"
-    },
     {
       "id": "17192587",
       "title": "Pet Friendly | Low Price | Prime Location",
@@ -7005,9 +6991,34 @@
       "bedrooms": "2",
       "date": "2026-08-12",
       "first_seen": "2026-06-09"
+    },
+    {
+      "id": "17609841",
+      "title": "Private Pool | Huge Plot | Premium Finish",
+      "old_price": 17500000,
+      "new_price": 16000000,
+      "drop_pct": 8.6,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/6/19/private-pool-huge-plot-premium-finish-2-138048/",
+      "area": "The Villa",
+      "category": "Villa",
+      "size": "8400",
+      "bedrooms": "6",
+      "date": "2026-08-13",
+      "first_seen": "2026-07-02"
     }
   ],
   "new_listings": [
+    {
+      "id": "17304875",
+      "title": "Tenanted | Full Creek & Burj Khalifa View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/4/9/tenanted-full-creek-burj-khalifa-view-2-339586/",
+      "area": "Dubai Creek Harbour",
+      "category": "Apartment",
+      "size": "1300",
+      "bedrooms": "2",
+      "price": 3799000,
+      "first_seen": "2026-08-13"
+    },
     {
       "id": "9821351",
       "title": "Luxury Office Space | High ROI & Flexible Pay",
@@ -12496,19 +12507,8 @@
       "bedrooms": "4",
       "price": 6600000,
       "first_seen": "2026-08-06"
-    },
-    {
-      "id": "17829507",
-      "title": "Save AED 356K | 4BR End Unit",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/8/6/save-aed-356k-4br-end-unit-2-393426/",
-      "area": "Dubai South",
-      "category": "Townhouse",
-      "size": "2708",
-      "bedrooms": "4",
-      "price": 3219999,
-      "first_seen": "2026-08-06"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-08-12"
+  "last_updated": "2026-08-13"
 }

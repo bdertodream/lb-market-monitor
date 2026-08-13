@@ -354614,7 +354614,7 @@
   "16877864": {
     "id": "16877864",
     "title": "2020 Mercedes-Benz GLA 250 AMG | Warranty available | AED 760 Per month",
-    "price": 47999,
+    "price": 44999,
     "make": "Mercedes-Benz",
     "model": "GLA-Class",
     "year": "2020",
@@ -354629,6 +354629,10 @@
       {
         "price": 47999,
         "date": "2026-06-26T14:25:25Z"
+      },
+      {
+        "price": 44999,
+        "date": "2026-08-13T01:57:15Z"
       }
     ],
     "date": "2026-06-26"
@@ -393846,7 +393850,7 @@
   "16900790": {
     "id": "16900790",
     "title": "Jetour Dashing 2026 1.6T Luxury GCC Specs",
-    "price": 81000,
+    "price": 88000,
     "make": "Jetour",
     "model": "Dashing",
     "year": "2026",
@@ -393861,6 +393865,10 @@
       {
         "price": 81000,
         "date": "2026-07-11T09:38:41Z"
+      },
+      {
+        "price": 88000,
+        "date": "2026-08-13T01:57:15Z"
       }
     ],
     "date": "2026-07-11"
@@ -410020,7 +410028,7 @@
   "16900802": {
     "id": "16900802",
     "title": "Jetour Dashing 2025 1.6T Luxury GCC Specs",
-    "price": 79000,
+    "price": 83000,
     "make": "Jetour",
     "model": "Dashing",
     "year": "2025",
@@ -410035,6 +410043,10 @@
       {
         "price": 79000,
         "date": "2026-07-17T09:57:37Z"
+      },
+      {
+        "price": 83000,
+        "date": "2026-08-13T01:57:15Z"
       }
     ],
     "date": "2026-07-17"
@@ -410190,7 +410202,7 @@
   "16905691": {
     "id": "16905691",
     "title": "Jetour T2 2025 | 2.0L 4WD | Used",
-    "price": 94000,
+    "price": 115000,
     "make": "Jetour",
     "model": "T2",
     "year": "2025",
@@ -410205,6 +410217,10 @@
       {
         "price": 94000,
         "date": "2026-07-17T09:57:37Z"
+      },
+      {
+        "price": 115000,
+        "date": "2026-08-13T01:57:15Z"
       }
     ],
     "date": "2026-07-17"
@@ -425617,8 +425633,8 @@
   },
   "16920051": {
     "id": "16920051",
-    "title": "Excellent Condition | GCC Specs |",
-    "price": 27999,
+    "title": "Excellent Condition | GCC Specs | Honda CR-V EX",
+    "price": 26999,
     "make": "Honda",
     "model": "CR-V",
     "year": "2015",
@@ -425633,6 +425649,10 @@
       {
         "price": 27999,
         "date": "2026-07-24T13:45:33Z"
+      },
+      {
+        "price": 26999,
+        "date": "2026-08-13T01:57:15Z"
       }
     ],
     "date": "2026-07-24"
@@ -433887,8 +433907,8 @@
   },
   "16869248": {
     "id": "16869248",
-    "title": "2013 Ford Explorer XLT 4WD GCC specs, a proper 7 seater SUV",
-    "price": 17000,
+    "title": "Single Owner 2013 Ford Explorer XLT 4WD GCC specs, 7 seater",
+    "price": 16500,
     "make": "Ford",
     "model": "Explorer",
     "year": "2013",
@@ -433903,6 +433923,10 @@
       {
         "price": 17000,
         "date": "2026-07-28T10:35:19Z"
+      },
+      {
+        "price": 16500,
+        "date": "2026-08-13T01:57:15Z"
       }
     ],
     "date": "2026-07-28"
@@ -435254,7 +435278,7 @@
   "16924793": {
     "id": "16924793",
     "title": "\ud83d\udc06 Under warranty | 690 AED per month only! | GCC",
-    "price": 44999,
+    "price": 49999,
     "make": "Jaguar",
     "model": "E-Pace",
     "year": "2020",
@@ -435269,6 +435293,10 @@
       {
         "price": 44999,
         "date": "2026-07-28T21:08:00Z"
+      },
+      {
+        "price": 49999,
+        "date": "2026-08-13T01:57:15Z"
       }
     ],
     "date": "2026-07-28"
@@ -435544,7 +435572,7 @@
   "16924843": {
     "id": "16924843",
     "title": "AED 612 per month | Under MG Warranty | Full Option | GCC Specs",
-    "price": 39999,
+    "price": 37999,
     "make": "MG",
     "model": "GT",
     "year": "2022",
@@ -435559,6 +435587,10 @@
       {
         "price": 39999,
         "date": "2026-07-29T02:36:49Z"
+      },
+      {
+        "price": 37999,
+        "date": "2026-08-13T01:57:15Z"
       }
     ],
     "date": "2026-07-28"
@@ -445740,7 +445772,7 @@
   "16929821": {
     "id": "16929821",
     "title": "GCC Specs | Excellent Condition | 2014 Mercedes-Benz E200",
-    "price": 27999,
+    "price": 24999,
     "make": "Mercedes-Benz",
     "model": "E-Class",
     "year": "2014",
@@ -445755,6 +445787,10 @@
       {
         "price": 27999,
         "date": "2026-08-02T17:01:05Z"
+      },
+      {
+        "price": 24999,
+        "date": "2026-08-13T01:57:15Z"
       }
     ],
     "date": "2026-08-02"
@@ -468047,6 +468083,72 @@
       {
         "price": 88000,
         "date": "2026-08-12T20:43:45Z"
+      }
+    ],
+    "date": "2026-08-12"
+  },
+  "16940905": {
+    "id": "16940905",
+    "title": "AED 1,080 PM | Under Al Futtaim warranty & Service Contract | 7-Seater",
+    "price": 69999,
+    "make": "Toyota",
+    "model": "Veloz",
+    "year": "2024",
+    "kilometers": "9000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Barsha Heights (Tecom)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/veloz/2026/8/12/aed-1080-pm-under-al-futtaim-warranty-serv-2-314---37d2912b43414d5fae7c7a0d8e3b1832/",
+    "first_seen": "2026-08-13T01:57:15Z",
+    "prices": [
+      {
+        "price": 69999,
+        "date": "2026-08-13T01:57:15Z"
+      }
+    ],
+    "date": "2026-08-12"
+  },
+  "16940894": {
+    "id": "16940894",
+    "title": "2015 Jeep Grand Cherokee Limited | GCC Specs | 3.6L V6 | AED 24,999",
+    "price": 24999,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2015",
+    "kilometers": "218000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Barsha Heights (Tecom)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/8/12/2015-jeep-grand-cherokee-limited-gcc-specs-2-357---24d8a2c489cd428484f5cd2e653e25df/",
+    "first_seen": "2026-08-13T01:57:15Z",
+    "prices": [
+      {
+        "price": 24999,
+        "date": "2026-08-13T01:57:15Z"
+      }
+    ],
+    "date": "2026-08-12"
+  },
+  "16940641": {
+    "id": "16940641",
+    "title": "GCC 2010 Porsche Cayenne GTS Design Edition 3 | 4.8L V8 | Rare Edition | Sport Package",
+    "price": 24000,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": "2010",
+    "kilometers": "276356",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Al Quoz 1",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/8/12/gcc-2010-porsche-cayenne-gts-design-editio-2-234---101e246b0597488885e041283826b64a/",
+    "first_seen": "2026-08-13T01:57:15Z",
+    "prices": [
+      {
+        "price": 24000,
+        "date": "2026-08-13T01:57:15Z"
       }
     ],
     "date": "2026-08-12"
