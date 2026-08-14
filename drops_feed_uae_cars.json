@@ -1,37 +1,9 @@
 {
-  "total_tracked": 19760,
+  "total_tracked": 19765,
   "total_drops": 502,
-  "total_new": 19760,
-  "last_updated": "2026-08-14T01:54:30Z",
+  "total_new": 19765,
+  "last_updated": "2026-08-14T05:38:06Z",
   "drops": [
-    {
-      "id": "16689759",
-      "title": "4,896 P.M | 0% Downpayment | Audi Q7 S-Line| AUDI Warranty!",
-      "old_price": 264999,
-      "new_price": 249999,
-      "drop_pct": 5.7,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/audi/q7/2025/12/31/6267-pm-0-downpayment-audi-q7-s-line-agenc-2-228---9bd8ea2d547945b9972d70a6764c1ec2/",
-      "category": "Used Cars",
-      "make": "Audi",
-      "model": "Q7",
-      "year": "2024",
-      "mileage": "21000",
-      "date": "2026-07-21T17:20:13Z"
-    },
-    {
-      "id": "16750041",
-      "title": "1,763 P.M | 0% Downpayment | Agency History!",
-      "old_price": 94999,
-      "new_price": 89999,
-      "drop_pct": 5.3,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/xt6/2026/2/19/2253-pm-0-downpayment-agency-history-2-525---1a5229cd3f5b475aa307d86f0a81a74f/",
-      "category": "Used Cars",
-      "make": "Cadillac",
-      "model": "XT6",
-      "year": "2022",
-      "mileage": "94000",
-      "date": "2026-07-21T17:20:13Z"
-    },
     {
       "id": "16753427",
       "title": "2,037 P.M | 0% Downpayment | FULLY LOADED | IMMACULATE!",
@@ -7003,9 +6975,97 @@
       "year": "2013",
       "mileage": "146000",
       "date": "2026-08-14T01:54:30Z"
+    },
+    {
+      "id": "16843595",
+      "title": "GMC Yukon XL SLE 2022 | GCC Specs | Excellent Condition",
+      "old_price": 95000,
+      "new_price": 89000,
+      "drop_pct": 6.3,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/gmc/yukon/2026/5/18/gmc-yukon-xl-sle-2022-gcc-specs-excellent--2-283---732a8c5365364f2a916b31b39b14fb1f/",
+      "category": "Used Cars",
+      "make": "GMC",
+      "model": "Yukon",
+      "year": "2022",
+      "mileage": "280000",
+      "date": "2026-08-14T05:38:06Z"
+    },
+    {
+      "id": "16808763",
+      "title": "2023 Polestar 2 Standard Range Single Motor - GCC Specs - Excellent Condition",
+      "old_price": 73000,
+      "new_price": 69000,
+      "drop_pct": 5.5,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/polestar/2/2026/4/18/2023-polestar-2-standard-range-single-moto-2-078---700b65c86e7348499e2b6edf19145385/",
+      "category": "Used Cars",
+      "make": "Polestar",
+      "model": "2",
+      "year": "2023",
+      "mileage": "2700",
+      "date": "2026-08-14T05:38:06Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16870340",
+      "title": "AED 5546/month | 2025 Land Rover Defender 110 X-Dynamic HSE | GCC Specs | Ref#476525",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/defender/2026/6/12/aed-5546month-2025-land-rover-defender-110-2-303---a12c51accf604b298bbe96d089733014/",
+      "category": "Used Cars",
+      "make": "Land Rover",
+      "model": "Defender",
+      "year": "2025",
+      "mileage": "32112",
+      "price": 365000,
+      "first_seen": "2026-08-14T05:38:06Z"
+    },
+    {
+      "id": "16941672",
+      "title": "AED 5774/month | 2023 BMW XM  | GCC Specs | Ref#507470",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/xm/2026/8/13/aed-5774month-2023-bmw-xm-gcc-specs-ref507-2-208---a58d3f23b0fe4850b5c8386f8d3b88f4/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "XM",
+      "year": "2023",
+      "mileage": "47197",
+      "price": 380000,
+      "first_seen": "2026-08-14T05:38:06Z"
+    },
+    {
+      "id": "16942078",
+      "title": "Lincoln Navigator Presidential 2021 | GCC Specs | Low Mileage | Pristine Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/lincoln/navigator/2026/8/14/lincoln-navigator-presidential-2021-gcc-sp-2-164---96c9a841847d49e394e6399e13a69d0e/",
+      "category": "Used Cars",
+      "make": "Lincoln",
+      "model": "Navigator",
+      "year": "2021",
+      "mileage": "130000",
+      "price": 109000,
+      "first_seen": "2026-08-14T05:38:06Z"
+    },
+    {
+      "id": "16942063",
+      "title": "2018 Mitsubishi L200 4X4 Double Cab GLS - GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mitsubishi/l200/2026/8/14/2018-mitsubishi-l200-4x4-double-cab-gls-gc-2-440---f49ca6fcbe234dcaa8b3520cb6055ca2/",
+      "category": "Used Cars",
+      "make": "Mitsubishi",
+      "model": "L200",
+      "year": "2018",
+      "mileage": "145000",
+      "price": 29500,
+      "first_seen": "2026-08-14T05:38:06Z"
+    },
+    {
+      "id": "16942059",
+      "title": "Toyota Prado 2020 EXR GCC Specs",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/prado/2026/8/14/toyota-prado-2020-exr-gcc-specs-2-407---8b5019df2961461199624bf1cbf27243/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Prado",
+      "year": "2020",
+      "mileage": "135000",
+      "price": 102000,
+      "first_seen": "2026-08-14T05:38:06Z"
+    },
     {
       "id": "16942023",
       "title": "MINI Cooper John Cooper Works 2021 GCC Specs",
@@ -12945,66 +13005,6 @@
       "mileage": "98000",
       "price": 32500,
       "first_seen": "2026-08-09T08:43:06Z"
-    },
-    {
-      "id": "16669582",
-      "title": "2006 MERCEDES ML-350 AMG 4MATIC  || GCC FULL AGENCY SERVICE || ORIGINAL PAINT || ONE OWNER ONLY",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/m-class/2025/12/12/2006-mercedes-ml-350-amg-4matic-gcc-full-a-2-765---90d22a9db2934eef8dbe3e81024b6655/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "M-Class",
-      "year": "2006",
-      "mileage": "135000",
-      "price": 29999,
-      "first_seen": "2026-08-09T08:43:06Z"
-    },
-    {
-      "id": "16460355",
-      "title": "LAMBORGHINI | HURACAN STERRATO | 2023MY | 1 OF 1499",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lamborghini/huracan/2025/6/25/lamborghini-huracan-sterrato-2023my-1-of-1-2-441---ae8f61e4aa204f5c958a2f66a4635205/",
-      "category": "Used Cars",
-      "make": "Lamborghini",
-      "model": "Huracan",
-      "year": "2023",
-      "mileage": "1900",
-      "price": 899000,
-      "first_seen": "2026-08-09T08:43:06Z"
-    },
-    {
-      "id": "16936653",
-      "title": "ELITE BLACK PORSCHE CAYMAN S || GCC || POWERFUL ENGINE || NEW CONDITION || TOP OPTIONS || LOW MILEAG",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayman/2026/8/9/elite-black-porsche-cayman-s-gcc-powerful--2-629---928704d09d5045c095306a0f5d079c23/",
-      "category": "Used Cars",
-      "make": "Porsche",
-      "model": "Cayman",
-      "year": "2018",
-      "mileage": "95000",
-      "price": 177000,
-      "first_seen": "2026-08-09T08:43:06Z"
-    },
-    {
-      "id": "16936254",
-      "title": "\u2728GCC 2015 Nissan Altima SV | 2.5L 4CYL | Refined Comfort & Executive Style\u2728",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/altima/2026/8/8/gcc-2015-nissan-altima-sv-25l-4cyl-refined-2-565---29a1ce313b6548a0ba836b89dffba503/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Altima",
-      "year": "2015",
-      "mileage": "137192",
-      "price": 19900,
-      "first_seen": "2026-08-09T08:43:06Z"
-    },
-    {
-      "id": "16936670",
-      "title": "2020 TOYOTA LANDCRUISER V8 GXR",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/land-cruiser/2026/8/9/2020-toyota-landcruiser-v8-gxr-2-416---ff58578da7b64af9aa946af01675c7a6/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Land Cruiser",
-      "year": "2020",
-      "mileage": "137000",
-      "price": 144500,
-      "first_seen": "2026-08-09T05:05:52Z"
     }
   ]
 }
