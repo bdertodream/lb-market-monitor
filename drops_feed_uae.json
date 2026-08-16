@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 23734,
+  "total_tracked": 23735,
   "total_drops": 500,
-  "total_new": 23734,
+  "total_new": 23735,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "17870627",
+      "title": "Unique Layout | Extended | Single Row",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/15/unique-layout-extended-single-row-2-327777/",
+      "area": "The Meadows",
+      "category": "Villa",
+      "size": "4400",
+      "bedrooms": "5",
+      "price": 14250000,
+      "first_seen": "2026-08-16"
+    },
+    {
       "id": "17867895",
       "title": "Upgraded | Park and Pool Backing | Private Pool",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/15/upgraded-park-and-pool-backing-private--2-817478/",
@@ -12496,19 +12507,8 @@
       "bedrooms": "0",
       "price": 800000,
       "first_seen": "2026-08-08"
-    },
-    {
-      "id": "17723213",
-      "title": "Fully Furnished | Investor Deal | Spacious Layout",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/14/fully-furnished-investor-deal-spacious--2-310974/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "654",
-      "bedrooms": "1",
-      "price": 650000,
-      "first_seen": "2026-08-08"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-08-15"
+  "last_updated": "2026-08-16"
 }
