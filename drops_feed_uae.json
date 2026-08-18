@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 23818,
+  "total_tracked": 23820,
   "total_drops": 500,
-  "total_new": 23818,
+  "total_new": 23820,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "16246855",
-      "title": "Original Price | 5BR villa | Handover soon | Urgent Sale",
-      "old_price": 9900000,
-      "new_price": 9000000,
-      "drop_pct": 9.1,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2025/8/20/best-price-signature-villa-corner-unit-2-736879/",
-      "area": "Jumeirah Golf Estates",
-      "category": "Villa",
-      "size": "5237",
-      "bedrooms": "5",
-      "date": "2026-04-30",
-      "first_seen": "2026-03-30"
-    },
     {
       "id": "17027694",
       "title": "4BR Corner Townhouse Near Pool - Cash Buyers only",
@@ -7005,6 +6991,20 @@
       "bedrooms": "2",
       "date": "2026-08-17",
       "first_seen": "2026-06-09"
+    },
+    {
+      "id": "9824623",
+      "title": "Fully Furnished Premium Office | Rented | JVC",
+      "old_price": 2900000,
+      "new_price": 2450000,
+      "drop_pct": 15.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/6/fully-furnished-premium-office-prime-bu-2-829094/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Office",
+      "size": "1611",
+      "bedrooms": "",
+      "date": "2026-08-18",
+      "first_seen": "2026-07-10"
     }
   ],
   "new_listings": [
@@ -7028,6 +7028,28 @@
       "size": "1356",
       "bedrooms": "",
       "price": 3500000,
+      "first_seen": "2026-08-18"
+    },
+    {
+      "id": "17838168",
+      "title": "Low Floor | Ready to Move | Modern Layout",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/8/low-floor-ready-to-move-modern-layout-2-568042/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "805",
+      "bedrooms": "1",
+      "price": 685000,
+      "first_seen": "2026-08-18"
+    },
+    {
+      "id": "9830728",
+      "title": "Genuine Listing | Prime Location | Fitted Office",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/8/14/genuine-listing-prime-location-fitted-o-2-139046/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "1110",
+      "bedrooms": "",
+      "price": 2000000,
       "first_seen": "2026-08-18"
     },
     {
@@ -12484,28 +12506,6 @@
       "size": "3878",
       "bedrooms": "",
       "price": 6300000,
-      "first_seen": "2026-08-10"
-    },
-    {
-      "id": "17770946",
-      "title": "SINGLE ROW LV3 | NEAR HUB | VIEWS | VASTU",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/7/24/lv3-villa-near-hub-open-view-vastu-2-509334/",
-      "area": "DAMAC Lagoons",
-      "category": "Villa",
-      "size": "4509",
-      "bedrooms": "6",
-      "price": 6600000,
-      "first_seen": "2026-08-10"
-    },
-    {
-      "id": "17830698",
-      "title": "Final Launch Of Villas | On The Beach | Real Luxury",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/6/final-launch-of-villas-on-the-beach-rea-2-149101/",
-      "area": "Palm Jebel Ali",
-      "category": "Villa",
-      "size": "20607",
-      "bedrooms": "7",
-      "price": 54000000,
       "first_seen": "2026-08-10"
     }
   ],
