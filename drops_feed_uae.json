@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 23816,
+  "total_tracked": 23818,
   "total_drops": 500,
-  "total_new": 23816,
+  "total_new": 23818,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,28 @@
   ],
   "new_listings": [
     {
+      "id": "9824211",
+      "title": "Premium Unit | Growing Community | Great Value",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/7/2/premium-unit-growing-community-great-va-2-930647/",
+      "area": "Dubai South",
+      "category": "Shop",
+      "size": "448",
+      "bedrooms": "",
+      "price": 3200000,
+      "first_seen": "2026-08-18"
+    },
+    {
+      "id": "9824675",
+      "title": "Grade A | Notice Served | Corner Unit",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/6/fully-furnished-vacant-fully-fitted-2-220498/",
+      "area": "Jumeirah Lake Towers (JLT)",
+      "category": "Office",
+      "size": "1356",
+      "bedrooms": "",
+      "price": 3500000,
+      "first_seen": "2026-08-18"
+    },
+    {
       "id": "17872506",
       "title": "DLD WAIVERS | DISCOUNTS | PRIME UNITS",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/16/dld-waivers-discounts-prime-units-2-925040/",
@@ -12485,30 +12507,8 @@
       "bedrooms": "7",
       "price": 54000000,
       "first_seen": "2026-08-10"
-    },
-    {
-      "id": "17848211",
-      "title": "EMAAR ULTRA-LUXURY 6BR MANSION | LAGOON-FACING | SIGNATURE PLOT",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/10/emaar-ultra-luxury-6br-mansion-lagoon-f-2-145084/",
-      "area": "The Oasis by Emaar",
-      "category": "Villa",
-      "size": "22275",
-      "bedrooms": "6",
-      "price": 46970888,
-      "first_seen": "2026-08-10"
-    },
-    {
-      "id": "17847724",
-      "title": "Ultra Luxury 4-Bedroom Villa | Palmiera Collective I The Oasis by Emaar",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/10/ultra-luxury-4-bedroom-villa-palmiera-c-2-530686/",
-      "area": "The Oasis by Emaar",
-      "category": "Villa",
-      "size": "8267",
-      "bedrooms": "4",
-      "price": 16548888,
-      "first_seen": "2026-08-10"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-18"
 }
