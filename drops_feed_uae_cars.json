@@ -1,37 +1,9 @@
 {
-  "total_tracked": 20160,
-  "total_drops": 501,
-  "total_new": 20160,
-  "last_updated": "2026-08-18T16:31:04Z",
+  "total_tracked": 20164,
+  "total_drops": 502,
+  "total_new": 20164,
+  "last_updated": "2026-08-18T20:23:49Z",
   "drops": [
-    {
-      "id": "16885675",
-      "title": "NO CONVENIENCE FEES | UNDER WARRANTY | 0% DOWN PAYMENT | CERTIFIED PRE-OWNED |",
-      "old_price": 41000,
-      "new_price": 38950,
-      "drop_pct": 5.0,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/6/24/no-convenience-fees-under-warranty-0-down--2-932---895d9f60ebc04ad3a7d59c139d107eae/",
-      "category": "Used Cars",
-      "make": "MG",
-      "model": "ZS",
-      "year": "2024",
-      "mileage": "44814",
-      "date": "2026-07-25T20:53:40Z"
-    },
-    {
-      "id": "16865987",
-      "title": "Well-Maintained Ford F-150 XLT 2013 | GCC Specs | Reliable Workhorse",
-      "old_price": 42000,
-      "new_price": 34000,
-      "drop_pct": 19.0,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/f-150/2026/6/8/well-maintained-ford-f-150-xlt-2013-gcc-sp-2-117---2751e35f04e948e682c0d6830f041d35/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "F-150",
-      "year": "2013",
-      "mileage": "248000",
-      "date": "2026-07-26T02:46:18Z"
-    },
     {
       "id": "16914913",
       "title": "2017 Mercedes-Benz E-Class E 300 4MATIC (European Specs)",
@@ -7003,9 +6975,85 @@
       "year": "2019",
       "mileage": "73000",
       "date": "2026-08-18T16:31:04Z"
+    },
+    {
+      "id": "16927871",
+      "title": "Honda Odyssey Full option v4 2016 GCC Specs,7 seater  family car",
+      "old_price": 27500,
+      "new_price": 25000,
+      "drop_pct": 9.1,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/honda/odyssey/2026/7/31/honda-odyssey-touring-2016-gcc-specs7-seat-2-605---78cd27c659de4ede9b65ed1b4af93d52/",
+      "category": "Used Cars",
+      "make": "Honda",
+      "model": "Odyssey",
+      "year": "2016",
+      "mileage": "147000",
+      "date": "2026-08-18T20:23:49Z"
+    },
+    {
+      "id": "16924583",
+      "title": "2026 CHANGAN X5 PLUS II ELECTRIC TAIL GATE II SONY SPEAKER II 360 CAMERA II READY STOCK IN DUCAMZ II",
+      "old_price": 51999,
+      "new_price": 48999,
+      "drop_pct": 5.8,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/changan/x5-plus/2026/7/28/2026-changan-x5-plus-ii-electric-tail-gate-2-927---681a6b99c9994c33ab644f3c8c72d44c/",
+      "category": "Used Cars",
+      "make": "Changan",
+      "model": "X5 Plus",
+      "year": "2026",
+      "mileage": "0",
+      "date": "2026-08-18T20:23:49Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16932506",
+      "title": "2022 BMW X5 xDrive40i M Sport | GCC Specs | AGMC Serviced | Warranty Until Sept 2026",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/8/5/2022-bmw-x5-xdrive40i-m-sport-gcc-specs-ag-2-856---5d5e211fa9ae408db571b39d00bce482/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "X5",
+      "year": "2022",
+      "mileage": "130000",
+      "price": 165000,
+      "first_seen": "2026-08-18T20:23:49Z"
+    },
+    {
+      "id": "16934435",
+      "title": "Toyota Corolla 2022 XLI 1.6L GCC Specs - Excellent Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/corolla/2026/8/6/toyota-corolla-2022-xli-16l-gcc-specs-exce-2-379---31e05f70d7f342e3aa4ec1ea9ced785b/",
+      "category": "Used Cars",
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": "2022",
+      "mileage": "78000",
+      "price": 38990,
+      "first_seen": "2026-08-18T20:23:49Z"
+    },
+    {
+      "id": "16939286",
+      "title": "MG 5 2021 | GCC Specs | Excellent condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/mg5/2026/8/11/mg-5-2021-gcc-specs-excellent-condition-2-033---5e69c4da400a4726852976fe398da6b9/",
+      "category": "Used Cars",
+      "make": "MG",
+      "model": "MG5",
+      "year": "2021",
+      "mileage": "108000",
+      "price": 21499,
+      "first_seen": "2026-08-18T20:23:49Z"
+    },
+    {
+      "id": "16914532",
+      "title": "2015 Jeep Grand Cherokee SRT | GCC Specs | Performance SUV",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/grand-cherokee/2026/7/19/2015-jeep-grand-cherokee-srt-gcc-specs-per-2-082---ee0ade098a4c4aa8b0fb8b163b35ef62/",
+      "category": "Used Cars",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "year": "2015",
+      "mileage": "95000",
+      "price": 54500,
+      "first_seen": "2026-08-18T20:23:49Z"
+    },
     {
       "id": "16947028",
       "title": "BYD Leopard 5 Flagship 2026 | Brand New | Chinese Specs",
@@ -12403,7 +12451,7 @@
       "model": "Patrol",
       "year": "2014",
       "mileage": "185000",
-      "price": 46000,
+      "price": 51000,
       "first_seen": "2026-08-13T13:09:39Z"
     },
     {
@@ -12956,54 +13004,6 @@
       "year": "2024",
       "mileage": "42000",
       "price": 55000,
-      "first_seen": "2026-08-13T09:12:19Z"
-    },
-    {
-      "id": "16909373",
-      "title": "2022 | Rolls Royce | Cullinan Black Badge | GCC Spec - Full Dealer History",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/rolls-royce/cullinan/2026/7/14/2022-rolls-royce-cullinan-black-badge-gcc--2-513---045a96117e0e43b78f63e8cf4134a984/",
-      "category": "Used Cars",
-      "make": "Rolls-Royce",
-      "model": "Cullinan",
-      "year": "2022",
-      "mileage": "59189",
-      "price": 1089000,
-      "first_seen": "2026-08-13T09:12:19Z"
-    },
-    {
-      "id": "16776520",
-      "title": "2001 | Mercedes Ben | G500 XXL (Long Wheel) | GCC Spec",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/3/16/2001-mercedes-ben-g500-xxl-long-wheel-gcc--2-622---28bb5aac80564bf883fe25da464de33f/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "G-Class",
-      "year": "2001",
-      "mileage": "66591",
-      "price": 449000,
-      "first_seen": "2026-08-13T09:12:19Z"
-    },
-    {
-      "id": "16776485",
-      "title": "1991 | Nissan | Patrol Super Roof | GCC Spec",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/patrol/2026/3/16/1991-nissan-patrol-super-roof-gcc-spec-2-031---c5d1f50a0bdf4f8bbce740d9c796f309/",
-      "category": "Used Cars",
-      "make": "Nissan",
-      "model": "Patrol",
-      "year": "1991",
-      "mileage": "506774",
-      "price": 89000,
-      "first_seen": "2026-08-13T09:12:19Z"
-    },
-    {
-      "id": "16804947",
-      "title": "2023 | BMW | M4 | Competition Convertible | GCC Specs | With Warranty and Service Contract",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/m4/2026/4/15/2023-bmw-m4-competition-gcc-specs-with-war-2-903---726a11ee836347468b1ab2ddfaa66b12/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "M4",
-      "year": "2023",
-      "mileage": "9783",
-      "price": 369000,
       "first_seen": "2026-08-13T09:12:19Z"
     }
   ]
