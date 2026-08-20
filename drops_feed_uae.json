@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 23947,
+  "total_tracked": 23949,
   "total_drops": 500,
-  "total_new": 23947,
+  "total_new": 23949,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,28 @@
   ],
   "new_listings": [
     {
+      "id": "17887134",
+      "title": "Lagoon views | 4% DLD Waiver | 3% Discount | 50/50 PP",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/19/lagoon-views-4-dld-waiver-3-discount-50-2-170992/",
+      "area": "DAMAC Lagoons",
+      "category": "Apartment",
+      "size": "335",
+      "bedrooms": "0",
+      "price": 626000,
+      "first_seen": "2026-08-20"
+    },
+    {
+      "id": "17478782",
+      "title": "Renovated | Good Location | VOT",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/5/17/renovated-good-location-vot-2-123105/",
+      "area": "Arabian Ranches",
+      "category": "Villa",
+      "size": "2667",
+      "bedrooms": "2",
+      "price": 3400000,
+      "first_seen": "2026-08-20"
+    },
+    {
       "id": "9825708",
       "title": "Prime Retail Shop | Shell & Core | Street Facing",
       "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/7/11/prime-retail-shop-shell-core-street-fac-2-153791/",
@@ -12485,30 +12507,8 @@
       "bedrooms": "3",
       "price": 4200000,
       "first_seen": "2026-08-11"
-    },
-    {
-      "id": "17838194",
-      "title": "High Floor | Partial Sea View | Corner Unit",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/8/high-floor-partial-sea-view-corner-unit-2-330650/",
-      "area": "Mina Rashid",
-      "category": "Apartment",
-      "size": "1743",
-      "bedrooms": "3",
-      "price": 3899999,
-      "first_seen": "2026-08-11"
-    },
-    {
-      "id": "17828762",
-      "title": "Highest Floor | Best Price |Beach View | Motivated",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/6/highest-floor-best-price-beach-view-mot-2-304586/",
-      "area": "Dubai Creek Harbour",
-      "category": "Apartment",
-      "size": "1654",
-      "bedrooms": "3",
-      "price": 4500000,
-      "first_seen": "2026-08-11"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-20"
 }
