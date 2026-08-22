@@ -1,23 +1,9 @@
 {
-  "total_tracked": 20482,
-  "total_drops": 503,
-  "total_new": 20482,
-  "last_updated": "2026-08-21T20:25:38Z",
+  "total_tracked": 20483,
+  "total_drops": 501,
+  "total_new": 20483,
+  "last_updated": "2026-08-22T01:12:08Z",
   "drops": [
-    {
-      "id": "16640773",
-      "title": "FROM 2,599 PM. MANUFACTURER WARRANTY!",
-      "old_price": 169900,
-      "new_price": 159900,
-      "drop_pct": 5.9,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/ford/expedition/2025/11/18/from-1069-pm-free-manufacturer-warranty-2-150---2a568b644bda42b5b65f8e6525ea9fc7/",
-      "category": "Used Cars",
-      "make": "Ford",
-      "model": "Expedition",
-      "year": "2023",
-      "mileage": "54805",
-      "date": "2026-07-30T06:28:31Z"
-    },
     {
       "id": "16822294",
       "title": "Volvo Service History | Volvo V40 T5 R-Design 2016 GCC Specifications",
@@ -7003,9 +6989,35 @@
       "year": "2024",
       "mileage": "34420",
       "date": "2026-08-21T20:25:38Z"
+    },
+    {
+      "id": "16868408",
+      "title": "660/Month | MG ZS 2023 | Gcc | Super Condition | Bank Loan @ 0% Down Payment",
+      "old_price": 35000,
+      "new_price": 33000,
+      "drop_pct": 5.7,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/6/10/mg-zs-2023-gcc-super-condition-bank-loan-0-2-602---e1dad45fc35d49b782f516e04740a773/",
+      "category": "Used Cars",
+      "make": "MG",
+      "model": "ZS",
+      "year": "2023",
+      "mileage": "64000",
+      "date": "2026-08-22T01:12:08Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16950196",
+      "title": "NISSAN PATHFINDER SV HYBRID 2.5L 2016 GCC FULL OPTION 7 SEATER.",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/pathfinder/2026/8/21/nissan-pathfinder-sv-hybrid-25l-2016-gcc-f-2-930---233f87ea08db46f092563252d7d360e4/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "year": "2016",
+      "mileage": "122886",
+      "price": 24500,
+      "first_seen": "2026-08-22T01:12:08Z"
+    },
     {
       "id": "16949317",
       "title": "BMW X5 xDrive40i M Sport Pro, GCC Specs, 5 Years BMW Warranty / Service Contract, Perfect Condition",
@@ -12992,18 +13004,6 @@
       "year": "2013",
       "mileage": "164000",
       "price": 185000,
-      "first_seen": "2026-08-16T16:24:50Z"
-    },
-    {
-      "id": "16944594",
-      "title": "Toyota Raize 2024 \u2013 Full Turbo Option | GCC Spec | 750 PM Aed",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/raize/2026/8/16/toyota-raize-2024-full-turbo-option-gcc-sp-2-519---4dbc9137f4eb45dc959558f5b8851bac/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Raize",
-      "year": "2024",
-      "mileage": "41700",
-      "price": 45000,
       "first_seen": "2026-08-16T16:24:50Z"
     }
   ]
