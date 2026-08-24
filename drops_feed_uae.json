@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 24182,
+  "total_tracked": 24184,
   "total_drops": 500,
-  "total_new": 24182,
+  "total_new": 24184,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9810830",
-      "title": "Premium Visibility | Lake Facing | Fully Fitted",
-      "old_price": 2900000,
-      "new_price": 2750000,
-      "drop_pct": 5.2,
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/4/10/premium-visibility-lake-facing-fully-fi-2-256259/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Shop",
-      "size": "1330",
-      "bedrooms": "",
-      "date": "2026-05-02",
-      "first_seen": "2026-04-10"
-    },
     {
       "id": "9791251",
       "title": "Exclusive | Fully Fitted Office | Burj & Canal View | Rented /High ROI Investment",
@@ -7005,6 +6991,20 @@
       "bedrooms": "6",
       "date": "2026-08-23",
       "first_seen": "2026-06-09"
+    },
+    {
+      "id": "9817832",
+      "title": "Multiple Units | Great ROI | Top Floor",
+      "old_price": 980000,
+      "new_price": 900000,
+      "drop_pct": 8.2,
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/5/23/multiple-units-great-roi-top-floor-2-299775/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "427",
+      "bedrooms": "",
+      "date": "2026-08-24",
+      "first_seen": "2026-08-08"
     }
   ],
   "new_listings": [
@@ -7017,6 +7017,28 @@
       "size": "1968",
       "bedrooms": "",
       "price": 13776000,
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "17655154",
+      "title": "BEST FOR PRICE | VACANT ON TRANSFER",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/30/vacant-on-transfer-amenities-level-grea-2-237270/",
+      "area": "Dubai Science Park",
+      "category": "Apartment",
+      "size": "1097",
+      "bedrooms": "1",
+      "price": 1150000,
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "9827114",
+      "title": "Fitted Office | Vacant mid-August",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/20/fitted-office-vacant-mid-august-2-100111/",
+      "area": "Business Bay",
+      "category": "Office",
+      "size": "314",
+      "bedrooms": "",
+      "price": 749000,
       "first_seen": "2026-08-24"
     },
     {
@@ -12484,28 +12506,6 @@
       "size": "8267",
       "bedrooms": "4",
       "price": 13875888,
-      "first_seen": "2026-08-14"
-    },
-    {
-      "id": "17828575",
-      "title": "The Oasis 5BR | Lowest Price | Limited Time",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/6/the-oasis-5br-lowest-price-limited-time-2-283811/",
-      "area": "The Oasis by Emaar",
-      "category": "Villa",
-      "size": "9804",
-      "bedrooms": "5",
-      "price": 15700888,
-      "first_seen": "2026-08-14"
-    },
-    {
-      "id": "16715370",
-      "title": "Bright 1BHK |Open Kitchen |High Floor |Prime Area",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/11/27/bright-1bhk-open-kitchen-high-floor-pri-2-652351/",
-      "area": "Jumeirah Village Triangle (JVT)",
-      "category": "Apartment",
-      "size": "771",
-      "bedrooms": "1",
-      "price": 750000,
       "first_seen": "2026-08-14"
     }
   ],
