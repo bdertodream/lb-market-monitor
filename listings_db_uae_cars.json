@@ -245628,7 +245628,7 @@
   "16838523": {
     "id": "16838523",
     "title": "PORSCHE | 992.2 GT3 WEISSACH | GCC SPECS | CARTAGENA YELLOW METALLIC COLOUR",
-    "price": 1099000,
+    "price": 1085000,
     "make": "Porsche",
     "model": "911",
     "year": "2025",
@@ -245651,6 +245651,10 @@
       {
         "price": 1099000,
         "date": "2026-07-06T08:20:23Z"
+      },
+      {
+        "price": 1085000,
+        "date": "2026-08-24T01:16:42Z"
       }
     ],
     "date": "2026-05-14"
@@ -245658,7 +245662,7 @@
   "16838534": {
     "id": "16838534",
     "title": "FERRARI | PUROSANGUE | 2025MY | GCC SPECS MAIN DEALER WARRANTY + SERVICE CONTRACT ( AL TAYER )",
-    "price": 2475000,
+    "price": 2450000,
     "make": "Ferrari",
     "model": "Purosangue",
     "year": "2025",
@@ -245689,6 +245693,10 @@
       {
         "price": 2475000,
         "date": "2026-08-15T16:24:41Z"
+      },
+      {
+        "price": 2450000,
+        "date": "2026-08-24T01:16:42Z"
       }
     ],
     "date": "2026-05-14"
@@ -493805,6 +493813,50 @@
       {
         "price": 83000,
         "date": "2026-08-23T20:23:43Z"
+      }
+    ],
+    "date": "2026-08-23"
+  },
+  "16952221": {
+    "id": "16952221",
+    "title": "G 63 AMG / 3,600 Km / FULL OPTION / CARBON PACKAGE / 5 YEARS WARRANTY",
+    "price": 887000,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "year": "2025",
+    "kilometers": "3600",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Ras Al Khor Industrial",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/8/23/g-63-amg-3600-km-full-option-carbon-packag-2-009---4f1f7f90cd7346f9b40aee2afec5e2f6/",
+    "first_seen": "2026-08-24T01:16:42Z",
+    "prices": [
+      {
+        "price": 887000,
+        "date": "2026-08-24T01:16:42Z"
+      }
+    ],
+    "date": "2026-08-23"
+  },
+  "16952373": {
+    "id": "16952373",
+    "title": "Chevrolet Trax Premier 2018 GCC Specs",
+    "price": 23000,
+    "make": "Chevrolet",
+    "model": "Trax",
+    "year": "2018",
+    "kilometers": "156000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Business Bay",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/chevrolet/trax/2026/8/23/chevrolet-trax-premier-2018-gcc-specs-2-096---a9cac2a1ebc44d82aa7843364fac716d/",
+    "first_seen": "2026-08-24T01:16:42Z",
+    "prices": [
+      {
+        "price": 23000,
+        "date": "2026-08-24T01:16:42Z"
       }
     ],
     "date": "2026-08-23"

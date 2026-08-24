@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 24181,
+  "total_tracked": 24182,
   "total_drops": 500,
-  "total_new": 24181,
+  "total_new": 24182,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "9826555",
+      "title": "Vacant DIFC Office | High Floor | Walk to Metro | 25 Visas",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/16/vacant-difc-office-high-floor-walk-to-m-2-264098/",
+      "area": "DIFC",
+      "category": "Office",
+      "size": "1968",
+      "bedrooms": "",
+      "price": 13776000,
+      "first_seen": "2026-08-24"
+    },
+    {
       "id": "17887860",
       "title": "1 BR Spacious | Best Price | DLD Waiver | 0.25 Monthly | 50-50 PP | No Commission",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/20/1-br-spacious-best-price-dld-waiver-025-2-153838/",
@@ -12496,19 +12507,8 @@
       "bedrooms": "1",
       "price": 750000,
       "first_seen": "2026-08-14"
-    },
-    {
-      "id": "17666317",
-      "title": "Larger Bua | Laundry Room | Corner Unit",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/2/larger-bua-laundry-room-corner-unit-2-842326/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "1064",
-      "bedrooms": "1",
-      "price": 995000,
-      "first_seen": "2026-08-14"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-08-23"
+  "last_updated": "2026-08-24"
 }
