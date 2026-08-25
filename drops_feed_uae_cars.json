@@ -1,37 +1,9 @@
 {
-  "total_tracked": 20787,
-  "total_drops": 501,
-  "total_new": 20787,
-  "last_updated": "2026-08-25T01:15:22Z",
+  "total_tracked": 20790,
+  "total_drops": 502,
+  "total_new": 20790,
+  "last_updated": "2026-08-25T04:40:08Z",
   "drops": [
-    {
-      "id": "16818339",
-      "title": "Range Rover | 240 HP | NO ACCIDENTS | GCC SPECS",
-      "old_price": 29990,
-      "new_price": 19990,
-      "drop_pct": 33.3,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/land-rover/range-rover-evoque/2026/4/27/savvy-buy-evoque-prestige-trade-in-stock-2-054---8d66796d65c641cf8d571112668381a4/",
-      "category": "Used Cars",
-      "make": "Land Rover",
-      "model": "Range Rover Evoque",
-      "year": "2016",
-      "mileage": "235211",
-      "date": "2026-08-01T20:53:13Z"
-    },
-    {
-      "id": "16893915",
-      "title": "Hyundai H1 GLS 2021 GCC Specs",
-      "old_price": 52000,
-      "new_price": 47000,
-      "drop_pct": 9.6,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/h1/2026/7/1/hyundai-h1-gls-2021-gcc-specs-2-447---93236298485e49bbbd625613552a8bc9/",
-      "category": "Used Cars",
-      "make": "Hyundai",
-      "model": "H1",
-      "year": "2021",
-      "mileage": "300000",
-      "date": "2026-08-02T06:33:26Z"
-    },
     {
       "id": "16922497",
       "title": "Ford Ranger XLT 4X4 2015 GCC Specs - Well Maintained",
@@ -7003,9 +6975,73 @@
       "year": "2021",
       "mileage": "69000",
       "date": "2026-08-25T01:15:22Z"
+    },
+    {
+      "id": "16943334",
+      "title": "Nissan Altima SE 2017 GCC Specs - Excellent Condition",
+      "old_price": 16000,
+      "new_price": 15000,
+      "drop_pct": 6.2,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/nissan/altima/2026/8/15/nissan-altima-se-2017-gcc-specs-excellent--2-273---bc94d272aea64e4ca4ec033b0ea9712e/",
+      "category": "Used Cars",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": "2017",
+      "mileage": "100000",
+      "date": "2026-08-25T04:40:08Z"
+    },
+    {
+      "id": "16909900",
+      "title": "AED 4208/month | 2024 BMW X5  | GCC Specs | Ref#493896",
+      "old_price": 293100,
+      "new_price": 276900,
+      "drop_pct": 5.5,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/7/15/aed-4710month-2024-bmw-x5-gcc-specs-ref493-2-872---5f65aa79b207419487030a7239222862/",
+      "category": "Used Cars",
+      "make": "BMW",
+      "model": "X5",
+      "year": "2024",
+      "mileage": "19571",
+      "date": "2026-08-25T04:40:08Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16953820",
+      "title": "Mazda 3 Hatchback 2025 | GCC | Zero Accident",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/3-hatchback/2026/8/25/mazda-3-hatchback-2025-gcc-zero-accident-2-621---7e00f3183c374c95b7395c0236c0b614/",
+      "category": "Used Cars",
+      "make": "Mazda",
+      "model": "3 Hatchback",
+      "year": "2025",
+      "mileage": "4500",
+      "price": 10000,
+      "first_seen": "2026-08-25T04:40:08Z"
+    },
+    {
+      "id": "16948596",
+      "title": "2017 Renault Duster 2.0L SE 4X4 | Full Option | GCC Specs | 135,500 KM",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/renault/duster/2026/8/20/2017-renault-duster-20l-se-4x4-full-option-2-779---fb9abe796a3d4656af4c6ead00727a9c/",
+      "category": "Used Cars",
+      "make": "Renault",
+      "model": "Duster",
+      "year": "2017",
+      "mileage": "135500",
+      "price": 18000,
+      "first_seen": "2026-08-25T04:40:08Z"
+    },
+    {
+      "id": "16953792",
+      "title": "VW Service History | Volkswagen Passat 2.5L Sport 2020 GCC Specifications (2 Keys | Single Owner)",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/passat/2026/8/25/vw-service-history-volkswagen-passat-25l-s-2-388---6a2641cc5bc84d7ab5c2f54d3fa0eb07/",
+      "category": "Used Cars",
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": "2020",
+      "mileage": "175000",
+      "price": 33000,
+      "first_seen": "2026-08-25T04:40:08Z"
+    },
     {
       "id": "16600126",
       "title": "TESLA MODEL 3 PERFORMANCE 2020 UNDER WARRANTY TELL 2028 GCC",
@@ -12968,42 +13004,6 @@
       "year": "2015",
       "mileage": "148000",
       "price": 12000,
-      "first_seen": "2026-08-20T08:38:23Z"
-    },
-    {
-      "id": "16905498",
-      "title": "BMW X3 sDrive30i 2024 American Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x3/2026/7/11/bmw-x3-sdrive30i-2024-american-specs-2-855---4998425e016f4195964bce4ac76ce653/",
-      "category": "Used Cars",
-      "make": "BMW",
-      "model": "X3",
-      "year": "2024",
-      "mileage": "14000",
-      "price": 130000,
-      "first_seen": "2026-08-20T08:38:23Z"
-    },
-    {
-      "id": "16948566",
-      "title": "Original Paint | Lexus LX570 Platinum 2011 GCC Specifications (Single Owner / 2 Keys)",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/lx-series/2026/8/20/original-paint-lexus-lx570-platinum-2011-g-2-188---7dac342f7f384245ab77caffeddc9762/",
-      "category": "Used Cars",
-      "make": "Lexus",
-      "model": "LX-Series",
-      "year": "2011",
-      "mileage": "280000",
-      "price": 68000,
-      "first_seen": "2026-08-20T08:38:23Z"
-    },
-    {
-      "id": "16948552",
-      "title": "Toyota Hilux 2026 Double Cab GLX - Brand New - GCC Specs",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/toyota/hilux/2026/8/20/toyota-hilux-2026-double-cab-glx-brand-new-2-167---0a20ac9f91e34a38910b7b855121411a/",
-      "category": "Used Cars",
-      "make": "Toyota",
-      "model": "Hilux",
-      "year": "2026",
-      "mileage": "0",
-      "price": 129000,
       "first_seen": "2026-08-20T08:38:23Z"
     }
   ]

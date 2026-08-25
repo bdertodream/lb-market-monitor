@@ -351891,8 +351891,8 @@
   },
   "16886041": {
     "id": "16886041",
-    "title": "AED 9648/month | 2024 Porsche 911 Carrera S | GCC Specs | Ref#482697",
-    "price": 635000,
+    "title": "AED 9206/month | 2024 Porsche 911 Carrera S | GCC Specs | Ref#482697",
+    "price": 605900,
     "make": "Porsche",
     "model": "911",
     "year": "2024",
@@ -351911,6 +351911,10 @@
       {
         "price": 635000,
         "date": "2026-08-11T05:08:23Z"
+      },
+      {
+        "price": 605900,
+        "date": "2026-08-25T04:40:08Z"
       }
     ],
     "date": "2026-06-25"
@@ -405113,8 +405117,8 @@
   },
   "16909900": {
     "id": "16909900",
-    "title": "AED 4454/month | 2024 BMW X5  | GCC Specs | Ref#493896",
-    "price": 293100,
+    "title": "AED 4208/month | 2024 BMW X5  | GCC Specs | Ref#493896",
+    "price": 276900,
     "make": "BMW",
     "model": "X5",
     "year": "2024",
@@ -405133,6 +405137,10 @@
       {
         "price": 293100,
         "date": "2026-08-11T05:08:23Z"
+      },
+      {
+        "price": 276900,
+        "date": "2026-08-25T04:40:08Z"
       }
     ],
     "date": "2026-07-15"
@@ -406153,8 +406161,8 @@
   },
   "16907505": {
     "id": "16907505",
-    "title": "AED 11090/month | 2023 Ferrari Portofino M | Japanese Specs | Ref#493720",
-    "price": 729900,
+    "title": "AED 11061/month | 2023 Ferrari Portofino M | Japanese Specs | Ref#493720",
+    "price": 728000,
     "make": "Ferrari",
     "model": "Portofino",
     "year": "2023",
@@ -406173,6 +406181,10 @@
       {
         "price": 729900,
         "date": "2026-08-11T05:08:23Z"
+      },
+      {
+        "price": 728000,
+        "date": "2026-08-25T04:40:08Z"
       }
     ],
     "date": "2026-07-15"
@@ -477070,7 +477082,7 @@
   "16943334": {
     "id": "16943334",
     "title": "Nissan Altima SE 2017 GCC Specs - Excellent Condition",
-    "price": 16000,
+    "price": 15000,
     "make": "Nissan",
     "model": "Altima",
     "year": "2017",
@@ -477085,6 +477097,10 @@
       {
         "price": 16000,
         "date": "2026-08-15T12:37:02Z"
+      },
+      {
+        "price": 15000,
+        "date": "2026-08-25T04:40:08Z"
       }
     ],
     "date": "2026-08-15"
@@ -496672,5 +496688,71 @@
       }
     ],
     "date": "2026-08-24"
+  },
+  "16953820": {
+    "id": "16953820",
+    "title": "Mazda 3 Hatchback 2025 | GCC | Zero Accident",
+    "price": 10000,
+    "make": "Mazda",
+    "model": "3 Hatchback",
+    "year": "2025",
+    "kilometers": "4500",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "area": "Jumeirah Village Circle (JVC)",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/mazda/3-hatchback/2026/8/25/mazda-3-hatchback-2025-gcc-zero-accident-2-621---7e00f3183c374c95b7395c0236c0b614/",
+    "first_seen": "2026-08-25T04:40:08Z",
+    "prices": [
+      {
+        "price": 10000,
+        "date": "2026-08-25T04:40:08Z"
+      }
+    ],
+    "date": "2026-08-25"
+  },
+  "16948596": {
+    "id": "16948596",
+    "title": "2017 Renault Duster 2.0L SE 4X4 | Full Option | GCC Specs | 135,500 KM",
+    "price": 18000,
+    "make": "Renault",
+    "model": "Duster",
+    "year": "2017",
+    "kilometers": "135500",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Za'abeel 2",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/renault/duster/2026/8/20/2017-renault-duster-20l-se-4x4-full-option-2-779---fb9abe796a3d4656af4c6ead00727a9c/",
+    "first_seen": "2026-08-25T04:40:08Z",
+    "prices": [
+      {
+        "price": 18000,
+        "date": "2026-08-25T04:40:08Z"
+      }
+    ],
+    "date": "2026-08-25"
+  },
+  "16953792": {
+    "id": "16953792",
+    "title": "VW Service History | Volkswagen Passat 2.5L Sport 2020 GCC Specifications (2 Keys | Single Owner)",
+    "price": 33000,
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": "2020",
+    "kilometers": "175000",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "area": "Nad Al Sheba",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/volkswagen/passat/2026/8/25/vw-service-history-volkswagen-passat-25l-s-2-388---6a2641cc5bc84d7ab5c2f54d3fa0eb07/",
+    "first_seen": "2026-08-25T04:40:08Z",
+    "prices": [
+      {
+        "price": 33000,
+        "date": "2026-08-25T04:40:08Z"
+      }
+    ],
+    "date": "2026-08-25"
   }
 }
