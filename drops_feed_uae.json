@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 24758,
+  "total_tracked": 24759,
   "total_drops": 500,
-  "total_new": 24758,
+  "total_new": 24759,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17100157",
-      "title": "Stunning Renovated Villa | Ready to Move In",
-      "old_price": 15500000,
-      "new_price": 12490000,
-      "drop_pct": 19.4,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/18/stunning-renovated-villa-ready-to-move--2-268906/",
-      "area": "The Villa",
-      "category": "Villa",
-      "size": "5752",
-      "bedrooms": "5",
-      "date": "2026-05-05",
-      "first_seen": "2026-03-09"
-    },
     {
       "id": "16997057",
       "title": "4BR+Maid | Corner Unit | On The Park | Vacant",
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-08-30",
       "first_seen": "2026-08-19"
+    },
+    {
+      "id": "16862681",
+      "title": "Wellness Sanctuary in the city between Dubai Downtown and DIFC",
+      "old_price": 6805000,
+      "new_price": 6020000,
+      "drop_pct": 11.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2025/12/29/wellness-sanctuary-in-the-city-between--2-195459/",
+      "area": "Za'abeel",
+      "category": "Apartment",
+      "size": "1722",
+      "bedrooms": "2",
+      "date": "2026-08-30",
+      "first_seen": "2026-03-26"
     }
   ],
   "new_listings": [
@@ -7842,6 +7842,17 @@
       "size": "2286",
       "bedrooms": "4",
       "price": 2725000,
+      "first_seen": "2026-08-30"
+    },
+    {
+      "id": "17570913",
+      "title": "Sea View 1BR | Furnished Apartment | Private Pool Balcony",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/6/10/sea-view-1br-furnished-apartment-privat-2-241002/",
+      "area": "Dubai Islands",
+      "category": "Apartment",
+      "size": "772",
+      "bedrooms": "1",
+      "price": 1815941,
       "first_seen": "2026-08-30"
     },
     {
@@ -12495,17 +12506,6 @@
       "size": "843",
       "bedrooms": "",
       "price": 1365090,
-      "first_seen": "2026-08-25"
-    },
-    {
-      "id": "9830495",
-      "title": "Prime Location | Fully Fitted Modern Office",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/8/12/prime-location-fully-fitted-modern-offi-2-275647/",
-      "area": "Sheikh Zayed Road",
-      "category": "Office",
-      "size": "767",
-      "bedrooms": "",
-      "price": 4650000,
       "first_seen": "2026-08-25"
     }
   ],
