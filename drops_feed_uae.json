@@ -7,20 +7,6 @@
   "biggest_drop_usd": 0,
   "drops": [
     {
-      "id": "9760515",
-      "title": "Exclusive Residential Plot | Premium | Corner",
-      "old_price": 4245070,
-      "new_price": 3820635,
-      "drop_pct": 10.0,
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/5/5/exclusive-residential-plot-premium-corn-2-194917/",
-      "area": "Jebel Ali",
-      "category": "Land",
-      "size": "12128",
-      "bedrooms": "",
-      "date": "2026-05-05",
-      "first_seen": "2026-05-05"
-    },
-    {
       "id": "17200478",
       "title": "SINGLE ROW | CLOSE TO AMENITIES | COMMUNITY VIEW",
       "old_price": 2800000,
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-08-31",
       "first_seen": "2026-08-19"
+    },
+    {
+      "id": "9702086",
+      "title": "Most wanted/Exclusive land/first hand",
+      "old_price": 57500000,
+      "new_price": 48000000,
+      "drop_pct": 16.5,
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2025/8/16/most-wantedexclusive-landfirst-hand-2-308083/",
+      "area": "Dubai Islands",
+      "category": "Land",
+      "size": "28382",
+      "bedrooms": "",
+      "date": "2026-09-01",
+      "first_seen": "2026-03-10"
     }
   ],
   "new_listings": [
@@ -12510,5 +12510,5 @@
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-08-31"
+  "last_updated": "2026-09-01"
 }
