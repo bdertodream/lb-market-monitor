@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 24992,
+  "total_tracked": 24993,
   "total_drops": 500,
-  "total_new": 24992,
+  "total_new": 24993,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
@@ -7009,6 +7009,17 @@
   ],
   "new_listings": [
     {
+      "id": "17950568",
+      "title": "Available | Large Living Space | Single Row",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/9/2/available-large-living-space-single-row-2-355202/",
+      "area": "Arabian Ranches 2",
+      "category": "Villa",
+      "size": "3168",
+      "bedrooms": "3",
+      "price": 5999999,
+      "first_seen": "2026-09-03"
+    },
+    {
       "id": "17907498",
       "title": "Vacant | Water View | Large Layout",
       "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/25/vacant-water-view-large-layout-2-446056/",
@@ -12496,19 +12507,8 @@
       "bedrooms": "2",
       "price": 2172119,
       "first_seen": "2026-08-27"
-    },
-    {
-      "id": "17920781",
-      "title": "BRAND NEW | PREMIUM QUALITY | HIGHER FLOOR",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/27/brand-new-premium-quality-higher-floor-2-296960/",
-      "area": "Jumeirah Village Circle (JVC)",
-      "category": "Apartment",
-      "size": "427",
-      "bedrooms": "0",
-      "price": 670000,
-      "first_seen": "2026-08-27"
     }
   ],
   "tracked": 1966,
-  "last_updated": "2026-09-02"
+  "last_updated": "2026-09-03"
 }
