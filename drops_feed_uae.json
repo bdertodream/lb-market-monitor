@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 25233,
+  "total_tracked": 25236,
   "total_drops": 500,
-  "total_new": 25233,
+  "total_new": 25236,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "17247166",
-      "title": "EXCLUSIVE | Vacant | Single Row | 4BR + Maid Townhouse in Polo | Meydan",
-      "old_price": 6750000,
-      "new_price": 5500000,
-      "drop_pct": 18.5,
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/3/27/exclusive-vacant-on-transfer-single-row-2-335798/",
-      "area": "Meydan",
-      "category": "Townhouse",
-      "size": "3245",
-      "bedrooms": "4",
-      "date": "2026-05-10",
-      "first_seen": "2026-03-27"
-    },
     {
       "id": "17323050",
       "title": "Wasl view | High Floor | 2 Bedroom",
@@ -7005,9 +6991,56 @@
       "bedrooms": "2",
       "date": "2026-09-05",
       "first_seen": "2026-03-09"
+    },
+    {
+      "id": "17074339",
+      "title": "(PRICE NEGOTIABLE) High ROI l | Huge Layout | Prime Location",
+      "old_price": 1299000,
+      "new_price": 1199000,
+      "drop_pct": 7.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/2/12/investor-deal-high-roi-l-huge-layout-pr-2-327851/",
+      "area": "Mirdif",
+      "category": "Apartment",
+      "size": "1129",
+      "bedrooms": "1",
+      "date": "2026-09-06",
+      "first_seen": "2026-03-16"
     }
   ],
   "new_listings": [
+    {
+      "id": "17957614",
+      "title": "100% Cash Price | Limited Units | Investor Deal",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/4/100-cash-price-limited-units-investor-d-2-126024/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "1246",
+      "bedrooms": "2",
+      "price": 715000,
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "17963569",
+      "title": "premium location with strong capital appreciation potential",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/5/premium-location-with-strong-capital-ap-2-183685/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "342",
+      "bedrooms": "0",
+      "price": 460000,
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "17671578",
+      "title": "Luxurious 1BR | Prime Location | Inquire Now",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/7/3/luxurious-1br-prime-location-inquire-no-2-251126/",
+      "area": "Jumeirah Village Circle (JVC)",
+      "category": "Apartment",
+      "size": "762",
+      "bedrooms": "1",
+      "price": 850000,
+      "first_seen": "2026-09-06"
+    },
     {
       "id": "17605355",
       "title": "Best ROI | Canal View | Fully Furnished",
@@ -9711,7 +9744,7 @@
       "category": "Apartment",
       "size": "839",
       "bedrooms": "2",
-      "price": 2149000,
+      "price": 2200000,
       "first_seen": "2026-09-02"
     },
     {
@@ -12473,39 +12506,6 @@
       "size": "856",
       "bedrooms": "1",
       "price": 1530000,
-      "first_seen": "2026-08-30"
-    },
-    {
-      "id": "17868421",
-      "title": "Luxurious Living I Pool view | Golf View",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/15/luxurious-living-i-pool-view-golf-view-2-933798/",
-      "area": "Dubai Hills Estate",
-      "category": "Apartment",
-      "size": "1156",
-      "bedrooms": "2",
-      "price": 3300000,
-      "first_seen": "2026-08-30"
-    },
-    {
-      "id": "17864390",
-      "title": "Investor deal | Same OP | Mortgageable | Furnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/8/14/investor-deal-same-op-mortgageable-furn-2-331725/",
-      "area": "Mohammed Bin Rashid City (MBR City)",
-      "category": "Apartment",
-      "size": "792",
-      "bedrooms": "1",
-      "price": 1316000,
-      "first_seen": "2026-08-30"
-    },
-    {
-      "id": "17879022",
-      "title": "5BR Exclusive Villa | On the Lagoon | Single Row",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/18/5br-exclusive-villa-on-the-lagoon-singl-2-118484/",
-      "area": "Mohammed Bin Rashid City (MBR City)",
-      "category": "Villa",
-      "size": "11315",
-      "bedrooms": "5",
-      "price": 32000000,
       "first_seen": "2026-08-30"
     }
   ],
