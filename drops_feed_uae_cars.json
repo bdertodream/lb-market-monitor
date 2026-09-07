@@ -1,37 +1,9 @@
 {
-  "total_tracked": 21756,
-  "total_drops": 500,
-  "total_new": 21756,
-  "last_updated": "2026-09-06T21:59:23Z",
+  "total_tracked": 21759,
+  "total_drops": 502,
+  "total_new": 21759,
+  "last_updated": "2026-09-07T03:09:56Z",
   "drops": [
-    {
-      "id": "16756927",
-      "title": "AED 6837/month | 2025 Mercedes-Benz SL-Class SL 43 AMG | GCC Specs | Ref#433398",
-      "old_price": 490000,
-      "new_price": 450000,
-      "drop_pct": 8.2,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/sl-class/2026/2/25/aed-7825month-2025-mercedes-benz-sl-class--2-291---059716f266d248eb8040f67facd03ffd/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "SL-Class",
-      "year": "2025",
-      "mileage": "13084",
-      "date": "2026-08-10T13:07:02Z"
-    },
-    {
-      "id": "16788119",
-      "title": "Honda Accord i-VTEC 2012 - GCC Specs - Reliable and Well-Maintained",
-      "old_price": 14500,
-      "new_price": 12500,
-      "drop_pct": 13.8,
-      "url": "https://dubai.dubizzle.com/motors/used-cars/honda/accord/2026/3/31/honda-accord-i-vtec-2012-gcc-specs-reliabl-2-044---12b0592b2b5c4b6093f3e0cda47768b9/",
-      "category": "Used Cars",
-      "make": "Honda",
-      "model": "Accord",
-      "year": "2012",
-      "mileage": "120000",
-      "date": "2026-08-10T13:07:02Z"
-    },
     {
       "id": "16842309",
       "title": "Volkswagen Touareg Highline 2014 | GCC Specs | Pristine Condition",
@@ -7003,9 +6975,73 @@
       "year": "2021",
       "mileage": "167000",
       "date": "2026-09-06T15:00:56Z"
+    },
+    {
+      "id": "16942211",
+      "title": "Pristine 2023 Polestar 2 Long Range Single Motor | GCC Specs | Low Mileage",
+      "old_price": 86000,
+      "new_price": 79500,
+      "drop_pct": 7.6,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/polestar/2/2026/08/14/pristine-2023-polestar-2-long-range-single-2-179---52de25310b454db69f03895ae3e38a70/",
+      "category": "Used Cars",
+      "make": "Polestar",
+      "model": "2",
+      "year": "2023",
+      "mileage": "3100",
+      "date": "2026-09-07T03:09:56Z"
+    },
+    {
+      "id": "16814956",
+      "title": "2019 Cadillac XT4 Top Range  * All New Tyers New Battery warranty in immaculate condition.",
+      "old_price": 66000,
+      "new_price": 59000,
+      "drop_pct": 10.6,
+      "url": "https://dubai.dubizzle.com/motors/used-cars/cadillac/xt4/2026/04/23/2019-cadillac-xt4-top-range-all-new-tyers--2-324---f1e5b645b59d4fc6bd70b650a7877c4e/",
+      "category": "Used Cars",
+      "make": "Cadillac",
+      "model": "XT4",
+      "year": "2019",
+      "mileage": "59500",
+      "date": "2026-09-07T03:09:56Z"
     }
   ],
   "new_listings": [
+    {
+      "id": "16967830",
+      "title": "Lexus RX 350 2015 | GCC Specs | v6 3.5L 4x4",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/lexus/rx-series/2026/09/07/lexus-rx-350-2015-gcc-specs-v6-35l-4x4-2-320---6abb76187a414c4788e9f302712e3dfb/",
+      "category": "Used Cars",
+      "make": "Lexus",
+      "model": "RX-Series",
+      "year": "2015",
+      "mileage": "159000",
+      "price": 48000,
+      "first_seen": "2026-09-07T03:09:56Z"
+    },
+    {
+      "id": "16967820",
+      "title": "Porsche Cayenne Turbo | Never had accident | Full Agency service history",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/porsche/cayenne/2026/09/07/porsche-cayenne-turbo-never-had-accident-f-2-772---1ac76840acd2415fac7e8d1182505383/",
+      "category": "Used Cars",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "year": "2019",
+      "mileage": "127800",
+      "price": 165000,
+      "first_seen": "2026-09-07T03:09:56Z"
+    },
+    {
+      "id": "16967599",
+      "title": "2019 Mercedes-Benz GLE 43 AMG - Japanese Specs - Pristine Condition",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/gle-class/2026/09/06/2019-mercedes-benz-gle-43-amg-japanese-spe-2-393---e6365102f000432b8500bfac9a036aae/",
+      "category": "Used Cars",
+      "make": "Mercedes-Benz",
+      "model": "GLE-Class",
+      "year": "2019",
+      "mileage": "61900",
+      "price": 123000,
+      "first_seen": "2026-09-07T03:09:56Z"
+    },
     {
       "id": "16967778",
       "title": "Nissan Urvan NV350 2020 GCC Specs - Reliable Commercial Van",
@@ -8113,13 +8149,13 @@
     {
       "id": "16942211",
       "title": "Pristine 2023 Polestar 2 Long Range Single Motor | GCC Specs | Low Mileage",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/polestar/2/2026/08/14/pristine-2023-polestar-2-long-range-single-2-485---52de25310b454db69f03895ae3e38a70/",
+      "url": "https://dubai.dubizzle.com/motors/used-cars/polestar/2/2026/08/14/pristine-2023-polestar-2-long-range-single-2-179---52de25310b454db69f03895ae3e38a70/",
       "category": "Used Cars",
       "make": "Polestar",
       "model": "2",
       "year": "2023",
       "mileage": "3100",
-      "price": 86000,
+      "price": 79500,
       "first_seen": "2026-09-05T14:41:32Z"
     },
     {
@@ -12968,42 +13004,6 @@
       "year": "2020",
       "mileage": "99255",
       "price": 103000,
-      "first_seen": "2026-09-01T09:13:09Z"
-    },
-    {
-      "id": "16961146",
-      "title": "2013 HYUNDAI Santa Fe FULL OPTION GCC",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/hyundai/santa-fe/2026/09/01/2013-hyundai-santa-fe-full-option-gcc-2-374---0db58a34f4c446159cdc62f1257c161d/",
-      "category": "Used Cars",
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "year": "2013",
-      "mileage": "220000",
-      "price": 24500,
-      "first_seen": "2026-09-01T09:13:09Z"
-    },
-    {
-      "id": "16952039",
-      "title": "AED 550 EMI PM | MG ZS | STD | FREE ACCIDENT | LOW MILEAGE | 0% DOWNPAYMENT",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mg/zs/2026/08/23/aed-550-emi-pm-mg-zs-std-free-accident-low-2-422---ae822a127b274f0c8072e39a1dc4faf1/",
-      "category": "Used Cars",
-      "make": "MG",
-      "model": "ZS",
-      "year": "2023",
-      "mileage": "83000",
-      "price": 34500,
-      "first_seen": "2026-09-01T09:13:09Z"
-    },
-    {
-      "id": "16717575",
-      "title": "BENZ G63 AMG | 2025 | HYPER BLUE MAGNO | 8000KM DONE | FRESH JAPAN IMPORT",
-      "url": "https://dubai.dubizzle.com/motors/used-cars/mercedes-benz/g-class/2026/01/23/benz-g63-amg-2025-hyper-blue-magno-8000km--2-666---edf1bf711b244ba5b87c07bf65694b73/",
-      "category": "Used Cars",
-      "make": "Mercedes-Benz",
-      "model": "G-Class",
-      "year": "2025",
-      "mileage": "8000",
-      "price": 840000,
       "first_seen": "2026-09-01T09:13:09Z"
     }
   ]
