@@ -1,25 +1,11 @@
 {
   "generated_at": "2026-03-08T13:04:11.705211",
-  "total_tracked": 25271,
+  "total_tracked": 25281,
   "total_drops": 500,
-  "total_new": 25271,
+  "total_new": 25281,
   "avg_drop_pct": 0,
   "biggest_drop_usd": 0,
   "drops": [
-    {
-      "id": "9759512",
-      "title": "Mulberry Plot for Sale | Prime Location",
-      "old_price": 1050000,
-      "new_price": 900000,
-      "drop_pct": 14.3,
-      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/5/1/mulberry-plot-for-sale-prime-location-2-214727/",
-      "area": "DAMAC Hills 2 (Akoya by DAMAC)",
-      "category": "Land",
-      "size": "1875",
-      "bedrooms": "",
-      "date": "2026-05-11",
-      "first_seen": "2026-05-01"
-    },
     {
       "id": "17157625",
       "title": "PARK VIEW | FULLY FURNISHED | VACANT NOW",
@@ -7005,6 +6991,20 @@
       "bedrooms": "",
       "date": "2026-09-07",
       "first_seen": "2026-06-02"
+    },
+    {
+      "id": "17895464",
+      "title": "Type A | Close to Pool | Landscaped",
+      "old_price": 2600000,
+      "new_price": 2375000,
+      "drop_pct": 8.7,
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/21/type-a-back-to-back-landscaped-2-852127/",
+      "area": "Dubai South",
+      "category": "Villa",
+      "size": "1880",
+      "bedrooms": "3",
+      "date": "2026-09-07",
+      "first_seen": "2026-09-03"
     }
   ],
   "new_listings": [
@@ -7314,6 +7314,116 @@
       "size": "6458",
       "bedrooms": "",
       "price": 5250000,
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "17956019",
+      "title": "Spacious Apartment | Aminities View | Brand New",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/3/spacious-apartment-aminities-view-brand-2-316380/",
+      "area": "Mohammed Bin Rashid City (MBR City)",
+      "category": "Apartment",
+      "size": "788",
+      "bedrooms": "1",
+      "price": 1250000,
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "17968316",
+      "title": "40/60 PAYMENT PLAN I Handover Q3 2026 I Semi Furnished",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/apartment/2026/9/7/4060-payment-plan-i-handover-q3-2026-i--2-325212/",
+      "area": "Dubai South",
+      "category": "Apartment",
+      "size": "371",
+      "bedrooms": "0",
+      "price": 588000,
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "17063529",
+      "title": "EXCLUSIVE | 5 BED | HUGE CORNER PLOT",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/2/10/exclusive-5-bed-huge-corner-plot-2-105753/",
+      "area": "Al Furjan",
+      "category": "Villa",
+      "size": "5104",
+      "bedrooms": "5",
+      "price": 12750000,
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "17971376",
+      "title": "New Phase | Best Price Per Sqft. | High ROI | Book Now",
+      "url": "https://dubai.dubizzle.com/property-for-sale/residential/townhouse/2026/9/7/new-phase-best-price-per-sqft-high-roi--2-146364/",
+      "area": "The Valley by Emaar",
+      "category": "Townhouse",
+      "size": "3466",
+      "bedrooms": "4",
+      "price": 5090000,
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "9833964",
+      "title": "BURJ KHALIFA VIEW | EMAAR | DOWNTOWN | GRADE A",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/7/burj-khalifa-view-emaar-downtown-grade--2-164082/",
+      "area": "Downtown Dubai",
+      "category": "Office",
+      "size": "3371",
+      "bedrooms": "",
+      "price": 25500000,
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "9833693",
+      "title": "Entrance corner vacant round about view shop for sale Greece Cluster",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/shop/2026/9/5/ground-floor-shop-greece-cluster-street-2-329067/",
+      "area": "International City",
+      "category": "Shop",
+      "size": "365",
+      "bedrooms": "",
+      "price": 510000,
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "9833656",
+      "title": "Fully Furnished - 2 Parkings - Vacant - Pool View",
+      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/9/5/fully-furnished-2-parkings-vacant-pool--2-305979/",
+      "area": "Barsha Heights (Tecom)",
+      "category": "Office",
+      "size": "1626",
+      "bedrooms": "",
+      "price": 2400000,
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "9798033",
+      "title": "Huge Corner Plot- 10 min to Downtown - Single Row",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/9/7/huge-corner-plot-10-min-to-downtown-sin-2-343543/",
+      "area": "Nad Al Sheba Gardens",
+      "category": "Land",
+      "size": "10879",
+      "bedrooms": "",
+      "price": 14686000,
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "9792404",
+      "title": "Freehold Plot | Exclusive | Ready",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/8/19/freehold-plot-exclusive-ready-2-215646/",
+      "area": "Al Khawaneej",
+      "category": "Land",
+      "size": "10006",
+      "bedrooms": "",
+      "price": 12000000,
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "9797982",
+      "title": "Mixed-Use Plot in Jebel Ali Industrial 2 | G+17",
+      "url": "https://dubai.dubizzle.com/property-for-sale/land/2026/9/7/mixed-use-plot-in-jebel-ali-industrial--2-196266/",
+      "area": "Downtown Jebel Ali",
+      "category": "Land",
+      "size": "34475",
+      "bedrooms": "",
+      "price": 42088888,
       "first_seen": "2026-09-07"
     },
     {
@@ -9689,7 +9799,7 @@
       "category": "Villa",
       "size": "1880",
       "bedrooms": "3",
-      "price": 2600000,
+      "price": 2375000,
       "first_seen": "2026-09-03"
     },
     {
@@ -11592,7 +11702,7 @@
       "category": "Townhouse",
       "size": "3507",
       "bedrooms": "4",
-      "price": 5500000,
+      "price": 5300000,
       "first_seen": "2026-09-01"
     },
     {
@@ -12396,116 +12506,6 @@
       "size": "998",
       "bedrooms": "1",
       "price": 1499999,
-      "first_seen": "2026-08-31"
-    },
-    {
-      "id": "17937818",
-      "title": "Ultra-Luxury Beachfront Villa|Private Beach Access",
-      "url": "https://dubai.dubizzle.com/property-for-sale/residential/villahouse/2026/8/31/ultra-luxury-beachfront-villaprivate-be-2-283126/",
-      "area": "Palm Jebel Ali",
-      "category": "Villa",
-      "size": "7601",
-      "bedrooms": "5",
-      "price": 21129000,
-      "first_seen": "2026-08-31"
-    },
-    {
-      "id": "9832272",
-      "title": "Vacant Soon | Good Views | Prime Location",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/8/25/vacant-soon-good-views-prime-location-2-976897/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "967",
-      "bedrooms": "",
-      "price": 1600000,
-      "first_seen": "2026-08-31"
-    },
-    {
-      "id": "9823539",
-      "title": "10% Booking | Grade A Offices | With Balcony",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/6/29/10-booking-grade-a-offices-with-balcony-2-215913/",
-      "area": "Arjan",
-      "category": "Office",
-      "size": "1988",
-      "bedrooms": "",
-      "price": 3906000,
-      "first_seen": "2026-08-31"
-    },
-    {
-      "id": "9803559",
-      "title": "Bright & Spacious | Prime Location | Ready To Move",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/2/11/bright-spacious-prime-location-ready-to-2-272604/",
-      "area": "Dubai Silicon Oasis (DSO)",
-      "category": "Office",
-      "size": "392",
-      "bedrooms": "",
-      "price": 600000,
-      "first_seen": "2026-08-31"
-    },
-    {
-      "id": "9832148",
-      "title": "Great Location | 18 Parking | Investment",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/8/24/great-location-18-parking-investment-2-122230/",
-      "area": "Motor City",
-      "category": "Office",
-      "size": "14563",
-      "bedrooms": "",
-      "price": 32000000,
-      "first_seen": "2026-08-31"
-    },
-    {
-      "id": "9830829",
-      "title": "Brand New | Furnished | Mid floor",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/8/14/brand-new-furnished-mid-floor-2-268530/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "1621",
-      "bedrooms": "",
-      "price": 7300000,
-      "first_seen": "2026-08-31"
-    },
-    {
-      "id": "9830271",
-      "title": "Prime Location| Upgraded | Grade A Building",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/8/11/prime-location-upgraded-grade-a-buildin-2-949769/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "668",
-      "bedrooms": "",
-      "price": 3000000,
-      "first_seen": "2026-08-31"
-    },
-    {
-      "id": "9830153",
-      "title": "Close to Metro | Upgraded | Furnished",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/8/10/close-to-metro-upgraded-furnished-2-196973/",
-      "area": "Business Bay",
-      "category": "Office",
-      "size": "878",
-      "bedrooms": "",
-      "price": 2700000,
-      "first_seen": "2026-08-31"
-    },
-    {
-      "id": "9828732",
-      "title": "Premium Fitted Office | Vacant | Low Floor",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/7/31/premium-fitted-office-vacant-low-floor-2-321884/",
-      "area": "Jumeirah Lake Towers (JLT)",
-      "category": "Office",
-      "size": "1062",
-      "bedrooms": "",
-      "price": 1911000,
-      "first_seen": "2026-08-31"
-    },
-    {
-      "id": "9832891",
-      "title": "Premium Furnished Office | Vacant | 4 Parking",
-      "url": "https://dubai.dubizzle.com/property-for-sale/commercial/office/2026/8/31/premium-furnished-office-vacant-4-parki-2-167748/",
-      "area": "Motor City",
-      "category": "Office",
-      "size": "3262",
-      "bedrooms": "",
-      "price": 7950000,
       "first_seen": "2026-08-31"
     }
   ],
