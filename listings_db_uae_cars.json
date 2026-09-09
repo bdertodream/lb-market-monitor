@@ -451164,7 +451164,7 @@
   "16930441": {
     "id": "16930441",
     "title": "Bmw x5",
-    "price": 68000,
+    "price": 63000,
     "make": "BMW",
     "model": "X5",
     "year": "2018",
@@ -451173,12 +451173,16 @@
     "fuel_type": "Petrol",
     "area": "Green Community East",
     "category": "Used Cars",
-    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/8/3/bmw-x5-2-619---0f3f76ba31a846598415805d096ca159/",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/bmw/x5/2026/08/03/bmw-x5-2-941---0f3f76ba31a846598415805d096ca159/",
     "first_seen": "2026-08-03T11:23:22Z",
     "prices": [
       {
         "price": 68000,
         "date": "2026-08-03T11:23:22Z"
+      },
+      {
+        "price": 63000,
+        "date": "2026-09-09T03:21:20Z"
       }
     ],
     "date": "2026-08-03"
@@ -524014,5 +524018,27 @@
       }
     ],
     "date": "2026-09-08"
+  },
+  "16970389": {
+    "id": "16970389",
+    "title": "Jeep Cherokee Laredo 2018 GCC Specs",
+    "price": 28000,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "year": "2018",
+    "kilometers": "170000",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "area": "Dubai",
+    "category": "Used Cars",
+    "url": "https://dubai.dubizzle.com/motors/used-cars/jeep/cherokee/2026/09/09/jeep-cherokee-laredo-2018-gcc-specs-2-399---39dbd7a4f0294a74a90f58e332c03eba/",
+    "first_seen": "2026-09-09T03:21:20Z",
+    "prices": [
+      {
+        "price": 28000,
+        "date": "2026-09-09T03:21:20Z"
+      }
+    ],
+    "date": "2026-09-09"
   }
 }
